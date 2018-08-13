@@ -1,0 +1,2618 @@
+format-version: 1.2
+data-version: 1.0.0
+ontology: http://www.food_biomarkers_ontology/FBOnto
+owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#id>))\n\n\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0001> \"[FB]_0001\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0002> \"[FB]_0002\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0003> \"[FB]_0003\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0004> \"[FB]_0004\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0005> \"[FB]_0005\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0006> \"[FB]_0006\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0007> \"[FB]_0007\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0008> \"[FB]_0008\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0009> \"[FB]_0009\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0010> \"[FB]_0010\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0011> \"[FB]_0011\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0012> \"[FB]_0012\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0013> \"[FB]_0013\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0015> \"[FB]_0015\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0016> \"[FB]_0016\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0017> \"[FB]_0017\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0018> \"[FB]_0018\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0019> \"[FB]_0019\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0020> \"[FB]_0020\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0021> \"[FB]_0021\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0022> \"[FB]_0022\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0023> \"[FB]_0023\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0024> \"[FB]_0024\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0025> \"[FB]_0025\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0026> \"[FB]_0026\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0027> \"[FB]_0027\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0028> \"[FB]_0028\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0029> \"[FB]_0029\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0030> \"[FB]_0030\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0031> \"[FB]_0031\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0032> \"[FB]_0032\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0033> \"[FB]_0033\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0034> \"[FB]_0034\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0035> \"[FB]_0035\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0036> \"[FB]_0036\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0037> \"[FB]_0037\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0038> \"[FB]_0038\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0039> \"[FB]_0039\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0040> \"[FB]_0040\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0041> \"[FB]_0041\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0042> \"[FB]_0042\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0043> \"[FB]_0043\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0044> \"[FB]_0044\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0045> \"[FB]_0045\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0046> \"[FB]_0046\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0047> \"[FB]_0047\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0048> \"[FB]_0048\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0049> \"[FB]_0049\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0050> \"[FB]_0050\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0051> \"[FB]_0051\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0052> \"[FB]_0052\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0053> \"[FB]_0053\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0054> \"[FB]_0054\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0055> \"[FB]_0055\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0056> \"[FB]_0056\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0057> \"[FB]_0057\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0058> \"[FB]_0058\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0059> \"[FB]_0059\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0060> \"[FB]_0060\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0061> \"[FB]_0061\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0062> \"[FB]_0062\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0063> \"[FB]_0063\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0064> \"[FB]_0064\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0065> \"[FB]_0065\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0066> \"[FB]_0066\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0067> \"[FB]_0067\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0068> \"[FB]_0068\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0069> \"[FB]_0069\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0070> \"[FB]_0070\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0071> \"[FB]_0071\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0072> \"[FB]_0072\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0073> \"[FB]_0073\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0074> \"[FB]_0074\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0075> \"[FB]_0075\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0076> \"[FB]_0076\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0077> \"[FB]_0077\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0078> \"[FB]_0078\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0079> \"[FB]_0079\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0080> \"[FB]_0080\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0081> \"[FB]_0081\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0082> \"[FB]_0082\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0083> \"[FB]_0083\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0084> \"[FB]_0084\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0085> \"[FB]_0085\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0086> \"[FB]_0086\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0087> \"[FB]_0087\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0088> \"[FB]_0088\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0089> \"[FB]_0089\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0090> \"[FB]_0090\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0091> \"[FB]_0091\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0092> \"[FB]_0092\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0093> \"[FB]_0093\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0094> \"[FB]_0094\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0095> \"[FB]_0095\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0096> \"[FB]_0096\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0097> \"[FB]_0097\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0098> \"[FB]_0098\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0099> \"[FB]_0099\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0100> \"[FB]_0100\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0101> \"[FB]_0101\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0102> \"[FB]_0102\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0103> \"[FB]_0103\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0104> \"[FB]_0104\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0105> \"[FB]_0105\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0106> \"[FB]_0106\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0107> \"[FB]_0107\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0108> \"[FB]_0108\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0109> \"[FB]_0109\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0110> \"[FB]_0110\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0111> \"[FB]_0111\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0112> \"[FB]_0112\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0113> \"[FB]_0113\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0114> \"[FB]_0114\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0115> \"[FB]_0115\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0116> \"[FB]_0116\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0121> \"[FB]_0121\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0122> \"[FB]_0122\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0123> \"[FB]_0123\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0124> \"[FB]_0124\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0125> \"[FB]_0125\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0126> \"[FB]_0126\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0127> \"[FB]_0127\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0128> \"[FB]_0128\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0129> \"[FB]_0129\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0130> \"[FB]_0130\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0131> \"[FB]_0131\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0132> \"[FB]_0132\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0133> \"[FB]_0133\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0134> \"[FB]_0134\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0135> \"[FB]_0135\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0136> \"[FB]_0136\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0137> \"[FB]_0137\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0139> \"[FB]_0139\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0140> \"[FB]_0140\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0141> \"[FB]_0141\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0142> \"[FB]_0142\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0143> \"[FB]_0143\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0144> \"[FB]_0144\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0145> \"[FB]_0145\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0146> \"[FB]_0146\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0147> \"[FB]_0147\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0148> \"[FB]_0148\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0149> \"[FB]_0149\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0150> \"[FB]_0150\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0151> \"[FB]_0151\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0156> \"[FB]_0156\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0157> \"[FB]_0157\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0158> \"[FB]_0158\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0159> \"[FB]_0159\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0160> \"[FB]_0160\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0161> \"[FB]_0161\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0162> \"[FB]_0162\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0163> \"[FB]_0163\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0164> \"[FB]_0164\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0165> \"[FB]_0165\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0166> \"[FB]_0166\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0167> \"[FB]_0167\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0168> \"[FB]_0168\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0169> \"[FB]_0169\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0170> \"[FB]_0170\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0171> \"[FB]_0171\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0172> \"[FB]_0172\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0173> \"[FB]_0173\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0174> \"[FB]_0174\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0175> \"[FB]_0175\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0176> \"[FB]_0176\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0177> \"[FB]_0177\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0178> \"[FB]_0178\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0179> \"[FB]_0179\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0180> \"[FB]_0180\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0181> \"[FB]_0181\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0182> \"[FB]_0182\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0183> \"[FB]_0183\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0184> \"[FB]_0184\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0185> \"[FB]_0185\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0186> \"[FB]_0186\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0188> \"[FB]_0188\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0189> \"[FB]_0189\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0190> \"[FB]_0190\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0191> \"[FB]_0191\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0192> \"[FB]_0192\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0193> \"[FB]_0193\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0194> \"[FB]_0194\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0195> \"[FB]_0195\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0196> \"[FB]_0196\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0197> \"[FB]_0197\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0198> \"[FB]_0198\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0199> \"[FB]_0199\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0200> \"[FB]_0200\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0201> \"[FB]_0201\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0202> \"[FB]_0202\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0203> \"[FB]_0203\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0204> \"[FB]_0204\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0205> \"[FB]_0205\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0206> \"[FB]_0206\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0207> \"[FB]_0207\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0208> \"[FB]_0208\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0209> \"[FB]_0209\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0210> \"[FB]_0210\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0211> \"[FB]_0211\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0212> \"[FB]_0212\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0213> \"[FB]_0213\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0214> \"[FB]_0214\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0215> \"[FB]_0215\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0216> \"[FB]_0216\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0217> \"[FB]_0217\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0218> \"[FB]_0218\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0219> \"[FB]_0219\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0220> \"[FB]_0220\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0221> \"[FB]_0221\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0222> \"[FB]_0222\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0223> \"[FB]_0223\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0224> \"[FB]_0224\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0225> \"[FB]_0225\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0226> \"[FB]_0226\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0227> \"[FB]_0227\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0228> \"[FB]_0228\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0229> \"[FB]_0229\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0230> \"[FB]_0230\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0231> \"[FB]_0231\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0232> \"[FB]_0232\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0233> \"[FB]_0233\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0234> \"[FB]_0234\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0235> \"[FB]_0235\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0236> \"[FB]_0236\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0237> \"[FB]_0237\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0238> \"[FB]_0238\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0242> \"[FB]_0242\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0243> \"[FB]_0243\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0244> \"[FB]_0244\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0246> \"[FB]_0246\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0247> \"[FB]_0247\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0248> \"[FB]_0248\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0250> \"[FB]_0250\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0251> \"[FB]_0251\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0252> \"[FB]_0252\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0253> \"[FB]_0253\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0254> \"[FB]_0254\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0256> \"[FB]_0256\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0257> \"[FB]_0257\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0258> \"[FB]_0258\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0259> \"[FB]_0259\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0260> \"[FB]_0260\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0261> \"[FB]_0261\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0262> \"[FB]_0262\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0263> \"[FB]_0263\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0264> \"[FB]_0264\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0265> \"[FB]_0265\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0266> \"[FB]_0266\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0267> \"[FB]_0267\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0268> \"[FB]_0268\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0269> \"[FB]_0269\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0270> \"[FB]_0270\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0271> \"[FB]_0271\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0272> \"[FB]_0272\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0273> \"[FB]_0273\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0274> \"[FB]_0274\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0275> \"[FB]_0275\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0276> \"[FB]_0276\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0277> \"[FB]_0277\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0278> \"[FB]_0278\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0279> \"[FB]_0279\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0280> \"[FB]_0280\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0281> \"[FB]_0281\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0282> \"[FB]_0282\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#%5BFB%5D_0283> \"[FB]_0283\"^^xsd:string)\n)
+
+[Term]
+id: %5BFB%5D_0001
+name: Foods
+
+[Term]
+id: %5BFB%5D_0002
+name: cocoa
+is_a: %5BFB%5D_0004 ! Cacao
+
+[Term]
+id: %5BFB%5D_0003
+name: chocolate
+is_a: %5BFB%5D_0004 ! Cacao
+
+[Term]
+id: %5BFB%5D_0004
+name: Cacao
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0005
+name: Dairy
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0006
+name: cacao
+is_a: %5BFB%5D_0004 ! Cacao
+
+[Term]
+id: %5BFB%5D_0007
+name: milk
+is_a: %5BFB%5D_0020 ! Milk Products
+
+[Term]
+id: %5BFB%5D_0008
+name: semiskimmed milk
+is_a: %5BFB%5D_0020 ! Milk Products
+
+[Term]
+id: %5BFB%5D_0009
+name: skimmed milk
+is_a: %5BFB%5D_0020 ! Milk Products
+
+[Term]
+id: %5BFB%5D_0010
+name: cheese
+is_a: %5BFB%5D_0017 ! Fermented
+
+[Term]
+id: %5BFB%5D_0011
+name: Drinks
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0012
+name: yoghurt
+is_a: %5BFB%5D_0017 ! Fermented
+
+[Term]
+id: %5BFB%5D_0013
+name: butter
+is_a: %5BFB%5D_0018 ! Milk Products
+
+[Term]
+id: %5BFB%5D_0015
+name: Alcohol
+is_a: %5BFB%5D_0011 ! Drinks
+
+[Term]
+id: %5BFB%5D_0016
+name: Processed Dairy
+is_a: %5BFB%5D_0005 ! Dairy
+
+[Term]
+id: %5BFB%5D_0017
+name: Fermented
+is_a: %5BFB%5D_0016 ! Processed Dairy
+
+[Term]
+id: %5BFB%5D_0018
+name: Milk Products
+is_a: %5BFB%5D_0016 ! Processed Dairy
+
+[Term]
+id: %5BFB%5D_0019
+name: Raw Dairy
+is_a: %5BFB%5D_0005 ! Dairy
+
+[Term]
+id: %5BFB%5D_0020
+name: Milk Products
+is_a: %5BFB%5D_0019 ! Raw Dairy
+
+[Term]
+id: %5BFB%5D_0021
+name: Fermented
+is_a: %5BFB%5D_0015 ! Alcohol
+
+[Term]
+id: %5BFB%5D_0022
+name: beer
+is_a: %5BFB%5D_0021 ! Fermented
+
+[Term]
+id: %5BFB%5D_0023
+name: wine
+is_a: %5BFB%5D_0021 ! Fermented
+
+[Term]
+id: %5BFB%5D_0024
+name: Infusion
+is_a: %5BFB%5D_0011 ! Drinks
+
+[Term]
+id: %5BFB%5D_0025
+name: Coffee
+is_a: %5BFB%5D_0011 ! Drinks
+
+[Term]
+id: %5BFB%5D_0026
+name: Coffee Products
+is_a: %5BFB%5D_0025 ! Coffee
+
+[Term]
+id: %5BFB%5D_0027
+name: coffee
+is_a: %5BFB%5D_0026 ! Coffee Products
+
+[Term]
+id: %5BFB%5D_0028
+name: Tea
+is_a: %5BFB%5D_0024 ! Infusion
+
+[Term]
+id: %5BFB%5D_0029
+name: black tea
+is_a: %5BFB%5D_0028 ! Tea
+
+[Term]
+id: %5BFB%5D_0030
+name: green tea
+is_a: %5BFB%5D_0028 ! Tea
+
+[Term]
+id: %5BFB%5D_0031
+name: red tea
+is_a: %5BFB%5D_0028 ! Tea
+
+[Term]
+id: %5BFB%5D_0032
+name: tea
+is_a: %5BFB%5D_0028 ! Tea
+
+[Term]
+id: %5BFB%5D_0033
+name: Eggs
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0034
+name: Chicken Eggs
+is_a: %5BFB%5D_0033 ! Eggs
+
+[Term]
+id: %5BFB%5D_0035
+name: egg
+is_a: %5BFB%5D_0034 ! Chicken Eggs
+
+[Term]
+id: %5BFB%5D_0036
+name: Fats & Oils
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0037
+name: Fats
+is_a: %5BFB%5D_0036 ! Fats & Oils
+
+[Term]
+id: %5BFB%5D_0038
+name: Vegetable Fats
+is_a: %5BFB%5D_0037 ! Fats
+
+[Term]
+id: %5BFB%5D_0039
+name: margarine
+is_a: %5BFB%5D_0038 ! Vegetable Fats
+
+[Term]
+id: %5BFB%5D_0040
+name: Oils
+is_a: %5BFB%5D_0036 ! Fats & Oils
+
+[Term]
+id: %5BFB%5D_0041
+name: Vegetable Oils
+is_a: %5BFB%5D_0040 ! Oils
+
+[Term]
+id: %5BFB%5D_0042
+name: corn oil
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0043
+name: palm oil
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0044
+name: soy oil
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0045
+name: sunflower oil
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0046
+name: olive oil
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0047
+name: olive
+is_a: %5BFB%5D_0041 ! Vegetable Oils
+
+[Term]
+id: %5BFB%5D_0048
+name: Fruits & Vegetables
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0049
+name: Fruits
+is_a: %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: %5BFB%5D_0050
+name: Vegetables
+is_a: %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: %5BFB%5D_0051
+name: Berries
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0052
+name: blackberry
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0053
+name: blackcurrant
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0054
+name: blueberry
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0055
+name: grape
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0056
+name: raspberry
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0057
+name: strawberry
+is_a: %5BFB%5D_0051 ! Berries
+
+[Term]
+id: %5BFB%5D_0058
+name: Dried Fruits
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0059
+name: raisins
+is_a: %5BFB%5D_0058 ! Dried Fruits
+
+[Term]
+id: %5BFB%5D_0060
+name: Citrus
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0061
+name: grapefruit
+is_a: %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: %5BFB%5D_0062
+name: kiwi
+is_a: %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: %5BFB%5D_0063
+name: lemon
+is_a: %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: %5BFB%5D_0064
+name: orange
+is_a: %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: %5BFB%5D_0065
+name: Drupes
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0066
+name: prune
+is_a: %5BFB%5D_0065 ! Drupes
+
+[Term]
+id: %5BFB%5D_0067
+name: apricot
+is_a: %5BFB%5D_0065 ! Drupes
+
+[Term]
+id: %5BFB%5D_0068
+name: cherry
+is_a: %5BFB%5D_0065 ! Drupes
+
+[Term]
+id: %5BFB%5D_0069
+name: peach
+is_a: %5BFB%5D_0065 ! Drupes
+
+[Term]
+id: %5BFB%5D_0070
+name: plum
+is_a: %5BFB%5D_0065 ! Drupes
+
+[Term]
+id: %5BFB%5D_0071
+name: Gourds
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0072
+name: melon
+is_a: %5BFB%5D_0071 ! Gourds
+
+[Term]
+id: %5BFB%5D_0073
+name: watermelon
+is_a: %5BFB%5D_0071 ! Gourds
+
+[Term]
+id: %5BFB%5D_0074
+name: figs
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0075
+name: Pomes
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0076
+name: apple
+is_a: %5BFB%5D_0075 ! Pomes
+
+[Term]
+id: %5BFB%5D_0077
+name: pear
+is_a: %5BFB%5D_0075 ! Pomes
+
+[Term]
+id: %5BFB%5D_0078
+name: Tropical Fruits
+is_a: %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: %5BFB%5D_0079
+name: banana
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0080
+name: coconut
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0081
+name: guava
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0082
+name: mango
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0083
+name: papaya
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0084
+name: pineapple
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0085
+name: pomegranate
+is_a: %5BFB%5D_0078 ! Tropical Fruits
+
+[Term]
+id: %5BFB%5D_0086
+name: Cruciferous
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0087
+name: broccoli
+is_a: %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: %5BFB%5D_0088
+name: cabbage
+is_a: %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: %5BFB%5D_0089
+name: cauliflower
+is_a: %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: %5BFB%5D_0090
+name: radish
+is_a: %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: %5BFB%5D_0091
+name: rocket
+is_a: %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: %5BFB%5D_0092
+name: Dark Yellow Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0093
+name: beetroot
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0094
+name: carrot
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0095
+name: pepper
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0096
+name: pumpkin
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0097
+name: red pepper
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0098
+name: turnip
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0099
+name: Fat Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0100
+name: avocado
+is_a: %5BFB%5D_0099 ! Fat Vegetables
+
+[Term]
+id: %5BFB%5D_0101
+name: Fruity Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0102
+name: courgette
+is_a: %5BFB%5D_0101 ! Fruity Vegetables
+
+[Term]
+id: %5BFB%5D_0103
+name: cucumber
+is_a: %5BFB%5D_0101 ! Fruity Vegetables
+
+[Term]
+id: %5BFB%5D_0104
+name: eggplant
+is_a: %5BFB%5D_0101 ! Fruity Vegetables
+
+[Term]
+id: %5BFB%5D_0105
+name: tomato
+is_a: %5BFB%5D_0101 ! Fruity Vegetables
+
+[Term]
+id: %5BFB%5D_0106
+name: zucchini
+is_a: %5BFB%5D_0101 ! Fruity Vegetables
+
+[Term]
+id: %5BFB%5D_0107
+name: Leafy Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0108
+name: celery
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0109
+name: chicory
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0110
+name: endive
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0111
+name: lettuce
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0112
+name: rhubarb
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0113
+name: spinach
+is_a: %5BFB%5D_0107 ! Leafy Vegetables
+
+[Term]
+id: %5BFB%5D_0114
+name: Starchy Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0115
+name: potato
+is_a: %5BFB%5D_0114 ! Starchy Vegetables
+
+[Term]
+id: %5BFB%5D_0116
+name: chips
+is_a: %5BFB%5D_0114 ! Starchy Vegetables
+
+[Term]
+id: %5BFB%5D_0121
+name: Herbs & Spices
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0122
+name: Herbs
+is_a: %5BFB%5D_0121 ! Herbs & Spices
+
+[Term]
+id: %5BFB%5D_0123
+name: Spices
+is_a: %5BFB%5D_0121 ! Herbs & Spices
+
+[Term]
+id: %5BFB%5D_0124
+name: garlic
+is_a: %5BFB%5D_0122 ! Herbs
+
+[Term]
+id: %5BFB%5D_0125
+name: Onion Family Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0126
+name: leek
+is_a: %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: %5BFB%5D_0127
+name: onion
+is_a: %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: %5BFB%5D_0128
+name: Shoot Vegetables
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0129
+name: asparagus
+is_a: %5BFB%5D_0128 ! Shoot Vegetables
+
+[Term]
+id: %5BFB%5D_0130
+name: Tubers
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0131
+name: artichoke
+is_a: %5BFB%5D_0130 ! Tubers
+
+[Term]
+id: %5BFB%5D_0132
+name: Mushrooms
+is_a: %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: %5BFB%5D_0133
+name: mushroom
+is_a: %5BFB%5D_0132 ! Mushrooms
+
+[Term]
+id: %5BFB%5D_0134
+name: shallot
+is_a: %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: %5BFB%5D_0135
+name: Nuts & Legumes
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0136
+name: Legumes
+is_a: %5BFB%5D_0135 ! Nuts & Legumes
+
+[Term]
+id: %5BFB%5D_0137
+name: Pulses
+is_a: %5BFB%5D_0136 ! Legumes
+
+[Term]
+id: %5BFB%5D_0139
+name: Grains
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0140
+name: Cereals
+is_a: %5BFB%5D_0139 ! Grains
+
+[Term]
+id: %5BFB%5D_0141
+name: Refined Grain Cereals
+is_a: %5BFB%5D_0140 ! Cereals
+
+[Term]
+id: %5BFB%5D_0142
+name: cereal
+is_a: %5BFB%5D_0141 ! Refined Grain Cereals
+
+[Term]
+id: %5BFB%5D_0143
+name: pasta
+is_a: %5BFB%5D_0141 ! Refined Grain Cereals
+
+[Term]
+id: %5BFB%5D_0144
+name: rice
+is_a: %5BFB%5D_0141 ! Refined Grain Cereals
+
+[Term]
+id: %5BFB%5D_0145
+name: Whole Grain Cereals
+is_a: %5BFB%5D_0140 ! Cereals
+
+[Term]
+id: %5BFB%5D_0146
+name: oat
+is_a: %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: %5BFB%5D_0147
+name: quinoa
+is_a: %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: %5BFB%5D_0148
+name: wholegrain
+is_a: %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: %5BFB%5D_0149
+name: Tuber
+is_a: %5BFB%5D_0123 ! Spices
+
+[Term]
+id: %5BFB%5D_0150
+name: ginger
+is_a: %5BFB%5D_0149 ! Tuber
+
+[Term]
+id: %5BFB%5D_0151
+name: Nuts
+is_a: %5BFB%5D_0135 ! Nuts & Legumes
+
+[Term]
+id: %5BFB%5D_0156
+name: Lentils
+is_a: %5BFB%5D_0137 ! Pulses
+
+[Term]
+id: %5BFB%5D_0157
+name: lentils
+is_a: %5BFB%5D_0156 ! Lentils
+
+[Term]
+id: %5BFB%5D_0158
+name: Beans
+is_a: %5BFB%5D_0137 ! Pulses
+
+[Term]
+id: %5BFB%5D_0159
+name: beans
+is_a: %5BFB%5D_0158 ! Beans
+
+[Term]
+id: %5BFB%5D_0160
+name: Peas
+is_a: %5BFB%5D_0137 ! Pulses
+
+[Term]
+id: %5BFB%5D_0161
+name: chickpeas
+is_a: %5BFB%5D_0160 ! Peas
+
+[Term]
+id: %5BFB%5D_0162
+name: peas
+is_a: %5BFB%5D_0160 ! Peas
+
+[Term]
+id: %5BFB%5D_0163
+name: Sugars
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0164
+name: Not Refined Sugars
+is_a: %5BFB%5D_0163 ! Sugars
+
+[Term]
+id: %5BFB%5D_0165
+name: Refined Sugars
+is_a: %5BFB%5D_0163 ! Sugars
+
+[Term]
+id: %5BFB%5D_0166
+name: Baking Goods
+is_a: %5BFB%5D_0164 ! Not Refined Sugars
+
+[Term]
+id: %5BFB%5D_0167
+name: brown sugar
+is_a: %5BFB%5D_0166 ! Baking Goods
+
+[Term]
+id: %5BFB%5D_0168
+name: Confectioneries
+is_a: %5BFB%5D_0164 ! Not Refined Sugars
+
+[Term]
+id: %5BFB%5D_0169
+name: honey
+is_a: %5BFB%5D_0168 ! Confectioneries
+
+[Term]
+id: %5BFB%5D_0170
+name: sugar
+is_a: %5BFB%5D_0165 ! Refined Sugars
+
+[Term]
+id: %5BFB%5D_0171
+name: white sugar
+is_a: %5BFB%5D_0165 ! Refined Sugars
+
+[Term]
+id: %5BFB%5D_0172
+name: Meat
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0173
+name: Complex Foods
+is_a: %5BFB%5D_0001 ! Foods
+
+[Term]
+id: %5BFB%5D_0174
+name: Fish
+is_a: %5BFB%5D_0172 ! Meat
+
+[Term]
+id: %5BFB%5D_0175
+name: Blue Fish
+is_a: %5BFB%5D_0174 ! Fish
+
+[Term]
+id: %5BFB%5D_0176
+name: anchovy
+is_a: %5BFB%5D_0175 ! Blue Fish
+
+[Term]
+id: %5BFB%5D_0177
+name: salmon
+is_a: %5BFB%5D_0175 ! Blue Fish
+
+[Term]
+id: %5BFB%5D_0178
+name: sardines
+is_a: %5BFB%5D_0175 ! Blue Fish
+
+[Term]
+id: %5BFB%5D_0179
+name: trout
+is_a: %5BFB%5D_0175 ! Blue Fish
+
+[Term]
+id: %5BFB%5D_0180
+name: tuna
+is_a: %5BFB%5D_0175 ! Blue Fish
+
+[Term]
+id: %5BFB%5D_0181
+name: White Fish
+is_a: %5BFB%5D_0174 ! Fish
+
+[Term]
+id: %5BFB%5D_0182
+name: cod
+is_a: %5BFB%5D_0181 ! White Fish
+
+[Term]
+id: %5BFB%5D_0183
+name: hake
+is_a: %5BFB%5D_0181 ! White Fish
+
+[Term]
+id: %5BFB%5D_0184
+name: mackerel
+is_a: %5BFB%5D_0181 ! White Fish
+
+[Term]
+id: %5BFB%5D_0185
+name: Lean Meat
+is_a: %5BFB%5D_0172 ! Meat
+
+[Term]
+id: %5BFB%5D_0186
+name: Poultry
+is_a: %5BFB%5D_0185 ! Lean Meat
+
+[Term]
+id: %5BFB%5D_0188
+name: chicken
+is_a: %5BFB%5D_0186 ! Poultry
+
+[Term]
+id: %5BFB%5D_0189
+name: duck
+is_a: %5BFB%5D_0186 ! Poultry
+
+[Term]
+id: %5BFB%5D_0190
+name: turkey
+is_a: %5BFB%5D_0186 ! Poultry
+
+[Term]
+id: %5BFB%5D_0191
+name: Rabbit
+is_a: %5BFB%5D_0185 ! Lean Meat
+
+[Term]
+id: %5BFB%5D_0192
+name: rabbit
+is_a: %5BFB%5D_0191 ! Rabbit
+
+[Term]
+id: %5BFB%5D_0193
+name: Red Meat
+is_a: %5BFB%5D_0172 ! Meat
+
+[Term]
+id: %5BFB%5D_0194
+name: Boar
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0195
+name: boar
+is_a: %5BFB%5D_0194 ! Boar
+
+[Term]
+id: %5BFB%5D_0196
+name: Cow
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0197
+name: beef
+is_a: %5BFB%5D_0196 ! Cow
+
+[Term]
+id: %5BFB%5D_0198
+name: hamburger
+is_a: %5BFB%5D_0196 ! Cow
+
+[Term]
+id: %5BFB%5D_0199
+name: sirloin
+is_a: %5BFB%5D_0196 ! Cow
+
+[Term]
+id: %5BFB%5D_0200
+name: steak
+is_a: %5BFB%5D_0196 ! Cow
+
+[Term]
+id: %5BFB%5D_0201
+name: veal
+is_a: %5BFB%5D_0196 ! Cow
+
+[Term]
+id: %5BFB%5D_0202
+name: Goat
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0203
+name: goat
+is_a: %5BFB%5D_0202 ! Goat
+
+[Term]
+id: %5BFB%5D_0204
+name: Lamb
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0205
+name: lamb
+is_a: %5BFB%5D_0204 ! Lamb
+
+[Term]
+id: %5BFB%5D_0206
+name: Pork
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0207
+name: bacon
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0208
+name: ham
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0209
+name: pancetta
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0210
+name: pork
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0211
+name: proscuitto
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0212
+name: ribs
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0213
+name: salami
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0214
+name: sausages
+is_a: %5BFB%5D_0206 ! Pork
+
+[Term]
+id: %5BFB%5D_0215
+name: Seafood
+is_a: %5BFB%5D_0172 ! Meat
+
+[Term]
+id: %5BFB%5D_0216
+name: Crustaceans
+is_a: %5BFB%5D_0215 ! Seafood
+
+[Term]
+id: %5BFB%5D_0217
+name: shrimp
+is_a: %5BFB%5D_0216 ! Crustaceans
+
+[Term]
+id: %5BFB%5D_0218
+name: Molluscs
+is_a: %5BFB%5D_0215 ! Seafood
+
+[Term]
+id: %5BFB%5D_0219
+name: octopus
+is_a: %5BFB%5D_0218 ! Molluscs
+
+[Term]
+id: %5BFB%5D_0220
+name: squid
+is_a: %5BFB%5D_0218 ! Molluscs
+
+[Term]
+id: %5BFB%5D_0221
+name: crab
+is_a: %5BFB%5D_0216 ! Crustaceans
+
+[Term]
+id: %5BFB%5D_0222
+name: lasagne
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0223
+name: paella
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0224
+name: risotto
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0225
+name: pizza
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0226
+name: bolognese
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0227
+name: kebab
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0228
+name: brochette
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0229
+name: soup
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0230
+name: broth
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0231
+name: stew
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0232
+name: wrap
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0233
+name: fajitas
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0234
+name: salad
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0235
+name: sandwich
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0236
+name: filled
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0237
+name: panini
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0238
+name: ratatouille
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0242
+name: pudding
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0243
+name: moussaka
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0244
+name: gnocchi
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0246
+name: tabbouleh
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0247
+name: millefeuille
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0248
+name: cordon bleu
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0250
+name: hummus
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0251
+name: quenelle
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0252
+name: croc monsieur
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0253
+name: tropezienne
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0254
+name: falafel
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0256
+name: soufflé
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0257
+name: quiche
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0258
+name: carbonara
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0259
+name: bourguignon
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0260
+name: blanquette
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0261
+name: hachis parmentier
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0262
+name: tartiflette
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0263
+name: croziflette
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0264
+name: raclette
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0265
+name: fondue bourguignonne
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0266
+name: fondue savoyarde
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0267
+name: sushi
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0268
+name: taco
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0269
+name: flour
+is_a: %5BFB%5D_0141 ! Refined Grain Cereals
+
+[Term]
+id: %5BFB%5D_0270
+name: bread
+is_a: %5BFB%5D_0141 ! Refined Grain Cereals
+
+[Term]
+id: %5BFB%5D_0271
+name: Ox
+is_a: %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: %5BFB%5D_0272
+name: ox
+is_a: %5BFB%5D_0271 ! Ox
+
+[Term]
+id: %5BFB%5D_0273
+name: corn
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0274
+name: yellow pepper
+is_a: %5BFB%5D_0092 ! Dark Yellow Vegetables
+
+[Term]
+id: %5BFB%5D_0275
+name: black pepper
+is_a: %5BFB%5D_0123 ! Spices
+
+[Term]
+id: %5BFB%5D_0276
+name: noodles
+is_a: %5BFB%5D_0143 ! pasta
+
+[Term]
+id: %5BFB%5D_0277
+name: spaghetti
+is_a: %5BFB%5D_0143 ! pasta
+
+[Term]
+id: %5BFB%5D_0278
+name: ravioli
+is_a: %5BFB%5D_0143 ! pasta
+
+[Term]
+id: %5BFB%5D_0279
+name: corn
+is_a: %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: %5BFB%5D_0280
+name: polenta
+is_a: %5BFB%5D_0279 ! corn
+
+[Term]
+id: %5BFB%5D_0281
+name: sauerkraut
+is_a: %5BFB%5D_0088 ! cabbage
+
+[Term]
+id: %5BFB%5D_0282
+name: bechamel
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: %5BFB%5D_0283
+name: tagine
+is_a: %5BFB%5D_0173 ! Complex Foods
+
+[Term]
+id: [FB]_00392
+name: Cooking Methods
+
+[Term]
+id: [FB]_00538
+name: Carbonated Soft Drink
+is_a: %5BFB%5D_0011 ! Drinks
+
+[Term]
+id: [FB]_00539
+name: Carbonated Soft Drink
+is_a: %5BFB%5D_0011 ! Drinks
+
+[Term]
+id: [FB]_00898
+name: Soy
+is_a: %5BFB%5D_0136 ! Legumes
+
+[Term]
+id: [FB]_01501
+name: Biomarkers
+
+[Term]
+id: [FB]_07200
+name: (hydroxy)tyrosol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: [FB]_07201
+name: 1-hydroxypyrene glucuronide
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0005 ! Dairy
+relationship: [FB]_00422 %5BFB%5D_0035 ! egg
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+relationship: [FB]_00422 %5BFB%5D_0215 ! Seafood
+
+[Term]
+id: [FB]_07202
+name: 1-Methyl-histidine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07203
+name: 2-amino-1,6-dimethylimidazo[4,5-b]pyridine glucuronide
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0005 ! Dairy
+relationship: [FB]_00422 %5BFB%5D_0035 ! egg
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+relationship: [FB]_00422 %5BFB%5D_0215 ! Seafood
+
+[Term]
+id: [FB]_07204
+name: 2-aminophenol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+
+[Term]
+id: [FB]_07205
+name: 2-furoylglycine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: [FB]_07206
+name: 3-Hydroxyhippuric
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07207
+name: 3-Methyl-histidine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07208
+name: 3-methyl-uric
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+
+[Term]
+id: [FB]_07209
+name: 3-methyl-xanthine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+
+[Term]
+id: [FB]_07210
+name: 4-Hydroxyhippuric
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07211
+name: 4-Hydroxyproline-betaine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: [FB]_07212
+name: 7-methyl-xanthine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+
+[Term]
+id: [FB]_07213
+name: Acesulfame-K
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07214
+name: anserine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0005 ! Dairy
+relationship: [FB]_00422 %5BFB%5D_0035 ! egg
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+relationship: [FB]_00422 %5BFB%5D_0215 ! Seafood
+
+[Term]
+id: [FB]_07215
+name: anthocyanins
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+
+[Term]
+id: [FB]_07216
+name: apigenin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07217
+name: Ascorbate
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07218
+name: bergaptol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: [FB]_07219
+name: biochanin A
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07220
+name: BOA
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07221
+name: Caffeic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07222
+name: caffeine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+
+[Term]
+id: [FB]_07223
+name: Carnitine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07224
+name: Carnosine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07225
+name: catechol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07226
+name: Chlorogenic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+
+[Term]
+id: [FB]_07227
+name: coumaric acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07228
+name: Creatinine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07229
+name: curcumin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: [FB]_07230
+name: D,L-Sulforaphane-glutathione
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07231
+name: D,L-Sulforaphane-L-cysteine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07232
+name: D,L-Sulforaphane-N-acetyl-L-cysteine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07233
+name: daidzein
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07234
+name: DHBA
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07235
+name: DHBA-3-O-sulfate
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07236
+name: DHPPA
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07237
+name: DHPPA-3-sulfate
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07238
+name: dihydrocaffeic
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+
+[Term]
+id: [FB]_07239
+name: dihydroferulic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07240
+name: dihydroxybenzoic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07241
+name: dihydroxyphenylacetic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07242
+name: dihydroxyphenylpropionic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07243
+name: enterodiol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07244
+name: Enterolactone
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07245
+name: Epicatechin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+
+[Term]
+id: [FB]_07246
+name: equol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07247
+name: eugenol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0037 ! Fats
+
+[Term]
+id: [FB]_07248
+name: Ferulic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07249
+name: Feruloylglycine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07250
+name: formononetin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07251
+name: Furaneol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+
+[Term]
+id: [FB]_07252
+name: Gallic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+
+[Term]
+id: [FB]_07253
+name: genistein
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07254
+name: hesperetin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: [FB]_07255
+name: Hippuric acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07256
+name: homovanillic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07257
+name: hydroxybenzaldehyde
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07258
+name: hydroxybenzoic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07259
+name: hydroxyphenylacetic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07260
+name: hydroxyphenylpropionic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07261
+name: Iberin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07262
+name: Isoferulic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07263
+name: isorhamnetin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07264
+name: isoxanthohumol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: [FB]_07265
+name: kaempferol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07266
+name: L-Anserine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07267
+name: luteolin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07268
+name: M-Coumaric acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+
+[Term]
+id: [FB]_07269
+name: N-(2-Furoyl)glycine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+
+[Term]
+id: [FB]_07270
+name: N-(2-hydroxyphenyl)acetamide
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+
+[Term]
+id: [FB]_07271
+name: N-methylpyridinium
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+
+[Term]
+id: [FB]_07272
+name: Naringenin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: [FB]_07273
+name: Norfuraneol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+
+[Term]
+id: [FB]_07274
+name: P-Coumaric acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07275
+name: pentadecanoic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0005 ! Dairy
+
+[Term]
+id: [FB]_07276
+name: Phenyl-acetyl-L-glutamine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+
+[Term]
+id: [FB]_07277
+name: phloretin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+
+[Term]
+id: [FB]_07278
+name: Proline-betaine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+
+[Term]
+id: [FB]_07279
+name: Protocatechuic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+
+[Term]
+id: [FB]_07280
+name: Pyrogallol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07281
+name: Quercetin
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: [FB]_07282
+name: Quercetin-3-O-beta-D-glucuronide
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: [FB]_07283
+name: Resveratrol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+
+[Term]
+id: [FB]_07284
+name: Rhamnitol
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+
+[Term]
+id: [FB]_07285
+name: S-allylcysteine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+
+[Term]
+id: [FB]_07286
+name: sinapic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07287
+name: Sucrose
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_00538 ! Carbonated Soft Drink
+
+[Term]
+id: [FB]_07288
+name: sulforaphane
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07289
+name: syringic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07290
+name: Tartarate
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+
+[Term]
+id: [FB]_07291
+name: Taurine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+
+[Term]
+id: [FB]_07292
+name: theobromine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+
+[Term]
+id: [FB]_07293
+name: Trigonelline
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07294
+name: Trimethylamine-N-oxide
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+
+[Term]
+id: [FB]_07295
+name: umbelliferone
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0022 ! beer
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0050 ! Vegetables
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0060 ! Citrus
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+relationship: [FB]_00422 %5BFB%5D_0079 ! banana
+relationship: [FB]_00422 %5BFB%5D_0086 ! Cruciferous
+relationship: [FB]_00422 %5BFB%5D_0105 ! tomato
+relationship: [FB]_00422 %5BFB%5D_0116 ! chips
+relationship: [FB]_00422 %5BFB%5D_0125 ! Onion Family Vegetables
+relationship: [FB]_00422 %5BFB%5D_0136 ! Legumes
+relationship: [FB]_00422 %5BFB%5D_0143 ! pasta
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+relationship: [FB]_00422 %5BFB%5D_0270 ! bread
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07296
+name: urolithin A
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+
+[Term]
+id: [FB]_07297
+name: urolithin B
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+
+[Term]
+id: [FB]_07298
+name: urolithin C
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0151 ! Nuts
+
+[Term]
+id: [FB]_07299
+name: valerolactone
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0015 ! Alcohol
+relationship: [FB]_00422 %5BFB%5D_0023 ! wine
+relationship: [FB]_00422 %5BFB%5D_0028 ! Tea
+relationship: [FB]_00422 %5BFB%5D_0048 ! Fruits & Vegetables
+relationship: [FB]_00422 %5BFB%5D_0049 ! Fruits
+relationship: [FB]_00422 %5BFB%5D_0051 ! Berries
+relationship: [FB]_00422 %5BFB%5D_0076 ! apple
+
+[Term]
+id: [FB]_07300
+name: Vanillic acid
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0002 ! cocoa
+relationship: [FB]_00422 %5BFB%5D_0027 ! coffee
+relationship: [FB]_00422 %5BFB%5D_0046 ! olive oil
+relationship: [FB]_00422 %5BFB%5D_0145 ! Whole Grain Cereals
+
+[Term]
+id: [FB]_07301
+name: vitamin B12
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 %5BFB%5D_0005 ! Dairy
+relationship: [FB]_00422 %5BFB%5D_0035 ! egg
+relationship: [FB]_00422 %5BFB%5D_0174 ! Fish
+relationship: [FB]_00422 %5BFB%5D_0186 ! Poultry
+relationship: [FB]_00422 %5BFB%5D_0193 ! Red Meat
+relationship: [FB]_00422 %5BFB%5D_0215 ! Seafood
+
+[Typedef]
+id: [FB]_00422
+name: BiomarkerOf
+range: %5BFB%5D_0001 ! Foods
+inverse_of: [FB]_00423 ! hasBiomarker
+
+[Typedef]
+id: [FB]_00423
+name: hasBiomarker
+domain: %5BFB%5D_0001 ! Foods
+
+[Typedef]
+id: [FB]_00424
+name: Contains
+domain: %5BFB%5D_0001 ! Foods
+range: %5BFB%5D_0173 ! Complex Foods
+inverse_of: [FB]_00425 ! IsIngredientOf
+
+[Typedef]
+id: [FB]_00425
+name: IsIngredientOf
+domain: %5BFB%5D_0173 ! Complex Foods
+range: %5BFB%5D_0001 ! Foods
+
+[Typedef]
+id: [FB]_00426
+name: Cooked
+domain: %5BFB%5D_0001 ! Foods
+range: [FB]_00392 ! Cooking Methods
+inverse_of: [FB]_00427 ! toCook
+
+[Typedef]
+id: [FB]_00427
+name: toCook
+domain: [FB]_00392 ! Cooking Methods
+range: %5BFB%5D_0001 ! Foods
+
