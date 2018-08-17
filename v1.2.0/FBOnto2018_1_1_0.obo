@@ -1636,7 +1636,6 @@ is_a: [FB]_0279 ! corn
 [Term]
 id: [FB]_0281
 name: sauerkraut
-is_a: [FB]_0088 ! cabbage
 is_a: [FB]_0173 ! Complex Foods
 relationship: [FB]_00424 [FB]_0088 ! cabbage
 

@@ -3792,10 +3792,6 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_0281"/>
-        <Class IRI="#[FB]_0088"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_0281"/>
         <Class IRI="#[FB]_0173"/>
     </SubClassOf>
     <SubClassOf>
