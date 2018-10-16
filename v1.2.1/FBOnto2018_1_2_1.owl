@@ -24,10 +24,10 @@
         <Class IRI="#[FB]_0043"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0140"/>
+        <Class IRI="#[FB]_0055"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0055"/>
+        <Class IRI="#[FB]_0140"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0067"/>
@@ -66,10 +66,10 @@
         <Class IRI="#[FB]_0031"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0141"/>
+        <Class IRI="#[FB]_0032"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0032"/>
+        <Class IRI="#[FB]_0141"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0044"/>
@@ -94,6 +94,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07258"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008090"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0189"/>
@@ -147,6 +150,9 @@
         <Class IRI="#[FB]_07249"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008091"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0178"/>
     </Declaration>
     <Declaration>
@@ -189,6 +195,12 @@
         <Class IRI="#[FB]_07248"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008080"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008092"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0179"/>
     </Declaration>
     <Declaration>
@@ -228,22 +240,25 @@
         <Class IRI="#[FB]_07254"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_07266"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_07278"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07279"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008081"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0168"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0156"/>
+        <Class IRI="#[FB]_008093"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0277"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0156"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0144"/>
@@ -279,16 +294,25 @@
         <Class IRI="#[FB]_07289"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0169"/>
+        <Class IRI="#[FB]_008070"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0157"/>
+        <Class IRI="#[FB]_0169"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0278"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008082"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0157"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0145"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008094"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0133"/>
@@ -330,16 +354,22 @@
         <Class IRI="#[FB]_07269"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_0279"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0158"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0279"/>
+        <Class IRI="#[FB]_008071"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0146"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0134"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008083"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0122"/>
@@ -378,10 +408,16 @@
         <Class IRI="#[FB]_0147"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008060"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0135"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0123"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008084"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0111"/>
@@ -525,10 +561,10 @@
         <Class IRI="#[FB]_0086"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0196"/>
+        <Class IRI="#[FB]_0087"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0087"/>
+        <Class IRI="#[FB]_0196"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0099"/>
@@ -567,16 +603,16 @@
         <Class IRI="#[FB]_0063"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_00539"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_0075"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0076"/>
+        <Class IRI="#[FB]_00539"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0185"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0076"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0088"/>
@@ -609,10 +645,10 @@
         <Class IRI="#[FB]_0052"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0064"/>
+        <Class IRI="#[FB]_0197"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0197"/>
+        <Class IRI="#[FB]_0064"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0174"/>
@@ -627,13 +663,13 @@
         <Class IRI="#[FB]_0077"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0089"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_0150"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0271"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0089"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07205"/>
@@ -651,10 +687,10 @@
         <Class IRI="#[FB]_0041"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0053"/>
+        <Class IRI="#[FB]_0186"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0186"/>
+        <Class IRI="#[FB]_0053"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0163"/>
@@ -663,10 +699,10 @@
         <Class IRI="#[FB]_0054"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0272"/>
+        <Class IRI="#[FB]_0151"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0151"/>
+        <Class IRI="#[FB]_0272"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0066"/>
@@ -699,10 +735,10 @@
         <Class IRI="#[FB]_0030"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0175"/>
+        <Class IRI="#[FB]_0042"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0042"/>
+        <Class IRI="#[FB]_0175"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07290"/>
@@ -711,7 +747,16 @@
         <Class IRI="#[FB]_007933"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008057"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007969"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008069"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -720,10 +765,10 @@
         <Class IRI="#[FB]_0108"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007945"/>
+        <Class IRI="#[FB]_0217"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0217"/>
+        <Class IRI="#[FB]_007945"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0205"/>
@@ -736,6 +781,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007944"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008058"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0109"/>
@@ -768,7 +819,13 @@
         <Class IRI="#[FB]_007931"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008047"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0219"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008059"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0207"/>
@@ -798,6 +855,9 @@
         <Class IRI="#[FB]_0208"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008048"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007978"/>
     </Declaration>
     <Declaration>
@@ -817,6 +877,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0209"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008049"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0091"/>
@@ -930,10 +993,19 @@
         <Class IRI="#[FB]_0112"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008061"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0100"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008073"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0221"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008085"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0004"/>
@@ -978,7 +1050,19 @@
         <Class IRI="#[FB]_0101"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008062"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0210"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008074"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008086"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0005"/>
@@ -1005,6 +1089,9 @@
         <Class IRI="#[FB]_07288"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008087"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#[FB]_00423"/>
     </Declaration>
     <Declaration>
@@ -1021,6 +1108,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0211"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008063"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008075"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0006"/>
@@ -1044,6 +1137,12 @@
         <Class IRI="#[FB]_07299"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008076"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008088"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#[FB]_00422"/>
     </Declaration>
     <Declaration>
@@ -1056,10 +1155,10 @@
         <Class IRI="#[FB]_0115"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007938"/>
+        <Class IRI="#[FB]_0103"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0103"/>
+        <Class IRI="#[FB]_007938"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0212"/>
@@ -1068,19 +1167,34 @@
         <Class IRI="#[FB]_0200"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_07270"/>
+        <Class IRI="#[FB]_008052"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0007"/>
+        <Class IRI="#[FB]_008064"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07270"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07282"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0019"/>
+        <Class IRI="#[FB]_0007"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07294"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008065"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008077"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008089"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007937"/>
@@ -1104,6 +1218,12 @@
         <Class IRI="#[FB]_0201"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008041"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008053"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_07281"/>
     </Declaration>
     <Declaration>
@@ -1111,6 +1231,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008078"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007936"/>
@@ -1131,6 +1257,9 @@
         <Class IRI="#[FB]_0202"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008042"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_07260"/>
     </Declaration>
     <Declaration>
@@ -1146,16 +1275,28 @@
         <Class IRI="#[FB]_07296"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008067"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008079"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007947"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007959"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007935"/>
+        <Class IRI="#[FB]_0106"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0106"/>
+        <Class IRI="#[FB]_007935"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0215"/>
@@ -1174,6 +1315,15 @@
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008056"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008068"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007958"/>
@@ -3202,6 +3352,210 @@
         <Class IRI="#[FB]_0078"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#[FB]_008041"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008042"/>
+        <Class IRI="#[FB]_008041"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008043"/>
+        <Class IRI="#[FB]_008041"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008044"/>
+        <Class IRI="#[FB]_008041"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008045"/>
+        <Class IRI="#[FB]_008041"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008046"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008047"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008048"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008049"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008050"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008052"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008053"/>
+        <Class IRI="#[FB]_008052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008054"/>
+        <Class IRI="#[FB]_008052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008055"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008056"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008057"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008058"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008059"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008060"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008061"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008062"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008063"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008064"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008065"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008067"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008068"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008069"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008070"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008071"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008073"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008074"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008075"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008076"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008077"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008078"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008079"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008080"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008081"/>
+        <Class IRI="#[FB]_07215"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008082"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008083"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008085"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008086"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008087"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008088"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008089"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008090"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008091"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008092"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008093"/>
+        <Class IRI="#[FB]_07299"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008094"/>
+        <Class IRI="#[FB]_008048"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#[FB]_0081"/>
         <Class IRI="#[FB]_0078"/>
     </SubClassOf>
@@ -3782,7 +4136,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07200"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008059"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07200"/>
@@ -3800,7 +4154,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07201"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008065"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07201"/>
@@ -3846,7 +4200,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07202"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07202"/>
@@ -3864,7 +4218,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07203"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008071"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07203"/>
@@ -3910,7 +4264,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07204"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008046"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07204"/>
@@ -3942,7 +4296,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07205"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07205"/>
@@ -3967,7 +4321,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07206"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07206"/>
@@ -3992,7 +4346,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07207"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07207"/>
@@ -4039,7 +4393,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07210"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07210"/>
@@ -4104,7 +4458,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07214"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07214"/>
@@ -4150,7 +4504,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07215"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008048"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07215"/>
@@ -4189,7 +4543,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07216"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008056"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07216"/>
@@ -4386,7 +4740,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07218"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008053"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07218"/>
@@ -4411,7 +4765,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07219"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008055"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07219"/>
@@ -4447,7 +4801,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07221"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07221"/>
@@ -4497,7 +4851,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07223"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008074"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07223"/>
@@ -4515,7 +4869,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07224"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07224"/>
@@ -4533,7 +4887,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07225"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008046"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07225"/>
@@ -4751,7 +5105,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07227"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07227"/>
@@ -4941,7 +5295,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07229"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008061"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07229"/>
@@ -4959,7 +5313,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07230"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008067"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07230"/>
@@ -4984,7 +5338,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07231"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008067"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07231"/>
@@ -5009,7 +5363,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07232"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008067"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07232"/>
@@ -5034,7 +5388,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07233"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008055"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07233"/>
@@ -5059,7 +5413,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07234"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008047"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07234"/>
@@ -5070,7 +5424,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07235"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008047"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07235"/>
@@ -5081,7 +5435,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07236"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07236"/>
@@ -5092,7 +5446,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07237"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07237"/>
@@ -5103,7 +5457,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07238"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07238"/>
@@ -5114,7 +5468,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07239"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07239"/>
@@ -5286,7 +5640,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07240"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07240"/>
@@ -5458,7 +5812,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07241"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07241"/>
@@ -5802,7 +6156,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07243"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008062"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07243"/>
@@ -5974,7 +6328,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07244"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008062"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07244"/>
@@ -5992,7 +6346,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07245"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008049"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07245"/>
@@ -6045,7 +6399,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07246"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008055"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07246"/>
@@ -6081,7 +6435,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07248"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07248"/>
@@ -6145,7 +6499,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07250"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008055"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07250"/>
@@ -6195,7 +6549,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07252"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07252"/>
@@ -6234,7 +6588,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07253"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008055"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07253"/>
@@ -6259,7 +6613,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07254"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008050"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07254"/>
@@ -6284,7 +6638,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07255"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07255"/>
@@ -6309,7 +6663,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07256"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07256"/>
@@ -6481,7 +6835,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07257"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008047"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07257"/>
@@ -6653,7 +7007,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07258"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07258"/>
@@ -6825,7 +7179,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07259"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07259"/>
@@ -6997,7 +7351,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07260"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07260"/>
@@ -7201,7 +7555,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07262"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07262"/>
@@ -7233,7 +7587,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07263"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008094"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07263"/>
@@ -7405,7 +7759,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07264"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008063"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07264"/>
@@ -7430,7 +7784,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07265"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008094"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07265"/>
@@ -7598,36 +7952,11 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#[FB]_00422"/>
             <Class IRI="#[FB]_0270"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07266"/>
-        <Class IRI="#[FB]_01501"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07266"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0174"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07266"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0186"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07266"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0193"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07267"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008056"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07267"/>
@@ -7799,7 +8128,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07268"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07268"/>
@@ -7810,7 +8139,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07269"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07269"/>
@@ -7821,7 +8150,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07270"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008064"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07270"/>
@@ -7853,7 +8182,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07271"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008075"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07271"/>
@@ -7885,7 +8214,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07272"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008050"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07272"/>
@@ -7935,7 +8264,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07274"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07274"/>
@@ -8003,7 +8332,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07277"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008057"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07277"/>
@@ -8085,7 +8414,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07280"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008046"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07280"/>
@@ -8124,7 +8453,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07281"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008094"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07281"/>
@@ -8170,7 +8499,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07282"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008094"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07282"/>
@@ -8216,7 +8545,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07283"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008060"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07283"/>
@@ -8273,7 +8602,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07285"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07285"/>
@@ -8298,7 +8627,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07286"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07286"/>
@@ -8481,7 +8810,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07288"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008067"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07288"/>
@@ -8506,7 +8835,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07289"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07289"/>
@@ -8721,7 +9050,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07292"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008069"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07292"/>
@@ -8746,7 +9075,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07293"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008075"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07293"/>
@@ -8810,7 +9139,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07295"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008054"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07295"/>
@@ -8982,7 +9311,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07296"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008058"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07296"/>
@@ -9007,7 +9336,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07297"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008058"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07297"/>
@@ -9032,7 +9361,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07298"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008058"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07298"/>
@@ -9117,7 +9446,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07300"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008042"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07300"/>
@@ -9149,7 +9478,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07301"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008070"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07301"/>
@@ -10326,6 +10655,261 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_0080</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">coconut</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008041</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Phenolic_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008042</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hidroxybenzoic_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008043</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hydroxyphenylacetic_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008044</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hydroxycinnamic_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008045</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hydroxyphenylpropionic_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008046</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Phenols</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008047</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hydroxybenzaldehydes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008048</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008049</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavanols</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008050</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavanones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008052</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coumarins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008053</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Furanocoumarins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008054</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hydroxycoumarins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008055</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Isoflavones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008056</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008057</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dihydrochalcones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008058</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Urolithins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008059</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Phenylethanoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008060</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Stilbenoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008061</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Curcuminoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008062</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Lignans</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008063</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prenylflavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008064</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Acetamides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008065</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Polycyclic_Aromatic_Hydrocarbons</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008067</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Glucosinolates</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008068</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Maillard_Product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008069</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Xanthines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008070</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Vitamins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008071</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Heterocyclic_Amines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008073</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Amino_Acid_Derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008074</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Carnitines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008075</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Alkaloids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008076</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Cyanidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008077</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Delphinidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008078</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Malvidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008079</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pelargonidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008080</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Peonidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008081</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Petunidin_3-glucoside</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008082</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008083</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid_Glucuronide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008084</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid_Sulfate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008085</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008086</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_Glucuronide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008087</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_Sulfate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008088</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008089</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_Glucuronide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008090</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_Sulfate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008091</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008092</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_Glucuronide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008093</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_Sulfate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008094</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavonol</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -11875,7 +12459,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07223</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Carnitine</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">L-Carnitine</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -12089,11 +12673,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[FB]_07266</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">L-Anserine</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07267</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Luteolin</Literal>
     </AnnotationAssertion>
@@ -12255,7 +12834,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07299</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Valerolactone</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Valerolactones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
