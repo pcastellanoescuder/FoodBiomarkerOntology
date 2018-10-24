@@ -24,10 +24,10 @@
         <Class IRI="#[FB]_0043"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0055"/>
+        <Class IRI="#[FB]_0140"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0140"/>
+        <Class IRI="#[FB]_0055"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0067"/>
@@ -60,10 +60,10 @@
         <Class IRI="#[FB]_0176"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0164"/>
+        <Class IRI="#[FB]_0031"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0031"/>
+        <Class IRI="#[FB]_0164"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0032"/>
@@ -108,10 +108,10 @@
         <Class IRI="#[FB]_0165"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0020"/>
+        <Class IRI="#[FB]_0274"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0274"/>
+        <Class IRI="#[FB]_0020"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0021"/>
@@ -189,9 +189,6 @@
         <Class IRI="#[FB]_07224"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_07236"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_07248"/>
     </Declaration>
     <Declaration>
@@ -249,16 +246,16 @@
         <Class IRI="#[FB]_008081"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0168"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_008093"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0277"/>
+        <Class IRI="#[FB]_0168"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0156"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0277"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0144"/>
@@ -294,10 +291,10 @@
         <Class IRI="#[FB]_07289"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008070"/>
+        <Class IRI="#[FB]_0169"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0169"/>
+        <Class IRI="#[FB]_008070"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0278"/>
@@ -309,10 +306,10 @@
         <Class IRI="#[FB]_0157"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0145"/>
+        <Class IRI="#[FB]_008094"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008094"/>
+        <Class IRI="#[FB]_0145"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0133"/>
@@ -354,10 +351,10 @@
         <Class IRI="#[FB]_07269"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0279"/>
+        <Class IRI="#[FB]_0158"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0158"/>
+        <Class IRI="#[FB]_0279"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008071"/>
@@ -373,6 +370,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0122"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008095"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0110"/>
@@ -417,10 +417,13 @@
         <Class IRI="#[FB]_0123"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_0111"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_008084"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0111"/>
+        <Class IRI="#[FB]_008096"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0220"/>
@@ -451,6 +454,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0071"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008102"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0083"/>
@@ -561,25 +567,25 @@
         <Class IRI="#[FB]_0086"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0087"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_0196"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0099"/>
+        <Class IRI="#[FB]_0087"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0184"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_0099"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0172"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0160"/>
+        <Class IRI="#[FB]_0281"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0281"/>
+        <Class IRI="#[FB]_0160"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007981"/>
@@ -645,31 +651,31 @@
         <Class IRI="#[FB]_0052"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0197"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_0064"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0174"/>
+        <Class IRI="#[FB]_0197"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0065"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0162"/>
+        <Class IRI="#[FB]_0174"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0077"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_0162"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0150"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0271"/>
+        <Class IRI="#[FB]_0089"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0089"/>
+        <Class IRI="#[FB]_0271"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07205"/>
@@ -681,10 +687,10 @@
         <Class IRI="#[FB]_07229"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0198"/>
+        <Class IRI="#[FB]_0041"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0041"/>
+        <Class IRI="#[FB]_0198"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0186"/>
@@ -693,19 +699,19 @@
         <Class IRI="#[FB]_0053"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_0054"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0163"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0054"/>
+        <Class IRI="#[FB]_0066"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0151"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0272"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#[FB]_0066"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0078"/>
@@ -753,10 +759,10 @@
         <Class IRI="#[FB]_008057"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007969"/>
+        <Class IRI="#[FB]_008069"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008069"/>
+        <Class IRI="#[FB]_007969"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -765,10 +771,10 @@
         <Class IRI="#[FB]_0108"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0217"/>
+        <Class IRI="#[FB]_007945"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007945"/>
+        <Class IRI="#[FB]_0217"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0205"/>
@@ -825,10 +831,10 @@
         <Class IRI="#[FB]_0219"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008059"/>
+        <Class IRI="#[FB]_0207"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0207"/>
+        <Class IRI="#[FB]_008059"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007967"/>
@@ -873,10 +879,10 @@
         <Class IRI="#[FB]_007941"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007953"/>
+        <Class IRI="#[FB]_0209"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0209"/>
+        <Class IRI="#[FB]_007953"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008049"/>
@@ -921,6 +927,9 @@
         <Class IRI="#[FB]_0093"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008100"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_0191"/>
     </Declaration>
     <Declaration>
@@ -943,6 +952,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0094"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008101"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0003"/>
@@ -996,16 +1008,19 @@
         <Class IRI="#[FB]_008061"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0100"/>
+        <Class IRI="#[FB]_008073"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008073"/>
+        <Class IRI="#[FB]_0100"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0221"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008085"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_008097"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0004"/>
@@ -1029,6 +1044,9 @@
         <Class IRI="#[FB]_07297"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008098"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#[FB]_00424"/>
     </Declaration>
     <Declaration>
@@ -1041,10 +1059,10 @@
         <Class IRI="#[FB]_0125"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0113"/>
+        <Class IRI="#[FB]_007928"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007928"/>
+        <Class IRI="#[FB]_0113"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0101"/>
@@ -1092,6 +1110,9 @@
         <Class IRI="#[FB]_008087"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_008099"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#[FB]_00423"/>
     </Declaration>
     <Declaration>
@@ -1132,9 +1153,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07287"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#[FB]_07299"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008076"/>
@@ -1329,16 +1347,16 @@
         <Class IRI="#[FB]_007958"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0107"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_007934"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0216"/>
+        <Class IRI="#[FB]_0107"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007946"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_0216"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0204"/>
@@ -3505,59 +3523,550 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008082"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008082"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008083"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008083"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008084"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0002"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0015"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0049"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0051"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008084"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0076"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008085"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008085"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008086"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008086"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008087"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008087"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008088"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008088"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008089"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008089"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008090"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008090"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008091"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008091"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008092"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008092"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008093"/>
-        <Class IRI="#[FB]_07299"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008093"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0015"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0023"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0028"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0048"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0049"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0051"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#[FB]_00422"/>
+                <Class IRI="#[FB]_0076"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_008094"/>
         <Class IRI="#[FB]_008048"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#[FB]_008095"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008096"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008097"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008098"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008099"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#[FB]_0081"/>
         <Class IRI="#[FB]_0078"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008100"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008101"/>
+        <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_008102"/>
+        <Class IRI="#[FB]_01501"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_0082"/>
@@ -4382,7 +4891,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07209"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008069"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07209"/>
@@ -4418,7 +4927,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07211"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07211"/>
@@ -4443,7 +4952,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07212"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008069"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07212"/>
@@ -4455,6 +4964,13 @@
     <SubClassOf>
         <Class IRI="#[FB]_07213"/>
         <Class IRI="#[FB]_01501"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07213"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_00539"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07214"/>
@@ -4715,7 +5231,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07217"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008096"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07217"/>
@@ -4790,7 +5306,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07220"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008097"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07220"/>
@@ -4840,7 +5356,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07222"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008069"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07222"/>
@@ -5059,7 +5575,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07226"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008044"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07226"/>
@@ -5277,7 +5793,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07228"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07228"/>
@@ -5428,17 +5944,6 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07235"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0145"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07236"/>
-        <Class IRI="#[FB]_008045"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07236"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#[FB]_00422"/>
             <Class IRI="#[FB]_0145"/>
@@ -5984,7 +6489,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07242"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008045"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07242"/>
@@ -8296,7 +8801,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07275"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008098"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07275"/>
@@ -8357,7 +8862,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07278"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07278"/>
@@ -8577,7 +9082,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07284"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008095"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07284"/>
@@ -8799,7 +9304,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07287"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008095"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07287"/>
@@ -9007,7 +9512,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07290"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008101"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07290"/>
@@ -9032,7 +9537,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07291"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008100"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07291"/>
@@ -9128,7 +9633,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07294"/>
-        <Class IRI="#[FB]_01501"/>
+        <Class IRI="#[FB]_008099"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#[FB]_07294"/>
@@ -9382,66 +9887,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#[FB]_00422"/>
             <Class IRI="#[FB]_0151"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <Class IRI="#[FB]_01501"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0002"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0015"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0023"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0028"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0048"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0049"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0051"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_07299"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0076"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -10804,7 +11249,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008073</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Amino_Acid_Derivatives</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Amino_Acid_and_Derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -10849,17 +11294,17 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008082</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008083</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid_Glucuronide</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008084</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_Valeric_Acid_Sulfate</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -10869,12 +11314,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008086</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_Glucuronide</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008087</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_Sulfate</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’-Dihydroxyphenyl-γ-valerolactone_3&apos;_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -10884,12 +11329,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008089</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_Glucuronide</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008090</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_Sulfate</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -10899,17 +11344,42 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008092</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_Glucuronide</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008093</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_Sulfate</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008094</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Flavonol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008095</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Carbohydrates_and_Carbohydrate_Conjugates</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008096</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Furanones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008097</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzoxazolones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008098</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Fatty_Acids_and_Conjugates</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008099</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aminoxides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -10920,6 +11390,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_0081</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">guava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008100</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Organosulfonic_Acids_and_Derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008101</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Beta_Hydroxy_Acids_and_Derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_008102</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Valerolactones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -12523,11 +13008,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[FB]_07236</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DHPPA</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07237</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DHPPA-3-sulfate</Literal>
     </AnnotationAssertion>
@@ -12830,11 +13310,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07298</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Urolithin_C</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[FB]_07299</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Valerolactones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
