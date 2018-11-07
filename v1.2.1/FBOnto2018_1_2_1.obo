@@ -277,11 +277,6 @@ name: blueberry
 is_a: [FB]_0051 ! Berries
 
 [Term]
-id: [FB]_0055
-name: grape
-is_a: [FB]_0051 ! Berries
-
-[Term]
 id: [FB]_0056
 name: raspberry
 is_a: [FB]_0051 ! Berries
@@ -1078,6 +1073,9 @@ is_a: [FB]_07215 ! Anthocyanins
 id: [FB]_008078
 name: Malvidin_3-glucoside
 is_a: [FB]_07215 ! Anthocyanins
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
 
 [Term]
 id: [FB]_008079
@@ -1098,157 +1096,64 @@ is_a: [FB]_07215 ! Anthocyanins
 id: [FB]_008082
 name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008083
 name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_glucuronide
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008084
 name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_sulfate
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008085
-name: 3’,4’-Dihydroxyphenyl-γ-valerolactone
+name: 3,4-Dihydroxyphenyl-gamma-valerolactone
 is_a: [FB]_008102 ! Valerolactones
 relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
 relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
-
-[Term]
-id: [FB]_008086
-name: 3’,4’-Dihydroxyphenyl-γ-valerolactone_3'_glucuronide
-is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008087
-name: 3’,4’-Dihydroxyphenyl-γ-valerolactone_3'_sulfate
+name: 3,4-Dihydroxyphenyl-gamma-valerolactone_3_sulfate
 is_a: [FB]_008102 ! Valerolactones
 relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
 relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008088
-name: 3’,4’,5’-Trihydroxyphenyl-γ-valerolactone
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008089
-name: 3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_glucuronide
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone_glucuronide
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008090
-name: 3’,4’,5’-Trihydroxyphenyl-γ-valerolactone_sulfate
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone_sulfate
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008091
-name: 4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008092
-name: 4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_glucuronide
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone_glucuronide
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008093
-name: 4’-Hydroxy-3’-methoxyphenyl-γ-valerolactone_sulfate
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone_sulfate
 is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_008094
@@ -1299,6 +1204,337 @@ is_a: [FB]_01501 ! Biomarkers
 id: [FB]_008102
 name: Valerolactones
 is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008103
+name: Grapes
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008104
+name: 4-Hydroxybenzoic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008105
+name: 4-Hydrobenzoic_acid_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008107
+name: 3,4-Dihydroxybenzoic_acid_3_glucuronide
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008108
+name: 3,4-Dihydroxybenzoic_acid_4_glucuronide
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008110
+name: 3,4-Dihydroxybenzoic_acid_4_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008111
+name: 4-Hydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008112
+name: 4-Hydroxyphenylacetic_acid_sulfate
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008113
+name: 3,4-Dihydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008114
+name: Homovanillic_acid_4_sulfate
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008115
+name: P-Coumaric_acid_glucuronide
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008116
+name: P-Coumaric_acid_sulfate
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008117
+name: Ferulic_acid_4_glucuronide
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008118
+name: Ferulic_acid_4_sulfate
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008119
+name: 3-[3-Hydroxyphenyl]propionic_acid
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008120
+name: Dihydroferulic_acid_4_glucuronide
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008121
+name: 4-Hydroxybenzaldehyde
+is_a: [FB]_008047 ! Hydroxybenzaldehydes
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008122
+name: Naringerin_7_glucuronide
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_008123
+name: Hesperetin_3'_glucuronide
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_008124
+name: Genistein_7_glucuronide
+is_a: [FB]_008055 ! Isoflavones
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_008125
+name: Luteolin_3'_glucuronide
+is_a: [FB]_008056 ! Flavones
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008126
+name: Phloretin_glucuronide
+is_a: [FB]_008057 ! Dihydrochalcones
+relationship: [FB]_00422 [FB]_0076 ! apple
+
+[Term]
+id: [FB]_008127
+name: Urolithin_A_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008128
+name: Urolithin_B_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008129
+name: Urolithin_C_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008130
+name: [Hydroxy]tyrosol_3_glucuronide
+is_a: [FB]_008059 ! Phenylethanoids
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+
+[Term]
+id: [FB]_008131
+name: [Hydroxy]tyrosol_3_sulfate
+is_a: [FB]_008059 ! Phenylethanoids
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+
+[Term]
+id: [FB]_008132
+name: Trans_resveratrol
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008133
+name: Cis_resveratrol_3_glucuronide
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008134
+name: Dihydroxyresveratrol
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008135
+name: Curcumin_glucuronide
+is_a: [FB]_008061 ! Curcuminoids
+relationship: [FB]_00422 [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_008136
+name: Enterolactone_glucuronide
+is_a: [FB]_008062 ! Lignans
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008137
+name: Enterodiol_glucuronide
+is_a: [FB]_008062 ! Lignans
+
+[Term]
+id: [FB]_008138
+name: N-[2-hydroxyphenyl]acetamide_glucuronide
+is_a: [FB]_008064 ! Acetamides
+
+[Term]
+id: [FB]_008139
+name: curcuma
+is_a: [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_008140
+name: porridge
+is_a: [FB]_0146 ! oat
+
+[Term]
+id: [FB]_008141
+name: wheat
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008142
+name: rye
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008143
+name: barley
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008144
+name: Dihydrophenylvalerolactone_3_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008145
+name: Dihydrophenylvalerolactone_4_sulfate
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008150
+name: Chaconine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008151
+name: Solanine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008152
+name: Solanidine
+is_a: [FB]_008075 ! Alkaloids
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008156
+name: 4-Hydroxyphenylpropionic_acid_sulfate
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+
+[Term]
+id: [FB]_008157
+name: Quercetin_3_sulfate
+is_a: [FB]_008094 ! Flavonol
+
+[Term]
+id: [FB]_008158
+name: N-acetyl_cysteine_s_allyl_cysteine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: [FB]_0082
@@ -1478,7 +1714,7 @@ is_a: [FB]_0114 ! Starchy_Vegetables
 [Term]
 id: [FB]_0116
 name: chips
-is_a: [FB]_0114 ! Starchy_Vegetables
+is_a: [FB]_0115 ! potato
 
 [Term]
 id: [FB]_0121
@@ -2020,18 +2256,11 @@ id: [FB]_07200
 name: [Hydroxy]tyrosol
 is_a: [FB]_008059 ! Phenylethanoids
 relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 
 [Term]
 id: [FB]_07201
 name: 1-Hydroxypyrene_glucuronide
 is_a: [FB]_008065 ! Polycyclic_Aromatic_Hydrocarbons
-relationship: [FB]_00422 [FB]_0005 ! Dairy
-relationship: [FB]_00422 [FB]_0035 ! egg
-relationship: [FB]_00422 [FB]_0174 ! Fish
-relationship: [FB]_00422 [FB]_0186 ! Poultry
-relationship: [FB]_00422 [FB]_0193 ! Red_Meat
-relationship: [FB]_00422 [FB]_0215 ! Seafood
 
 [Term]
 id: [FB]_07202
@@ -2044,37 +2273,21 @@ relationship: [FB]_00422 [FB]_0193 ! Red_Meat
 id: [FB]_07203
 name: 2-Amino-1,6-dimethylimidazo[4,5-b]pyridine_glucuronide
 is_a: [FB]_008071 ! Heterocyclic_Amines
-relationship: [FB]_00422 [FB]_0005 ! Dairy
-relationship: [FB]_00422 [FB]_0035 ! egg
-relationship: [FB]_00422 [FB]_0174 ! Fish
-relationship: [FB]_00422 [FB]_0186 ! Poultry
-relationship: [FB]_00422 [FB]_0193 ! Red_Meat
-relationship: [FB]_00422 [FB]_0215 ! Seafood
 
 [Term]
 id: [FB]_07204
 name: 2-Aminophenol
 is_a: [FB]_008046 ! Phenols
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07205
 name: 2-Furoylglycine
 is_a: [FB]_008068 ! Maillard_Product
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 
 [Term]
 id: [FB]_07206
 name: 3-Hydroxyhippuric
 is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07207
@@ -2082,17 +2295,15 @@ name: 3-Methyl-histidine
 is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
 relationship: [FB]_00422 [FB]_0174 ! Fish
 relationship: [FB]_00422 [FB]_0186 ! Poultry
-relationship: [FB]_00422 [FB]_0193 ! Red_Meat
 
 [Term]
 id: [FB]_07208
 name: 3-Methyl-uric
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0002 ! cocoa
 
 [Term]
 id: [FB]_07209
-name: 3-Methyl-xanthine
+name: 3-Methylxanthine
 is_a: [FB]_008069 ! Xanthines
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 
@@ -2100,7 +2311,6 @@ relationship: [FB]_00422 [FB]_0002 ! cocoa
 id: [FB]_07210
 name: 4-Hydroxyhippuric
 is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
@@ -2108,13 +2318,11 @@ relationship: [FB]_00422 [FB]_0050 ! Vegetables
 id: [FB]_07211
 name: 4-Hydroxyproline-betaine
 is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0060 ! Citrus
 
 [Term]
 id: [FB]_07212
-name: 7-Methyl-xanthine
+name: 7-Methylxanthine
 is_a: [FB]_008069 ! Xanthines
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 
@@ -2128,57 +2336,23 @@ relationship: [FB]_00422 [FB]_00539 ! Diet_Carbonated_Soft_Drink
 id: [FB]_07214
 name: Anserine
 is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
-relationship: [FB]_00422 [FB]_0005 ! Dairy
-relationship: [FB]_00422 [FB]_0035 ! egg
 relationship: [FB]_00422 [FB]_0174 ! Fish
 relationship: [FB]_00422 [FB]_0186 ! Poultry
-relationship: [FB]_00422 [FB]_0193 ! Red_Meat
-relationship: [FB]_00422 [FB]_0215 ! Seafood
 
 [Term]
 id: [FB]_07215
 name: Anthocyanins
 is_a: [FB]_008048 ! Flavonoids
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
 
 [Term]
 id: [FB]_07216
 name: Apigenin
 is_a: [FB]_008056 ! Flavones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07217
 name: Ascorbate
 is_a: [FB]_008096 ! Furanones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
@@ -2186,17 +2360,11 @@ relationship: [FB]_00422 [FB]_0050 ! Vegetables
 id: [FB]_07218
 name: bergaptol
 is_a: [FB]_008053 ! Furanocoumarins
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0060 ! Citrus
 
 [Term]
 id: [FB]_07219
 name: Biochanin_A
 is_a: [FB]_008055 ! Isoflavones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0136 ! Legumes
 
 [Term]
 id: [FB]_07220
@@ -2209,16 +2377,17 @@ id: [FB]_07221
 name: Caffeic_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_00898 ! Soy
 
 [Term]
 id: [FB]_07222
 name: Caffeine
 is_a: [FB]_008069 ! Xanthines
 relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
 
 [Term]
 id: [FB]_07223
@@ -2238,30 +2407,6 @@ relationship: [FB]_00422 [FB]_0193 ! Red_Meat
 id: [FB]_07225
 name: Catechol
 is_a: [FB]_008046 ! Phenols
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07226
@@ -2269,39 +2414,10 @@ name: Chlorogenic_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
 relationship: [FB]_00422 [FB]_0027 ! coffee
 relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0105 ! tomato
-
-[Term]
-id: [FB]_07227
-name: Coumaric_acid
-is_a: [FB]_008044 ! Hydroxycinnamic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
+relationship: [FB]_00422 [FB]_0115 ! potato
 relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07228
@@ -2314,52 +2430,50 @@ relationship: [FB]_00422 [FB]_0193 ! Red_Meat
 id: [FB]_07229
 name: Curcumin
 is_a: [FB]_008061 ! Curcuminoids
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0121 ! Herbs_&_Spices
+relationship: [FB]_00422 [FB]_0123 ! Spices
 
 [Term]
 id: [FB]_07230
 name: D,L-Sulforaphane-glutathione
 is_a: [FB]_008067 ! Glucosinolates
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_0086 ! Cruciferous
 
 [Term]
 id: [FB]_07231
 name: D,L-Sulforaphane-L-cysteine
 is_a: [FB]_008067 ! Glucosinolates
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_0086 ! Cruciferous
 
 [Term]
 id: [FB]_07232
 name: D,L-Sulforaphane-N-acetyl-L-cysteine
 is_a: [FB]_008067 ! Glucosinolates
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_0086 ! Cruciferous
 
 [Term]
 id: [FB]_07233
 name: Daidzein
 is_a: [FB]_008055 ! Isoflavones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_00898 ! Soy
 relationship: [FB]_00422 [FB]_0136 ! Legumes
 
 [Term]
 id: [FB]_07234
-name: DHBA
-is_a: [FB]_008047 ! Hydroxybenzaldehydes
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+name: 3,4-Dihydrobenzoic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 
 [Term]
 id: [FB]_07235
-name: DHBA-3-O-sulfate
-is_a: [FB]_008047 ! Hydroxybenzaldehydes
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+name: 3,4-Dihydrobenzoic_acid_3_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 
 [Term]
 id: [FB]_07237
@@ -2372,157 +2486,37 @@ id: [FB]_07238
 name: Dihydrocaffeic
 is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
 relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07239
 name: Dihydroferulic_acid
 is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
-
-[Term]
-id: [FB]_07240
-name: Dihydroxybenzoic_acid
-is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07241
 name: Dihydroxyphenylacetic_acid
 is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07242
 name: Dihydroxyphenylpropionic_acid
 is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
 relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07243
 name: Enterodiol
 is_a: [FB]_008062 ! Lignans
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07244
 name: Enterolactone
 is_a: [FB]_008062 ! Lignans
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
@@ -2532,58 +2526,54 @@ is_a: [FB]_008049 ! Flavanols
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 relationship: [FB]_00422 [FB]_0027 ! coffee
 relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_07246
 name: Equol
 is_a: [FB]_008055 ! Isoflavones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0136 ! Legumes
 
 [Term]
 id: [FB]_07247
 name: Eugenol
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0037 ! Fats
 
 [Term]
 id: [FB]_07248
 name: Ferulic_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: [FB]_07249
 name: Feruloylglycine
 is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: [FB]_07250
 name: Formononetin
 is_a: [FB]_008055 ! Isoflavones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0136 ! Legumes
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07251
 name: Furaneol
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0105 ! tomato
 
 [Term]
 id: [FB]_07252
@@ -2591,15 +2581,14 @@ name: Gallic_acid
 is_a: [FB]_008042 ! Hidroxybenzoic_Acids
 relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
 id: [FB]_07253
 name: Genistein
 is_a: [FB]_008055 ! Isoflavones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_00898 ! Soy
 relationship: [FB]_00422 [FB]_0136 ! Legumes
 
@@ -2607,15 +2596,12 @@ relationship: [FB]_00422 [FB]_0136 ! Legumes
 id: [FB]_07254
 name: Hesperetin
 is_a: [FB]_008050 ! Flavanones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0060 ! Citrus
 
 [Term]
 id: [FB]_07255
 name: Hippuric_acid
 is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
@@ -2623,314 +2609,107 @@ relationship: [FB]_00422 [FB]_0050 ! Vegetables
 id: [FB]_07256
 name: Homovanillic_acid
 is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
-
-[Term]
-id: [FB]_07257
-name: Hydroxybenzaldehyde
-is_a: [FB]_008047 ! Hydroxybenzaldehydes
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
-
-[Term]
-id: [FB]_07258
-name: Hydroxybenzoic_acid
-is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07259
 name: Hydroxyphenylacetic_acid
 is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07260
-name: Hydroxyphenylpropionic_acid
+name: 4-Hydroxyphenylpropionic_acid
 is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07261
 name: Iberin
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07262
 name: Isoferulic_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: [FB]_07263
 name: Isorhamnetin
 is_a: [FB]_008094 ! Flavonol
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07264
 name: Isoxanthohumol
 is_a: [FB]_008063 ! Prenylflavonoids
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
 relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 
 [Term]
 id: [FB]_07265
 name: Kaempferol
 is_a: [FB]_008094 ! Flavonol
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07267
 name: Luteolin
 is_a: [FB]_008056 ! Flavones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07268
 name: M-Coumaric_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
 relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07269
 name: N-[2-Furoyl]glycine
 is_a: [FB]_008068 ! Maillard_Product
-relationship: [FB]_00422 [FB]_0116 ! chips
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07270
 name: N-[2-hydroxyphenyl]acetamide
 is_a: [FB]_008064 ! Acetamides
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07271
 name: N-methylpyridinium
 is_a: [FB]_008075 ! Alkaloids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
 
 [Term]
 id: [FB]_07272
 name: Naringenin
 is_a: [FB]_008050 ! Flavanones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0060 ! Citrus
 
 [Term]
 id: [FB]_07273
 name: Norfuraneol
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0105 ! tomato
 
 [Term]
 id: [FB]_07274
 name: P-Coumaric_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
 relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
 relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
 id: [FB]_07275
@@ -2942,41 +2721,28 @@ relationship: [FB]_00422 [FB]_0005 ! Dairy
 id: [FB]_07276
 name: Phenyl-acetyl-L-glutamine
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 
 [Term]
 id: [FB]_07277
 name: Phloretin
 is_a: [FB]_008057 ! Dihydrochalcones
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_07278
 name: Proline-betaine
 is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0060 ! Citrus
 
 [Term]
 id: [FB]_07279
 name: Protocatechuic_acid
 is_a: [FB]_01501 ! Biomarkers
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 
 [Term]
 id: [FB]_07280
 name: Pyrogallol
 is_a: [FB]_008046 ! Phenols
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_00898 ! Soy
 relationship: [FB]_00422 [FB]_0136 ! Legumes
 relationship: [FB]_00422 [FB]_0151 ! Nuts
@@ -2985,77 +2751,40 @@ relationship: [FB]_00422 [FB]_0151 ! Nuts
 id: [FB]_07281
 name: Quercetin
 is_a: [FB]_008094 ! Flavonol
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: [FB]_07282
 name: Quercetin-3-O-beta-D-glucuronide
 is_a: [FB]_008094 ! Flavonol
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
+relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: [FB]_07283
 name: Resveratrol
 is_a: [FB]_008060 ! Stilbenoids
 relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
 
 [Term]
 id: [FB]_07284
 name: Rhamnitol
 is_a: [FB]_008095 ! Carbohydrates_and_Carbohydrate_Conjugates
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0076 ! apple
 
 [Term]
 id: [FB]_07285
 name: S-allylcysteine
 is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: [FB]_07286
 name: Sinapic_acid
 is_a: [FB]_008044 ! Hydroxycinnamic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07287
@@ -3067,46 +2796,21 @@ relationship: [FB]_00422 [FB]_00538 ! Carbonated_Soft_Drink
 id: [FB]_07288
 name: Sulforaphane
 is_a: [FB]_008067 ! Glucosinolates
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_0086 ! Cruciferous
 
 [Term]
 id: [FB]_07289
 name: Syringic_acid
 is_a: [FB]_008042 ! Hidroxybenzoic_Acids
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 relationship: [FB]_00422 [FB]_0049 ! Fruits
 relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07290
 name: Tartarate
 is_a: [FB]_008101 ! Beta_Hydroxy_Acids_and_Derivatives
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
 
 [Term]
 id: [FB]_07291
@@ -3121,16 +2825,12 @@ name: Theobromine
 is_a: [FB]_008069 ! Xanthines
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
 
 [Term]
 id: [FB]_07293
 name: Trigonelline
 is_a: [FB]_008075 ! Alkaloids
 relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
 relationship: [FB]_00422 [FB]_00898 ! Soy
 relationship: [FB]_00422 [FB]_0136 ! Legumes
 relationship: [FB]_00422 [FB]_0151 ! Nuts
@@ -3140,58 +2840,32 @@ id: [FB]_07294
 name: Trimethylamine-N-oxide
 is_a: [FB]_008099 ! Aminoxides
 relationship: [FB]_00422 [FB]_0174 ! Fish
+relationship: [FB]_00422 [FB]_0215 ! Seafood
 
 [Term]
 id: [FB]_07295
 name: Umbelliferone
 is_a: [FB]_008054 ! Hydroxycoumarins
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0015 ! Alcohol
-relationship: [FB]_00422 [FB]_0022 ! beer
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0046 ! olive_oil
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0051 ! Berries
-relationship: [FB]_00422 [FB]_0060 ! Citrus
-relationship: [FB]_00422 [FB]_0076 ! apple
-relationship: [FB]_00422 [FB]_0079 ! banana
-relationship: [FB]_00422 [FB]_0086 ! Cruciferous
-relationship: [FB]_00422 [FB]_00898 ! Soy
-relationship: [FB]_00422 [FB]_0105 ! tomato
-relationship: [FB]_00422 [FB]_0116 ! chips
-relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
-relationship: [FB]_00422 [FB]_0136 ! Legumes
-relationship: [FB]_00422 [FB]_0143 ! Pasta
-relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-relationship: [FB]_00422 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_07296
 name: Urolithin_A
 is_a: [FB]_008058 ! Urolithins
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0051 ! Berries
 relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
 id: [FB]_07297
 name: Urolithin_B
 is_a: [FB]_008058 ! Urolithins
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0051 ! Berries
 relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
 id: [FB]_07298
 name: Urolithin_C
 is_a: [FB]_008058 ! Urolithins
-relationship: [FB]_00422 [FB]_0048 ! Fruits_&_Vegetables
-relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0051 ! Berries
 relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
