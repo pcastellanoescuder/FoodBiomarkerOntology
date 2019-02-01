@@ -7222,7 +7222,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_0044</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">soy _oil</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">soy_oil</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>

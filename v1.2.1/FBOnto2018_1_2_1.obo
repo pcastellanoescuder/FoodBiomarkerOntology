@@ -406,7 +406,7 @@ relationship: [FB]_00424 [FB]_0201 ! veal
 
 [Term]
 id: [FB]_007929
-name: cordon bleu
+name: cordon_bleu
 is_a: [FB]_0001 ! Foods
 relationship: [FB]_00424 [FB]_0010 ! cheese
 relationship: [FB]_00424 [FB]_0188 ! chicken
@@ -414,7 +414,7 @@ relationship: [FB]_00424 [FB]_0208 ! ham
 
 [Term]
 id: [FB]_007930
-name: croc monsieur
+name: croc_monsieur
 is_a: [FB]_0001 ! Foods
 relationship: [FB]_00424 [FB]_0007 ! milk
 relationship: [FB]_00424 [FB]_0010 ! cheese
@@ -732,7 +732,7 @@ relationship: [FB]_00424 [FB]_0270 ! bread
 
 [Term]
 id: [FB]_007966
-name: cheese sandwich
+name: cheese_sandwich
 is_a: [FB]_0001 ! Foods
 relationship: [FB]_00424 [FB]_0010 ! cheese
 relationship: [FB]_00424 [FB]_0050 ! Vegetables
