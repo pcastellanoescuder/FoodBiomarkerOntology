@@ -213,7 +213,7 @@ is_a: [FB]_0041 ! Vegetable_Oils
 
 [Term]
 id: [FB]_0044
-name: soy _oil
+name: soy_oil
 is_a: [FB]_0041 ! Vegetable_Oils
 
 [Term]
@@ -2887,6 +2887,36 @@ relationship: [FB]_00422 [FB]_0174 ! Fish
 relationship: [FB]_00422 [FB]_0186 ! Poultry
 relationship: [FB]_00422 [FB]_0193 ! Red_Meat
 relationship: [FB]_00422 [FB]_0215 ! Seafood
+
+[Term]
+id: [FB]_07501
+name: Coca_Cola_Zero
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07502
+name: Coca_Cola_Light
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07503
+name: Pepsi_Max
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07504
+name: Coca_Cola
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07505
+name: Pepsi
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07506
+name: Fanta
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
 
 [Typedef]
 id: [FB]_00422

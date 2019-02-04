@@ -789,6 +789,9 @@
         <Class IRI="#[FB]_07290"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_07506"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_008130"/>
     </Declaration>
     <Declaration>
@@ -826,6 +829,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008142"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07505"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007932"/>
@@ -945,6 +951,9 @@
         <Class IRI="#[FB]_008121"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_07502"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007965"/>
     </Declaration>
     <Declaration>
@@ -981,6 +990,9 @@
         <Class IRI="#[FB]_007940"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_07501"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007976"/>
     </Declaration>
     <Declaration>
@@ -1006,6 +1018,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0190"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07504"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007951"/>
@@ -1036,6 +1051,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0191"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07503"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007950"/>
@@ -6750,6 +6768,30 @@
             <Class IRI="#[FB]_0215"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07501"/>
+        <Class IRI="#[FB]_00539"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07502"/>
+        <Class IRI="#[FB]_00539"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07503"/>
+        <Class IRI="#[FB]_00539"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07504"/>
+        <Class IRI="#[FB]_00538"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07505"/>
+        <Class IRI="#[FB]_00538"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07506"/>
+        <Class IRI="#[FB]_00538"/>
+    </SubClassOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="#[FB]_00422"/>
         <ObjectProperty IRI="#[FB]_00423"/>
@@ -10303,6 +10345,36 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07301</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Vitamin_B12</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07501</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coca_Cola_Zero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07502</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coca_Cola_Light</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07503</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pepsi_Max</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07504</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coca_Cola</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07505</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pepsi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07506</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Fanta</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
