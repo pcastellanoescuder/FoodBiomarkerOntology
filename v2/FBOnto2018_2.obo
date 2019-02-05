@@ -1,0 +1,2948 @@
+format-version: 1.2
+data-version: 2
+ontology: http://www.food_biomarkers_ontology/FBOnto
+
+[Term]
+id: [FB]_0001
+name: Foods
+
+[Term]
+id: [FB]_0002
+name: cocoa
+is_a: [FB]_0004 ! Cacao
+
+[Term]
+id: [FB]_0003
+name: chocolate
+is_a: [FB]_0004 ! Cacao
+
+[Term]
+id: [FB]_0004
+name: Cacao
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0005
+name: Dairy
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0006
+name: cacao
+is_a: [FB]_0004 ! Cacao
+
+[Term]
+id: [FB]_0007
+name: milk
+is_a: [FB]_0020 ! Milk_Products
+
+[Term]
+id: [FB]_0008
+name: semiskimmed_milk
+is_a: [FB]_0020 ! Milk_Products
+
+[Term]
+id: [FB]_0009
+name: skimmed_milk
+is_a: [FB]_0020 ! Milk_Products
+
+[Term]
+id: [FB]_0010
+name: cheese
+is_a: [FB]_0017 ! Fermented
+
+[Term]
+id: [FB]_0011
+name: Drinks
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0012
+name: yoghurt
+is_a: [FB]_0017 ! Fermented
+
+[Term]
+id: [FB]_0013
+name: butter
+is_a: [FB]_0018 ! No_Fermented
+
+[Term]
+id: [FB]_0015
+name: Alcohol
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_0016
+name: Processed_Dairy
+is_a: [FB]_0005 ! Dairy
+
+[Term]
+id: [FB]_0017
+name: Fermented
+is_a: [FB]_0016 ! Processed_Dairy
+
+[Term]
+id: [FB]_0018
+name: No_Fermented
+is_a: [FB]_0016 ! Processed_Dairy
+
+[Term]
+id: [FB]_0019
+name: Raw_Dairy
+is_a: [FB]_0005 ! Dairy
+
+[Term]
+id: [FB]_0020
+name: Milk_Products
+is_a: [FB]_0019 ! Raw_Dairy
+
+[Term]
+id: [FB]_0021
+name: Fermented
+is_a: [FB]_0015 ! Alcohol
+
+[Term]
+id: [FB]_0022
+name: beer
+is_a: [FB]_0021 ! Fermented
+
+[Term]
+id: [FB]_0023
+name: wine
+is_a: [FB]_0021 ! Fermented
+
+[Term]
+id: [FB]_0024
+name: Infusion
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_0025
+name: Coffee
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_0026
+name: Coffee_Products
+is_a: [FB]_0025 ! Coffee
+
+[Term]
+id: [FB]_0027
+name: coffee
+is_a: [FB]_0026 ! Coffee_Products
+
+[Term]
+id: [FB]_0028
+name: Tea
+is_a: [FB]_0024 ! Infusion
+
+[Term]
+id: [FB]_0029
+name: black_tea
+is_a: [FB]_0028 ! Tea
+
+[Term]
+id: [FB]_0030
+name: green_tea
+is_a: [FB]_0028 ! Tea
+
+[Term]
+id: [FB]_0031
+name: red_tea
+is_a: [FB]_0028 ! Tea
+
+[Term]
+id: [FB]_0032
+name: tea
+is_a: [FB]_0028 ! Tea
+
+[Term]
+id: [FB]_0033
+name: Eggs
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0034
+name: Chicken_Eggs
+is_a: [FB]_0033 ! Eggs
+
+[Term]
+id: [FB]_0035
+name: egg
+is_a: [FB]_0034 ! Chicken_Eggs
+
+[Term]
+id: [FB]_0036
+name: Fats_&_Oils
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0037
+name: Fats
+is_a: [FB]_0036 ! Fats_&_Oils
+
+[Term]
+id: [FB]_0038
+name: Vegetable_Fats
+is_a: [FB]_0037 ! Fats
+
+[Term]
+id: [FB]_0039
+name: margarine
+is_a: [FB]_0038 ! Vegetable_Fats
+
+[Term]
+id: [FB]_0040
+name: Oils
+is_a: [FB]_0036 ! Fats_&_Oils
+
+[Term]
+id: [FB]_0041
+name: Vegetable_Oils
+is_a: [FB]_0040 ! Oils
+
+[Term]
+id: [FB]_0042
+name: corn_oil
+is_a: [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_0043
+name: palm_oil
+is_a: [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_0044
+name: soy_oil
+is_a: [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_0045
+name: sunflower_oil
+is_a: [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_0046
+name: olive_oil
+is_a: [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_0047
+name: olive
+is_a: [FB]_0099 ! Fat_Vegetables
+
+[Term]
+id: [FB]_0048
+name: Fruits_&_Vegetables
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0049
+name: Fruits
+is_a: [FB]_0048 ! Fruits_&_Vegetables
+
+[Term]
+id: [FB]_0050
+name: Vegetables
+is_a: [FB]_0048 ! Fruits_&_Vegetables
+
+[Term]
+id: [FB]_0051
+name: Berries
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0052
+name: blackberry
+is_a: [FB]_0051 ! Berries
+
+[Term]
+id: [FB]_0053
+name: blackcurrant
+is_a: [FB]_0051 ! Berries
+
+[Term]
+id: [FB]_00538
+name: Carbonated_Soft_Drink
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_00539
+name: Diet_Carbonated_Soft_Drink
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_0054
+name: blueberry
+is_a: [FB]_0051 ! Berries
+
+[Term]
+id: [FB]_0056
+name: raspberry
+is_a: [FB]_0051 ! Berries
+
+[Term]
+id: [FB]_0057
+name: strawberry
+is_a: [FB]_0051 ! Berries
+
+[Term]
+id: [FB]_0058
+name: Dried_Fruits
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0059
+name: raisins
+is_a: [FB]_0058 ! Dried_Fruits
+
+[Term]
+id: [FB]_0060
+name: Citrus
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0061
+name: grapefruit
+is_a: [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_0062
+name: kiwi
+is_a: [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_0063
+name: lemon
+is_a: [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_0064
+name: orange
+is_a: [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_0065
+name: Drupes
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0066
+name: prune
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_0067
+name: apricot
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_0068
+name: cherry
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_0069
+name: peach
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_0070
+name: plum
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_0071
+name: Gourds
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0072
+name: melon
+is_a: [FB]_0071 ! Gourds
+
+[Term]
+id: [FB]_0073
+name: watermelon
+is_a: [FB]_0071 ! Gourds
+
+[Term]
+id: [FB]_0074
+name: figs
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0075
+name: Pomes
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0076
+name: apple
+is_a: [FB]_0075 ! Pomes
+
+[Term]
+id: [FB]_0077
+name: pear
+is_a: [FB]_0075 ! Pomes
+
+[Term]
+id: [FB]_0078
+name: Tropical_Fruits
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_0079
+name: banana
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_007928
+name: blanquette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0094 ! carrot
+relationship: [FB]_00424 [FB]_0201 ! veal
+
+[Term]
+id: [FB]_007929
+name: cordon_bleu
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0188 ! chicken
+relationship: [FB]_00424 [FB]_0208 ! ham
+
+[Term]
+id: [FB]_007930
+name: croc_monsieur
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0208 ! ham
+relationship: [FB]_00424 [FB]_0269 ! flour
+relationship: [FB]_00424 [FB]_0275 ! black_pepper
+
+[Term]
+id: [FB]_007931
+name: fondue_bourguignonne
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0041 ! Vegetable_Oils
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007932
+name: fondue_savoyarde
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0041 ! Vegetable_Oils
+
+[Term]
+id: [FB]_007933
+name: hachis_parmentier
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0115 ! potato
+relationship: [FB]_00424 [FB]_0272 ! ox
+
+[Term]
+id: [FB]_007934
+name: bechamel
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007935
+name: bolognese
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0197 ! beef
+relationship: [FB]_00424 [FB]_0210 ! pork
+
+[Term]
+id: [FB]_007936
+name: vegetarian_bolognese
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_00898 ! Soy
+relationship: [FB]_00424 [FB]_0105 ! tomato
+
+[Term]
+id: [FB]_007937
+name: bourguignon
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0023 ! wine
+relationship: [FB]_00424 [FB]_0197 ! beef
+
+[Term]
+id: [FB]_007938
+name: brochette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007939
+name: broth
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007940
+name: carbonara
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0046 ! olive_oil
+relationship: [FB]_00424 [FB]_0209 ! pancetta
+relationship: [FB]_00424 [FB]_0275 ! black_pepper
+
+[Term]
+id: [FB]_007941
+name: croziflette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0143 ! Pasta
+relationship: [FB]_00424 [FB]_0209 ! pancetta
+
+[Term]
+id: [FB]_007942
+name: fajitas
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007943
+name: vegetarian_fajitas
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007944
+name: falafel
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0041 ! Vegetable_Oils
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_007945
+name: filled
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007946
+name: gnocchi
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0115 ! potato
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007947
+name: hummus
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0041 ! Vegetable_Oils
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_007948
+name: kebab
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007949
+name: lasagne
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0023 ! wine
+relationship: [FB]_00424 [FB]_0046 ! olive_oil
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0143 ! Pasta
+relationship: [FB]_00424 [FB]_0197 ! beef
+relationship: [FB]_00424 [FB]_0201 ! veal
+
+[Term]
+id: [FB]_007950
+name: vegetarian_lasagne
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0023 ! wine
+relationship: [FB]_00424 [FB]_0046 ! olive_oil
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0143 ! Pasta
+
+[Term]
+id: [FB]_007951
+name: millefeuille
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0002 ! cocoa
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0151 ! Nuts
+relationship: [FB]_00424 [FB]_0170 ! sugar
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007952
+name: moussaka
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0104 ! eggplant
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0115 ! potato
+relationship: [FB]_00424 [FB]_0205 ! lamb
+
+[Term]
+id: [FB]_007953
+name: paella
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0144 ! rice
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007954
+name: panini
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007955
+name: pizza
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007956
+name: vegetarian_pizza
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007957
+name: pudding
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0049 ! Fruits
+relationship: [FB]_00424 [FB]_0144 ! rice
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007958
+name: quenelle
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007959
+name: quiche
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0151 ! Nuts
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0207 ! bacon
+relationship: [FB]_00424 [FB]_0269 ! flour
+relationship: [FB]_00424 [FB]_0275 ! black_pepper
+
+[Term]
+id: [FB]_007960
+name: vegetarian_quiche
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0151 ! Nuts
+relationship: [FB]_00424 [FB]_0269 ! flour
+relationship: [FB]_00424 [FB]_0275 ! black_pepper
+
+[Term]
+id: [FB]_007961
+name: raclette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0115 ! potato
+
+[Term]
+id: [FB]_007962
+name: ratatouille
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0095 ! pepper
+relationship: [FB]_00424 [FB]_0104 ! eggplant
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0106 ! zucchini
+relationship: [FB]_00424 [FB]_0122 ! Herbs
+
+[Term]
+id: [FB]_007963
+name: risotto
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0023 ! wine
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0133 ! mushroom
+relationship: [FB]_00424 [FB]_0144 ! rice
+
+[Term]
+id: [FB]_007964
+name: salad
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0041 ! Vegetable_Oils
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0111 ! lettuce
+
+[Term]
+id: [FB]_007965
+name: sandwich
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_007966
+name: cheese_sandwich
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_007967
+name: egg_sandwich
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_007968
+name: souffle
+is_a: [FB]_07508 ! Recipes
+
+[Term]
+id: [FB]_007969
+name: soup
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007970
+name: stew
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0094 ! carrot
+relationship: [FB]_00424 [FB]_0095 ! pepper
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0115 ! potato
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0133 ! mushroom
+relationship: [FB]_00424 [FB]_0159 ! beans
+relationship: [FB]_00424 [FB]_0197 ! beef
+
+[Term]
+id: [FB]_007971
+name: sushi
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0144 ! rice
+relationship: [FB]_00424 [FB]_0174 ! Fish
+
+[Term]
+id: [FB]_007972
+name: tabbouleh
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0046 ! olive_oil
+relationship: [FB]_00424 [FB]_0063 ! lemon
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007973
+name: taco
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007974
+name: vegetarian_taco
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007975
+name: tagine
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007976
+name: tartiflette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0010 ! cheese
+relationship: [FB]_00424 [FB]_0095 ! pepper
+relationship: [FB]_00424 [FB]_0115 ! potato
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0207 ! bacon
+
+[Term]
+id: [FB]_007977
+name: tropezienne
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0013 ! butter
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0063 ! lemon
+relationship: [FB]_00424 [FB]_0170 ! sugar
+relationship: [FB]_00424 [FB]_0269 ! flour
+
+[Term]
+id: [FB]_007978
+name: meat_wrap
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_007979
+name: vegetarian_wrap
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_007981
+name: vegetarian_chilli
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_007982
+name: porridge
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0146 ! oat
+
+[Term]
+id: [FB]_007983
+name: curry
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0123 ! Spices
+relationship: [FB]_00424 [FB]_0127 ! onion
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_007984
+name: vegetarian_curry
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0105 ! tomato
+relationship: [FB]_00424 [FB]_0123 ! Spices
+relationship: [FB]_00424 [FB]_0127 ! onion
+
+[Term]
+id: [FB]_007985
+name: omelette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0035 ! egg
+relationship: [FB]_00424 [FB]_0208 ! ham
+
+[Term]
+id: [FB]_007986
+name: vegetarian_omelette
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0007 ! milk
+relationship: [FB]_00424 [FB]_0035 ! egg
+
+[Term]
+id: [FB]_0080
+name: coconut
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_008041
+name: Phenolic_Acids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008042
+name: Hidroxybenzoic_Acids
+is_a: [FB]_008041 ! Phenolic_Acids
+
+[Term]
+id: [FB]_008043
+name: Hydroxyphenylacetic_Acids
+is_a: [FB]_008041 ! Phenolic_Acids
+
+[Term]
+id: [FB]_008044
+name: Hydroxycinnamic_Acids
+is_a: [FB]_008041 ! Phenolic_Acids
+
+[Term]
+id: [FB]_008045
+name: Hydroxyphenylpropionic_Acids
+is_a: [FB]_008041 ! Phenolic_Acids
+
+[Term]
+id: [FB]_008046
+name: Phenols
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008047
+name: Hydroxybenzaldehydes
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008048
+name: Flavonoids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008049
+name: Flavanols
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008050
+name: Flavanones
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008052
+name: Coumarins
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008053
+name: Furanocoumarins
+is_a: [FB]_008052 ! Coumarins
+
+[Term]
+id: [FB]_008054
+name: Hydroxycoumarins
+is_a: [FB]_008052 ! Coumarins
+
+[Term]
+id: [FB]_008055
+name: Isoflavones
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008056
+name: Flavones
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008057
+name: Dihydrochalcones
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008058
+name: Urolithins
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008059
+name: Phenylethanoids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008060
+name: Stilbenoids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008061
+name: Curcuminoids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008062
+name: Lignans
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008063
+name: Prenylflavonoids
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008064
+name: Acetamides
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008065
+name: Polycyclic_Aromatic_Hydrocarbons
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008067
+name: Glucosinolates
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008068
+name: Maillard_Product
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008069
+name: Xanthines
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008070
+name: Vitamins
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008071
+name: Heterocyclic_Amines
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008073
+name: Amino_Acid_and_Derivatives
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008074
+name: Carnitines
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008075
+name: Alkaloids
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008076
+name: Cyanidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+
+[Term]
+id: [FB]_008077
+name: Delphinidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+
+[Term]
+id: [FB]_008078
+name: Malvidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008079
+name: Pelargonidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+
+[Term]
+id: [FB]_008080
+name: Peonidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+
+[Term]
+id: [FB]_008081
+name: Petunidin_3-glucoside
+is_a: [FB]_07215 ! Anthocyanins
+
+[Term]
+id: [FB]_008082
+name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008083
+name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008084
+name: 5-[4-Hydroxy[3-4-dihydroxyphenyl]_valeric_acid_sulfate
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008085
+name: 3,4-Dihydroxyphenyl-gamma-valerolactone
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008087
+name: 3,4-Dihydroxyphenyl-gamma-valerolactone_3_sulfate
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008088
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008089
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008090
+name: 3,4,5-Trihydroxyphenyl-γ-valerolactone_sulfate
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008091
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008092
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008093
+name: 4-Hydroxy-3-methoxyphenyl-γ-valerolactone_sulfate
+is_a: [FB]_008102 ! Valerolactones
+
+[Term]
+id: [FB]_008094
+name: Flavonol
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_008095
+name: Carbohydrates_and_Carbohydrate_Conjugates
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008096
+name: Furanones
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008097
+name: Benzoxazolones
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008098
+name: Fatty_Acids_and_Conjugates
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008099
+name: Aminoxides
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_0081
+name: guava
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_008100
+name: Organosulfonic_Acids_and_Derivatives
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008101
+name: Beta_Hydroxy_Acids_and_Derivatives
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008102
+name: Valerolactones
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_008103
+name: Grapes
+is_a: [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008104
+name: 4-Hydroxybenzoic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008105
+name: 4-Hydrobenzoic_acid_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008107
+name: 3,4-Dihydroxybenzoic_acid_3_glucuronide
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008108
+name: 3,4-Dihydroxybenzoic_acid_4_glucuronide
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008110
+name: 3,4-Dihydroxybenzoic_acid_4_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008111
+name: 4-Hydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008112
+name: 4-Hydroxyphenylacetic_acid_sulfate
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008113
+name: 3,4-Dihydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_008114
+name: Homovanillic_acid_4_sulfate
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008115
+name: P-Coumaric_acid_glucuronide
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008116
+name: P-Coumaric_acid_sulfate
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008117
+name: Ferulic_acid_4_glucuronide
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008118
+name: Ferulic_acid_4_sulfate
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008119
+name: 3-[3-Hydroxyphenyl]propionic_acid
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008120
+name: Dihydroferulic_acid_4_glucuronide
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008121
+name: 4-Hydroxybenzaldehyde
+is_a: [FB]_008047 ! Hydroxybenzaldehydes
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_008122
+name: Naringerin_7_glucuronide
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_008123
+name: Hesperetin_3'_glucuronide
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_008124
+name: Genistein_7_glucuronide
+is_a: [FB]_008055 ! Isoflavones
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_008125
+name: Luteolin_3'_glucuronide
+is_a: [FB]_008056 ! Flavones
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008126
+name: Phloretin_glucuronide
+is_a: [FB]_008057 ! Dihydrochalcones
+relationship: [FB]_00422 [FB]_0076 ! apple
+
+[Term]
+id: [FB]_008127
+name: Urolithin_A_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008128
+name: Urolithin_B_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008129
+name: Urolithin_C_glucuronide
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008130
+name: [Hydroxy]tyrosol_3_glucuronide
+is_a: [FB]_008059 ! Phenylethanoids
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+
+[Term]
+id: [FB]_008131
+name: [Hydroxy]tyrosol_3_sulfate
+is_a: [FB]_008059 ! Phenylethanoids
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+
+[Term]
+id: [FB]_008132
+name: Trans_resveratrol
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008133
+name: Cis_resveratrol_3_glucuronide
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008134
+name: Dihydroxyresveratrol
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_008135
+name: Curcumin_glucuronide
+is_a: [FB]_008061 ! Curcuminoids
+relationship: [FB]_00422 [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_008136
+name: Enterolactone_glucuronide
+is_a: [FB]_008062 ! Lignans
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_008137
+name: Enterodiol_glucuronide
+is_a: [FB]_008062 ! Lignans
+
+[Term]
+id: [FB]_008138
+name: N-[2-hydroxyphenyl]acetamide_glucuronide
+is_a: [FB]_008064 ! Acetamides
+
+[Term]
+id: [FB]_008139
+name: curcuma
+is_a: [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_008140
+name: porridge
+is_a: [FB]_0146 ! oat
+
+[Term]
+id: [FB]_008141
+name: wheat
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008142
+name: rye
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008143
+name: barley
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_008144
+name: Dihydrophenylvalerolactone_3_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008145
+name: Dihydrophenylvalerolactone_4_sulfate
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_008150
+name: Chaconine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008151
+name: Solanine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008152
+name: Solanidine
+is_a: [FB]_008075 ! Alkaloids
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_008156
+name: 4-Hydroxyphenylpropionic_acid_sulfate
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+
+[Term]
+id: [FB]_008157
+name: Quercetin_3_sulfate
+is_a: [FB]_008094 ! Flavonol
+
+[Term]
+id: [FB]_008158
+name: N-acetyl_cysteine_s_allyl_cysteine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0125 ! Onion_Family_Vegetables
+
+[Term]
+id: [FB]_0082
+name: mango
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_0083
+name: papaya
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_0084
+name: pineapple
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_0085
+name: pomegranate
+is_a: [FB]_0078 ! Tropical_Fruits
+
+[Term]
+id: [FB]_0086
+name: Cruciferous
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0087
+name: broccoli
+is_a: [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_0088
+name: cabbage
+is_a: [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_0089
+name: cauliflower
+is_a: [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_00898
+name: Soy
+is_a: [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_0090
+name: radish
+is_a: [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_0091
+name: rocket
+is_a: [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_0092
+name: Dark_Yellow_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0093
+name: beetroot
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0094
+name: carrot
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0095
+name: pepper
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0096
+name: pumpkin
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0097
+name: red_pepper
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0098
+name: turnip
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0099
+name: Fat_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0100
+name: avocado
+is_a: [FB]_0099 ! Fat_Vegetables
+
+[Term]
+id: [FB]_0101
+name: Fruity_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0102
+name: courgette
+is_a: [FB]_0101 ! Fruity_Vegetables
+
+[Term]
+id: [FB]_0103
+name: cucumber
+is_a: [FB]_0101 ! Fruity_Vegetables
+
+[Term]
+id: [FB]_0104
+name: eggplant
+is_a: [FB]_0101 ! Fruity_Vegetables
+
+[Term]
+id: [FB]_0105
+name: tomato
+is_a: [FB]_0101 ! Fruity_Vegetables
+
+[Term]
+id: [FB]_0106
+name: zucchini
+is_a: [FB]_0101 ! Fruity_Vegetables
+
+[Term]
+id: [FB]_0107
+name: Leafy_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0108
+name: celery
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0109
+name: chicory
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0110
+name: endive
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0111
+name: lettuce
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0112
+name: rhubarb
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0113
+name: spinach
+is_a: [FB]_0107 ! Leafy_Vegetables
+
+[Term]
+id: [FB]_0114
+name: Starchy_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0115
+name: potato
+is_a: [FB]_0114 ! Starchy_Vegetables
+
+[Term]
+id: [FB]_0116
+name: chips
+is_a: [FB]_0115 ! potato
+
+[Term]
+id: [FB]_0121
+name: Herbs_&_Spices
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0122
+name: Herbs
+is_a: [FB]_0121 ! Herbs_&_Spices
+
+[Term]
+id: [FB]_0123
+name: Spices
+is_a: [FB]_0121 ! Herbs_&_Spices
+
+[Term]
+id: [FB]_0124
+name: garlic
+is_a: [FB]_0122 ! Herbs
+
+[Term]
+id: [FB]_0125
+name: Onion_Family_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0126
+name: leek
+is_a: [FB]_0125 ! Onion_Family_Vegetables
+
+[Term]
+id: [FB]_0127
+name: onion
+is_a: [FB]_0125 ! Onion_Family_Vegetables
+
+[Term]
+id: [FB]_0128
+name: Shoot_Vegetables
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0129
+name: asparagus
+is_a: [FB]_0128 ! Shoot_Vegetables
+
+[Term]
+id: [FB]_0130
+name: Tubers
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0131
+name: artichoke
+is_a: [FB]_0130 ! Tubers
+
+[Term]
+id: [FB]_0132
+name: Mushrooms
+is_a: [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_0133
+name: mushroom
+is_a: [FB]_0132 ! Mushrooms
+
+[Term]
+id: [FB]_0134
+name: shallot
+is_a: [FB]_0125 ! Onion_Family_Vegetables
+
+[Term]
+id: [FB]_0135
+name: Nuts_&_Legumes
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0136
+name: Legumes
+is_a: [FB]_0135 ! Nuts_&_Legumes
+
+[Term]
+id: [FB]_0137
+name: Pulses
+is_a: [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_0139
+name: Grains
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0140
+name: Cereals
+is_a: [FB]_0139 ! Grains
+
+[Term]
+id: [FB]_0141
+name: Refined_Grain_Cereals
+is_a: [FB]_0140 ! Cereals
+
+[Term]
+id: [FB]_0142
+name: cereal
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_0143
+name: Pasta
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_0144
+name: rice
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_0145
+name: Whole_Grain_Cereals
+is_a: [FB]_0140 ! Cereals
+
+[Term]
+id: [FB]_0146
+name: oat
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_0147
+name: quinoa
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_0148
+name: wholegrain
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_0149
+name: Tuber
+is_a: [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_0150
+name: ginger
+is_a: [FB]_0149 ! Tuber
+
+[Term]
+id: [FB]_01501
+name: Biomarkers
+
+[Term]
+id: [FB]_0151
+name: Nuts
+is_a: [FB]_0135 ! Nuts_&_Legumes
+
+[Term]
+id: [FB]_0156
+name: Lentils
+is_a: [FB]_0137 ! Pulses
+
+[Term]
+id: [FB]_0157
+name: lentils
+is_a: [FB]_0156 ! Lentils
+
+[Term]
+id: [FB]_0158
+name: Beans
+is_a: [FB]_0137 ! Pulses
+
+[Term]
+id: [FB]_0159
+name: beans
+is_a: [FB]_0158 ! Beans
+
+[Term]
+id: [FB]_0160
+name: Peas
+is_a: [FB]_0137 ! Pulses
+
+[Term]
+id: [FB]_0161
+name: chickpeas
+is_a: [FB]_0160 ! Peas
+
+[Term]
+id: [FB]_0162
+name: peas
+is_a: [FB]_0160 ! Peas
+
+[Term]
+id: [FB]_0163
+name: Sugars
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0164
+name: Not_Refined_Sugars
+is_a: [FB]_0163 ! Sugars
+
+[Term]
+id: [FB]_0165
+name: Refined_Sugars
+is_a: [FB]_0163 ! Sugars
+
+[Term]
+id: [FB]_0166
+name: Baking_Goods
+is_a: [FB]_0164 ! Not_Refined_Sugars
+
+[Term]
+id: [FB]_0167
+name: brown_sugar
+is_a: [FB]_0166 ! Baking_Goods
+
+[Term]
+id: [FB]_0168
+name: Confectioneries
+is_a: [FB]_0164 ! Not_Refined_Sugars
+
+[Term]
+id: [FB]_0169
+name: honey
+is_a: [FB]_0168 ! Confectioneries
+
+[Term]
+id: [FB]_0170
+name: sugar
+is_a: [FB]_0165 ! Refined_Sugars
+
+[Term]
+id: [FB]_0172
+name: Meat
+is_a: [FB]_0001 ! Foods
+
+[Term]
+id: [FB]_0174
+name: Fish
+is_a: [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_0175
+name: Blue_Fish
+is_a: [FB]_0174 ! Fish
+
+[Term]
+id: [FB]_0176
+name: anchovy
+is_a: [FB]_0175 ! Blue_Fish
+
+[Term]
+id: [FB]_0177
+name: salmon
+is_a: [FB]_0175 ! Blue_Fish
+
+[Term]
+id: [FB]_0178
+name: sardines
+is_a: [FB]_0175 ! Blue_Fish
+
+[Term]
+id: [FB]_0179
+name: trout
+is_a: [FB]_0175 ! Blue_Fish
+
+[Term]
+id: [FB]_0180
+name: tuna
+is_a: [FB]_0175 ! Blue_Fish
+
+[Term]
+id: [FB]_0181
+name: White_Fish
+is_a: [FB]_0174 ! Fish
+
+[Term]
+id: [FB]_0182
+name: cod
+is_a: [FB]_0181 ! White_Fish
+
+[Term]
+id: [FB]_0183
+name: hake
+is_a: [FB]_0181 ! White_Fish
+
+[Term]
+id: [FB]_0184
+name: mackerel
+is_a: [FB]_0181 ! White_Fish
+
+[Term]
+id: [FB]_0185
+name: Lean_Meat
+is_a: [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_0186
+name: Poultry
+is_a: [FB]_0185 ! Lean_Meat
+
+[Term]
+id: [FB]_0188
+name: chicken
+is_a: [FB]_0186 ! Poultry
+
+[Term]
+id: [FB]_0189
+name: duck
+is_a: [FB]_0186 ! Poultry
+
+[Term]
+id: [FB]_0190
+name: turkey
+is_a: [FB]_0186 ! Poultry
+
+[Term]
+id: [FB]_0191
+name: Rabbit
+is_a: [FB]_0185 ! Lean_Meat
+
+[Term]
+id: [FB]_0192
+name: rabbit
+is_a: [FB]_0191 ! Rabbit
+
+[Term]
+id: [FB]_0193
+name: Red_Meat
+is_a: [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_0194
+name: Boar
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0195
+name: boar
+is_a: [FB]_0194 ! Boar
+
+[Term]
+id: [FB]_0196
+name: Cow
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0197
+name: beef
+is_a: [FB]_0196 ! Cow
+
+[Term]
+id: [FB]_0198
+name: hamburger
+is_a: [FB]_0196 ! Cow
+
+[Term]
+id: [FB]_0199
+name: sirloin
+is_a: [FB]_0196 ! Cow
+
+[Term]
+id: [FB]_0200
+name: steak
+is_a: [FB]_0196 ! Cow
+
+[Term]
+id: [FB]_0201
+name: veal
+is_a: [FB]_0196 ! Cow
+
+[Term]
+id: [FB]_0202
+name: Goat
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0203
+name: goat
+is_a: [FB]_0202 ! Goat
+
+[Term]
+id: [FB]_0204
+name: Lamb
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0205
+name: lamb
+is_a: [FB]_0204 ! Lamb
+
+[Term]
+id: [FB]_0206
+name: Pork
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0207
+name: bacon
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0208
+name: ham
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0209
+name: pancetta
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0210
+name: pork
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0211
+name: proscuitto
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0212
+name: ribs
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0213
+name: salami
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0214
+name: sausages
+is_a: [FB]_0206 ! Pork
+
+[Term]
+id: [FB]_0215
+name: Seafood
+is_a: [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_0216
+name: Crustaceans
+is_a: [FB]_0215 ! Seafood
+
+[Term]
+id: [FB]_0217
+name: shrimp
+is_a: [FB]_0216 ! Crustaceans
+
+[Term]
+id: [FB]_0218
+name: Molluscs
+is_a: [FB]_0215 ! Seafood
+
+[Term]
+id: [FB]_0219
+name: octopus
+is_a: [FB]_0218 ! Molluscs
+
+[Term]
+id: [FB]_0220
+name: squid
+is_a: [FB]_0218 ! Molluscs
+
+[Term]
+id: [FB]_0221
+name: crab
+is_a: [FB]_0216 ! Crustaceans
+
+[Term]
+id: [FB]_0269
+name: flour
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_0270
+name: bread
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_0271
+name: Ox
+is_a: [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_0272
+name: ox
+is_a: [FB]_0271 ! Ox
+
+[Term]
+id: [FB]_0273
+name: corn
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0274
+name: yellow_pepper
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_0275
+name: black_pepper
+is_a: [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_0276
+name: noodles
+is_a: [FB]_0143 ! Pasta
+
+[Term]
+id: [FB]_0277
+name: spaghetti
+is_a: [FB]_0143 ! Pasta
+
+[Term]
+id: [FB]_0278
+name: ravioli
+is_a: [FB]_0143 ! Pasta
+
+[Term]
+id: [FB]_0279
+name: dry_corn
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_0280
+name: polenta
+is_a: [FB]_0279 ! dry_corn
+
+[Term]
+id: [FB]_0281
+name: sauerkraut
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0088 ! cabbage
+
+[Term]
+id: [FB]_07200
+name: [Hydroxy]tyrosol
+is_a: [FB]_008059 ! Phenylethanoids
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+
+[Term]
+id: [FB]_07201
+name: 1-Hydroxypyrene_glucuronide
+is_a: [FB]_008065 ! Polycyclic_Aromatic_Hydrocarbons
+
+[Term]
+id: [FB]_07202
+name: 1-Methyl-histidine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_07203
+name: 2-Amino-1,6-dimethylimidazo[4,5-b]pyridine_glucuronide
+is_a: [FB]_008071 ! Heterocyclic_Amines
+
+[Term]
+id: [FB]_07204
+name: 2-Aminophenol
+is_a: [FB]_008046 ! Phenols
+
+[Term]
+id: [FB]_07205
+name: 2-Furoylglycine
+is_a: [FB]_008068 ! Maillard_Product
+
+[Term]
+id: [FB]_07206
+name: 3-Hydroxyhippuric
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+
+[Term]
+id: [FB]_07207
+name: 3-Methyl-histidine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0174 ! Fish
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+
+[Term]
+id: [FB]_07208
+name: 3-Methyl-uric
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07209
+name: 3-Methylxanthine
+is_a: [FB]_008069 ! Xanthines
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+
+[Term]
+id: [FB]_07210
+name: 4-Hydroxyhippuric
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07211
+name: 4-Hydroxyproline-betaine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_07212
+name: 7-Methylxanthine
+is_a: [FB]_008069 ! Xanthines
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+
+[Term]
+id: [FB]_07213
+name: Acesulfame-K
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07214
+name: Anserine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0174 ! Fish
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+
+[Term]
+id: [FB]_07215
+name: Anthocyanins
+is_a: [FB]_008048 ! Flavonoids
+
+[Term]
+id: [FB]_07216
+name: Apigenin
+is_a: [FB]_008056 ! Flavones
+
+[Term]
+id: [FB]_07217
+name: Ascorbate
+is_a: [FB]_008096 ! Furanones
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07218
+name: bergaptol
+is_a: [FB]_008053 ! Furanocoumarins
+
+[Term]
+id: [FB]_07219
+name: Biochanin_A
+is_a: [FB]_008055 ! Isoflavones
+
+[Term]
+id: [FB]_07220
+name: BOA
+is_a: [FB]_008097 ! Benzoxazolones
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07221
+name: Caffeic_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_00898 ! Soy
+
+[Term]
+id: [FB]_07222
+name: Caffeine
+is_a: [FB]_008069 ! Xanthines
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+
+[Term]
+id: [FB]_07223
+name: L-Carnitine
+is_a: [FB]_008074 ! Carnitines
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_07224
+name: Carnosine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_07225
+name: Catechol
+is_a: [FB]_008046 ! Phenols
+
+[Term]
+id: [FB]_07226
+name: Chlorogenic_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0116 ! chips
+
+[Term]
+id: [FB]_07228
+name: Creatinine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_07229
+name: Curcumin
+is_a: [FB]_008061 ! Curcuminoids
+relationship: [FB]_00422 [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_07230
+name: D,L-Sulforaphane-glutathione
+is_a: [FB]_008067 ! Glucosinolates
+relationship: [FB]_00422 [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07231
+name: D,L-Sulforaphane-L-cysteine
+is_a: [FB]_008067 ! Glucosinolates
+relationship: [FB]_00422 [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07232
+name: D,L-Sulforaphane-N-acetyl-L-cysteine
+is_a: [FB]_008067 ! Glucosinolates
+relationship: [FB]_00422 [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07233
+name: Daidzein
+is_a: [FB]_008055 ! Isoflavones
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_07234
+name: 3,4-Dihydrobenzoic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_07235
+name: 3,4-Dihydrobenzoic_acid_3_sulfate
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_07237
+name: DHPPA-3-sulfate
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07238
+name: Dihydrocaffeic
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07239
+name: Dihydroferulic_acid
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07241
+name: Dihydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_07242
+name: Dihydroxyphenylpropionic_acid
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07243
+name: Enterodiol
+is_a: [FB]_008062 ! Lignans
+
+[Term]
+id: [FB]_07244
+name: Enterolactone
+is_a: [FB]_008062 ! Lignans
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07245
+name: Epicatechin
+is_a: [FB]_008049 ! Flavanols
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07246
+name: Equol
+is_a: [FB]_008055 ! Isoflavones
+
+[Term]
+id: [FB]_07247
+name: Eugenol
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07248
+name: Ferulic_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07249
+name: Feruloylglycine
+is_a: [FB]_01501 ! Biomarkers
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07250
+name: Formononetin
+is_a: [FB]_008055 ! Isoflavones
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07251
+name: Furaneol
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07252
+name: Gallic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07253
+name: Genistein
+is_a: [FB]_008055 ! Isoflavones
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+
+[Term]
+id: [FB]_07254
+name: Hesperetin
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_07255
+name: Hippuric_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07256
+name: Homovanillic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07259
+name: Hydroxyphenylacetic_acid
+is_a: [FB]_008043 ! Hydroxyphenylacetic_Acids
+
+[Term]
+id: [FB]_07260
+name: 4-Hydroxyphenylpropionic_acid
+is_a: [FB]_008045 ! Hydroxyphenylpropionic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07261
+name: Iberin
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07262
+name: Isoferulic_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07263
+name: Isorhamnetin
+is_a: [FB]_008094 ! Flavonol
+
+[Term]
+id: [FB]_07264
+name: Isoxanthohumol
+is_a: [FB]_008063 ! Prenylflavonoids
+relationship: [FB]_00422 [FB]_0022 ! beer
+
+[Term]
+id: [FB]_07265
+name: Kaempferol
+is_a: [FB]_008094 ! Flavonol
+
+[Term]
+id: [FB]_07267
+name: Luteolin
+is_a: [FB]_008056 ! Flavones
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07268
+name: M-Coumaric_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07269
+name: N-[2-Furoyl]glycine
+is_a: [FB]_008068 ! Maillard_Product
+relationship: [FB]_00422 [FB]_0115 ! potato
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_07270
+name: N-[2-hydroxyphenyl]acetamide
+is_a: [FB]_008064 ! Acetamides
+
+[Term]
+id: [FB]_07271
+name: N-methylpyridinium
+is_a: [FB]_008075 ! Alkaloids
+
+[Term]
+id: [FB]_07272
+name: Naringenin
+is_a: [FB]_008050 ! Flavanones
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_07273
+name: Norfuraneol
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07274
+name: P-Coumaric_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07275
+name: Pentadecanoic_acid
+is_a: [FB]_008098 ! Fatty_Acids_and_Conjugates
+relationship: [FB]_00422 [FB]_0005 ! Dairy
+
+[Term]
+id: [FB]_07276
+name: Phenyl-acetyl-L-glutamine
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07277
+name: Phloretin
+is_a: [FB]_008057 ! Dihydrochalcones
+relationship: [FB]_00422 [FB]_0076 ! apple
+
+[Term]
+id: [FB]_07278
+name: Proline-betaine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+relationship: [FB]_00422 [FB]_0060 ! Citrus
+
+[Term]
+id: [FB]_07279
+name: Protocatechuic_acid
+is_a: [FB]_01501 ! Biomarkers
+
+[Term]
+id: [FB]_07280
+name: Pyrogallol
+is_a: [FB]_008046 ! Phenols
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07281
+name: Quercetin
+is_a: [FB]_008094 ! Flavonol
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07282
+name: Quercetin-3-O-beta-D-glucuronide
+is_a: [FB]_008094 ! Flavonol
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07283
+name: Resveratrol
+is_a: [FB]_008060 ! Stilbenoids
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_07284
+name: Rhamnitol
+is_a: [FB]_008095 ! Carbohydrates_and_Carbohydrate_Conjugates
+relationship: [FB]_00422 [FB]_0076 ! apple
+
+[Term]
+id: [FB]_07285
+name: S-allylcysteine
+is_a: [FB]_008073 ! Amino_Acid_and_Derivatives
+
+[Term]
+id: [FB]_07286
+name: Sinapic_acid
+is_a: [FB]_008044 ! Hydroxycinnamic_Acids
+
+[Term]
+id: [FB]_07287
+name: Sucrose
+is_a: [FB]_008095 ! Carbohydrates_and_Carbohydrate_Conjugates
+relationship: [FB]_00422 [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07288
+name: Sulforaphane
+is_a: [FB]_008067 ! Glucosinolates
+relationship: [FB]_00422 [FB]_0086 ! Cruciferous
+
+[Term]
+id: [FB]_07289
+name: Syringic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0049 ! Fruits
+relationship: [FB]_00422 [FB]_0050 ! Vegetables
+
+[Term]
+id: [FB]_07290
+name: Tartarate
+is_a: [FB]_008101 ! Beta_Hydroxy_Acids_and_Derivatives
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_008103 ! Grapes
+
+[Term]
+id: [FB]_07291
+name: Taurine
+is_a: [FB]_008100 ! Organosulfonic_Acids_and_Derivatives
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+
+[Term]
+id: [FB]_07292
+name: Theobromine
+is_a: [FB]_008069 ! Xanthines
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0027 ! coffee
+
+[Term]
+id: [FB]_07293
+name: Trigonelline
+is_a: [FB]_008075 ! Alkaloids
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_00898 ! Soy
+relationship: [FB]_00422 [FB]_0136 ! Legumes
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07294
+name: Trimethylamine-N-oxide
+is_a: [FB]_008099 ! Aminoxides
+relationship: [FB]_00422 [FB]_0174 ! Fish
+relationship: [FB]_00422 [FB]_0215 ! Seafood
+
+[Term]
+id: [FB]_07295
+name: Umbelliferone
+is_a: [FB]_008054 ! Hydroxycoumarins
+
+[Term]
+id: [FB]_07296
+name: Urolithin_A
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07297
+name: Urolithin_B
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07298
+name: Urolithin_C
+is_a: [FB]_008058 ! Urolithins
+relationship: [FB]_00422 [FB]_0051 ! Berries
+relationship: [FB]_00422 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07300
+name: Vanillic_acid
+is_a: [FB]_008042 ! Hidroxybenzoic_Acids
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0027 ! coffee
+relationship: [FB]_00422 [FB]_0046 ! olive_oil
+relationship: [FB]_00422 [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07301
+name: Vitamin_B12
+is_a: [FB]_008070 ! Vitamins
+relationship: [FB]_00422 [FB]_0005 ! Dairy
+relationship: [FB]_00422 [FB]_0035 ! egg
+relationship: [FB]_00422 [FB]_0174 ! Fish
+relationship: [FB]_00422 [FB]_0186 ! Poultry
+relationship: [FB]_00422 [FB]_0193 ! Red_Meat
+relationship: [FB]_00422 [FB]_0215 ! Seafood
+
+[Term]
+id: [FB]_07501
+name: Coca_Cola_Zero
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07502
+name: Coca_Cola_Light
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07503
+name: Pepsi_Max
+is_a: [FB]_00539 ! Diet_Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07504
+name: Coca_Cola
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07505
+name: Pepsi
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07506
+name: Fanta
+is_a: [FB]_00538 ! Carbonated_Soft_Drink
+
+[Term]
+id: [FB]_07508
+name: Recipes
+is_a: [FB]_0001 ! Foods
+
+[Typedef]
+id: [FB]_00422
+name: BiomarkerOf
+range: [FB]_0001 ! Foods
+inverse_of: [FB]_00423 ! hasBiomarker
+
+[Typedef]
+id: [FB]_00423
+name: hasBiomarker
+domain: [FB]_0001 ! Foods
+
+[Typedef]
+id: [FB]_00424
+name: Contains
+domain: [FB]_0001 ! Foods
+inverse_of: [FB]_00425 ! IsIngredientOf
+
+[Typedef]
+id: [FB]_00425
+name: IsIngredientOf
+range: [FB]_0001 ! Foods
+
