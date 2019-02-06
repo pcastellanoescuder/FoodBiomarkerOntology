@@ -1555,7 +1555,7 @@ is_a: [FB]_0078 ! Tropical_Fruits
 [Term]
 id: [FB]_0085
 name: pomegranate
-is_a: [FB]_0078 ! Tropical_Fruits
+is_a: [FB]_0051 ! Berries
 
 [Term]
 id: [FB]_0086
