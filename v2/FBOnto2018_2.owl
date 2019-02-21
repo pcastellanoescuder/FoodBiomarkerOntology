@@ -6814,6 +6814,42 @@
         <ObjectProperty IRI="#[FB]_00424"/>
         <ObjectProperty IRI="#[FB]_00425"/>
     </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#[FB]_00422"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#[FB]_00423"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#[FB]_00424"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#[FB]_00425"/>
+    </FunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#[FB]_00422"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#[FB]_00423"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#[FB]_00424"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#[FB]_00425"/>
+    </SymmetricObjectProperty>
+    <ReflexiveObjectProperty>
+        <ObjectProperty IRI="#[FB]_00422"/>
+    </ReflexiveObjectProperty>
+    <ReflexiveObjectProperty>
+        <ObjectProperty IRI="#[FB]_00423"/>
+    </ReflexiveObjectProperty>
+    <ReflexiveObjectProperty>
+        <ObjectProperty IRI="#[FB]_00424"/>
+    </ReflexiveObjectProperty>
+    <ReflexiveObjectProperty>
+        <ObjectProperty IRI="#[FB]_00425"/>
+    </ReflexiveObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#[FB]_00423"/>
         <Class IRI="#[FB]_0001"/>
