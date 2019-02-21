@@ -2928,21 +2928,33 @@ is_a: [FB]_0001 ! Foods
 id: [FB]_00422
 name: BiomarkerOf
 range: [FB]_0001 ! Foods
+is_reflexive: true
+is_symmetric: true
+is_functional: true
 inverse_of: [FB]_00423 ! hasBiomarker
 
 [Typedef]
 id: [FB]_00423
 name: hasBiomarker
 domain: [FB]_0001 ! Foods
+is_reflexive: true
+is_symmetric: true
+is_functional: true
 
 [Typedef]
 id: [FB]_00424
 name: Contains
 domain: [FB]_0001 ! Foods
+is_reflexive: true
+is_symmetric: true
+is_functional: true
 inverse_of: [FB]_00425 ! IsIngredientOf
 
 [Typedef]
 id: [FB]_00425
 name: IsIngredientOf
 range: [FB]_0001 ! Foods
+is_reflexive: true
+is_symmetric: true
+is_functional: true
 
