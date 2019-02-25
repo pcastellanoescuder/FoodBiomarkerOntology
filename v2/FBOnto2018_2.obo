@@ -2924,6 +2924,21 @@ id: [FB]_07508
 name: Recipes
 is_a: [FB]_0001 ! Foods
 
+[Term]
+id: [FB]_07509
+name: toast
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_07510
+name: whole_bread
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07511
+name: whole_toast
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
 [Typedef]
 id: [FB]_00422
 name: BiomarkerOf

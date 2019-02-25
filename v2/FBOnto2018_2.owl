@@ -432,6 +432,9 @@
         <Class IRI="#[FB]_007973"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_07510"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007985"/>
     </Declaration>
     <Declaration>
@@ -577,6 +580,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_007982"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07511"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07208"/>
@@ -1372,6 +1378,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[FB]_07509"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07281"/>
@@ -6806,6 +6815,18 @@
         <Class IRI="#[FB]_07508"/>
         <Class IRI="#[FB]_0001"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07509"/>
+        <Class IRI="#[FB]_0141"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07510"/>
+        <Class IRI="#[FB]_0145"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07511"/>
+        <Class IRI="#[FB]_0145"/>
+    </SubClassOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="#[FB]_00422"/>
         <ObjectProperty IRI="#[FB]_00423"/>
@@ -10430,6 +10451,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07508</IRI>
         <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Recipes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07509</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">toast</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07510</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">whole_bread</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07511</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">whole_toast</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
