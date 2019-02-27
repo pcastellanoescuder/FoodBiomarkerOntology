@@ -579,10 +579,10 @@
         <Class IRI="#[FB]_007970"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_007982"/>
+        <Class IRI="#[FB]_07511"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_07511"/>
+        <Class IRI="#[FB]_007982"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_07208"/>
@@ -1329,10 +1329,10 @@
         <Class IRI="#[FB]_07270"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_07282"/>
+        <Class IRI="#[FB]_0007"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_0007"/>
+        <Class IRI="#[FB]_07282"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_0019"/>
@@ -3134,6 +3134,13 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#[FB]_00424"/>
             <Class IRI="#[FB]_0050"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_007971"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00424"/>
+            <Class IRI="#[FB]_00898"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>

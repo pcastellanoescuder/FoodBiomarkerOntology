@@ -777,6 +777,7 @@ id: [FB]_007971
 name: sushi
 is_a: [FB]_07508 ! Recipes
 relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_00898 ! Soy
 relationship: [FB]_00424 [FB]_0144 ! rice
 relationship: [FB]_00424 [FB]_0174 ! Fish
 
