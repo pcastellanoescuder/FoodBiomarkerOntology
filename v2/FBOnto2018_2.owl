@@ -528,6 +528,9 @@
         <Class IRI="#[FB]_01501"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#[FB]_07512"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#[FB]_007983"/>
     </Declaration>
     <Declaration>
@@ -912,9 +915,6 @@
         <Class IRI="#[FB]_008156"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[FB]_008144"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#[FB]_008132"/>
     </Declaration>
     <Declaration>
@@ -949,9 +949,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008157"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#[FB]_008145"/>
     </Declaration>
     <Declaration>
         <Class IRI="#[FB]_008133"/>
@@ -4527,112 +4524,6 @@
         <Class IRI="#[FB]_0145"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <Class IRI="#[FB]_008102"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0002"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0023"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0027"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0028"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0049"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0050"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008144"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0151"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <Class IRI="#[FB]_008102"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0002"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0023"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0027"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0028"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0049"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0050"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[FB]_008145"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[FB]_00422"/>
-            <Class IRI="#[FB]_0151"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#[FB]_008150"/>
         <Class IRI="#[FB]_01501"/>
     </SubClassOf>
@@ -6834,6 +6725,38 @@
         <Class IRI="#[FB]_07511"/>
         <Class IRI="#[FB]_0145"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07512"/>
+        <Class IRI="#[FB]_008102"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07512"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0002"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07512"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0023"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07512"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0028"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[FB]_07512"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#[FB]_00422"/>
+            <Class IRI="#[FB]_0049"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="#[FB]_00422"/>
         <ObjectProperty IRI="#[FB]_00423"/>
@@ -8202,12 +8125,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008085</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3,4-Dihydroxyphenyl-gamma-valerolactone</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3,4-Dihydroxyphenyl-γ-valerolactone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008087</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3,4-Dihydroxyphenyl-gamma-valerolactone_3_sulfate</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3,4-Dihydroxyphenyl-γ-valerolactone_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8488,16 +8411,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_008143</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">barley</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[FB]_008144</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dihydrophenylvalerolactone_3_glucuronide</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[FB]_008145</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dihydrophenylvalerolactone_4_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -10473,6 +10386,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#[FB]_07511</IRI>
         <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">whole_toast</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[FB]_07512</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3,4-Dihydroxyphenyl-γ-valerolactone_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

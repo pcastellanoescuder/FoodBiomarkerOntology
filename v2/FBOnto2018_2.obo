@@ -1111,7 +1111,7 @@ is_a: [FB]_008102 ! Valerolactones
 
 [Term]
 id: [FB]_008085
-name: 3,4-Dihydroxyphenyl-gamma-valerolactone
+name: 3,4-Dihydroxyphenyl-γ-valerolactone
 is_a: [FB]_008102 ! Valerolactones
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 relationship: [FB]_00422 [FB]_0023 ! wine
@@ -1120,7 +1120,7 @@ relationship: [FB]_00422 [FB]_0049 ! Fruits
 
 [Term]
 id: [FB]_008087
-name: 3,4-Dihydroxyphenyl-gamma-valerolactone_3_sulfate
+name: 3,4-Dihydroxyphenyl-γ-valerolactone_sulfate
 is_a: [FB]_008102 ! Valerolactones
 relationship: [FB]_00422 [FB]_0002 ! cocoa
 relationship: [FB]_00422 [FB]_0023 ! wine
@@ -1476,30 +1476,6 @@ is_a: [FB]_0145 ! Whole_Grain_Cereals
 id: [FB]_008143
 name: barley
 is_a: [FB]_0145 ! Whole_Grain_Cereals
-
-[Term]
-id: [FB]_008144
-name: Dihydrophenylvalerolactone_3_glucuronide
-is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0151 ! Nuts
-
-[Term]
-id: [FB]_008145
-name: Dihydrophenylvalerolactone_4_sulfate
-is_a: [FB]_008102 ! Valerolactones
-relationship: [FB]_00422 [FB]_0002 ! cocoa
-relationship: [FB]_00422 [FB]_0023 ! wine
-relationship: [FB]_00422 [FB]_0027 ! coffee
-relationship: [FB]_00422 [FB]_0028 ! Tea
-relationship: [FB]_00422 [FB]_0049 ! Fruits
-relationship: [FB]_00422 [FB]_0050 ! Vegetables
-relationship: [FB]_00422 [FB]_0151 ! Nuts
 
 [Term]
 id: [FB]_008150
@@ -2939,6 +2915,15 @@ is_a: [FB]_0145 ! Whole_Grain_Cereals
 id: [FB]_07511
 name: whole_toast
 is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07512
+name: 3,4-Dihydroxyphenyl-γ-valerolactone_glucuronide
+is_a: [FB]_008102 ! Valerolactones
+relationship: [FB]_00422 [FB]_0002 ! cocoa
+relationship: [FB]_00422 [FB]_0023 ! wine
+relationship: [FB]_00422 [FB]_0028 ! Tea
+relationship: [FB]_00422 [FB]_0049 ! Fruits
 
 [Typedef]
 id: [FB]_00422
