@@ -38,7 +38,7 @@ is_a: [FB]_0020 ! Milk_Products
 
 [Term]
 id: [FB]_0008
-name: semiskimmed_milk
+name: semi_skimmed_milk
 is_a: [FB]_0020 ! Milk_Products
 
 [Term]
@@ -2924,6 +2924,207 @@ relationship: [FB]_00422 [FB]_0002 ! cocoa
 relationship: [FB]_00422 [FB]_0023 ! wine
 relationship: [FB]_00422 [FB]_0028 ! Tea
 relationship: [FB]_00422 [FB]_0049 ! Fruits
+
+[Term]
+id: [FB]_07513
+name: Water
+is_a: [FB]_0011 ! Drinks
+
+[Term]
+id: [FB]_07514
+name: water
+is_a: [FB]_07513 ! Water
+
+[Term]
+id: [FB]_07515
+name: sparkling_water
+is_a: [FB]_07513 ! Water
+
+[Term]
+id: [FB]_07516
+name: flavored_water
+is_a: [FB]_07513 ! Water
+
+[Term]
+id: [FB]_07517
+name: ale
+is_a: [FB]_0022 ! beer
+
+[Term]
+id: [FB]_07518
+name: pint
+is_a: [FB]_0022 ! beer
+
+[Term]
+id: [FB]_07519
+name: ipa
+is_a: [FB]_0022 ! beer
+
+[Term]
+id: [FB]_07520
+name: almonds
+is_a: [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07521
+name: almond_milk
+is_a: [FB]_07520 ! almonds
+
+[Term]
+id: [FB]_07522
+name: crisp
+is_a: [FB]_0115 ! potato
+
+[Term]
+id: [FB]_07523
+name: white_bread
+is_a: [FB]_0270 ! bread
+
+[Term]
+id: [FB]_07524
+name: wholemeal_bread
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07525
+name: brown_bread
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07526
+name: coleslaw
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0088 ! cabbage
+relationship: [FB]_00424 [FB]_0094 ! carrot
+
+[Term]
+id: [FB]_07527
+name: diet_coke
+is_a: [FB]_07501 ! Coca_Cola_Zero
+
+[Term]
+id: [FB]_07528
+name: weetabix
+is_a: [FB]_0148 ! wholegrain
+
+[Term]
+id: [FB]_07529
+name: gravy
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0050 ! Vegetables
+relationship: [FB]_00424 [FB]_0172 ! Meat
+
+[Term]
+id: [FB]_07530
+name: nectarine
+is_a: [FB]_0065 ! Drupes
+
+[Term]
+id: [FB]_07531
+name: sweet_potato
+is_a: [FB]_0130 ! Tubers
+
+[Term]
+id: [FB]_07532
+name: orange_juice
+is_a: [FB]_0064 ! orange
+
+[Term]
+id: [FB]_07533
+name: squash
+is_a: [FB]_0092 ! Dark_Yellow_Vegetables
+
+[Term]
+id: [FB]_07534
+name: peanuts
+is_a: [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07535
+name: peanut_butter
+is_a: [FB]_07534 ! peanuts
+
+[Term]
+id: [FB]_07536
+name: muesli
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0049 ! Fruits
+relationship: [FB]_00424 [FB]_0140 ! Cereals
+relationship: [FB]_00424 [FB]_0151 ! Nuts
+
+[Term]
+id: [FB]_07537
+name: greek_yoghurt
+is_a: [FB]_0012 ! yoghurt
+
+[Term]
+id: [FB]_07538
+name: natural_yoghurt
+is_a: [FB]_0012 ! yoghurt
+
+[Term]
+id: [FB]_07539
+name: chicken_curry
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_007983 ! curry
+relationship: [FB]_00424 [FB]_0188 ! chicken
+
+[Term]
+id: [FB]_07540
+name: garlic_bread
+is_a: [FB]_07508 ! Recipes
+relationship: [FB]_00424 [FB]_0124 ! garlic
+relationship: [FB]_00424 [FB]_0270 ! bread
+
+[Term]
+id: [FB]_07541
+name: red_wine
+is_a: [FB]_0023 ! wine
+
+[Term]
+id: [FB]_07542
+name: apple_juice
+is_a: [FB]_0076 ! apple
+
+[Term]
+id: [FB]_07543
+name: whole_milk
+is_a: [FB]_0007 ! milk
+
+[Term]
+id: [FB]_07544
+name: black_coffee
+is_a: [FB]_0026 ! Coffee_Products
+
+[Term]
+id: [FB]_07545
+name: brown_rice
+is_a: [FB]_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: [FB]_07546
+name: couscous
+is_a: [FB]_0141 ! Refined_Grain_Cereals
+
+[Term]
+id: [FB]_07547
+name: rice_cake
+is_a: [FB]_0144 ! rice
+
+[Term]
+id: [FB]_07548
+name: cinnamon
+is_a: [FB]_0123 ! Spices
+
+[Term]
+id: [FB]_07549
+name: cheddar
+is_a: [FB]_0010 ! cheese
+
+[Term]
+id: [FB]_07550
+name: philadelphia
+is_a: [FB]_0010 ! cheese
 
 [Typedef]
 id: [FB]_00422
