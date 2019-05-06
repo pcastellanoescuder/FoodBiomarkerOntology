@@ -1,0 +1,1043 @@
+Date: 2019-05-06 17:24:56
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/v4/FBOnto2018_4.owl
+Worksheet source: /home/pol/Escritorio/FBOnto/FBOnto_paper/Annotation/two.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/rules_2.json
+
+# Cell range: (two!C2:C517) Comment: ""
+# Class: @A*
+#     SubClassOf: BiomarkerOf some @C*
+
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A2.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A3.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A4.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A5.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A6.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'two'!A7.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A8.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A9.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A10.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A11.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A12.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylcatechin_5-glucuronide  # Generated from value "3'-methylcatechin_5-glucuronide" located at cell 'two'!A13.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A14.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A15.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A16.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A17.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A18.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'two'!A19.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A20.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A21.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A22.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A23.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A24.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_5-glucuronide  # Generated from value "3'-methylepicatechin_5-glucuronide" located at cell 'two'!A25.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A26.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A27.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A28.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A29.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A30.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'two'!A31.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A32.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A33.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A34.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A35.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A36.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'two'!A37.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A38.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A39.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A40.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A41.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A42.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'two'!A43.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A44.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A45.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A46.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A47.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A48.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'two'!A49.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A50.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A51.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A52.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A53.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A54.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'two'!A55.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A56.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A57.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A58.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A59.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A60.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'two'!A61.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A62.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A63.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A64.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A65.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A66.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'two'!A67.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A68.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A69.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A70.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A71.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A72.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'two'!A73.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A74.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A75.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A76.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A77.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A78.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_5-glucuronide  # Generated from value "epicatechin_5-glucuronide" located at cell 'two'!A79.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A80.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A81.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A82.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A83.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A84.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'two'!A85.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A86.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A87.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A88.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A89.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A90.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'two'!A91.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A92.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A93.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A94.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A95.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A96.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'two'!A97.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A98.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A99.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A100.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A101.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A102.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: catechin_5-sulfate  # Generated from value "catechin_5-sulfate" located at cell 'two'!A103.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A104.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A105.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A106.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A107.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A108.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'two'!A109.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A110.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A111.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A112.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A113.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A114.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'two'!A115.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A116.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A117.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A118.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A119.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A120.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'two'!A121.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A122.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A123.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A124.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A125.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A126.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'two'!A127.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A128.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A129.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A130.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A131.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A132.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'two'!A133.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A134.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A135.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A136.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A137.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A138.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A139.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A140.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A141.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A142.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'two'!A143.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A144.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A145.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A146.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A147.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A148.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A149.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A150.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A151.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A152.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'two'!A153.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A154.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A155.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A156.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A157.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A158.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A159.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A160.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A161.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A162.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'two'!A163.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A164.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A165.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A166.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A167.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A168.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A169.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A170.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A171.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A172.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'two'!A173.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A174.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A175.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A176.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A177.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A178.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'two'!A179.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A180.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A181.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A182.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A183.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A184.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'two'!A185.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A186.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A187.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A188.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A189.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A190.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A191.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A192.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A193.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A194.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A195.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A196.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'two'!A197.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A198.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A199.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A200.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A201.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A202.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'two'!A203.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A204.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A205.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A206.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A207.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A208.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A209.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A210.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A211.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A212.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A213.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A214.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A215.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A216.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A217.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A218.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A219.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A220.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A221.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A222.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'two'!A223.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A224.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A225.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A226.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A227.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A228.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A229.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A230.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A231.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A232.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A233.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A234.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A235.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A236.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A237.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A238.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A239.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A240.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A241.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A242.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'two'!A243.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A244.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A245.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A246.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A247.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A248.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A249.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A250.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A251.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A252.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'two'!A253.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A254.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A255.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A256.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A257.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A258.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A259.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A260.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A261.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A262.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'two'!A263.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A264.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A265.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A266.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A267.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A268.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A269.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A270.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A271.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A272.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'two'!A273.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A274.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A275.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A276.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A277.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A278.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A279.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A280.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A281.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A282.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'two'!A283.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A284.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A285.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A286.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A287.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A288.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A289.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A290.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A291.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A292.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'two'!A293.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: hesperetin_5-glucuronide  # Generated from value "hesperetin_5-glucuronide" located at cell 'two'!A294.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: hesperetin_5-glucuronide  # Generated from value "hesperetin_5-glucuronide" located at cell 'two'!A295.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: hesperetin_3'-sulfate  # Generated from value "hesperetin_3'-sulfate" located at cell 'two'!A296.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: hesperetin_3'-sulfate  # Generated from value "hesperetin_3'-sulfate" located at cell 'two'!A297.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: hesperetin_5-sulfate  # Generated from value "hesperetin_5-sulfate" located at cell 'two'!A298.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: hesperetin_5-sulfate  # Generated from value "hesperetin_5-sulfate" located at cell 'two'!A299.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A300.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A301.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A302.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A303.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A304.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A305.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A306.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A307.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A308.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A309.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A310.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A311.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A312.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A313.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A314.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A315.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A316.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A317.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A318.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'two'!A319.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A320.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A321.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A322.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A323.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A324.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A325.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A326.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A327.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A328.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A329.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A330.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A331.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A332.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A333.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A334.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A335.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A336.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A337.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A338.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'two'!A339.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A340.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A341.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A342.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A343.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A344.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'two'!A345.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A346.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A347.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A348.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A349.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A350.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'two'!A351.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A352.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A353.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A354.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A355.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A356.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'two'!A357.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A358.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A359.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A360.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A361.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A362.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'two'!A363.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A364.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A365.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A366.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A367.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A368.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'two'!A369.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A370.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A371.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A372.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A373.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A374.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'two'!A375.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A376.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A377.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A378.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A379.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A380.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A381.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A382.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A383.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A384.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'two'!A385.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A386.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A387.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A388.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A389.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A390.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A391.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A392.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A393.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A394.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'two'!A395.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A396.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A397.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A398.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A399.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A400.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A401.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A402.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A403.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A404.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 4-methylgallic_acid_3-glucuronide  # Generated from value "4-methylgallic_acid_3-glucuronide" located at cell 'two'!A405.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A406.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A407.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A408.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A409.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A410.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A411.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A412.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A413.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A414.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'two'!A415.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A416.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A417.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A418.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A419.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A420.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A421.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A422.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A423.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A424.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 3-methylgallic_acid_5-sulfate  # Generated from value "3-methylgallic_acid_5-sulfate" located at cell 'two'!A425.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A426.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A427.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A428.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A429.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A430.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A431.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A432.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A433.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A434.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'two'!A435.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A436.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A437.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A438.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A439.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A440.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A441.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A442.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A443.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A444.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'two'!A445.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A446.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A447.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A448.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A449.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A450.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A451.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A452.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A453.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A454.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'two'!A455.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A456.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A457.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A458.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A459.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A460.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A461.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A462.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A463.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A464.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'two'!A465.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A466.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A467.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A468.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A469.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A470.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A471.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A472.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A473.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A474.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 1-methylpyrogallol_2-sulfate  # Generated from value "1-methylpyrogallol_2-sulfate" located at cell 'two'!A475.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A476.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A477.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A478.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A479.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A480.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A481.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A482.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A483.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A484.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'two'!A485.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A486.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A487.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A488.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A489.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A490.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A491.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A492.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A493.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A494.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'two'!A495.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: naringenin_4'-glucuronide  # Generated from value "naringenin_4'-glucuronide" located at cell 'two'!A496.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: naringenin_4'-glucuronide  # Generated from value "naringenin_4'-glucuronide" located at cell 'two'!A497.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: naringenin_5-glucuronide  # Generated from value "naringenin_5-glucuronide" located at cell 'two'!A498.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: naringenin_5-glucuronide  # Generated from value "naringenin_5-glucuronide" located at cell 'two'!A499.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: naringenin_4'-sulfate  # Generated from value "naringenin_4'-sulfate" located at cell 'two'!A500.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: naringenin_4'-sulfate  # Generated from value "naringenin_4'-sulfate" located at cell 'two'!A501.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: naringenin_5-sulfate  # Generated from value "naringenin_5-sulfate" located at cell 'two'!A502.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: naringenin_5-sulfate  # Generated from value "naringenin_5-sulfate" located at cell 'two'!A503.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: naringenin_7-sulfate  # Generated from value "naringenin_7-sulfate" located at cell 'two'!A504.
+   SubClassOf: (BiomarkerOf SOME Citrus)
+Class: naringenin_7-sulfate  # Generated from value "naringenin_7-sulfate" located at cell 'two'!A505.
+   SubClassOf: (BiomarkerOf SOME tomato)
+Class: urolithin_a_3-glucuronide  # Generated from value "urolithin_a_3-glucuronide" located at cell 'two'!A506.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: urolithin_a_3-glucuronide  # Generated from value "urolithin_a_3-glucuronide" located at cell 'two'!A507.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: urolithin_a_3-glucuronide  # Generated from value "urolithin_a_3-glucuronide" located at cell 'two'!A508.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: urolithin_a_8-glucuronide  # Generated from value "urolithin_a_8-glucuronide" located at cell 'two'!A509.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: urolithin_a_8-glucuronide  # Generated from value "urolithin_a_8-glucuronide" located at cell 'two'!A510.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: urolithin_a_8-glucuronide  # Generated from value "urolithin_a_8-glucuronide" located at cell 'two'!A511.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: urolithin_a_3-sulfate  # Generated from value "urolithin_a_3-sulfate" located at cell 'two'!A512.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: urolithin_a_3-sulfate  # Generated from value "urolithin_a_3-sulfate" located at cell 'two'!A513.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: urolithin_a_3-sulfate  # Generated from value "urolithin_a_3-sulfate" located at cell 'two'!A514.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: urolithin_a_8-sulfate  # Generated from value "urolithin_a_8-sulfate" located at cell 'two'!A515.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: urolithin_a_8-sulfate  # Generated from value "urolithin_a_8-sulfate" located at cell 'two'!A516.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: urolithin_a_8-sulfate  # Generated from value "urolithin_a_8-sulfate" located at cell 'two'!A517.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+
+===========================================================================================================

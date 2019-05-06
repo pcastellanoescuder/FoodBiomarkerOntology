@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"one","startColumn":"A","endColumn":"B","startRow":"2","endRow":"75","comment":"","rule":"Class: @A*(rdfs:label\u003d(@A*)) \n    SubClassOf: @B*","active":true}]}
