@@ -1041,3 +1041,768 @@ Class: urolithin_a_8-sulfate  # Generated from value "urolithin_a_8-sulfate" loc
    SubClassOf: (BiomarkerOf SOME red_wine)
 
 ===========================================================================================================
+Date: 2019-05-07 11:48:53
+Ontology source: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/v4/FBOnto2018_4.owl
+Worksheet source: /Users/pol/Dropbox/FBOnto/FBOnto_paper/Annotation/change_names.xlsx
+Transformation rules: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!C2:C50) Comment: ""
+# Class: @B*(rdfs:label=(@C*))
+
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!B2.
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!B3.
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!B4.
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!B5.
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!B6.
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!B7.
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!B8.
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!B9.
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!B10.
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!B11.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B12.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!B13.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!B14.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!B15.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!B16.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B17.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!B18.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B19.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B20.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B21.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B22.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B23.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B24.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B25.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B26.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B27.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B28.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B29.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!B30.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B31.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B32.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B33.
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!B34.
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!B35.
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!B36.
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!B37.
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!B38.
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!B39.
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!B40.
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!B41.
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!B42.
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!B43.
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!B44.
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!B45.
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!B46.
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!B47.
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!B48.
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!B49.
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!B50.
+
+===========================================================================================================
+Date: 2019-05-07 11:52:15
+Ontology source: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/v4/FBOnto2018_4.owl
+Worksheet source: /Users/pol/Dropbox/FBOnto/FBOnto_paper/Annotation/change_names.xlsx
+Transformation rules: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!B2:C50) Comment: ""
+# Class: @B*(rdfs:label=(@C*))
+
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!B2.
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!B3.
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!B4.
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!B5.
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!B6.
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!B7.
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!B8.
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!B9.
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!B10.
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!B11.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B12.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!B13.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!B14.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!B15.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!B16.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B17.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!B18.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B19.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B20.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B21.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B22.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B23.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B24.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B25.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B26.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B27.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B28.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B29.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!B30.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B31.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B32.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B33.
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!B34.
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!B35.
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!B36.
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!B37.
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!B38.
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!B39.
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!B40.
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!B41.
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!B42.
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!B43.
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!B44.
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!B45.
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!B46.
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!B47.
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!B48.
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!B49.
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!B50.
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!B2.
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!B3.
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!B4.
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!B5.
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!B6.
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!B7.
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!B8.
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!B9.
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!B10.
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!B11.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B12.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!B13.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!B14.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!B15.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!B16.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B17.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!B18.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B19.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B20.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B21.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B22.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B23.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B24.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B25.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B26.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B27.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B28.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B29.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!B30.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B31.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B32.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B33.
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!B34.
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!B35.
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!B36.
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!B37.
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!B38.
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!B39.
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!B40.
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!B41.
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!B42.
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!B43.
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!B44.
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!B45.
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!B46.
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!B47.
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!B48.
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!B49.
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!B50.
+
+===========================================================================================================
+Date: 2019-05-07 15:39:37
+Ontology source: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/v4/FBOnto2018_4.owl
+Worksheet source: /Users/pol/Dropbox/FBOnto/FBOnto_paper/Annotation/change_names.xlsx
+Transformation rules: /Users/pol/Dropbox/Cook2Health_Aberystwyth/Ontology/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!B2:C50) Comment: ""
+# Class: @B*(rdfs:label=(@C*))
+
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!B2.
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!B3.
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!B4.
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!B5.
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!B6.
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!B7.
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!B8.
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!B9.
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!B10.
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!B11.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B12.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!B13.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!B14.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!B15.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!B16.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B17.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!B18.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B19.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B20.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B21.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B22.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B23.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B24.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B25.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B26.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B27.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B28.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B29.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!B30.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B31.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B32.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B33.
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!B34.
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!B35.
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!B36.
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!B37.
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!B38.
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!B39.
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!B40.
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!B41.
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!B42.
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!B43.
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!B44.
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!B45.
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!B46.
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!B47.
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!B48.
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!B49.
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!B50.
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!B2.
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!B3.
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!B4.
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!B5.
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!B6.
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!B7.
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!B8.
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!B9.
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!B10.
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!B11.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B12.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!B13.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!B14.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!B15.
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!B16.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B17.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!B18.
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B19.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B20.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B21.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B22.
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B23.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B24.
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B25.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B26.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!B27.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!B28.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!B29.
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!B30.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!B31.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!B32.
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!B33.
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!B34.
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!B35.
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!B36.
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!B37.
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!B38.
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!B39.
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!B40.
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!B41.
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!B42.
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!B43.
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!B44.
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!B45.
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!B46.
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!B47.
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!B48.
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!B49.
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!B50.
+
+===========================================================================================================
+Date: 2019-05-07 16:01:06
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v4/FBOnto2018_4.owl
+Worksheet source: /Users/pol/Dropbox/FBOnto/FBOnto_paper/Annotation/change_names.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (Sheet1!A2:D50) Comment: ""
+# Class: @A*(rdfs:label=(@C*)) 
+#     SubClassOf: @D*
+
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A5.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A6.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A7.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!A10.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Valerolactones
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!A13.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!A16.
+   SubClassOf: Phenols
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A17.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A18.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A19.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A20.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!A21.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!A23.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!A24.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!A25.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!A26.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A27.
+   SubClassOf: Valerolactones
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!A28.
+   SubClassOf: Maillard Product
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!A29.
+   SubClassOf: Xanthines
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!A30.
+   SubClassOf: Stilbenoids
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!A31.
+   SubClassOf: Isoflavones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!A32.
+   SubClassOf: Isoflavones
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!A33.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!A34.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!A35.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!A36.
+   SubClassOf: Stilbenoids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!A37.
+   SubClassOf: Flavanols
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!A38.
+   SubClassOf: Flavanols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!A39.
+   SubClassOf: Xanthines
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!A40.
+   SubClassOf: Anthocyanins
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!A41.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!A42.
+   SubClassOf: Stilbenoids
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!A43.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!A44.
+   SubClassOf: Stilbenoids
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!A45.
+   SubClassOf: Phenols
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!A46.
+   SubClassOf: Phenols
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!A47.
+   SubClassOf: Phenols
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!A48.
+   SubClassOf: Phenols
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!A49.
+   SubClassOf: Xanthines
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!A50.
+   SubClassOf: Stilbenoids
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A5.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A6.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A7.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!A10.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Valerolactones
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!A13.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!A16.
+   SubClassOf: Phenols
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A17.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A18.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A19.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A20.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!A21.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!A23.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!A24.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!A25.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!A26.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A27.
+   SubClassOf: Valerolactones
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!A28.
+   SubClassOf: Maillard Product
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!A29.
+   SubClassOf: Xanthines
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!A30.
+   SubClassOf: Stilbenoids
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!A31.
+   SubClassOf: Isoflavones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!A32.
+   SubClassOf: Isoflavones
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!A33.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!A34.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!A35.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!A36.
+   SubClassOf: Stilbenoids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!A37.
+   SubClassOf: Flavanols
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!A38.
+   SubClassOf: Flavanols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!A39.
+   SubClassOf: Xanthines
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!A40.
+   SubClassOf: Anthocyanins
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!A41.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!A42.
+   SubClassOf: Stilbenoids
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!A43.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!A44.
+   SubClassOf: Stilbenoids
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!A45.
+   SubClassOf: Phenols
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!A46.
+   SubClassOf: Phenols
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!A47.
+   SubClassOf: Phenols
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!A48.
+   SubClassOf: Phenols
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!A49.
+   SubClassOf: Xanthines
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!A50.
+   SubClassOf: Stilbenoids
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A5.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A6.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A7.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!A10.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Valerolactones
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!A13.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!A16.
+   SubClassOf: Phenols
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A17.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A18.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A19.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A20.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!A21.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!A23.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!A24.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!A25.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!A26.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A27.
+   SubClassOf: Valerolactones
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!A28.
+   SubClassOf: Maillard Product
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!A29.
+   SubClassOf: Xanthines
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!A30.
+   SubClassOf: Stilbenoids
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!A31.
+   SubClassOf: Isoflavones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!A32.
+   SubClassOf: Isoflavones
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!A33.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!A34.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!A35.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!A36.
+   SubClassOf: Stilbenoids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!A37.
+   SubClassOf: Flavanols
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!A38.
+   SubClassOf: Flavanols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!A39.
+   SubClassOf: Xanthines
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!A40.
+   SubClassOf: Anthocyanins
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!A41.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!A42.
+   SubClassOf: Stilbenoids
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!A43.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!A44.
+   SubClassOf: Stilbenoids
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!A45.
+   SubClassOf: Phenols
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!A46.
+   SubClassOf: Phenols
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!A47.
+   SubClassOf: Phenols
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!A48.
+   SubClassOf: Phenols
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!A49.
+   SubClassOf: Xanthines
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!A50.
+   SubClassOf: Stilbenoids
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A5.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A6.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A7.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Valerolactones
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'Sheet1'!A10.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Valerolactones
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Valerolactones
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!A13.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!A16.
+   SubClassOf: Phenols
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A17.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A18.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A19.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A20.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!A21.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!A23.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!A24.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!A25.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!A26.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A27.
+   SubClassOf: Valerolactones
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!A28.
+   SubClassOf: Maillard Product
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!A29.
+   SubClassOf: Xanthines
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!A30.
+   SubClassOf: Stilbenoids
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!A31.
+   SubClassOf: Isoflavones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!A32.
+   SubClassOf: Isoflavones
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!A33.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!A34.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!A35.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!A36.
+   SubClassOf: Stilbenoids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!A37.
+   SubClassOf: Flavanols
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!A38.
+   SubClassOf: Flavanols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!A39.
+   SubClassOf: Xanthines
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!A40.
+   SubClassOf: Anthocyanins
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!A41.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!A42.
+   SubClassOf: Stilbenoids
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!A43.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!A44.
+   SubClassOf: Stilbenoids
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!A45.
+   SubClassOf: Phenols
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!A46.
+   SubClassOf: Phenols
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!A47.
+   SubClassOf: Phenols
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!A48.
+   SubClassOf: Phenols
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!A49.
+   SubClassOf: Xanthines
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!A50.
+   SubClassOf: Stilbenoids
+
+===========================================================================================================
+Date: 2019-05-07 16:12:44
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v4/FBOnto2018_4.owl
+Worksheet source: /Users/pol/Dropbox/FBOnto/FBOnto_paper/Annotation/change_names.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (Sheet1!C2:C50) Comment: ""
+# Class: @A*(rdfs:label=(@C*)) 
+#     SubClassOf: @D*
+
+Class: 4-methylcatechol_1-glucuronide  # Generated from value "4-methylcatechol_1-glucuronide" located at cell 'Sheet1'!A2.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-glucuronide  # Generated from value "4-methylcatechol_2-glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'Sheet1'!A4.
+   SubClassOf: Phenols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'Sheet1'!A5.
+   SubClassOf: Phenols
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'Sheet1'!A6.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'Sheet1'!A7.
+   SubClassOf: Valerolactones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'Sheet1'!A8.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'Sheet1'!A9.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfatee" located at cell 'Sheet1'!A10.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A11.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'Sheet1'!A12.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'Sheet1'!A13.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'Sheet1'!A14.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Valerolactones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'Sheet1'!A16.
+   SubClassOf: Valerolactones
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'Sheet1'!A17.
+   SubClassOf: Maillard Product
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'Sheet1'!A18.
+   SubClassOf: Xanthines
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'Sheet1'!A19.
+   SubClassOf: Stilbenoids
+Class: daidzein_4'-glucuronide-7-sulfate  # Generated from value "daidzein_4'-glucuronide-7-sulfate" located at cell 'Sheet1'!A20.
+   SubClassOf: Isoflavones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'Sheet1'!A21.
+   SubClassOf: Isoflavones
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'Sheet1'!A22.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'Sheet1'!A23.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'Sheet1'!A24.
+   SubClassOf: Stilbenoids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'Sheet1'!A25.
+   SubClassOf: Stilbenoids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'Sheet1'!A26.
+   SubClassOf: Flavanols
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'Sheet1'!A27.
+   SubClassOf: Flavanols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'Sheet1'!A28.
+   SubClassOf: Xanthines
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'Sheet1'!A29.
+   SubClassOf: Anthocyanins
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'Sheet1'!A30.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'Sheet1'!A31.
+   SubClassOf: Stilbenoids
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'Sheet1'!A32.
+   SubClassOf: Stilbenoids
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'Sheet1'!A33.
+   SubClassOf: Stilbenoids
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'Sheet1'!A34.
+   SubClassOf: Phenols
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'Sheet1'!A35.
+   SubClassOf: Phenols
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'Sheet1'!A36.
+   SubClassOf: Phenols
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'Sheet1'!A37.
+   SubClassOf: Phenols
+Class: theophylline  # Generated from value "theophylline" located at cell 'Sheet1'!A38.
+   SubClassOf: Xanthines
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'Sheet1'!A39.
+   SubClassOf: Stilbenoids
+
+===========================================================================================================

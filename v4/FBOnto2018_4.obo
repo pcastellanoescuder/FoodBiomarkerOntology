@@ -4342,7 +4342,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030500
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4353,7 +4353,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030501
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_3'-glucuronide
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4364,7 +4364,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030502
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_4'-glucuronide
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4375,7 +4375,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030503
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_sulfate
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4386,7 +4386,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030504
-name: 3’,5’-dihydroxyphenyl-γ-valerolactone_glucuronide
+name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4397,7 +4397,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030505
-name: 3’,5’-dihydroxyphenyl-γ-valerolactone_sulfate
+name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4408,7 +4408,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030506
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4419,7 +4419,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030507
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_1
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4430,7 +4430,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030508
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_2
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4441,7 +4441,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030509
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_1
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4452,7 +4452,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030510
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_2
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea

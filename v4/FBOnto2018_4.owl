@@ -225,10 +225,10 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07510"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FB_030362"/>
+        <Class IRI="#FB_030471"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FB_030471"/>
+        <Class IRI="#FB_030362"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FB_030495"/>
@@ -420,10 +420,10 @@
         <Class IRI="#FB_030499"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954"/>
+        <Class IRI="#FB_030560"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FB_030560"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FB_030342"/>
@@ -1749,10 +1749,10 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008064"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0206"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0206"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07505"/>
@@ -29170,57 +29170,57 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030500</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’-dihydroxyphenyl-γ-valerolactone</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;-dihydroxyphenyl)-γ-valerolactone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030501</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’-dihydroxyphenyl-γ-valerolactone_3&apos;-glucuronide</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;-dihydroxyphenyl)-γ-valerolactone_3&apos;-glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030502</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’-dihydroxyphenyl-γ-valerolactone_4&apos;-glucuronide</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;-dihydroxyphenyl)-γ-valerolactone_4&apos;-glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030503</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’-dihydroxyphenyl-γ-valerolactone_sulfate</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;-dihydroxyphenyl)-γ-valerolactone_3&apos;-sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030504</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,5’-dihydroxyphenyl-γ-valerolactone_glucuronide</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,5&apos;-dihydroxyphenyl)-γ-valerolactone_glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030505</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,5’-dihydroxyphenyl-γ-valerolactone_sulfate</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,5&apos;-dihydroxyphenyl)-γ-valerolactone_sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030506</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’,5’-trihydroxyphenyl-γ-valerolactone</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;,5&apos;-trihydroxyphenyl)-γ-valerolactone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030507</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_1</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;,5&apos;-trihydroxyphenyl)-γ-valerolactone_3&apos;-glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030508</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_2</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;,5&apos;-trihydroxyphenyl)-γ-valerolactone_4&apos;-glucuronide</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030509</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_1</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;,5&apos;-trihydroxyphenyl)-γ-valerolactone_3&apos;-sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_030510</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_2</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">5-(3&apos;,4&apos;,5&apos;-trihydroxyphenyl)-γ-valerolactone_4&apos;-sulfate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
