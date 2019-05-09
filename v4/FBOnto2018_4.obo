@@ -4326,7 +4326,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030499
-name: 5-(4’-hydroxyphenyl)-γ-valerolactone_4'-sulfate
+name: 5-(4'-hydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -7778,6 +7778,28 @@ id: FB_08709
 name: urolithin_a_8-sulfate
 is_a: FB_008058 ! Urolithins
 relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08710
+name: 5-(4’-hydroxyphenyl)-γ-valerolactone_4'-glucuronide
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08711
+name: 5-(4’-hydroxyphenyl)-γ-valerolactone
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
 relationship: FB_00422 FB_07541 ! red_wine
 
