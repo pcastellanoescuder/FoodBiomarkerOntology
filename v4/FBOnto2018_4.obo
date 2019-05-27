@@ -44,7 +44,7 @@ is_a: FB_0017 ! Fermented_Dairy
 
 [Term]
 id: FB_0011
-name: Drinks
+name: Beverages
 is_a: FB_0001 ! Foods
 
 [Term]
@@ -60,7 +60,7 @@ is_a: FB_0018 ! No_Fermented_Dairy
 [Term]
 id: FB_0015
 name: Alcohol
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0016
@@ -105,12 +105,12 @@ is_a: FB_0021 ! Fermented_Alcohols
 [Term]
 id: FB_0024
 name: Infusion
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0027
 name: Coffee
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0028
@@ -240,12 +240,12 @@ is_a: FB_0051 ! Berries
 [Term]
 id: FB_00538
 name: Carbonated_Soft_Drink
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_00539
 name: Diet_Carbonated_Soft_Drink
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0054
@@ -6468,7 +6468,7 @@ is_a: FB_0145 ! Whole_Grain_Cereals
 [Term]
 id: FB_07513
 name: Water
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_07515
