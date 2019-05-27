@@ -495,6 +495,9 @@
         <Class IRI="#FB_030454"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FB_08719"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FB_030587"/>
     </Declaration>
     <Declaration>
@@ -28709,6 +28712,52 @@
         <Class IRI="#FB_08718"/>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008098"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <Class IRI="#FB_07556"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0013"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0035"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0076"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0167"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_08719"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0269"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00422"/>
         <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00423"/>
@@ -34632,7 +34681,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07552</IRI>
-        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cocoa</Literal>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cocoa_powder</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -35243,6 +35292,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_08718</IRI>
         <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Polyunsaturated_Fatty_Acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_08719</IRI>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">apple_pie</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

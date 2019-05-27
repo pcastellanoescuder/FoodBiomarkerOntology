@@ -6663,7 +6663,7 @@ is_a: FB_07591 ! cream_cheese
 
 [Term]
 id: FB_07552
-name: cocoa
+name: cocoa_powder
 is_a: FB_0002 ! Cacao
 
 [Term]
@@ -6900,7 +6900,7 @@ relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0093 ! beetroot
 relationship: FB_00424 FB_0170 ! sugar
 relationship: FB_00424 FB_0269 ! flour
-relationship: FB_00424 FB_07552 ! cocoa
+relationship: FB_00424 FB_07552 ! cocoa_powder
 
 [Term]
 id: FB_07591
@@ -7837,6 +7837,17 @@ is_a: FB_008098 ! Fatty_Acids
 id: FB_08718
 name: Polyunsaturated_Fatty_Acids
 is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08719
+name: apple_pie
+is_a: FB_07556 ! Bakery
+relationship: FB_00424 FB_0013 ! butter
+relationship: FB_00424 FB_0035 ! egg
+relationship: FB_00424 FB_0076 ! apple
+relationship: FB_00424 FB_0167 ! brown_sugar
+relationship: FB_00424 FB_0170 ! sugar
+relationship: FB_00424 FB_0269 ! flour
 
 [Typedef]
 id: FB_00422
