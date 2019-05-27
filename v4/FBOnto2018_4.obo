@@ -1746,7 +1746,7 @@ is_a: FB_01501 ! Biomarkers
 [Term]
 id: FB_029809
 name: Carotenoids
-is_a: FB_01501 ! Biomarkers
+is_a: FB_029823 ! Terpenes
 
 [Term]
 id: FB_029810
@@ -1756,7 +1756,7 @@ is_a: FB_01501 ! Biomarkers
 [Term]
 id: FB_029811
 name: Diketopiperazines
-is_a: FB_01501 ! Biomarkers
+is_a: FB_008073 ! Amino_Acid_Derivatives
 
 [Term]
 id: FB_029812
@@ -5791,56 +5791,56 @@ relationship: FB_00422 FB_07541 ! red_wine
 [Term]
 id: FB_030676
 name: s-allylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030677
 name: n-acetyl-s-allylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030678
 name: s-methylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030679
 name: n-acetyl-s-methylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030680
 name: s-allylmercapturic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030681
 name: allyl_methyl_sulfide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030682
 name: allyl_methyl_sulfoxide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030683
 name: allyl_methyl_sulfone
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
@@ -5853,40 +5853,40 @@ relationship: FB_00422 FB_0132 ! Mushrooms
 [Term]
 id: FB_030685
 name: proline_betaine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08715 ! Amino_Acid_Betaines
 relationship: FB_00422 FB_0060 ! Citrus
 
 [Term]
 id: FB_030686
 name: 4-hydroxyproline_betaine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08715 ! Amino_Acid_Betaines
 relationship: FB_00422 FB_0060 ! Citrus
 
 [Term]
 id: FB_030687
 name: carnosine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0185 ! Lean_Meat
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_030688
 name: anserine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0174 ! Fish
 relationship: FB_00422 FB_0185 ! Lean_Meat
 
 [Term]
 id: FB_030689
 name: 1-methylhistidine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0185 ! Lean_Meat
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_030690
 name: 3-methylhistidine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0174 ! Fish
 relationship: FB_00422 FB_0185 ! Lean_Meat
 
@@ -5899,7 +5899,7 @@ relationship: FB_00422 FB_0193 ! Red_Meat
 [Term]
 id: FB_030692
 name: l-phenylalanine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5911,7 +5911,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030693
 name: phenyllactic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5923,7 +5923,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030694
 name: p-hydroxyphenyllactic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5935,7 +5935,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030695
 name: phenylacetylglycine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5947,7 +5947,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030696
 name: phenylacetylglutamine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5959,7 +5959,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030697
 name: l-tyrosine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5971,7 +5971,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030698
 name: p-cresol
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5983,7 +5983,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030699
 name: p-cresol_sulfate
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5995,7 +5995,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030700
 name: p-cresol_glucuronide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6007,7 +6007,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030701
 name: l-tryptophan
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6019,7 +6019,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030702
 name: indoxyl_sulfate
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6031,7 +6031,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030703
 name: indoxyl_glucuronide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6043,7 +6043,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030704
 name: indole-3-acetic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6055,7 +6055,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030705
 name: 5-hydroxyindole-3-acetic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6266,37 +6266,37 @@ relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 [Term]
 id: FB_030738
 name: pentadecanoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08716 ! Odd_Chain_Fatty_Acids
 relationship: FB_00422 FB_0005 ! Dairy
 
 [Term]
 id: FB_030739
 name: heptadecanoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08716 ! Odd_Chain_Fatty_Acids
 relationship: FB_00422 FB_0005 ! Dairy
 
 [Term]
 id: FB_030740
 name: α-linolenic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0151 ! Nuts
 
 [Term]
 id: FB_030741
 name: oleic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08717 ! Monounsaturated_Fatty_Acids
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030742
 name: eicosapentaenoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0174 ! Fish
 
 [Term]
 id: FB_030743
 name: docosahexaenoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0174 ! Fish
 
 [Term]
@@ -6352,19 +6352,19 @@ relationship: FB_00422 FB_0050 ! Vegetables
 [Term]
 id: FB_030751
 name: oleuropein
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030752
 name: oleanolic_acid
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030753
 name: maslinic_acid
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
@@ -6909,7 +6909,7 @@ is_a: FB_0010 ! cheese
 
 [Term]
 id: FB_07601
-name: Monoterpenes
+name: Triterpenes
 is_a: FB_029823 ! Terpenes
 
 [Term]
@@ -7802,6 +7802,41 @@ relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
 relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08712
+name: Methylhistidine_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08713
+name: Aromatic_Amino_Acid_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08714
+name: S-allylcysteine_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08715
+name: Amino_Acid_Betaines
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08716
+name: Odd_Chain_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08717
+name: Monounsaturated_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08718
+name: Polyunsaturated_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
 
 [Typedef]
 id: FB_00422
