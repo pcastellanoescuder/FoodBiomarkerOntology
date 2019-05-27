@@ -7849,6 +7849,22 @@ relationship: FB_00424 FB_0167 ! brown_sugar
 relationship: FB_00424 FB_0170 ! sugar
 relationship: FB_00424 FB_0269 ! flour
 
+[Term]
+id: FB_08720
+name: tiramisu
+is_a: FB_07508 ! Recipes
+relationship: FB_00424 FB_0027 ! Coffee
+relationship: FB_00424 FB_0035 ! egg
+relationship: FB_00424 FB_0170 ! sugar
+relationship: FB_00424 FB_07552 ! cocoa_powder
+relationship: FB_00424 FB_07587 ! biscuit
+relationship: FB_00424 FB_07591 ! cream_cheese
+
+[Term]
+id: FB_08721
+name: mascarpone
+is_a: FB_07591 ! cream_cheese
+
 [Typedef]
 id: FB_00422
 name: BiomarkerOf
