@@ -1,7 +1,7 @@
 format-version: 1.2
 data-version: 2
 ontology: http://www.food_biomarkers_ontology/FBOnto
-owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#id>))\n\n\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0001> \"[FB]_0001\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0002> \"[FB]_0002\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0003> \"[FB]_0003\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005> \"[FB]_0005\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007> \"[FB]_0007\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0008> \"[FB]_0008\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0009> \"[FB]_0009\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0010> \"[FB]_0010\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0011> \"[FB]_0011\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0012> \"[FB]_0012\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0013> \"[FB]_0013\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0015> \"[FB]_0015\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016> \"[FB]_0016\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017> \"[FB]_0017\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018> \"[FB]_0018\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019> \"[FB]_0019\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020> \"[FB]_0020\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0021> \"[FB]_0021\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0022> \"[FB]_0022\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0023> \"[FB]_0023\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0024> \"[FB]_0024\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0027> \"[FB]_0027\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0028> \"[FB]_0028\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0029> \"[FB]_0029\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0030> \"[FB]_0030\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0031> \"[FB]_0031\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0033> \"[FB]_0033\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0034> \"[FB]_0034\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0035> \"[FB]_0035\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0036> \"[FB]_0036\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0037> \"[FB]_0037\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0038> \"[FB]_0038\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0039> \"[FB]_0039\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0040> \"[FB]_0040\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0041> \"[FB]_0041\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0042> \"[FB]_0042\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00422> \"[FB]_00422\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00423> \"[FB]_00423\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424> \"[FB]_00424\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00425> \"[FB]_00425\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0043> \"[FB]_0043\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0044> \"[FB]_0044\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0045> \"[FB]_0045\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0046> \"[FB]_0046\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0047> \"[FB]_0047\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0048> \"[FB]_0048\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0049> \"[FB]_0049\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0050> \"[FB]_0050\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0051> \"[FB]_0051\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0052> \"[FB]_0052\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0053> \"[FB]_0053\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00538> \"[FB]_00538\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00539> \"[FB]_00539\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0054> \"[FB]_0054\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0056> \"[FB]_0056\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0057> \"[FB]_0057\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0058> \"[FB]_0058\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0059> \"[FB]_0059\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0060> \"[FB]_0060\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0061> \"[FB]_0061\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0062> \"[FB]_0062\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0063> \"[FB]_0063\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0064> \"[FB]_0064\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0065> \"[FB]_0065\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0066> \"[FB]_0066\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0067> \"[FB]_0067\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0068> \"[FB]_0068\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0069> \"[FB]_0069\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0070> \"[FB]_0070\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0071> \"[FB]_0071\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0072> \"[FB]_0072\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0073> \"[FB]_0073\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0074> \"[FB]_0074\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0075> \"[FB]_0075\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0076> \"[FB]_0076\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0077> \"[FB]_0077\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0078> \"[FB]_0078\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0079> \"[FB]_0079\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007928> \"[FB]_007928\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007929> \"[FB]_007929\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007930> \"[FB]_007930\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007931> \"[FB]_007931\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007932> \"[FB]_007932\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933> \"[FB]_007933\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007934> \"[FB]_007934\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007935> \"[FB]_007935\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007936> \"[FB]_007936\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007937> \"[FB]_007937\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007938> \"[FB]_007938\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007939> \"[FB]_007939\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007940> \"[FB]_007940\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007941> \"[FB]_007941\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007942> \"[FB]_007942\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007943> \"[FB]_007943\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007944> \"[FB]_007944\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007945> \"[FB]_007945\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007946> \"[FB]_007946\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007947> \"[FB]_007947\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007948> \"[FB]_007948\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007949> \"[FB]_007949\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007950> \"[FB]_007950\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007951> \"[FB]_007951\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007952> \"[FB]_007952\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007953> \"[FB]_007953\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954> \"[FB]_007954\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007955> \"[FB]_007955\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007956> \"[FB]_007956\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957> \"[FB]_007957\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007958> \"[FB]_007958\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007959> \"[FB]_007959\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007960> \"[FB]_007960\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007961> \"[FB]_007961\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007962> \"[FB]_007962\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007963> \"[FB]_007963\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007964> \"[FB]_007964\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007965> \"[FB]_007965\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007966> \"[FB]_007966\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007967> \"[FB]_007967\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968> \"[FB]_007968\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007969> \"[FB]_007969\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007970> \"[FB]_007970\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007971> \"[FB]_007971\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007972> \"[FB]_007972\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007973> \"[FB]_007973\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007974> \"[FB]_007974\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007975> \"[FB]_007975\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007976> \"[FB]_007976\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007977> \"[FB]_007977\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007978> \"[FB]_007978\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007979> \"[FB]_007979\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007981> \"[FB]_007981\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007982> \"[FB]_007982\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983> \"[FB]_007983\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984> \"[FB]_007984\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007985> \"[FB]_007985\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007986> \"[FB]_007986\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0080> \"[FB]_0080\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008041> \"[FB]_008041\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008042> \"[FB]_008042\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008043> \"[FB]_008043\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008044> \"[FB]_008044\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008045> \"[FB]_008045\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008046> \"[FB]_008046\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008047> \"[FB]_008047\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008048> \"[FB]_008048\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008049> \"[FB]_008049\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008050> \"[FB]_008050\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008052> \"[FB]_008052\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008053> \"[FB]_008053\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008054> \"[FB]_008054\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008055> \"[FB]_008055\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008056> \"[FB]_008056\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008058> \"[FB]_008058\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008059> \"[FB]_008059\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008060> \"[FB]_008060\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008061> \"[FB]_008061\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008062> \"[FB]_008062\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008063> \"[FB]_008063\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008064> \"[FB]_008064\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008065> \"[FB]_008065\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008067> \"[FB]_008067\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008068> \"[FB]_008068\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008069> \"[FB]_008069\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008070> \"[FB]_008070\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008073> \"[FB]_008073\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008074> \"[FB]_008074\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008075> \"[FB]_008075\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008094> \"[FB]_008094\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008098> \"[FB]_008098\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0081> \"[FB]_0081\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008102> \"[FB]_008102\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008103> \"[FB]_008103\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008139> \"[FB]_008139\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008140> \"[FB]_008140\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008141> \"[FB]_008141\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008142> \"[FB]_008142\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008143> \"[FB]_008143\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0082> \"[FB]_0082\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0083> \"[FB]_0083\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0084> \"[FB]_0084\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0085> \"[FB]_0085\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0086> \"[FB]_0086\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0087> \"[FB]_0087\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0088> \"[FB]_0088\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0089> \"[FB]_0089\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00898> \"[FB]_00898\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0090> \"[FB]_0090\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0091> \"[FB]_0091\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0092> \"[FB]_0092\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0093> \"[FB]_0093\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0094> \"[FB]_0094\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0095> \"[FB]_0095\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0096> \"[FB]_0096\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0097> \"[FB]_0097\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0098> \"[FB]_0098\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0099> \"[FB]_0099\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0100> \"[FB]_0100\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0101> \"[FB]_0101\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0102> \"[FB]_0102\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0103> \"[FB]_0103\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0104> \"[FB]_0104\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0105> \"[FB]_0105\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0106> \"[FB]_0106\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0107> \"[FB]_0107\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0108> \"[FB]_0108\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0109> \"[FB]_0109\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0110> \"[FB]_0110\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0111> \"[FB]_0111\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0112> \"[FB]_0112\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0113> \"[FB]_0113\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0115> \"[FB]_0115\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0116> \"[FB]_0116\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0121> \"[FB]_0121\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0122> \"[FB]_0122\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0123> \"[FB]_0123\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0124> \"[FB]_0124\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0125> \"[FB]_0125\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0126> \"[FB]_0126\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0127> \"[FB]_0127\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0128> \"[FB]_0128\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0129> \"[FB]_0129\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0130> \"[FB]_0130\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0131> \"[FB]_0131\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0132> \"[FB]_0132\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0133> \"[FB]_0133\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0134> \"[FB]_0134\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0135> \"[FB]_0135\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0136> \"[FB]_0136\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0137> \"[FB]_0137\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0139> \"[FB]_0139\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0140> \"[FB]_0140\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0141> \"[FB]_0141\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0142> \"[FB]_0142\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0143> \"[FB]_0143\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0144> \"[FB]_0144\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0145> \"[FB]_0145\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0146> \"[FB]_0146\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0147> \"[FB]_0147\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0148> \"[FB]_0148\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0150> \"[FB]_0150\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_01501> \"[FB]_01501\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0151> \"[FB]_0151\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0156> \"[FB]_0156\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0158> \"[FB]_0158\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0160> \"[FB]_0160\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0161> \"[FB]_0161\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163> \"[FB]_0163\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164> \"[FB]_0164\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165> \"[FB]_0165\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166> \"[FB]_0166\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0167> \"[FB]_0167\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0168> \"[FB]_0168\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0169> \"[FB]_0169\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170> \"[FB]_0170\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172> \"[FB]_0172\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0174> \"[FB]_0174\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0175> \"[FB]_0175\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0176> \"[FB]_0176\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0177> \"[FB]_0177\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0178> \"[FB]_0178\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0179> \"[FB]_0179\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0180> \"[FB]_0180\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0181> \"[FB]_0181\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0182> \"[FB]_0182\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0183> \"[FB]_0183\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0184> \"[FB]_0184\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0185> \"[FB]_0185\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0186> \"[FB]_0186\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0188> \"[FB]_0188\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0189> \"[FB]_0189\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0190> \"[FB]_0190\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0191> \"[FB]_0191\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0193> \"[FB]_0193\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0194> \"[FB]_0194\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0196> \"[FB]_0196\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0197> \"[FB]_0197\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0198> \"[FB]_0198\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0199> \"[FB]_0199\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0200> \"[FB]_0200\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0201> \"[FB]_0201\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0202> \"[FB]_0202\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0204> \"[FB]_0204\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0206> \"[FB]_0206\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0207> \"[FB]_0207\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0208> \"[FB]_0208\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0209> \"[FB]_0209\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0211> \"[FB]_0211\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0212> \"[FB]_0212\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0213> \"[FB]_0213\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0214> \"[FB]_0214\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0215> \"[FB]_0215\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0216> \"[FB]_0216\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0217> \"[FB]_0217\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0218> \"[FB]_0218\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0219> \"[FB]_0219\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0220> \"[FB]_0220\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0221> \"[FB]_0221\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0269> \"[FB]_0269\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0270> \"[FB]_0270\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0271> \"[FB]_0271\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0273> \"[FB]_0273\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0274> \"[FB]_0274\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0275> \"[FB]_0275\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0276> \"[FB]_0276\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0277> \"[FB]_0277\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0278> \"[FB]_0278\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0279> \"[FB]_0279\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0280> \"[FB]_0280\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0281> \"[FB]_0281\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07215> \"[FB]_07215\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07501> \"[FB]_07501\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07502> \"[FB]_07502\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07503> \"[FB]_07503\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07504> \"[FB]_07504\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07505> \"[FB]_07505\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07506> \"[FB]_07506\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508> \"[FB]_07508\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07509> \"[FB]_07509\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07510> \"[FB]_07510\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07511> \"[FB]_07511\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07513> \"[FB]_07513\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07515> \"[FB]_07515\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07516> \"[FB]_07516\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07517> \"[FB]_07517\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07518> \"[FB]_07518\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07519> \"[FB]_07519\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07520> \"[FB]_07520\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07521> \"[FB]_07521\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07522> \"[FB]_07522\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07523> \"[FB]_07523\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07524> \"[FB]_07524\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07525> \"[FB]_07525\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07526> \"[FB]_07526\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07527> \"[FB]_07527\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07528> \"[FB]_07528\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529> \"[FB]_07529\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07530> \"[FB]_07530\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07531> \"[FB]_07531\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07532> \"[FB]_07532\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07533> \"[FB]_07533\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07534> \"[FB]_07534\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07535> \"[FB]_07535\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07536> \"[FB]_07536\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07537> \"[FB]_07537\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07538> \"[FB]_07538\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539> \"[FB]_07539\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07540> \"[FB]_07540\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07541> \"[FB]_07541\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07542> \"[FB]_07542\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07543> \"[FB]_07543\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07544> \"[FB]_07544\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07545> \"[FB]_07545\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07546> \"[FB]_07546\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07547> \"[FB]_07547\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07548> \"[FB]_07548\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07549> \"[FB]_07549\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07550> \"[FB]_07550\"^^xsd:string)\n)
+owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#id>))\n\n\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0001> \"[FB]_0001\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0002> \"[FB]_0002\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0003> \"[FB]_0003\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005> \"[FB]_0005\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007> \"[FB]_0007\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0008> \"[FB]_0008\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0009> \"[FB]_0009\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0010> \"[FB]_0010\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0011> \"[FB]_0011\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0012> \"[FB]_0012\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0013> \"[FB]_0013\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0015> \"[FB]_0015\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016> \"[FB]_0016\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017> \"[FB]_0017\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018> \"[FB]_0018\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019> \"[FB]_0019\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020> \"[FB]_0020\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0021> \"[FB]_0021\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0022> \"[FB]_0022\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0023> \"[FB]_0023\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0024> \"[FB]_0024\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0027> \"[FB]_0027\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0028> \"[FB]_0028\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0029> \"[FB]_0029\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0030> \"[FB]_0030\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0031> \"[FB]_0031\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0033> \"[FB]_0033\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0034> \"[FB]_0034\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0035> \"[FB]_0035\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0036> \"[FB]_0036\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0037> \"[FB]_0037\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0038> \"[FB]_0038\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0039> \"[FB]_0039\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0040> \"[FB]_0040\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0041> \"[FB]_0041\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0042> \"[FB]_0042\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00422> \"[FB]_00422\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00423> \"[FB]_00423\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424> \"[FB]_00424\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00425> \"[FB]_00425\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0043> \"[FB]_0043\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0044> \"[FB]_0044\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0045> \"[FB]_0045\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0046> \"[FB]_0046\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0047> \"[FB]_0047\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0048> \"[FB]_0048\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0049> \"[FB]_0049\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0050> \"[FB]_0050\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0051> \"[FB]_0051\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0052> \"[FB]_0052\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0053> \"[FB]_0053\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00538> \"[FB]_00538\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00539> \"[FB]_00539\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0054> \"[FB]_0054\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0056> \"[FB]_0056\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0057> \"[FB]_0057\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0058> \"[FB]_0058\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0059> \"[FB]_0059\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0060> \"[FB]_0060\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0061> \"[FB]_0061\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0062> \"[FB]_0062\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0063> \"[FB]_0063\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0064> \"[FB]_0064\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0065> \"[FB]_0065\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0066> \"[FB]_0066\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0067> \"[FB]_0067\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0068> \"[FB]_0068\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0069> \"[FB]_0069\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0070> \"[FB]_0070\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0071> \"[FB]_0071\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0072> \"[FB]_0072\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0073> \"[FB]_0073\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0074> \"[FB]_0074\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0075> \"[FB]_0075\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0076> \"[FB]_0076\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0077> \"[FB]_0077\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0078> \"[FB]_0078\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0079> \"[FB]_0079\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007928> \"[FB]_007928\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007929> \"[FB]_007929\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007930> \"[FB]_007930\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007931> \"[FB]_007931\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007932> \"[FB]_007932\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933> \"[FB]_007933\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007934> \"[FB]_007934\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007935> \"[FB]_007935\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007936> \"[FB]_007936\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007937> \"[FB]_007937\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007938> \"[FB]_007938\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007939> \"[FB]_007939\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007940> \"[FB]_007940\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007941> \"[FB]_007941\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007942> \"[FB]_007942\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007943> \"[FB]_007943\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007944> \"[FB]_007944\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007945> \"[FB]_007945\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007946> \"[FB]_007946\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007947> \"[FB]_007947\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007948> \"[FB]_007948\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007949> \"[FB]_007949\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007950> \"[FB]_007950\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007951> \"[FB]_007951\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007952> \"[FB]_007952\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007953> \"[FB]_007953\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954> \"[FB]_007954\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007955> \"[FB]_007955\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007956> \"[FB]_007956\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957> \"[FB]_007957\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007958> \"[FB]_007958\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007959> \"[FB]_007959\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007960> \"[FB]_007960\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007961> \"[FB]_007961\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007962> \"[FB]_007962\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007963> \"[FB]_007963\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007964> \"[FB]_007964\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007965> \"[FB]_007965\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007966> \"[FB]_007966\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007967> \"[FB]_007967\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968> \"[FB]_007968\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007969> \"[FB]_007969\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007970> \"[FB]_007970\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007971> \"[FB]_007971\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007972> \"[FB]_007972\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007973> \"[FB]_007973\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007974> \"[FB]_007974\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007975> \"[FB]_007975\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007976> \"[FB]_007976\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007977> \"[FB]_007977\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007978> \"[FB]_007978\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007979> \"[FB]_007979\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007981> \"[FB]_007981\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007982> \"[FB]_007982\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983> \"[FB]_007983\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984> \"[FB]_007984\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007985> \"[FB]_007985\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007986> \"[FB]_007986\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0080> \"[FB]_0080\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008041> \"[FB]_008041\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008042> \"[FB]_008042\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008043> \"[FB]_008043\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008044> \"[FB]_008044\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008045> \"[FB]_008045\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008046> \"[FB]_008046\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008047> \"[FB]_008047\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008048> \"[FB]_008048\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008049> \"[FB]_008049\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008050> \"[FB]_008050\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008052> \"[FB]_008052\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008053> \"[FB]_008053\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008054> \"[FB]_008054\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008055> \"[FB]_008055\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008056> \"[FB]_008056\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008058> \"[FB]_008058\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008059> \"[FB]_008059\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008060> \"[FB]_008060\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008061> \"[FB]_008061\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008062> \"[FB]_008062\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008063> \"[FB]_008063\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008064> \"[FB]_008064\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008065> \"[FB]_008065\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008067> \"[FB]_008067\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008068> \"[FB]_008068\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008069> \"[FB]_008069\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008070> \"[FB]_008070\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008073> \"[FB]_008073\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008074> \"[FB]_008074\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008075> \"[FB]_008075\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008094> \"[FB]_008094\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008098> \"[FB]_008098\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0081> \"[FB]_0081\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008102> \"[FB]_008102\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008103> \"[FB]_008103\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008139> \"[FB]_008139\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008141> \"[FB]_008141\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008142> \"[FB]_008142\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_008143> \"[FB]_008143\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0082> \"[FB]_0082\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0083> \"[FB]_0083\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0084> \"[FB]_0084\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0085> \"[FB]_0085\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0086> \"[FB]_0086\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0087> \"[FB]_0087\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0088> \"[FB]_0088\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0089> \"[FB]_0089\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00898> \"[FB]_00898\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0090> \"[FB]_0090\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0091> \"[FB]_0091\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0092> \"[FB]_0092\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0093> \"[FB]_0093\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0094> \"[FB]_0094\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0095> \"[FB]_0095\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0096> \"[FB]_0096\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0097> \"[FB]_0097\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0098> \"[FB]_0098\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0099> \"[FB]_0099\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0100> \"[FB]_0100\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0101> \"[FB]_0101\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0102> \"[FB]_0102\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0103> \"[FB]_0103\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0104> \"[FB]_0104\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0105> \"[FB]_0105\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0106> \"[FB]_0106\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0107> \"[FB]_0107\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0108> \"[FB]_0108\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0109> \"[FB]_0109\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0110> \"[FB]_0110\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0111> \"[FB]_0111\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0112> \"[FB]_0112\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0113> \"[FB]_0113\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0115> \"[FB]_0115\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0116> \"[FB]_0116\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0121> \"[FB]_0121\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0122> \"[FB]_0122\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0123> \"[FB]_0123\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0124> \"[FB]_0124\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0125> \"[FB]_0125\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0126> \"[FB]_0126\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0127> \"[FB]_0127\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0128> \"[FB]_0128\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0129> \"[FB]_0129\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0130> \"[FB]_0130\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0131> \"[FB]_0131\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0132> \"[FB]_0132\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0133> \"[FB]_0133\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0134> \"[FB]_0134\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0135> \"[FB]_0135\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0136> \"[FB]_0136\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0137> \"[FB]_0137\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0139> \"[FB]_0139\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0140> \"[FB]_0140\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0141> \"[FB]_0141\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0142> \"[FB]_0142\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0143> \"[FB]_0143\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0144> \"[FB]_0144\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0145> \"[FB]_0145\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0146> \"[FB]_0146\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0147> \"[FB]_0147\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0148> \"[FB]_0148\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0150> \"[FB]_0150\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_01501> \"[FB]_01501\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0151> \"[FB]_0151\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0156> \"[FB]_0156\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0158> \"[FB]_0158\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0160> \"[FB]_0160\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0161> \"[FB]_0161\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163> \"[FB]_0163\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164> \"[FB]_0164\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165> \"[FB]_0165\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166> \"[FB]_0166\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0167> \"[FB]_0167\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0168> \"[FB]_0168\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0169> \"[FB]_0169\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170> \"[FB]_0170\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172> \"[FB]_0172\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0174> \"[FB]_0174\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0175> \"[FB]_0175\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0176> \"[FB]_0176\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0177> \"[FB]_0177\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0178> \"[FB]_0178\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0179> \"[FB]_0179\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0180> \"[FB]_0180\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0181> \"[FB]_0181\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0182> \"[FB]_0182\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0183> \"[FB]_0183\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0184> \"[FB]_0184\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0185> \"[FB]_0185\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0186> \"[FB]_0186\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0188> \"[FB]_0188\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0189> \"[FB]_0189\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0190> \"[FB]_0190\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0191> \"[FB]_0191\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0193> \"[FB]_0193\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0194> \"[FB]_0194\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0196> \"[FB]_0196\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0197> \"[FB]_0197\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0198> \"[FB]_0198\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0199> \"[FB]_0199\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0200> \"[FB]_0200\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0201> \"[FB]_0201\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0202> \"[FB]_0202\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0204> \"[FB]_0204\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0206> \"[FB]_0206\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0207> \"[FB]_0207\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0208> \"[FB]_0208\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0209> \"[FB]_0209\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0211> \"[FB]_0211\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0212> \"[FB]_0212\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0213> \"[FB]_0213\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0214> \"[FB]_0214\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0215> \"[FB]_0215\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0216> \"[FB]_0216\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0217> \"[FB]_0217\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0218> \"[FB]_0218\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0219> \"[FB]_0219\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0220> \"[FB]_0220\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0221> \"[FB]_0221\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0269> \"[FB]_0269\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0270> \"[FB]_0270\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0271> \"[FB]_0271\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0273> \"[FB]_0273\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0274> \"[FB]_0274\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0275> \"[FB]_0275\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0276> \"[FB]_0276\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0277> \"[FB]_0277\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0278> \"[FB]_0278\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0279> \"[FB]_0279\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0280> \"[FB]_0280\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0281> \"[FB]_0281\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07215> \"[FB]_07215\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07501> \"[FB]_07501\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07502> \"[FB]_07502\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07503> \"[FB]_07503\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07504> \"[FB]_07504\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07505> \"[FB]_07505\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07506> \"[FB]_07506\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508> \"[FB]_07508\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07509> \"[FB]_07509\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07510> \"[FB]_07510\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07511> \"[FB]_07511\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07513> \"[FB]_07513\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07515> \"[FB]_07515\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07516> \"[FB]_07516\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07517> \"[FB]_07517\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07518> \"[FB]_07518\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07519> \"[FB]_07519\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07520> \"[FB]_07520\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07521> \"[FB]_07521\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07522> \"[FB]_07522\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07523> \"[FB]_07523\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07524> \"[FB]_07524\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07525> \"[FB]_07525\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07526> \"[FB]_07526\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07527> \"[FB]_07527\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07528> \"[FB]_07528\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529> \"[FB]_07529\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07530> \"[FB]_07530\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07531> \"[FB]_07531\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07532> \"[FB]_07532\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07533> \"[FB]_07533\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07534> \"[FB]_07534\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07535> \"[FB]_07535\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07536> \"[FB]_07536\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07537> \"[FB]_07537\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07538> \"[FB]_07538\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539> \"[FB]_07539\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07540> \"[FB]_07540\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07541> \"[FB]_07541\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07542> \"[FB]_07542\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07543> \"[FB]_07543\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07544> \"[FB]_07544\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07545> \"[FB]_07545\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07546> \"[FB]_07546\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07547> \"[FB]_07547\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07548> \"[FB]_07548\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07549> \"[FB]_07549\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07550> \"[FB]_07550\"^^xsd:string)\n)
 
 [Term]
 id: FB_0001
@@ -40,27 +40,27 @@ is_a: FB_0020 ! Milk_Products
 [Term]
 id: FB_0010
 name: cheese
-is_a: FB_0017 ! Fermented
+is_a: FB_0017 ! Fermented_Dairy
 
 [Term]
 id: FB_0011
-name: Drinks
+name: Beverages
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0012
 name: yoghurt
-is_a: FB_0017 ! Fermented
+is_a: FB_0017 ! Fermented_Dairy
 
 [Term]
 id: FB_0013
 name: butter
-is_a: FB_0018 ! No_Fermented
+is_a: FB_0018 ! No_Fermented_Dairy
 
 [Term]
 id: FB_0015
 name: Alcohol
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0016
@@ -69,12 +69,12 @@ is_a: FB_0005 ! Dairy
 
 [Term]
 id: FB_0017
-name: Fermented
+name: Fermented_Dairy
 is_a: FB_0016 ! Processed_Dairy
 
 [Term]
 id: FB_0018
-name: No_Fermented
+name: No_Fermented_Dairy
 is_a: FB_0016 ! Processed_Dairy
 
 [Term]
@@ -89,28 +89,28 @@ is_a: FB_0019 ! Raw_Dairy
 
 [Term]
 id: FB_0021
-name: Fermented
+name: Fermented_Alcohols
 is_a: FB_0015 ! Alcohol
 
 [Term]
 id: FB_0022
 name: beer
-is_a: FB_0021 ! Fermented
+is_a: FB_0021 ! Fermented_Alcohols
 
 [Term]
 id: FB_0023
 name: wine
-is_a: FB_0021 ! Fermented
+is_a: FB_0021 ! Fermented_Alcohols
 
 [Term]
 id: FB_0024
 name: Infusion
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0027
 name: Coffee
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0028
@@ -240,12 +240,12 @@ is_a: FB_0051 ! Berries
 [Term]
 id: FB_00538
 name: Carbonated_Soft_Drink
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_00539
 name: Diet_Carbonated_Soft_Drink
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0054
@@ -1054,11 +1054,6 @@ name: curcuma
 is_a: FB_0123 ! Spices
 
 [Term]
-id: FB_008140
-name: porridge
-is_a: FB_0146 ! oat
-
-[Term]
 id: FB_008141
 name: wheat
 is_a: FB_0145 ! Whole_Grain_Cereals
@@ -1751,7 +1746,7 @@ is_a: FB_01501 ! Biomarkers
 [Term]
 id: FB_029809
 name: Carotenoids
-is_a: FB_01501 ! Biomarkers
+is_a: FB_029823 ! Terpenes
 
 [Term]
 id: FB_029810
@@ -1761,7 +1756,7 @@ is_a: FB_01501 ! Biomarkers
 [Term]
 id: FB_029811
 name: Diketopiperazines
-is_a: FB_01501 ! Biomarkers
+is_a: FB_008073 ! Amino_Acid_Derivatives
 
 [Term]
 id: FB_029812
@@ -3497,7 +3492,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030433
-name: pyrogallol_glucuronide_1
+name: pyrogallol_1-glucuronide
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3512,7 +3507,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030434
-name: pyrogallol_glucuronide_2
+name: pyrogallol_2-glucuronide
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3527,7 +3522,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030435
-name: pyrogallol_sulfate_1
+name: pyrogallol_1-sulfate
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3542,7 +3537,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030436
-name: pyrogallol_sulfate_2
+name: pyrogallol_2-sulfate
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3722,7 +3717,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030448
-name: 4-methylcatechol_glucuronide_1
+name: 4-methylcatechol_1-glucuronide
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3737,7 +3732,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030449
-name: 4-methylcatechol_glucuronide_2
+name: 4-methylcatechol_2-glucuronide
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3752,7 +3747,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030450
-name: 4-methylcatechol_sulfate_1
+name: 4-methylcatechol_1-sulfate
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -3767,7 +3762,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030451
-name: 4-methylcatechol_sulfate_2
+name: 4-methylcatechol_2-sulfate
 is_a: FB_008046 ! Phenols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -4199,7 +4194,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030487
-name: epigallocatechin_glucuronide
+name: epigallocatechin_3-glucuronide
 is_a: FB_008049 ! Flavanols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4210,7 +4205,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030488
-name: epigallocatechin_sulfate
+name: epigallocatechin_3-sulfate
 is_a: FB_008049 ! Flavanols
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4254,7 +4249,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030492
-name: 5-(4-hydroxy(3-4-dihydroxyphenyl)-valeric_acid
+name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4265,7 +4260,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030493
-name: 5-(4-hydroxy(3-4-dihydroxyphenyl)-valeric_acid_glucuronide_1
+name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4276,7 +4271,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030494
-name: 5-(4-hydroxy(3-4-dihydroxyphenyl)-valeric_acid_glucuronide_2
+name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4287,7 +4282,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030495
-name: 5-(4-hydroxy(3-4-dihydroxyphenyl)-valeric_acid_sulfate_1
+name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4298,7 +4293,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030496
-name: 5-(4-hydroxy(3-4-dihydroxyphenyl)-valeric_acid_sulfate_2
+name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4309,7 +4304,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030497
-name: 5-(3’-hydroxyphenyl)-γ-valerolactone_3'-glucuronide
+name: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4320,7 +4315,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030498
-name: 5-(3’-hydroxyphenyl)-γ-valerolactone_3'-sulfate
+name: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4331,7 +4326,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030499
-name: 5-(4’-hydroxyphenyl)-γ-valerolactone_4'-sulfate
+name: 5-(4'-hydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4342,7 +4337,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030500
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4353,7 +4348,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030501
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_3'-glucuronide
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4364,7 +4359,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030502
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_4'-glucuronide
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4375,7 +4370,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030503
-name: 3’,4’-dihydroxyphenyl-γ-valerolactone_sulfate
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4386,7 +4381,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030504
-name: 3’,5’-dihydroxyphenyl-γ-valerolactone_glucuronide
+name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4397,7 +4392,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030505
-name: 3’,5’-dihydroxyphenyl-γ-valerolactone_sulfate
+name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4408,7 +4403,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030506
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4419,7 +4414,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030507
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_1
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4430,7 +4425,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030508
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_glucuronide_2
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4441,7 +4436,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030509
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_1
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4452,7 +4447,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030510
-name: 3’,4’,5’-trihydroxyphenyl-γ-valerolactone_sulfate_2
+name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4463,7 +4458,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030511
-name: 4’-hydroxy-3’-methoxyphenyl-γ-valerolactone
+name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4474,7 +4469,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030512
-name: 4’-hydroxy-3’-methoxyphenyl-γ-valerolactone_glucuronide
+name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4485,7 +4480,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030513
-name: 4’-hydroxy-3’-methoxyphenyl-γ-valerolactone_sulfate
+name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate
 is_a: FB_008102 ! Valerolactones
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0028 ! Tea
@@ -4633,14 +4628,14 @@ relationship: FB_00422 FB_0136 ! Legumes
 
 [Term]
 id: FB_030534
-name: daidzein_7-glucuronide-4'sulfate
+name: daidzein_7-glucuronide-4'-sulfate
 is_a: FB_008055 ! Isoflavones
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
 
 [Term]
 id: FB_030535
-name: daidzein_4'-glucuronide-7sulfate
+name: daidzein_4'-glucuronide-7-sulfate
 is_a: FB_008055 ! Isoflavones
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5190,7 +5185,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030597
-name: trans-resveratrol_4-sulfate
+name: trans-resveratrol_4'-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
@@ -5204,7 +5199,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030599
-name: cis-resveratrol_4-sulfate
+name: cis-resveratrol_4'-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
@@ -5218,28 +5213,28 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030601
-name: dihydroresveratrol_glucuronide_1
+name: dihydroresveratrol_3-glucuronide
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030602
-name: dihydroresveratrol_glucuronide_2
+name: dihydroresveratrol_4'-glucuronide
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030603
-name: dihydroresveratrol_sulfate_1
+name: dihydroresveratrol_3-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030604
-name: dihydroresveratrol_sulfate_2
+name: dihydroresveratrol_4'-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
@@ -5253,28 +5248,28 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030606
-name: piceid_glucuronide_1
+name: piceid_3-glucuronide
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030607
-name: piceid_glucuronide_2
+name: piceid_4'-glucuronide
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030608
-name: piceid_sulfate_1
+name: piceid_3-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030609
-name: piceid_sulfate_2
+name: piceid_4'-sulfate
 is_a: FB_008060 ! Stilbenoids
 relationship: FB_00422 FB_008103 ! Grapes
 relationship: FB_00422 FB_07541 ! red_wine
@@ -5496,7 +5491,7 @@ relationship: FB_00422 FB_07541 ! red_wine
 
 [Term]
 id: FB_030636
-name: pelargonidin3-glucoside
+name: pelargonidin_3-glucoside
 is_a: FB_07215 ! Anthocyanins
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_07541 ! red_wine
@@ -5585,7 +5580,7 @@ relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: FB_030650
-name: 5-(hydroxymethyl-furoyl)glycine
+name: 5-(hydroxymethyl-2-furoyl)glycine
 is_a: FB_008068 ! Maillard_Product
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -5623,7 +5618,7 @@ relationship: FB_00422 FB_0028 ! Tea
 
 [Term]
 id: FB_030655
-name: paraxanthne
+name: paraxanthine
 is_a: FB_008069 ! Xanthines
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -5631,7 +5626,7 @@ relationship: FB_00422 FB_0028 ! Tea
 
 [Term]
 id: FB_030656
-name: theofylline
+name: theophylline
 is_a: FB_008069 ! Xanthines
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -5719,7 +5714,7 @@ relationship: FB_00422 FB_0028 ! Tea
 
 [Term]
 id: FB_030667
-name: 5-acetamido-6-formylamino-3-methyluracil
+name: 5-acetylamino-6-formylamino-3-methyluracil
 is_a: FB_008069 ! Xanthines
 relationship: FB_00422 FB_0002 ! Cacao
 relationship: FB_00422 FB_0027 ! Coffee
@@ -5796,56 +5791,56 @@ relationship: FB_00422 FB_07541 ! red_wine
 [Term]
 id: FB_030676
 name: s-allylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030677
 name: n-acetyl-s-allylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030678
 name: s-methylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030679
 name: n-acetyl-s-methylcysteine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030680
 name: s-allylmercapturic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030681
 name: allyl_methyl_sulfide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030682
 name: allyl_methyl_sulfoxide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_030683
 name: allyl_methyl_sulfone
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08714 ! S-allylcysteine_Derivatives
 relationship: FB_00422 FB_0124 ! garlic
 relationship: FB_00422 FB_0125 ! Onion_Family_Vegetables
 
@@ -5858,40 +5853,40 @@ relationship: FB_00422 FB_0132 ! Mushrooms
 [Term]
 id: FB_030685
 name: proline_betaine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08715 ! Amino_Acid_Betaines
 relationship: FB_00422 FB_0060 ! Citrus
 
 [Term]
 id: FB_030686
 name: 4-hydroxyproline_betaine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08715 ! Amino_Acid_Betaines
 relationship: FB_00422 FB_0060 ! Citrus
 
 [Term]
 id: FB_030687
 name: carnosine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0185 ! Lean_Meat
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_030688
 name: anserine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0174 ! Fish
 relationship: FB_00422 FB_0185 ! Lean_Meat
 
 [Term]
 id: FB_030689
 name: 1-methylhistidine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0185 ! Lean_Meat
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_030690
 name: 3-methylhistidine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08712 ! Methylhistidine_Derivatives
 relationship: FB_00422 FB_0174 ! Fish
 relationship: FB_00422 FB_0185 ! Lean_Meat
 
@@ -5904,7 +5899,7 @@ relationship: FB_00422 FB_0193 ! Red_Meat
 [Term]
 id: FB_030692
 name: l-phenylalanine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5916,7 +5911,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030693
 name: phenyllactic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5928,7 +5923,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030694
 name: p-hydroxyphenyllactic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5940,7 +5935,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030695
 name: phenylacetylglycine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5952,7 +5947,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030696
 name: phenylacetylglutamine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5964,7 +5959,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030697
 name: l-tyrosine
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5976,7 +5971,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030698
 name: p-cresol
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -5988,7 +5983,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030699
 name: p-cresol_sulfate
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6000,7 +5995,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030700
 name: p-cresol_glucuronide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6012,7 +6007,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030701
 name: l-tryptophan
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6024,7 +6019,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030702
 name: indoxyl_sulfate
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6036,7 +6031,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030703
 name: indoxyl_glucuronide
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6048,7 +6043,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030704
 name: indole-3-acetic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6060,7 +6055,7 @@ relationship: FB_00422 FB_0172 ! Meat
 [Term]
 id: FB_030705
 name: 5-hydroxyindole-3-acetic_acid
-is_a: FB_008073 ! Amino_Acid_Derivatives
+is_a: FB_08713 ! Aromatic_Amino_Acid_Derivatives
 relationship: FB_00422 FB_0005 ! Dairy
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
@@ -6271,37 +6266,37 @@ relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 [Term]
 id: FB_030738
 name: pentadecanoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08716 ! Odd_Chain_Fatty_Acids
 relationship: FB_00422 FB_0005 ! Dairy
 
 [Term]
 id: FB_030739
 name: heptadecanoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08716 ! Odd_Chain_Fatty_Acids
 relationship: FB_00422 FB_0005 ! Dairy
 
 [Term]
 id: FB_030740
 name: α-linolenic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0151 ! Nuts
 
 [Term]
 id: FB_030741
 name: oleic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08717 ! Monounsaturated_Fatty_Acids
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030742
 name: eicosapentaenoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0174 ! Fish
 
 [Term]
 id: FB_030743
 name: docosahexaenoic_acid
-is_a: FB_008098 ! Fatty_Acids
+is_a: FB_08718 ! Polyunsaturated_Fatty_Acids
 relationship: FB_00422 FB_0174 ! Fish
 
 [Term]
@@ -6357,19 +6352,19 @@ relationship: FB_00422 FB_0050 ! Vegetables
 [Term]
 id: FB_030751
 name: oleuropein
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030752
 name: oleanolic_acid
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
 id: FB_030753
 name: maslinic_acid
-is_a: FB_07601 ! Monoterpenes
+is_a: FB_07601 ! Triterpenes
 relationship: FB_00422 FB_0046 ! olive_oil
 
 [Term]
@@ -6473,7 +6468,7 @@ is_a: FB_0145 ! Whole_Grain_Cereals
 [Term]
 id: FB_07513
 name: Water
-is_a: FB_0011 ! Drinks
+is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_07515
@@ -6668,7 +6663,7 @@ is_a: FB_07591 ! cream_cheese
 
 [Term]
 id: FB_07552
-name: cocoa
+name: cocoa_powder
 is_a: FB_0002 ! Cacao
 
 [Term]
@@ -6783,7 +6778,7 @@ is_a: FB_07560 ! Flavoring
 [Term]
 id: FB_07570
 name: kefir
-is_a: FB_0017 ! Fermented
+is_a: FB_0017 ! Fermented_Dairy
 
 [Term]
 id: FB_07571
@@ -6812,38 +6807,38 @@ is_a: FB_0023 ! wine
 
 [Term]
 id: FB_07576
-name: Distilled
+name: Distilled_Alcohols
 is_a: FB_0015 ! Alcohol
 
 [Term]
 id: FB_07577
 name: whiskey
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07578
 name: vodka
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07579
 name: brandy
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07580
 name: absinthe
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07581
 name: raki
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07582
 name: gin
-is_a: FB_07576 ! Distilled
+is_a: FB_07576 ! Distilled_Alcohols
 
 [Term]
 id: FB_07583
@@ -6905,7 +6900,7 @@ relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0093 ! beetroot
 relationship: FB_00424 FB_0170 ! sugar
 relationship: FB_00424 FB_0269 ! flour
-relationship: FB_00424 FB_07552 ! cocoa
+relationship: FB_00424 FB_07552 ! cocoa_powder
 
 [Term]
 id: FB_07591
@@ -6914,13 +6909,1188 @@ is_a: FB_0010 ! cheese
 
 [Term]
 id: FB_07601
-name: Monoterpenes
+name: Triterpenes
 is_a: FB_029823 ! Terpenes
 
 [Term]
 id: FB_07602
 name: Polycyclic_Compounds
 is_a: FB_01501 ! Biomarkers
+
+[Term]
+id: FB_08566
+name: 3'-methylcatechin_4'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08567
+name: 3'-methylcatechin_5-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08568
+name: 3'-methylepicatechin_4'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08569
+name: 3'-methylepicatechin_5-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08642
+name: 3'-methylepicatechin_7-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08643
+name: 4'-methylepicatechin_3'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08644
+name: 4'-methylepicatechin_5-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08645
+name: 4'-methylepicatechin_7-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08646
+name: catechin_4'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08647
+name: catechin_5-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08648
+name: epicatechin_3'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08649
+name: epicatechin_4'-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08650
+name: epicatechin_5-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08651
+name: epicatechin_7-glucuronide
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08652
+name: catechin_3'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08653
+name: catechin_4'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08654
+name: catechin_5-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08655
+name: epicatechin_3-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08656
+name: epicatechin_3'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08657
+name: epicatechin_4'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08658
+name: epicatechin_5-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08659
+name: epicatechin_7-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08660
+name: 3,4-dihydroxyphenylacetic_acid_3-glucuronide
+is_a: FB_008043 ! Hydroxyphenylacetic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08661
+name: 3,4-dihydroxyphenylacetic_acid_4-glucuronide
+is_a: FB_008043 ! Hydroxyphenylacetic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08662
+name: 3,4-dihydroxyphenylacetic_acid_3-sulfate
+is_a: FB_008043 ! Hydroxyphenylacetic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08663
+name: 3,4-dihydroxyphenylacetic_acid_4-sulfate
+is_a: FB_008043 ! Hydroxyphenylacetic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08664
+name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08665
+name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08666
+name: 5-(3'-hydroxyphenyl)-γ-valerolactone
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08667
+name: 2,3-dihydroxybenzoic_acid_2-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08668
+name: 2,3-dihydroxybenzoic_acid_3-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08669
+name: 2,4-dihydroxybenzoic_acid_2-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08670
+name: 2,4-dihydroxybenzoic_acid_4-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08671
+name: 2,6-dihydroxybenzoic_acid_2-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08672
+name: 2,6-dihydroxybenzoic_acid_6-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08673
+name: 2,3-dihydroxybenzoic_acid_3-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08674
+name: 2,4-dihydroxybenzoic_acid_4-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08675
+name: 2,5-dihydroxybenzoic_acid_5-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08676
+name: hesperetin_5-glucuronide
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08677
+name: hesperetin_3'-sulfate
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08678
+name: hesperetin_5-sulfate
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08679
+name: 3-(3-hydroxyphenyl)propionic_acid_glucuronide
+is_a: FB_008045 ! Hydroxyphenylpropionic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08680
+name: 3-(4-hydroxyphenyl)propionic_acid_glucuronide
+is_a: FB_008045 ! Hydroxyphenylpropionic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08681
+name: 3-(3-hydroxyphenyl)propionic_acid_sulfate
+is_a: FB_008045 ! Hydroxyphenylpropionic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08682
+name: 3-(4-hydroxyphenyl)propionic_acid_sulfate
+is_a: FB_008045 ! Hydroxyphenylpropionic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08683
+name: 3'-methylepicatechin_4'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08684
+name: 3'-methylepicatechin_5-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08685
+name: 3'-methylepicatechin_7-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08686
+name: 4'-methylepicatechin_3'-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08687
+name: 4'-methylepicatechin_5-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08688
+name: 4'-methylepicatechin_7-sulfate
+is_a: FB_008049 ! Flavanols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08689
+name: 3-methylgallic_acid_4-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08690
+name: 3-methylgallic_acid_5-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08691
+name: 4-methylgallic_acid_3-glucuronide
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08692
+name: 3-methylgallic_acid_4-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08693
+name: 3-methylgallic_acid_5-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08694
+name: 4-methylgallic_acid_3-sulfate
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08695
+name: 1-methylpyrogallol_2-glucuronide
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08696
+name: 1-methylpyrogallol_3-glucuronide
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08697
+name: 2-methylpyrogallol_1-glucuronide
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08698
+name: 1-methylpyrogallol_2-sulfate
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08699
+name: 1-methylpyrogallol_3-sulfate
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08700
+name: 2-methylpyrogallol_1-sulfate
+is_a: FB_008046 ! Phenols
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08701
+name: naringenin_4'-glucuronide
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08702
+name: naringenin_5-glucuronide
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08703
+name: naringenin_4'-sulfate
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08704
+name: naringenin_5-sulfate
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08705
+name: naringenin_7-sulfate
+is_a: FB_008050 ! Flavanones
+relationship: FB_00422 FB_0060 ! Citrus
+relationship: FB_00422 FB_0105 ! tomato
+
+[Term]
+id: FB_08706
+name: urolithin_a_3-glucuronide
+is_a: FB_008058 ! Urolithins
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08707
+name: urolithin_a_8-glucuronide
+is_a: FB_008058 ! Urolithins
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08708
+name: urolithin_a_3-sulfate
+is_a: FB_008058 ! Urolithins
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08709
+name: urolithin_a_8-sulfate
+is_a: FB_008058 ! Urolithins
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08710
+name: 5-(4’-hydroxyphenyl)-γ-valerolactone_4'-glucuronide
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08711
+name: 5-(4’-hydroxyphenyl)-γ-valerolactone
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08712
+name: Methylhistidine_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08713
+name: Aromatic_Amino_Acid_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08714
+name: S-allylcysteine_Derivatives
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08715
+name: Amino_Acid_Betaines
+is_a: FB_008073 ! Amino_Acid_Derivatives
+
+[Term]
+id: FB_08716
+name: Odd_Chain_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08717
+name: Monounsaturated_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08718
+name: Polyunsaturated_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08719
+name: apple_pie
+is_a: FB_07556 ! Bakery
+relationship: FB_00424 FB_0013 ! butter
+relationship: FB_00424 FB_0035 ! egg
+relationship: FB_00424 FB_0076 ! apple
+relationship: FB_00424 FB_0167 ! brown_sugar
+relationship: FB_00424 FB_0170 ! sugar
+relationship: FB_00424 FB_0269 ! flour
+
+[Term]
+id: FB_08720
+name: tiramisu
+is_a: FB_07508 ! Recipes
+relationship: FB_00424 FB_0027 ! Coffee
+relationship: FB_00424 FB_0035 ! egg
+relationship: FB_00424 FB_0170 ! sugar
+relationship: FB_00424 FB_07552 ! cocoa_powder
+relationship: FB_00424 FB_07587 ! biscuit
+relationship: FB_00424 FB_07591 ! cream_cheese
+
+[Term]
+id: FB_08721
+name: mascarpone
+is_a: FB_07591 ! cream_cheese
+
+[Term]
+id: FB_08722
+name: Hydroxyphenylvaleric_Acids
+is_a: FB_008041 ! Phenolic_Acids
+
+[Term]
+id: FB_08723
+name: Trans-Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08724
+name: Saturated_Fatty_Acids
+is_a: FB_008098 ! Fatty_Acids
+
+[Term]
+id: FB_08803
+name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08804
+name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08805
+name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate
+is_a: FB_008102 ! Valerolactones
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08806
+name: 3,4-dihydroxyphenylvaleric_acid
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08807
+name: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08808
+name: 3,4-dihydroxyphenylvaleric_acid_3_sulfate
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08809
+name: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08810
+name: 3,4-dihydroxyphenylvaleric_acid_4_sulfate
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0051 ! Berries
+relationship: FB_00422 FB_0076 ! apple
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08811
+name: 3,5-dihydroxyphenylvaleric_acid
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08812
+name: 3,5-dihydroxyphenylvaleric_acid_glucuronide
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08813
+name: 3,5-dihydroxyphenylvaleric_acid_sulfate
+is_a: FB_08722 ! Hydroxyphenylvaleric_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08814
+name: 3,5-dihydroxycinnamic_acid
+is_a: FB_008044 ! Hydroxycinnamic_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08815
+name: 3,5-dihydroxycinnamic_acid_glucuronide
+is_a: FB_008044 ! Hydroxycinnamic_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08816
+name: 3,5-dihydroxycinnamic_acid_sulfate
+is_a: FB_008044 ! Hydroxycinnamic_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08817
+name: n-(3,5-dihydroxybenzoyl)glycine
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08818
+name: alanine_betaine
+is_a: FB_08715 ! Amino_Acid_Betaines
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08819
+name: valine_betaine
+is_a: FB_08715 ! Amino_Acid_Betaines
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08820
+name: phenylalanine_betaine
+is_a: FB_08715 ! Amino_Acid_Betaines
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08821
+name: pipecolic_acid_betaine
+is_a: FB_08715 ! Amino_Acid_Betaines
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+
+[Term]
+id: FB_08822
+name: phytic_acid
+is_a: FB_029820 ! Polyols
+relationship: FB_00422 FB_00898 ! Soy
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+
+[Term]
+id: FB_08823
+name: phytanic_acid
+is_a: FB_08724 ! Saturated_Fatty_Acids
+relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0193 ! Red_Meat
+
+[Term]
+id: FB_08824
+name: elaidic_acid
+is_a: FB_08723 ! Trans-Fatty_Acids
+relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0193 ! Red_Meat
+
+[Term]
+id: FB_08825
+name: vaccenic_acid
+is_a: FB_08723 ! Trans-Fatty_Acids
+relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0193 ! Red_Meat
+
+[Term]
+id: FB_08826
+name: rumenic_acid
+is_a: FB_08723 ! Trans-Fatty_Acids
+relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0193 ! Red_Meat
+
+[Term]
+id: FB_08827
+name: 2-hydroxyhippuric_acid
+is_a: FB_008042 ! Hydroxybenzoic_Acids
+relationship: FB_00422 FB_0002 ! Cacao
+relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0046 ! olive_oil
+relationship: FB_00422 FB_0049 ! Fruits
+relationship: FB_00422 FB_0050 ! Vegetables
+relationship: FB_00422 FB_0136 ! Legumes
+relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
+relationship: FB_00422 FB_0151 ! Nuts
+relationship: FB_00422 FB_07541 ! red_wine
+
+[Term]
+id: FB_08828
+name: 4-hydroxyproline
+is_a: FB_008073 ! Amino_Acid_Derivatives
+relationship: FB_00422 FB_0172 ! Meat
 
 [Typedef]
 id: FB_00422

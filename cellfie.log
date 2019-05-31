@@ -6207,3 +6207,419 @@ Class: urolithin_a_8-sulfate  # Generated from value "urolithin_a_8-sulfate" loc
    SubClassOf: (BiomarkerOf SOME red_wine)
 
 ===========================================================================================================
+Date: 2019-05-31 11:27:07
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/v5/FBOnto2018_5.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/new_metabolites1.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!A2:B27) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @B*
+
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A5.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!A6.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!A7.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A10.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_glucuronide  # Generated from value "3,5-dihydroxyphenylvaleric_acid_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_sulfate  # Generated from value "3,5-dihydroxyphenylvaleric_acid_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'Sheet1'!A13.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_glucuronide  # Generated from value "3,5-dihydroxycinnamic_acid_glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_sulfate  # Generated from value "3,5-dihydroxycinnamic_acid_sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'Sheet1'!A16.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'Sheet1'!A17.
+   SubClassOf: Amino_Acid_Betaines
+Class: valine_betaine  # Generated from value "valine_betaine" located at cell 'Sheet1'!A18.
+   SubClassOf: Amino_Acid_Betaines
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'Sheet1'!A19.
+   SubClassOf: Amino_Acid_Betaines
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'Sheet1'!A20.
+   SubClassOf: Amino_Acid_Betaines
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!A21.
+   SubClassOf: Polyols
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Saturated_Fatty_Acids
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!A23.
+   SubClassOf: Trans-Fatty_Acids
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!A24.
+   SubClassOf: Trans-Fatty_Acids
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!A25.
+   SubClassOf: Trans-Fatty_Acids
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!A26.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'Sheet1'!A27.
+   SubClassOf: Amino_Acid_Derivatives
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A5.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!A6.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!A7.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A10.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_glucuronide  # Generated from value "3,5-dihydroxyphenylvaleric_acid_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_sulfate  # Generated from value "3,5-dihydroxyphenylvaleric_acid_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'Sheet1'!A13.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_glucuronide  # Generated from value "3,5-dihydroxycinnamic_acid_glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_sulfate  # Generated from value "3,5-dihydroxycinnamic_acid_sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'Sheet1'!A16.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'Sheet1'!A17.
+   SubClassOf: Amino_Acid_Betaines
+Class: valine_betaine  # Generated from value "valine_betaine" located at cell 'Sheet1'!A18.
+   SubClassOf: Amino_Acid_Betaines
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'Sheet1'!A19.
+   SubClassOf: Amino_Acid_Betaines
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'Sheet1'!A20.
+   SubClassOf: Amino_Acid_Betaines
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!A21.
+   SubClassOf: Polyols
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Saturated_Fatty_Acids
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!A23.
+   SubClassOf: Trans-Fatty_Acids
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!A24.
+   SubClassOf: Trans-Fatty_Acids
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!A25.
+   SubClassOf: Trans-Fatty_Acids
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!A26.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'Sheet1'!A27.
+   SubClassOf: Amino_Acid_Derivatives
+
+===========================================================================================================
+Date: 2019-05-31 11:29:44
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/v5/FBOnto2018_5.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/new_metabolites1.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!A2:A27) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @B*
+
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A5.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!A6.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!A7.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A10.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_glucuronide  # Generated from value "3,5-dihydroxyphenylvaleric_acid_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_sulfate  # Generated from value "3,5-dihydroxyphenylvaleric_acid_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'Sheet1'!A13.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_glucuronide  # Generated from value "3,5-dihydroxycinnamic_acid_glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_sulfate  # Generated from value "3,5-dihydroxycinnamic_acid_sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'Sheet1'!A16.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'Sheet1'!A17.
+   SubClassOf: Amino_Acid_Betaines
+Class: valine_betaine  # Generated from value "valine_betaine" located at cell 'Sheet1'!A18.
+   SubClassOf: Amino_Acid_Betaines
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'Sheet1'!A19.
+   SubClassOf: Amino_Acid_Betaines
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'Sheet1'!A20.
+   SubClassOf: Amino_Acid_Betaines
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!A21.
+   SubClassOf: Polyols
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Saturated_Fatty_Acids
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!A23.
+   SubClassOf: Trans-Fatty_Acids
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!A24.
+   SubClassOf: Trans-Fatty_Acids
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!A25.
+   SubClassOf: Trans-Fatty_Acids
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!A26.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'Sheet1'!A27.
+   SubClassOf: Amino_Acid_Derivatives
+
+===========================================================================================================
+Date: 2019-05-31 11:30:40
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/v5/FBOnto2018_5.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/new_metabolites1.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/rules.json
+
+# Cell range: (Sheet1!A2:A27) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @B*
+
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!A2.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!A3.
+   SubClassOf: Valerolactones
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!A4.
+   SubClassOf: Valerolactones
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A5.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!A6.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!A7.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!A8.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!A9.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!A10.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_glucuronide  # Generated from value "3,5-dihydroxyphenylvaleric_acid_glucuronide" located at cell 'Sheet1'!A11.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxyphenylvaleric_acid_sulfate  # Generated from value "3,5-dihydroxyphenylvaleric_acid_sulfate" located at cell 'Sheet1'!A12.
+   SubClassOf: Hydroxyphenylvaleric_Acids
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'Sheet1'!A13.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_glucuronide  # Generated from value "3,5-dihydroxycinnamic_acid_glucuronide" located at cell 'Sheet1'!A14.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: 3,5-dihydroxycinnamic_acid_sulfate  # Generated from value "3,5-dihydroxycinnamic_acid_sulfate" located at cell 'Sheet1'!A15.
+   SubClassOf: Hydroxycinnamic_Acids
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'Sheet1'!A16.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'Sheet1'!A17.
+   SubClassOf: Amino_Acid_Betaines
+Class: valine_betaine  # Generated from value "valine_betaine" located at cell 'Sheet1'!A18.
+   SubClassOf: Amino_Acid_Betaines
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'Sheet1'!A19.
+   SubClassOf: Amino_Acid_Betaines
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'Sheet1'!A20.
+   SubClassOf: Amino_Acid_Betaines
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!A21.
+   SubClassOf: Polyols
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!A22.
+   SubClassOf: Saturated_Fatty_Acids
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!A23.
+   SubClassOf: Trans-Fatty_Acids
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!A24.
+   SubClassOf: Trans-Fatty_Acids
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!A25.
+   SubClassOf: Trans-Fatty_Acids
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!A26.
+   SubClassOf: Hydroxybenzoic_Acids
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'Sheet1'!A27.
+   SubClassOf: Amino_Acid_Derivatives
+
+===========================================================================================================
+Date: 2019-05-31 11:39:31
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/v5/FBOnto2018_5.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/new_metabolites2.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/rules_2.json
+
+# Cell range: (Sheet1!F2:F83) Comment: ""
+# Class: @B*
+#     SubClassOf: BiomarkerOf some @F*
+
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B2.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B3.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B4.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B5.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B6.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'Sheet1'!B7.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B8.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B9.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B10.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B11.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B12.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide" located at cell 'Sheet1'!B13.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B14.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B15.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B16.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B17.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B18.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate" located at cell 'Sheet1'!B19.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B20.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B21.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B22.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B23.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B24.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B25.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B26.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B27.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B28.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B29.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B30.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_glucuronide" located at cell 'Sheet1'!B31.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B32.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B33.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B34.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B35.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B36.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylvaleric_acid_3_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_3_sulfate" located at cell 'Sheet1'!B37.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B38.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B39.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B40.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B41.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B42.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_glucuronide" located at cell 'Sheet1'!B43.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B44.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B45.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B46.
+   SubClassOf: (BiomarkerOf SOME Berries)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B47.
+   SubClassOf: (BiomarkerOf SOME apple)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B48.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 3,4-dihydroxyphenylvaleric_acid_4_sulfate  # Generated from value "3,4-dihydroxyphenylvaleric_acid_4_sulfate" located at cell 'Sheet1'!B49.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'Sheet1'!B50.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,5-dihydroxyphenylvaleric_acid_glucuronide  # Generated from value "3,5-dihydroxyphenylvaleric_acid_glucuronide" located at cell 'Sheet1'!B51.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,5-dihydroxyphenylvaleric_acid_sulfate  # Generated from value "3,5-dihydroxyphenylvaleric_acid_sulfate" located at cell 'Sheet1'!B52.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'Sheet1'!B53.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,5-dihydroxycinnamic_acid_glucuronide  # Generated from value "3,5-dihydroxycinnamic_acid_glucuronide" located at cell 'Sheet1'!B54.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 3,5-dihydroxycinnamic_acid_sulfate  # Generated from value "3,5-dihydroxycinnamic_acid_sulfate" located at cell 'Sheet1'!B55.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'Sheet1'!B56.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'Sheet1'!B57.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: valine_betaine  # Generated from value "valine_betaine" located at cell 'Sheet1'!B58.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'Sheet1'!B59.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'Sheet1'!B60.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!B61.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!B62.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!B63.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'Sheet1'!B64.
+   SubClassOf: (BiomarkerOf SOME Soy)
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!B65.
+   SubClassOf: (BiomarkerOf SOME Dairy)
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'Sheet1'!B66.
+   SubClassOf: (BiomarkerOf SOME Red_Meat)
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!B67.
+   SubClassOf: (BiomarkerOf SOME Dairy)
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'Sheet1'!B68.
+   SubClassOf: (BiomarkerOf SOME Red_Meat)
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!B69.
+   SubClassOf: (BiomarkerOf SOME Dairy)
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'Sheet1'!B70.
+   SubClassOf: (BiomarkerOf SOME Red_Meat)
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!B71.
+   SubClassOf: (BiomarkerOf SOME Dairy)
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'Sheet1'!B72.
+   SubClassOf: (BiomarkerOf SOME Red_Meat)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B73.
+   SubClassOf: (BiomarkerOf SOME Fruits)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B74.
+   SubClassOf: (BiomarkerOf SOME Vegetables)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B75.
+   SubClassOf: (BiomarkerOf SOME Coffee)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B76.
+   SubClassOf: (BiomarkerOf SOME Tea)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B77.
+   SubClassOf: (BiomarkerOf SOME Cacao)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B78.
+   SubClassOf: (BiomarkerOf SOME Whole_Grain_Cereals)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B79.
+   SubClassOf: (BiomarkerOf SOME Legumes)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B80.
+   SubClassOf: (BiomarkerOf SOME Nuts)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B81.
+   SubClassOf: (BiomarkerOf SOME olive_oil)
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'Sheet1'!B82.
+   SubClassOf: (BiomarkerOf SOME red_wine)
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'Sheet1'!B83.
+   SubClassOf: (BiomarkerOf SOME Meat)
+
+===========================================================================================================
