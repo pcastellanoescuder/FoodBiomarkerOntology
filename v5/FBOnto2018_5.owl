@@ -35546,7 +35546,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07556</IRI>
-        <Literal xml:lang="es">Bakery</Literal>
+        <Literal xml:lang="es">Bakery_Products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -35566,7 +35566,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07560</IRI>
-        <Literal xml:lang="es">Flavoring</Literal>
+        <Literal xml:lang="es">Flavoring_Agents</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

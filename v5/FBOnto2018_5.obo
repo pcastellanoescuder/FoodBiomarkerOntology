@@ -6669,14 +6669,14 @@ is_a: FB_0002 ! Cacao
 [Term]
 id: FB_07553
 name: cake
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0269 ! flour
 
 [Term]
 id: FB_07554
 name: chocolate_cake
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0003 ! chocolate
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0269 ! flour
@@ -6684,14 +6684,14 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_07555
 name: fruit_cake
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0049 ! Fruits
 relationship: FB_00424 FB_0269 ! flour
 
 [Term]
 id: FB_07556
-name: Bakery
+name: Bakery_Products
 is_a: FB_07508 ! Prepared_Foods
 
 [Term]
@@ -6717,13 +6717,13 @@ relationship: FB_00424 FB_07561 ! salt
 
 [Term]
 id: FB_07560
-name: Flavoring
+name: Flavoring_Agents
 is_a: FB_0001 ! Food
 
 [Term]
 id: FB_07561
 name: salt
-is_a: FB_07560 ! Flavoring
+is_a: FB_07560 ! Flavoring_Agents
 
 [Term]
 id: FB_07562
@@ -6733,7 +6733,7 @@ is_a: FB_0105 ! tomato
 [Term]
 id: FB_07563
 name: pancake
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0035 ! egg
@@ -6763,7 +6763,7 @@ is_a: FB_0123 ! Spices
 [Term]
 id: FB_07568
 name: brownie
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0003 ! chocolate
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0035 ! egg
@@ -6773,7 +6773,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_07569
 name: vinegar
-is_a: FB_07560 ! Flavoring
+is_a: FB_07560 ! Flavoring_Agents
 
 [Term]
 id: FB_07570
@@ -6843,7 +6843,7 @@ is_a: FB_07576 ! Distilled_Alcohols
 [Term]
 id: FB_07583
 name: cheesecake
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0170 ! sugar
@@ -6868,7 +6868,7 @@ is_a: FB_0010 ! cheese
 [Term]
 id: FB_07587
 name: biscuit
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0170 ! sugar
 relationship: FB_00424 FB_0269 ! flour
@@ -6878,7 +6878,7 @@ relationship: FB_00424 FB_07572 ! wholemeal
 [Term]
 id: FB_07588
 name: cookie
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0003 ! chocolate
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0170 ! sugar
@@ -6889,13 +6889,13 @@ relationship: FB_00424 FB_07572 ! wholemeal
 [Term]
 id: FB_07589
 name: cracker
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0269 ! flour
 
 [Term]
 id: FB_07590
 name: red_velvet
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0093 ! beetroot
 relationship: FB_00424 FB_0170 ! sugar
@@ -7841,7 +7841,7 @@ is_a: FB_008098 ! Fatty_Acids
 [Term]
 id: FB_08719
 name: apple_pie
-is_a: FB_07556 ! Bakery
+is_a: FB_07556 ! Bakery_Products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0076 ! apple
