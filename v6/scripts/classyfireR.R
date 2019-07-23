@@ -1,7 +1,8 @@
 library(classyfireR)
 library(tidyverse)
 
-data <- vroom::vroom("/home/pol/Escritorio/FBOnto/FBOnto_paper/Annotation/Annotation_file.csv" , delim = ",")
+data <- vroom::vroom("/home/pol/Escritorio/FBOnto/FBOnto_paper/Annotation/Annotation_file.csv" , 
+                     delim = ",")
   
 keys <- data$InChIKey[!is.na(data$InChIKey)]
 
@@ -50,25 +51,31 @@ results <- results[, c(2,11:ncol(results))]
 
 ## 
 
+results <- vroom::vroom("/Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results.csv" , 
+                     delim = ",")
+
 results7 <- results[!is.na(results$Level7) ,]
-write.csv(results7, "results7.csv")
+#write.csv(results7, "results7.csv")
 
 results6 <- results[!is.na(results$Level6) & is.na(results$Level7) ,]
-write.csv(results6, "results6.csv")
+#write.csv(results6, "results6.csv")
 
 results5 <- results[!is.na(results$Level5) & is.na(results$Level6) & is.na(results$Level7) ,]
-write.csv(results5, "results5.csv")
+#write.csv(results5, "results5.csv")
 
 results4 <- results[!is.na(results$SubClass) & is.na(results$Level5) & is.na(results$Level6) & is.na(results$Level7) ,]
-write.csv(results4, "results4.csv")
+#write.csv(results4, "results4.csv")
 
 results3 <- results[!is.na(results$Class) & is.na(results$SubClass) & is.na(results$Level5) & is.na(results$Level6) & is.na(results$Level7) ,]
-write.csv(results3, "results3.csv")
+#write.csv(results3, "results3.csv")
 
 
+lastclasses <- results$Class[!(results$Class %in% results3$Class)]
+
+final <- results[results$Class %in% lastclasses, c(2,3)]
 
 
-nrow(results5[results5$MetaboliteName %in% results6$MetaboliteName ,])
+write.csv(final, "FINAL.csv")
 
 
 

@@ -31883,3 +31883,2518 @@ Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" loc
    SubClassOf: Phenylpropanoids and polyketides
 
 ===========================================================================================================
+Date: 2019-07-23 09:41:35
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results7.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (results7!A2:A71) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @G*
+
+Class: pelargonidin_3-glucoside  # Generated from value "pelargonidin_3-glucoside" located at cell 'results7'!A2.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+Class: 2,6-dihydroxybenzoic_acid  # Generated from value "2,6-dihydroxybenzoic_acid" located at cell 'results7'!A3.
+   SubClassOf: Salicylic acids
+Class: naringenin_7-glucuronide  # Generated from value "naringenin_7-glucuronide" located at cell 'results7'!A4.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: 1-methylhistidine  # Generated from value "1-methylhistidine" located at cell 'results7'!A5.
+   SubClassOf: Histidine and derivatives
+Class: alanine_betaine  # Generated from value "alanine_betaine" located at cell 'results7'!A6.
+   SubClassOf: Alanine and derivatives
+Class: 4'-methylepicatechin_7-glucuronide  # Generated from value "4'-methylepicatechin_7-glucuronide" located at cell 'results7'!A7.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: feruloylglycine  # Generated from value "feruloylglycine" located at cell 'results7'!A8.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: proline_betaine  # Generated from value "proline_betaine" located at cell 'results7'!A9.
+   SubClassOf: Proline and derivatives
+Class: l-phenylalanine  # Generated from value "l-phenylalanine" located at cell 'results7'!A10.
+   SubClassOf: Phenylalanine and derivatives
+Class: 3-caffeoylquinic_acid  # Generated from value "3-caffeoylquinic_acid" located at cell 'results7'!A11.
+   SubClassOf: Quinic acids and derivatives
+Class: 5-caffeoylquinic_acid  # Generated from value "5-caffeoylquinic_acid" located at cell 'results7'!A12.
+   SubClassOf: Quinic acids and derivatives
+Class: quercetin_3-glucuronide  # Generated from value "quercetin_3-glucuronide" located at cell 'results7'!A13.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: epicatechin_7-glucuronide  # Generated from value "epicatechin_7-glucuronide" located at cell 'results7'!A14.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: kaempferol_3-glucuronide  # Generated from value "kaempferol_3-glucuronide" located at cell 'results7'!A15.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: bergaptol  # Generated from value "bergaptol" located at cell 'results7'!A16.
+   SubClassOf: 5-hydroxypsoralens
+Class: 4-caffeoylquinic_acid  # Generated from value "4-caffeoylquinic_acid" located at cell 'results7'!A17.
+   SubClassOf: Quinic acids and derivatives
+Class: petunidin_3-glucoside  # Generated from value "petunidin_3-glucoside" located at cell 'results7'!A18.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+Class: 5-(hydroxymethyl-2-furoyl)glycine  # Generated from value "5-(hydroxymethyl-2-furoyl)glycine" located at cell 'results7'!A19.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: 3-hydroxybenzaldehyde  # Generated from value "3-hydroxybenzaldehyde" located at cell 'results7'!A20.
+   SubClassOf: Benzaldehydes
+Class: 3,4-dihydroxybenzaldehyde  # Generated from value "3,4-dihydroxybenzaldehyde" located at cell 'results7'!A21.
+   SubClassOf: Benzaldehydes
+Class: s-methylcysteine  # Generated from value "s-methylcysteine" located at cell 'results7'!A22.
+   SubClassOf: Cysteine and derivatives
+Class: sulforaphane-n-acetyl-cysteine  # Generated from value "sulforaphane-n-acetyl-cysteine" located at cell 'results7'!A23.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: phytic_acid  # Generated from value "phytic_acid" located at cell 'results7'!A24.
+   SubClassOf: Inositol phosphates
+Class: ethyl_glucuronide  # Generated from value "ethyl_glucuronide" located at cell 'results7'!A25.
+   SubClassOf: Glucuronides
+Class: apigenin_7-glucuronide  # Generated from value "apigenin_7-glucuronide" located at cell 'results7'!A26.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: 3-methylhistidine  # Generated from value "3-methylhistidine" located at cell 'results7'!A27.
+   SubClassOf: Histidine and derivatives
+Class: phenylacetylglutamine  # Generated from value "phenylacetylglutamine" located at cell 'results7'!A28.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: formononetin_7-glucuronide  # Generated from value "formononetin_7-glucuronide" located at cell 'results7'!A29.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: 3,5-dicaffeoylquinic_acid  # Generated from value "3,5-dicaffeoylquinic_acid" located at cell 'results7'!A30.
+   SubClassOf: Quinic acids and derivatives
+Class: n-(2-furoyl)glycine  # Generated from value "n-(2-furoyl)glycine" located at cell 'results7'!A31.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: indoxyl_glucuronide  # Generated from value "indoxyl_glucuronide" located at cell 'results7'!A32.
+   SubClassOf: Glucuronides
+Class: s-allylmercapturic_acid  # Generated from value "s-allylmercapturic_acid" located at cell 'results7'!A33.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: n-acetyl-s-allylcysteine  # Generated from value "n-acetyl-s-allylcysteine" located at cell 'results7'!A34.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: gallic_acid  # Generated from value "gallic_acid" located at cell 'results7'!A35.
+   SubClassOf: Gallic acids
+Class: vanilloylglycine  # Generated from value "vanilloylglycine" located at cell 'results7'!A36.
+   SubClassOf: Hippuric acids
+Class: epicatechin-3-gallate  # Generated from value "epicatechin-3-gallate" located at cell 'results7'!A37.
+   SubClassOf: Catechin gallates
+Class: 4-hydroxyproline_betaine  # Generated from value "4-hydroxyproline_betaine" located at cell 'results7'!A38.
+   SubClassOf: Proline and derivatives
+Class: 3'-methylepicatechin_7-glucuronide  # Generated from value "3'-methylepicatechin_7-glucuronide" located at cell 'results7'!A39.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: hesperetin_7-glucuronide  # Generated from value "hesperetin_7-glucuronide" located at cell 'results7'!A40.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: 2-hydroxyhippuric_acid  # Generated from value "2-hydroxyhippuric_acid" located at cell 'results7'!A41.
+   SubClassOf: Hippuric acids
+Class: l-tyrosine  # Generated from value "l-tyrosine" located at cell 'results7'!A42.
+   SubClassOf: Tyrosine and derivatives
+Class: 4-hydroxyproline  # Generated from value "4-hydroxyproline" located at cell 'results7'!A43.
+   SubClassOf: Proline and derivatives
+Class: sulforaphane-cysteine  # Generated from value "sulforaphane-cysteine" located at cell 'results7'!A44.
+   SubClassOf: Cysteine and derivatives
+Class: malvidin_3-glucoside  # Generated from value "malvidin_3-glucoside" located at cell 'results7'!A45.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+Class: hippuric_acid  # Generated from value "hippuric_acid" located at cell 'results7'!A46.
+   SubClassOf: Hippuric acids
+Class: 3-feruloylquinic_acid  # Generated from value "3-feruloylquinic_acid" located at cell 'results7'!A47.
+   SubClassOf: Quinic acids and derivatives
+Class: 5-feruloylquinic_acid  # Generated from value "5-feruloylquinic_acid" located at cell 'results7'!A48.
+   SubClassOf: Quinic acids and derivatives
+Class: 4-hydroxybenzaldehyde  # Generated from value "4-hydroxybenzaldehyde" located at cell 'results7'!A49.
+   SubClassOf: Benzaldehydes
+Class: n-(3,5-dihydroxybenzoyl)glycine  # Generated from value "n-(3,5-dihydroxybenzoyl)glycine" located at cell 'results7'!A50.
+   SubClassOf: Hippuric acids
+Class: n-acetyl-s-methylcysteine  # Generated from value "n-acetyl-s-methylcysteine" located at cell 'results7'!A51.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: 2-amino-1,6-dimethylimidazo[4,5-b]pyridine_glucuronide  # Generated from value "2-amino-1,6-dimethylimidazo[4,5-b]pyridine_glucuronide" located at cell 'results7'!A52.
+   SubClassOf: Glucuronides
+Class: ergothioneine  # Generated from value "ergothioneine" located at cell 'results7'!A53.
+   SubClassOf: Histidine and derivatives
+Class: 3,4-dicaffeoylquinic_acid  # Generated from value "3,4-dicaffeoylquinic_acid" located at cell 'results7'!A54.
+   SubClassOf: Quinic acids and derivatives
+Class: 4,5-dicaffeoylquinic_acid  # Generated from value "4,5-dicaffeoylquinic_acid" located at cell 'results7'!A55.
+   SubClassOf: Quinic acids and derivatives
+Class: phenylacetylglycine  # Generated from value "phenylacetylglycine" located at cell 'results7'!A56.
+   SubClassOf: N-acyl-alpha amino acids and derivatives
+Class: ethylgallate  # Generated from value "ethylgallate" located at cell 'results7'!A57.
+   SubClassOf: Galloyl esters
+Class: luteolin_7-glucuronide  # Generated from value "luteolin_7-glucuronide" located at cell 'results7'!A58.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: isorhamnetin_3-glucuronide  # Generated from value "isorhamnetin_3-glucuronide" located at cell 'results7'!A59.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: epigallocatechin-3-gallate  # Generated from value "epigallocatechin-3-gallate" located at cell 'results7'!A60.
+   SubClassOf: Catechin gallates
+Class: 3-hydroxyhippuric_acid  # Generated from value "3-hydroxyhippuric_acid" located at cell 'results7'!A61.
+   SubClassOf: Hippuric acids
+Class: delphinidin_3-glucoside  # Generated from value "delphinidin_3-glucoside" located at cell 'results7'!A62.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+Class: epigallocatechin  # Generated from value "epigallocatechin" located at cell 'results7'!A63.
+   SubClassOf: Epigallocatechins
+Class: phenylalanine_betaine  # Generated from value "phenylalanine_betaine" located at cell 'results7'!A64.
+   SubClassOf: Phenylalanine and derivatives
+Class: pipecolic_acid_betaine  # Generated from value "pipecolic_acid_betaine" located at cell 'results7'!A65.
+   SubClassOf: Alpha amino acids
+Class: 2-hydroxybenzoic_acid  # Generated from value "2-hydroxybenzoic_acid" located at cell 'results7'!A66.
+   SubClassOf: Salicylic acids
+Class: cyanidin_3-glucoside  # Generated from value "cyanidin_3-glucoside" located at cell 'results7'!A67.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+Class: s-allylcysteine  # Generated from value "s-allylcysteine" located at cell 'results7'!A68.
+   SubClassOf: Cysteine and derivatives
+Class: 4-hydroxyhippuric_acid  # Generated from value "4-hydroxyhippuric_acid" located at cell 'results7'!A69.
+   SubClassOf: Hippuric acids
+Class: epigallocatechin_3-glucuronide  # Generated from value "epigallocatechin_3-glucuronide" located at cell 'results7'!A70.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: peonidin_3-glucoside  # Generated from value "peonidin_3-glucoside" located at cell 'results7'!A71.
+   SubClassOf: Anthocyanidin-3-O-glycosides
+
+# Cell range: (results7!G2:G71) Comment: ""
+# Class: @G*(rdfs:label=(@G*)) 
+# SubClassOf: @F*
+
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G2.
+   SubClassOf: Anthocyanins
+Class: Salicylic acids  # Generated from value "Salicylic acids" located at cell 'results7'!G3.
+   SubClassOf: Salicylic acid and derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G4.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Histidine and derivatives  # Generated from value "Histidine and derivatives" located at cell 'results7'!G5.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Alanine and derivatives  # Generated from value "Alanine and derivatives" located at cell 'results7'!G6.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G7.
+   SubClassOf: Flavonoid O-glucuronides
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G8.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Proline and derivatives  # Generated from value "Proline and derivatives" located at cell 'results7'!G9.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Phenylalanine and derivatives  # Generated from value "Phenylalanine and derivatives" located at cell 'results7'!G10.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G11.
+   SubClassOf: Cyclitols and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G12.
+   SubClassOf: Cyclitols and derivatives
+Class: Flavonoid-3-O-glucuronides  # Generated from value "Flavonoid-3-O-glucuronides" located at cell 'results7'!G13.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G14.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Flavonoid-3-O-glucuronides  # Generated from value "Flavonoid-3-O-glucuronides" located at cell 'results7'!G15.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 5-hydroxypsoralens  # Generated from value "5-hydroxypsoralens" located at cell 'results7'!G16.
+   SubClassOf: Psoralens
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G17.
+   SubClassOf: Cyclitols and derivatives
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G18.
+   SubClassOf: Anthocyanins
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G19.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Benzaldehydes  # Generated from value "Benzaldehydes" located at cell 'results7'!G20.
+   SubClassOf: Aryl-aldehydes
+Class: Benzaldehydes  # Generated from value "Benzaldehydes" located at cell 'results7'!G21.
+   SubClassOf: Aryl-aldehydes
+Class: Cysteine and derivatives  # Generated from value "Cysteine and derivatives" located at cell 'results7'!G22.
+   SubClassOf: Alpha amino acids and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G23.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Inositol phosphates  # Generated from value "Inositol phosphates" located at cell 'results7'!G24.
+   SubClassOf: Cyclitols and derivatives
+Class: Glucuronides  # Generated from value "Glucuronides" located at cell 'results7'!G25.
+   SubClassOf: Glucuronic acid derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G26.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Histidine and derivatives  # Generated from value "Histidine and derivatives" located at cell 'results7'!G27.
+   SubClassOf: Alpha amino acids and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G28.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G29.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G30.
+   SubClassOf: Cyclitols and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G31.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Glucuronides  # Generated from value "Glucuronides" located at cell 'results7'!G32.
+   SubClassOf: Glucuronic acid derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G33.
+   SubClassOf: Alpha amino acids and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G34.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Gallic acids  # Generated from value "Gallic acids" located at cell 'results7'!G35.
+   SubClassOf: Gallic acid and derivatives
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G36.
+   SubClassOf: Hippuric acids and derivatives
+Class: Catechin gallates  # Generated from value "Catechin gallates" located at cell 'results7'!G37.
+   SubClassOf: Catechins
+Class: Proline and derivatives  # Generated from value "Proline and derivatives" located at cell 'results7'!G38.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G39.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G40.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G41.
+   SubClassOf: Hippuric acids and derivatives
+Class: Tyrosine and derivatives  # Generated from value "Tyrosine and derivatives" located at cell 'results7'!G42.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Proline and derivatives  # Generated from value "Proline and derivatives" located at cell 'results7'!G43.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Cysteine and derivatives  # Generated from value "Cysteine and derivatives" located at cell 'results7'!G44.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G45.
+   SubClassOf: Anthocyanins
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G46.
+   SubClassOf: Hippuric acids and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G47.
+   SubClassOf: Cyclitols and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G48.
+   SubClassOf: Cyclitols and derivatives
+Class: Benzaldehydes  # Generated from value "Benzaldehydes" located at cell 'results7'!G49.
+   SubClassOf: Aryl-aldehydes
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G50.
+   SubClassOf: Hippuric acids and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G51.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Glucuronides  # Generated from value "Glucuronides" located at cell 'results7'!G52.
+   SubClassOf: Glucuronic acid derivatives
+Class: Histidine and derivatives  # Generated from value "Histidine and derivatives" located at cell 'results7'!G53.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G54.
+   SubClassOf: Cyclitols and derivatives
+Class: Quinic acids and derivatives  # Generated from value "Quinic acids and derivatives" located at cell 'results7'!G55.
+   SubClassOf: Cyclitols and derivatives
+Class: N-acyl-alpha amino acids and derivatives  # Generated from value "N-acyl-alpha amino acids and derivatives" located at cell 'results7'!G56.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Galloyl esters  # Generated from value "Galloyl esters" located at cell 'results7'!G57.
+   SubClassOf: Gallic acid and derivatives
+Class: Flavonoid-7-O-glucuronides  # Generated from value "Flavonoid-7-O-glucuronides" located at cell 'results7'!G58.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Flavonoid-3-O-glucuronides  # Generated from value "Flavonoid-3-O-glucuronides" located at cell 'results7'!G59.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Catechin gallates  # Generated from value "Catechin gallates" located at cell 'results7'!G60.
+   SubClassOf: Catechins
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G61.
+   SubClassOf: Hippuric acids and derivatives
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G62.
+   SubClassOf: Anthocyanins
+Class: Epigallocatechins  # Generated from value "Epigallocatechins" located at cell 'results7'!G63.
+   SubClassOf: Catechins
+Class: Phenylalanine and derivatives  # Generated from value "Phenylalanine and derivatives" located at cell 'results7'!G64.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Alpha amino acids  # Generated from value "Alpha amino acids" located at cell 'results7'!G65.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Salicylic acids  # Generated from value "Salicylic acids" located at cell 'results7'!G66.
+   SubClassOf: Salicylic acid and derivatives
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G67.
+   SubClassOf: Anthocyanins
+Class: Cysteine and derivatives  # Generated from value "Cysteine and derivatives" located at cell 'results7'!G68.
+   SubClassOf: Alpha amino acids and derivatives
+Class: Hippuric acids  # Generated from value "Hippuric acids" located at cell 'results7'!G69.
+   SubClassOf: Hippuric acids and derivatives
+Class: Flavonoid-3-O-glucuronides  # Generated from value "Flavonoid-3-O-glucuronides" located at cell 'results7'!G70.
+   SubClassOf: Flavonoid O-glucuronides
+Class: Anthocyanidin-3-O-glycosides  # Generated from value "Anthocyanidin-3-O-glycosides" located at cell 'results7'!G71.
+   SubClassOf: Anthocyanins
+
+===========================================================================================================
+Date: 2019-07-23 09:43:37
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results6.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (results6!A2:A124) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+# SubClassOf: @F*
+
+Class: dihydrocaffeic_acid_3-glucuronide  # Generated from value "dihydrocaffeic_acid_3-glucuronide" located at cell 'results6'!A2.
+   SubClassOf: Phenolic glycosides
+Class: α-carotene  # Generated from value "α-carotene" located at cell 'results6'!A3.
+   SubClassOf: Carotenes
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'results6'!A4.
+   SubClassOf: Phenolic glycosides
+Class: sucralose  # Generated from value "sucralose" located at cell 'results6'!A5.
+   SubClassOf: C-glycosyl compounds
+Class: 3'-methylepicatechin  # Generated from value "3'-methylepicatechin" located at cell 'results6'!A6.
+   SubClassOf: Catechins
+Class: 2,6-dihydroxybenzoic_acid_6-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_6-glucuronide" located at cell 'results6'!A7.
+   SubClassOf: Phenolic glycosides
+Class: caffeic_acid_3-glucuronide  # Generated from value "caffeic_acid_3-glucuronide" located at cell 'results6'!A8.
+   SubClassOf: Phenolic glycosides
+Class: 2,4,6-trihydroxybenzaldehyde  # Generated from value "2,4,6-trihydroxybenzaldehyde" located at cell 'results6'!A9.
+   SubClassOf: Acylphloroglucinols and derivatives
+Class: o-coumaric_acid_sulfate  # Generated from value "o-coumaric_acid_sulfate" located at cell 'results6'!A10.
+   SubClassOf: Coumaric acids
+Class: epicatechin_3'-glucuronide  # Generated from value "epicatechin_3'-glucuronide" located at cell 'results6'!A11.
+   SubClassOf: Flavonoid O-glucuronides
+Class: hesperetin_5-glucuronide  # Generated from value "hesperetin_5-glucuronide" located at cell 'results6'!A12.
+   SubClassOf: Flavonoid O-glucuronides
+Class: hydroxytyrosol_3'-glucuronide  # Generated from value "hydroxytyrosol_3'-glucuronide" located at cell 'results6'!A13.
+   SubClassOf: Phenolic glycosides
+Class: homovanillic_acid_4-glucuronide  # Generated from value "homovanillic_acid_4-glucuronide" located at cell 'results6'!A14.
+   SubClassOf: Phenolic glycosides
+Class: sucrose  # Generated from value "sucrose" located at cell 'results6'!A15.
+   SubClassOf: O-glycosyl compounds
+Class: creatinine  # Generated from value "creatinine" located at cell 'results6'!A16.
+   SubClassOf: Alpha amino acids and derivatives
+Class: naringenin_4'-glucuronide  # Generated from value "naringenin_4'-glucuronide" located at cell 'results6'!A17.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 4-hydroxybenzoic_acid_glucuronide  # Generated from value "4-hydroxybenzoic_acid_glucuronide" located at cell 'results6'!A18.
+   SubClassOf: Phenolic glycosides
+Class: β-cryptoxanthin  # Generated from value "β-cryptoxanthin" located at cell 'results6'!A19.
+   SubClassOf: Xanthophylls
+Class: gallic_acid_4-sulfate  # Generated from value "gallic_acid_4-sulfate" located at cell 'results6'!A20.
+   SubClassOf: Gallic acid and derivatives
+Class: 4-hydroxyphenylacetic_acid_glucuronide  # Generated from value "4-hydroxyphenylacetic_acid_glucuronide" located at cell 'results6'!A21.
+   SubClassOf: Phenolic glycosides
+Class: d-pinitol  # Generated from value "d-pinitol" located at cell 'results6'!A22.
+   SubClassOf: Cyclohexanols
+Class: gallic_acid_4-glucuronide  # Generated from value "gallic_acid_4-glucuronide" located at cell 'results6'!A23.
+   SubClassOf: Phenolic glycosides
+Class: 4'-methylepicatechin_5-glucuronide  # Generated from value "4'-methylepicatechin_5-glucuronide" located at cell 'results6'!A24.
+   SubClassOf: Flavonoid O-glucuronides
+Class: epicatechin_3-sulfate  # Generated from value "epicatechin_3-sulfate" located at cell 'results6'!A25.
+   SubClassOf: Catechins
+Class: homovanillyl_alcohol_glucuronide  # Generated from value "homovanillyl_alcohol_glucuronide" located at cell 'results6'!A26.
+   SubClassOf: Phenolic glycosides
+Class: epicatechin_4'-glucuronide  # Generated from value "epicatechin_4'-glucuronide" located at cell 'results6'!A27.
+   SubClassOf: Flavonoid O-glucuronides
+Class: catechin_4'-glucuronide  # Generated from value "catechin_4'-glucuronide" located at cell 'results6'!A28.
+   SubClassOf: Flavonoid O-glucuronides
+Class: gallic_acid_3-sulfate  # Generated from value "gallic_acid_3-sulfate" located at cell 'results6'!A29.
+   SubClassOf: Gallic acid and derivatives
+Class: tyrosol_glucuronide  # Generated from value "tyrosol_glucuronide" located at cell 'results6'!A30.
+   SubClassOf: Phenolic glycosides
+Class: formononetin  # Generated from value "formononetin" located at cell 'results6'!A31.
+   SubClassOf: 4'-O-methylisoflavones
+Class: 2,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'results6'!A32.
+   SubClassOf: Phenolic glycosides
+Class: enterolactone  # Generated from value "enterolactone" located at cell 'results6'!A33.
+   SubClassOf: Dibenzylbutyrolactone lignans
+Class: catechol_glucuronide  # Generated from value "catechol_glucuronide" located at cell 'results6'!A34.
+   SubClassOf: Phenolic glycosides
+Class: 3-(3,5-dihydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)propionic_acid_glucuronide" located at cell 'results6'!A35.
+   SubClassOf: Phenolic glycosides
+Class: luteolin_3'-glucuronide  # Generated from value "luteolin_3'-glucuronide" located at cell 'results6'!A36.
+   SubClassOf: Flavonoid O-glucuronides
+Class: zeaxanthin  # Generated from value "zeaxanthin" located at cell 'results6'!A37.
+   SubClassOf: Xanthophylls
+Class: hydroxytyrosol_4'-glucuronide  # Generated from value "hydroxytyrosol_4'-glucuronide" located at cell 'results6'!A38.
+   SubClassOf: Phenolic glycosides
+Class: syringic_acid  # Generated from value "syringic_acid" located at cell 'results6'!A39.
+   SubClassOf: Gallic acid and derivatives
+Class: p-cresol_glucuronide  # Generated from value "p-cresol_glucuronide" located at cell 'results6'!A40.
+   SubClassOf: Phenolic glycosides
+Class: 2,4-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,4-dihydroxybenzoic_acid_2-glucuronide" located at cell 'results6'!A41.
+   SubClassOf: Phenolic glycosides
+Class: 2-hydroxybenzoic_acid_glucuronide  # Generated from value "2-hydroxybenzoic_acid_glucuronide" located at cell 'results6'!A42.
+   SubClassOf: Phenolic glycosides
+Class: 4'-methylepicatechin_5-sulfate  # Generated from value "4'-methylepicatechin_5-sulfate" located at cell 'results6'!A43.
+   SubClassOf: Catechins
+Class: lutein  # Generated from value "lutein" located at cell 'results6'!A44.
+   SubClassOf: Xanthophylls
+Class: catechin_5-glucuronide  # Generated from value "catechin_5-glucuronide" located at cell 'results6'!A45.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 3-methylgallic_acid  # Generated from value "3-methylgallic_acid" located at cell 'results6'!A46.
+   SubClassOf: Gallic acid and derivatives
+Class: urolithin_a_3-glucuronide  # Generated from value "urolithin_a_3-glucuronide" located at cell 'results6'!A47.
+   SubClassOf: Phenolic glycosides
+Class: dihydroferulic_acid_4-glucuronide  # Generated from value "dihydroferulic_acid_4-glucuronide" located at cell 'results6'!A48.
+   SubClassOf: Phenolic glycosides
+Class: quercetin_3'-glucuronide  # Generated from value "quercetin_3'-glucuronide" located at cell 'results6'!A49.
+   SubClassOf: Flavonoid O-glucuronides
+Class: isovanillic_acid  # Generated from value "isovanillic_acid" located at cell 'results6'!A50.
+   SubClassOf: P-methoxybenzoic acids and derivatives
+Class: 3,5-dihydroxybenzoic_acid_glucuronide  # Generated from value "3,5-dihydroxybenzoic_acid_glucuronide" located at cell 'results6'!A51.
+   SubClassOf: Phenolic glycosides
+Class: 4-methylgallic_acid_3-sulfate  # Generated from value "4-methylgallic_acid_3-sulfate" located at cell 'results6'!A52.
+   SubClassOf: Gallic acid and derivatives
+Class: caffeic_acid_4-glucuronide  # Generated from value "caffeic_acid_4-glucuronide" located at cell 'results6'!A53.
+   SubClassOf: Phenolic glycosides
+Class: urolithin_b_glucuronide  # Generated from value "urolithin_b_glucuronide" located at cell 'results6'!A54.
+   SubClassOf: Phenolic glycosides
+Class: epicatechin_5-sulfate  # Generated from value "epicatechin_5-sulfate" located at cell 'results6'!A55.
+   SubClassOf: Catechins
+Class: 4'-methylepicatechin_7-sulfate  # Generated from value "4'-methylepicatechin_7-sulfate" located at cell 'results6'!A56.
+   SubClassOf: Catechins
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'results6'!A57.
+   SubClassOf: Phenolic glycosides
+Class: 3,4-dihydroxybenzoic_acid_4-glucuronide  # Generated from value "3,4-dihydroxybenzoic_acid_4-glucuronide" located at cell 'results6'!A58.
+   SubClassOf: Phenolic glycosides
+Class: lycopene  # Generated from value "lycopene" located at cell 'results6'!A59.
+   SubClassOf: Carotenes
+Class: β-carotene  # Generated from value "β-carotene" located at cell 'results6'!A60.
+   SubClassOf: Carotenes
+Class: 3'-methylepicatechin_4'-glucuronide  # Generated from value "3'-methylepicatechin_4'-glucuronide" located at cell 'results6'!A61.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 3'-methylcatechin_4'-glucuronide  # Generated from value "3'-methylcatechin_4'-glucuronide" located at cell 'results6'!A62.
+   SubClassOf: Flavonoid O-glucuronides
+Class: dihydroisoferulic_acid_3-glucuronide  # Generated from value "dihydroisoferulic_acid_3-glucuronide" located at cell 'results6'!A63.
+   SubClassOf: Phenolic glycosides
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide" located at cell 'results6'!A64.
+   SubClassOf: Phenolic glycosides
+Class: 2-β-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one  # Generated from value "2-β-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one" located at cell 'results6'!A65.
+   SubClassOf: O-glycosyl compounds
+Class: 4'-methylepicatechin_3'-sulfate  # Generated from value "4'-methylepicatechin_3'-sulfate" located at cell 'results6'!A66.
+   SubClassOf: Catechins
+Class: 2-methylpyrogallol_1-glucuronide  # Generated from value "2-methylpyrogallol_1-glucuronide" located at cell 'results6'!A67.
+   SubClassOf: Phenolic glycosides
+Class: catechin  # Generated from value "catechin" located at cell 'results6'!A68.
+   SubClassOf: Catechins
+Class: epicatechin  # Generated from value "epicatechin" located at cell 'results6'!A69.
+   SubClassOf: Catechins
+Class: hesperetin_3'-glucuronide  # Generated from value "hesperetin_3'-glucuronide" located at cell 'results6'!A70.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 2-β-d-glucopyranosyloxy-7-methoxy-1,4-benzoxazin-3-one  # Generated from value "2-β-d-glucopyranosyloxy-7-methoxy-1,4-benzoxazin-3-one" located at cell 'results6'!A71.
+   SubClassOf: O-glycosyl compounds
+Class: 4'-methylepicatechin_3'-glucuronide  # Generated from value "4'-methylepicatechin_3'-glucuronide" located at cell 'results6'!A72.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 2-β-d-glucopyranosyloxy-1,4-benzoxazin-3-one  # Generated from value "2-β-d-glucopyranosyloxy-1,4-benzoxazin-3-one" located at cell 'results6'!A73.
+   SubClassOf: O-glycosyl compounds
+Class: pyrogallol_1-glucuronide  # Generated from value "pyrogallol_1-glucuronide" located at cell 'results6'!A74.
+   SubClassOf: Phenolic glycosides
+Class: 3'-methylepicatechin_4'-sulfate  # Generated from value "3'-methylepicatechin_4'-sulfate" located at cell 'results6'!A75.
+   SubClassOf: Catechins
+Class: urolithin_a_8-glucuronide  # Generated from value "urolithin_a_8-glucuronide" located at cell 'results6'!A76.
+   SubClassOf: Phenolic glycosides
+Class: 3-methylgallic_acid_4-sulfate  # Generated from value "3-methylgallic_acid_4-sulfate" located at cell 'results6'!A77.
+   SubClassOf: Gallic acid and derivatives
+Class: fructose  # Generated from value "fructose" located at cell 'results6'!A78.
+   SubClassOf: C-glycosyl compounds
+Class: 3'-methylepicatechin_7-sulfate  # Generated from value "3'-methylepicatechin_7-sulfate" located at cell 'results6'!A79.
+   SubClassOf: Catechins
+Class: sulforaphane-glutathione  # Generated from value "sulforaphane-glutathione" located at cell 'results6'!A80.
+   SubClassOf: Oligopeptides
+Class: epicatechin_7-sulfate  # Generated from value "epicatechin_7-sulfate" located at cell 'results6'!A81.
+   SubClassOf: Catechins
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide" located at cell 'results6'!A82.
+   SubClassOf: Phenolic glycosides
+Class: syringic_acid_sulfate  # Generated from value "syringic_acid_sulfate" located at cell 'results6'!A83.
+   SubClassOf: Gallic acid and derivatives
+Class: 3,4-dihydroxyphenylacetic_acid_3-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-glucuronide" located at cell 'results6'!A84.
+   SubClassOf: Phenolic glycosides
+Class: isoferulic_acid_3-glucuronide  # Generated from value "isoferulic_acid_3-glucuronide" located at cell 'results6'!A85.
+   SubClassOf: Phenolic glycosides
+Class: rhamnitol  # Generated from value "rhamnitol" located at cell 'results6'!A86.
+   SubClassOf: Hexoses
+Class: pyrogallol_2-glucuronide  # Generated from value "pyrogallol_2-glucuronide" located at cell 'results6'!A87.
+   SubClassOf: Phenolic glycosides
+Class: p-coumaric_acid_glucuronide  # Generated from value "p-coumaric_acid_glucuronide" located at cell 'results6'!A88.
+   SubClassOf: Phenolic glycosides
+Class: 3,4-dihydroxyphenylacetic_acid_4-glucuronide  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-glucuronide" located at cell 'results6'!A89.
+   SubClassOf: Phenolic glycosides
+Class: sinapic_acid_glucuronide  # Generated from value "sinapic_acid_glucuronide" located at cell 'results6'!A90.
+   SubClassOf: Phenolic glycosides
+Class: cyclo(l-leucyl-l-prolyl)  # Generated from value "cyclo(l-leucyl-l-prolyl)" located at cell 'results6'!A91.
+   SubClassOf: Alpha amino acids and derivatives
+Class: ferulic_acid_4-glucuronide  # Generated from value "ferulic_acid_4-glucuronide" located at cell 'results6'!A92.
+   SubClassOf: Phenolic glycosides
+Class: vanillic_acid_sulfate  # Generated from value "vanillic_acid_sulfate" located at cell 'results6'!A93.
+   SubClassOf: M-methoxybenzoic acids and derivatives
+Class: 4-methylgallic_acid  # Generated from value "4-methylgallic_acid" located at cell 'results6'!A94.
+   SubClassOf: Gallic acid and derivatives
+Class: β-alanine  # Generated from value "β-alanine" located at cell 'results6'!A95.
+   SubClassOf: Beta amino acids and derivatives
+Class: 3-hydroxyphenylacetic_acid_glucuronide  # Generated from value "3-hydroxyphenylacetic_acid_glucuronide" located at cell 'results6'!A96.
+   SubClassOf: Phenolic glycosides
+Class: epicatechin_3'-sulfate  # Generated from value "epicatechin_3'-sulfate" located at cell 'results6'!A97.
+   SubClassOf: Catechins
+Class: catechin_3'-sulfate  # Generated from value "catechin_3'-sulfate" located at cell 'results6'!A98.
+   SubClassOf: Catechins
+Class: bergaptol_glucuronide  # Generated from value "bergaptol_glucuronide" located at cell 'results6'!A99.
+   SubClassOf: Phenolic glycosides
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'results6'!A100.
+   SubClassOf: Phenolic glycosides
+Class: isovanillic_acid_sulfate  # Generated from value "isovanillic_acid_sulfate" located at cell 'results6'!A101.
+   SubClassOf: P-methoxybenzoic acids and derivatives
+Class: 3-(4-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'results6'!A102.
+   SubClassOf: Glucuronic acid derivatives
+Class: 2,3-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_3-glucuronide" located at cell 'results6'!A103.
+   SubClassOf: Phenolic glycosides
+Class: 1-methylpyrogallol_2-glucuronide  # Generated from value "1-methylpyrogallol_2-glucuronide" located at cell 'results6'!A104.
+   SubClassOf: Phenolic glycosides
+Class: vanillic_acid  # Generated from value "vanillic_acid" located at cell 'results6'!A105.
+   SubClassOf: M-methoxybenzoic acids and derivatives
+Class: 3-carboxy-4-methyl-5-propyl-2-furanpropanoic_acid  # Generated from value "3-carboxy-4-methyl-5-propyl-2-furanpropanoic_acid" located at cell 'results6'!A106.
+   SubClassOf: Furanoid fatty acids
+Class: pyrogallol  # Generated from value "pyrogallol" located at cell 'results6'!A107.
+   SubClassOf: 5-unsubstituted pyrrogallols
+Class: glucose  # Generated from value "glucose" located at cell 'results6'!A108.
+   SubClassOf: Hexoses
+Class: 2-β-d-glucopyranosyloxy-4-hydroxy-7-methoxy-1,4-benzoxazin-3-one  # Generated from value "2-β-d-glucopyranosyloxy-4-hydroxy-7-methoxy-1,4-benzoxazin-3-one" located at cell 'results6'!A109.
+   SubClassOf: O-glycosyl compounds
+Class: biochanin_a  # Generated from value "biochanin_a" located at cell 'results6'!A110.
+   SubClassOf: 4'-O-methylisoflavones
+Class: cyclo(l-prolyl-l-valyl)  # Generated from value "cyclo(l-prolyl-l-valyl)" located at cell 'results6'!A111.
+   SubClassOf: Alpha amino acids and derivatives
+Class: m-coumaric_acid_glucuronide  # Generated from value "m-coumaric_acid_glucuronide" located at cell 'results6'!A112.
+   SubClassOf: Phenolic glycosides
+Class: 3-(3-hydroxyphenyl)propionic_acid_glucuronide  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_glucuronide" located at cell 'results6'!A113.
+   SubClassOf: Phenolic glycosides
+Class: isoxanthohumol  # Generated from value "isoxanthohumol" located at cell 'results6'!A114.
+   SubClassOf: 8-prenylated flavanones
+Class: epicatechin_4'-sulfate  # Generated from value "epicatechin_4'-sulfate" located at cell 'results6'!A115.
+   SubClassOf: Catechins
+Class: catechin_4'-sulfate  # Generated from value "catechin_4'-sulfate" located at cell 'results6'!A116.
+   SubClassOf: Catechins
+Class: 2,6-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,6-dihydroxybenzoic_acid_2-glucuronide" located at cell 'results6'!A117.
+   SubClassOf: Phenolic glycosides
+Class: 1-methylpyrogallol_3-glucuronide  # Generated from value "1-methylpyrogallol_3-glucuronide" located at cell 'results6'!A118.
+   SubClassOf: Phenolic glycosides
+Class: 3'-methylepicatechin_5-sulfate  # Generated from value "3'-methylepicatechin_5-sulfate" located at cell 'results6'!A119.
+   SubClassOf: Catechins
+Class: 4'-methylepicatechin  # Generated from value "4'-methylepicatechin" located at cell 'results6'!A120.
+   SubClassOf: Catechins
+Class: naringenin_5-glucuronide  # Generated from value "naringenin_5-glucuronide" located at cell 'results6'!A121.
+   SubClassOf: Flavonoid O-glucuronides
+Class: 2-aminophenol_glucuronide  # Generated from value "2-aminophenol_glucuronide" located at cell 'results6'!A122.
+   SubClassOf: Phenolic glycosides
+Class: 3-hydroxybenzoic_acid_glucuronide  # Generated from value "3-hydroxybenzoic_acid_glucuronide" located at cell 'results6'!A123.
+   SubClassOf: Phenolic glycosides
+Class: 2,3-dihydroxybenzoic_acid_2-glucuronide  # Generated from value "2,3-dihydroxybenzoic_acid_2-glucuronide" located at cell 'results6'!A124.
+   SubClassOf: Phenolic glycosides
+
+# Cell range: (results6!F2:F124) Comment: ""
+# Class: @F*(rdfs:label=(@F*)) 
+#     SubClassOf: @E*
+
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F2.
+   SubClassOf: Glycosyl compounds
+Class: Carotenes  # Generated from value "Carotenes" located at cell 'results6'!F3.
+   SubClassOf: Carotenoids
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F4.
+   SubClassOf: Glycosyl compounds
+Class: C-glycosyl compounds  # Generated from value "C-glycosyl compounds" located at cell 'results6'!F5.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F6.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F7.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F8.
+   SubClassOf: Glycosyl compounds
+Class: Acylphloroglucinols and derivatives  # Generated from value "Acylphloroglucinols and derivatives" located at cell 'results6'!F9.
+   SubClassOf: Phloroglucinols and derivatives
+Class: Coumaric acids  # Generated from value "Coumaric acids" located at cell 'results6'!F10.
+   SubClassOf: Coumaric acids and derivatives
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F11.
+   SubClassOf: Flavonoid O-glycosides
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F12.
+   SubClassOf: Flavonoid O-glycosides
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F13.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F14.
+   SubClassOf: Glycosyl compounds
+Class: O-glycosyl compounds  # Generated from value "O-glycosyl compounds" located at cell 'results6'!F15.
+   SubClassOf: Glycosyl compounds
+Class: Alpha amino acids and derivatives  # Generated from value "Alpha amino acids and derivatives" located at cell 'results6'!F16.
+   SubClassOf: Amino acids and derivatives
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F17.
+   SubClassOf: Flavonoid O-glycosides
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F18.
+   SubClassOf: Glycosyl compounds
+Class: Xanthophylls  # Generated from value "Xanthophylls" located at cell 'results6'!F19.
+   SubClassOf: Carotenoids
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F20.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F21.
+   SubClassOf: Glycosyl compounds
+Class: Cyclohexanols  # Generated from value "Cyclohexanols" located at cell 'results6'!F22.
+   SubClassOf: Secondary alcohols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F23.
+   SubClassOf: Glycosyl compounds
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F24.
+   SubClassOf: Flavonoid O-glycosides
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F25.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F26.
+   SubClassOf: Glycosyl compounds
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F27.
+   SubClassOf: Flavonoid O-glycosides
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F28.
+   SubClassOf: Flavonoid O-glycosides
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F29.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F30.
+   SubClassOf: Glycosyl compounds
+Class: 4'-O-methylisoflavones  # Generated from value "4'-O-methylisoflavones" located at cell 'results6'!F31.
+   SubClassOf: 4'-O-methylated isoflavonoids
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F32.
+   SubClassOf: Glycosyl compounds
+Class: Dibenzylbutyrolactone lignans  # Generated from value "Dibenzylbutyrolactone lignans" located at cell 'results6'!F33.
+   SubClassOf: 9,9'-epoxylignans
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F34.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F35.
+   SubClassOf: Glycosyl compounds
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F36.
+   SubClassOf: Flavonoid O-glycosides
+Class: Xanthophylls  # Generated from value "Xanthophylls" located at cell 'results6'!F37.
+   SubClassOf: Carotenoids
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F38.
+   SubClassOf: Glycosyl compounds
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F39.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F40.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F41.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F42.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F43.
+   SubClassOf: Flavan-3-ols
+Class: Xanthophylls  # Generated from value "Xanthophylls" located at cell 'results6'!F44.
+   SubClassOf: Carotenoids
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F45.
+   SubClassOf: Flavonoid O-glycosides
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F46.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F47.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F48.
+   SubClassOf: Glycosyl compounds
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F49.
+   SubClassOf: Flavonoid O-glycosides
+Class: P-methoxybenzoic acids and derivatives  # Generated from value "P-methoxybenzoic acids and derivatives" located at cell 'results6'!F50.
+   SubClassOf: Methoxybenzoic acids and derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F51.
+   SubClassOf: Glycosyl compounds
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F52.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F53.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F54.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F55.
+   SubClassOf: Flavan-3-ols
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F56.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F57.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F58.
+   SubClassOf: Glycosyl compounds
+Class: Carotenes  # Generated from value "Carotenes" located at cell 'results6'!F59.
+   SubClassOf: Carotenoids
+Class: Carotenes  # Generated from value "Carotenes" located at cell 'results6'!F60.
+   SubClassOf: Carotenoids
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F61.
+   SubClassOf: Flavonoid O-glycosides
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F62.
+   SubClassOf: Flavonoid O-glycosides
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F63.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F64.
+   SubClassOf: Glycosyl compounds
+Class: O-glycosyl compounds  # Generated from value "O-glycosyl compounds" located at cell 'results6'!F65.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F66.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F67.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F68.
+   SubClassOf: Flavan-3-ols
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F69.
+   SubClassOf: Flavan-3-ols
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F70.
+   SubClassOf: Flavonoid O-glycosides
+Class: O-glycosyl compounds  # Generated from value "O-glycosyl compounds" located at cell 'results6'!F71.
+   SubClassOf: Glycosyl compounds
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F72.
+   SubClassOf: Flavonoid O-glycosides
+Class: O-glycosyl compounds  # Generated from value "O-glycosyl compounds" located at cell 'results6'!F73.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F74.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F75.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F76.
+   SubClassOf: Glycosyl compounds
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F77.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: C-glycosyl compounds  # Generated from value "C-glycosyl compounds" located at cell 'results6'!F78.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F79.
+   SubClassOf: Flavan-3-ols
+Class: Oligopeptides  # Generated from value "Oligopeptides" located at cell 'results6'!F80.
+   SubClassOf: Peptides
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F81.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F82.
+   SubClassOf: Glycosyl compounds
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F83.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F84.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F85.
+   SubClassOf: Glycosyl compounds
+Class: Hexoses  # Generated from value "Hexoses" located at cell 'results6'!F86.
+   SubClassOf: Monosaccharides
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F87.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F88.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F89.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F90.
+   SubClassOf: Glycosyl compounds
+Class: Alpha amino acids and derivatives  # Generated from value "Alpha amino acids and derivatives" located at cell 'results6'!F91.
+   SubClassOf: Amino acids and derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F92.
+   SubClassOf: Glycosyl compounds
+Class: M-methoxybenzoic acids and derivatives  # Generated from value "M-methoxybenzoic acids and derivatives" located at cell 'results6'!F93.
+   SubClassOf: Methoxybenzoic acids and derivatives
+Class: Gallic acid and derivatives  # Generated from value "Gallic acid and derivatives" located at cell 'results6'!F94.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: Beta amino acids and derivatives  # Generated from value "Beta amino acids and derivatives" located at cell 'results6'!F95.
+   SubClassOf: Amino acids and derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F96.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F97.
+   SubClassOf: Flavan-3-ols
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F98.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F99.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F100.
+   SubClassOf: Glycosyl compounds
+Class: P-methoxybenzoic acids and derivatives  # Generated from value "P-methoxybenzoic acids and derivatives" located at cell 'results6'!F101.
+   SubClassOf: Methoxybenzoic acids and derivatives
+Class: Glucuronic acid derivatives  # Generated from value "Glucuronic acid derivatives" located at cell 'results6'!F102.
+   SubClassOf: Sugar acids and derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F103.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F104.
+   SubClassOf: Glycosyl compounds
+Class: M-methoxybenzoic acids and derivatives  # Generated from value "M-methoxybenzoic acids and derivatives" located at cell 'results6'!F105.
+   SubClassOf: Methoxybenzoic acids and derivatives
+Class: Furanoid fatty acids  # Generated from value "Furanoid fatty acids" located at cell 'results6'!F106.
+   SubClassOf: Heterocyclic fatty acids
+Class: 5-unsubstituted pyrrogallols  # Generated from value "5-unsubstituted pyrrogallols" located at cell 'results6'!F107.
+   SubClassOf: Pyrogallols and derivatives
+Class: Hexoses  # Generated from value "Hexoses" located at cell 'results6'!F108.
+   SubClassOf: Monosaccharides
+Class: O-glycosyl compounds  # Generated from value "O-glycosyl compounds" located at cell 'results6'!F109.
+   SubClassOf: Glycosyl compounds
+Class: 4'-O-methylisoflavones  # Generated from value "4'-O-methylisoflavones" located at cell 'results6'!F110.
+   SubClassOf: 4'-O-methylated isoflavonoids
+Class: Alpha amino acids and derivatives  # Generated from value "Alpha amino acids and derivatives" located at cell 'results6'!F111.
+   SubClassOf: Amino acids and derivatives
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F112.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F113.
+   SubClassOf: Glycosyl compounds
+Class: 8-prenylated flavanones  # Generated from value "8-prenylated flavanones" located at cell 'results6'!F114.
+   SubClassOf: 8-prenylated flavans
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F115.
+   SubClassOf: Flavan-3-ols
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F116.
+   SubClassOf: Flavan-3-ols
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F117.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F118.
+   SubClassOf: Glycosyl compounds
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F119.
+   SubClassOf: Flavan-3-ols
+Class: Catechins  # Generated from value "Catechins" located at cell 'results6'!F120.
+   SubClassOf: Flavan-3-ols
+Class: Flavonoid O-glucuronides  # Generated from value "Flavonoid O-glucuronides" located at cell 'results6'!F121.
+   SubClassOf: Flavonoid O-glycosides
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F122.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F123.
+   SubClassOf: Glycosyl compounds
+Class: Phenolic glycosides  # Generated from value "Phenolic glycosides" located at cell 'results6'!F124.
+   SubClassOf: Glycosyl compounds
+
+===========================================================================================================
+Date: 2019-07-23 09:45:28
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results5.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (results5!A2:A140) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @E*
+
+Class: equol  # Generated from value "equol" located at cell 'results5'!A2.
+   SubClassOf: Isoflavanols
+Class: n-(2-hydroxyphenyl)acetamide  # Generated from value "n-(2-hydroxyphenyl)acetamide" located at cell 'results5'!A3.
+   SubClassOf: Acetanilides
+Class: hesperetin  # Generated from value "hesperetin" located at cell 'results5'!A4.
+   SubClassOf: 4'-O-methylated flavonoids
+Class: 2-methylpyrogallol_1-sulfate  # Generated from value "2-methylpyrogallol_1-sulfate" located at cell 'results5'!A5.
+   SubClassOf: Phenylsulfates
+Class: hesperetin_3'-sulfate  # Generated from value "hesperetin_3'-sulfate" located at cell 'results5'!A6.
+   SubClassOf: 4'-O-methylated flavonoids
+Class: 5-n-heptadecylresorcinol  # Generated from value "5-n-heptadecylresorcinol" located at cell 'results5'!A7.
+   SubClassOf: Resorcinols
+Class: 5-n-heneicosylresorcinol  # Generated from value "5-n-heneicosylresorcinol" located at cell 'results5'!A8.
+   SubClassOf: Resorcinols
+Class: curcumin_glucuronide  # Generated from value "curcumin_glucuronide" located at cell 'results5'!A9.
+   SubClassOf: Curcuminoids
+Class: 1,3,7-trimethyluric_acid  # Generated from value "1,3,7-trimethyluric_acid" located at cell 'results5'!A10.
+   SubClassOf: Xanthines
+Class: hydroxytyrosol_3'-sulfate  # Generated from value "hydroxytyrosol_3'-sulfate" located at cell 'results5'!A11.
+   SubClassOf: Phenylsulfates
+Class: 2-hydroxyphenylacetic_acid  # Generated from value "2-hydroxyphenylacetic_acid" located at cell 'results5'!A12.
+   SubClassOf: 2(hydroxyphenyl)acetic acids
+Class: 3,4-dihydroxyphenylacetic_acid  # Generated from value "3,4-dihydroxyphenylacetic_acid" located at cell 'results5'!A13.
+   SubClassOf: Catechols
+Class: 4-methylcatechol_2-sulfate  # Generated from value "4-methylcatechol_2-sulfate" located at cell 'results5'!A14.
+   SubClassOf: Phenylsulfates
+Class: daidzein_4'-sulfate  # Generated from value "daidzein_4'-sulfate" located at cell 'results5'!A15.
+   SubClassOf: Isoflavones
+Class: isorhamnetin_3-sulfate  # Generated from value "isorhamnetin_3-sulfate" located at cell 'results5'!A16.
+   SubClassOf: 3'-O-methylated flavonoids
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone" located at cell 'results5'!A17.
+   SubClassOf: Pyrogallols and derivatives
+Class: isoferulic_acid_3-sulfate  # Generated from value "isoferulic_acid_3-sulfate" located at cell 'results5'!A18.
+   SubClassOf: Coumaric acids and derivatives
+Class: genistein_7-sulfate  # Generated from value "genistein_7-sulfate" located at cell 'results5'!A19.
+   SubClassOf: Isoflavones
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'results5'!A20.
+   SubClassOf: Phenylsulfates
+Class: 2,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "2,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'results5'!A21.
+   SubClassOf: Phenylsulfates
+Class: 5-hydroxyindole-3-acetic_acid  # Generated from value "5-hydroxyindole-3-acetic_acid" located at cell 'results5'!A22.
+   SubClassOf: Indole-3-acetic acid derivatives
+Class: tartaric_acid  # Generated from value "tartaric_acid" located at cell 'results5'!A23.
+   SubClassOf: Sugar acids and derivatives
+Class: 4-hydroxybenzoic_acid  # Generated from value "4-hydroxybenzoic_acid" located at cell 'results5'!A24.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: naringenin  # Generated from value "naringenin" located at cell 'results5'!A25.
+   SubClassOf: Flavanones
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate" located at cell 'results5'!A26.
+   SubClassOf: Phenylsulfates
+Class: 5-n-pentacosylresorcinol  # Generated from value "5-n-pentacosylresorcinol" located at cell 'results5'!A27.
+   SubClassOf: Resorcinols
+Class: 3-methylxanthine  # Generated from value "3-methylxanthine" located at cell 'results5'!A28.
+   SubClassOf: Xanthines
+Class: 3,4-dihydroxybenzoic_acid_3-sulfate  # Generated from value "3,4-dihydroxybenzoic_acid_3-sulfate" located at cell 'results5'!A29.
+   SubClassOf: Phenylsulfates
+Class: 3,7-dimethyluric_acid  # Generated from value "3,7-dimethyluric_acid" located at cell 'results5'!A30.
+   SubClassOf: Xanthines
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate" located at cell 'results5'!A31.
+   SubClassOf: Sulfated fatty acids
+Class: homovanillic_acid_4-sulfate  # Generated from value "homovanillic_acid_4-sulfate" located at cell 'results5'!A32.
+   SubClassOf: Phenylsulfates
+Class: 4-hydroxyphenylacetic_acid_sulfate  # Generated from value "4-hydroxyphenylacetic_acid_sulfate" located at cell 'results5'!A33.
+   SubClassOf: Phenylsulfates
+Class: 3-hydroxybenzoic_acid  # Generated from value "3-hydroxybenzoic_acid" located at cell 'results5'!A34.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: 3-(3-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3-hydroxyphenyl)propionic_acid_sulfate" located at cell 'results5'!A35.
+   SubClassOf: Phenylsulfates
+Class: p-cresol  # Generated from value "p-cresol" located at cell 'results5'!A36.
+   SubClassOf: Para cresols
+Class: kaempferol  # Generated from value "kaempferol" located at cell 'results5'!A37.
+   SubClassOf: Flavonols
+Class: isorhamnetin  # Generated from value "isorhamnetin" located at cell 'results5'!A38.
+   SubClassOf: Flavonols
+Class: eicosapentaenoic_acid  # Generated from value "eicosapentaenoic_acid" located at cell 'results5'!A39.
+   SubClassOf: Long-chain fatty acids
+Class: n-(2-hydroxyphenyl)acetamide_sulfate  # Generated from value "n-(2-hydroxyphenyl)acetamide_sulfate" located at cell 'results5'!A40.
+   SubClassOf: Phenylsulfates
+Class: hydroxytyrosol  # Generated from value "hydroxytyrosol" located at cell 'results5'!A41.
+   SubClassOf: Tyrosols
+Class: solanidine  # Generated from value "solanidine" located at cell 'results5'!A42.
+   SubClassOf: Solanidines and derivatives
+Class: 3,4-dihydroxyphenylacetic_acid_3-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_3-sulfate" located at cell 'results5'!A43.
+   SubClassOf: Phenylsulfates
+Class: heptadecanoic_acid  # Generated from value "heptadecanoic_acid" located at cell 'results5'!A44.
+   SubClassOf: Long-chain fatty acids
+Class: ethyl_sulfate  # Generated from value "ethyl_sulfate" located at cell 'results5'!A45.
+   SubClassOf: Sulfuric acid monoesters
+Class: sinapic_acid_sulfate  # Generated from value "sinapic_acid_sulfate" located at cell 'results5'!A46.
+   SubClassOf: Coumaric acids and derivatives
+Class: m-coumaric_acid  # Generated from value "m-coumaric_acid" located at cell 'results5'!A47.
+   SubClassOf: Hydroxycinnamic acids
+Class: ferulic_acid  # Generated from value "ferulic_acid" located at cell 'results5'!A48.
+   SubClassOf: Hydroxycinnamic acids
+Class: 3,4-dihydroxyphenylvaleric_acid  # Generated from value "3,4-dihydroxyphenylvaleric_acid" located at cell 'results5'!A49.
+   SubClassOf: Catechols
+Class: 5-n-pentadecylresorcinol  # Generated from value "5-n-pentadecylresorcinol" located at cell 'results5'!A50.
+   SubClassOf: Resorcinols
+Class: naringenin_7-sulfate  # Generated from value "naringenin_7-sulfate" located at cell 'results5'!A51.
+   SubClassOf: Flavanones
+Class: naringenin_4'-sulfate  # Generated from value "naringenin_4'-sulfate" located at cell 'results5'!A52.
+   SubClassOf: Flavanones
+Class: homovanillyl_alcohol_sulfate  # Generated from value "homovanillyl_alcohol_sulfate" located at cell 'results5'!A53.
+   SubClassOf: Phenylsulfates
+Class: docosahexaenoic_acid  # Generated from value "docosahexaenoic_acid" located at cell 'results5'!A54.
+   SubClassOf: Very long-chain fatty acids
+Class: 3,5-dihydroxycinnamic_acid  # Generated from value "3,5-dihydroxycinnamic_acid" located at cell 'results5'!A55.
+   SubClassOf: Hydroxycinnamic acids
+Class: dihydrocaffeic_acid_3-sulfate  # Generated from value "dihydrocaffeic_acid_3-sulfate" located at cell 'results5'!A56.
+   SubClassOf: Phenylsulfates
+Class: theaflavin  # Generated from value "theaflavin" located at cell 'results5'!A57.
+   SubClassOf: Flavan-3-ols
+Class: 2-hydroxybenzoic_acid_sulfate  # Generated from value "2-hydroxybenzoic_acid_sulfate" located at cell 'results5'!A58.
+   SubClassOf: Phenylsulfates
+Class: 1-methylxanthine  # Generated from value "1-methylxanthine" located at cell 'results5'!A59.
+   SubClassOf: Xanthines
+Class: catechol_sulfate  # Generated from value "catechol_sulfate" located at cell 'results5'!A60.
+   SubClassOf: Phenylsulfates
+Class: 3-hydroxybenzoic_acid_sulfate  # Generated from value "3-hydroxybenzoic_acid_sulfate" located at cell 'results5'!A61.
+   SubClassOf: Phenylsulfates
+Class: 4-methylcatechol_1-sulfate  # Generated from value "4-methylcatechol_1-sulfate" located at cell 'results5'!A62.
+   SubClassOf: Phenylsulfates
+Class: 3,5-dihydroxybenzoic_acid_sulfate  # Generated from value "3,5-dihydroxybenzoic_acid_sulfate" located at cell 'results5'!A63.
+   SubClassOf: Phenylsulfates
+Class: curcumin_sulfate  # Generated from value "curcumin_sulfate" located at cell 'results5'!A64.
+   SubClassOf: Curcuminoids
+Class: 3,4-dihydroxybenzoic_acid_4-sulfate  # Generated from value "3,4-dihydroxybenzoic_acid_4-sulfate" located at cell 'results5'!A65.
+   SubClassOf: Phenylsulfates
+Class: p-coumaric_acid  # Generated from value "p-coumaric_acid" located at cell 'results5'!A66.
+   SubClassOf: Hydroxycinnamic acids
+Class: pyrogallol_1-sulfate  # Generated from value "pyrogallol_1-sulfate" located at cell 'results5'!A67.
+   SubClassOf: Phenylsulfates
+Class: 1,7-dimethyluric_acid  # Generated from value "1,7-dimethyluric_acid" located at cell 'results5'!A68.
+   SubClassOf: Xanthines
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'results5'!A69.
+   SubClassOf: Phenylsulfates
+Class: 1-methylpyrogallol_3-sulfate  # Generated from value "1-methylpyrogallol_3-sulfate" located at cell 'results5'!A70.
+   SubClassOf: Phenylsulfates
+Class: 3-methyluric_acid  # Generated from value "3-methyluric_acid" located at cell 'results5'!A71.
+   SubClassOf: Xanthines
+Class: 5-n-tricosylresorcinol  # Generated from value "5-n-tricosylresorcinol" located at cell 'results5'!A72.
+   SubClassOf: Resorcinols
+Class: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'results5'!A73.
+   SubClassOf: Phenylsulfates
+Class: quercetin_3'-sulfate  # Generated from value "quercetin_3'-sulfate" located at cell 'results5'!A74.
+   SubClassOf: Flavonols
+Class: 1,3-dimethyluric_acid  # Generated from value "1,3-dimethyluric_acid" located at cell 'results5'!A75.
+   SubClassOf: Xanthines
+Class: vanillin_sulfate  # Generated from value "vanillin_sulfate" located at cell 'results5'!A76.
+   SubClassOf: Phenylsulfates
+Class: sinapic_acid  # Generated from value "sinapic_acid" located at cell 'results5'!A77.
+   SubClassOf: Hydroxycinnamic acids
+Class: epigallocatechin_3-sulfate  # Generated from value "epigallocatechin_3-sulfate" located at cell 'results5'!A78.
+   SubClassOf: Flavan-3-ols
+Class: 7-methylxanthine  # Generated from value "7-methylxanthine" located at cell 'results5'!A79.
+   SubClassOf: Xanthines
+Class: l-carnitine  # Generated from value "l-carnitine" located at cell 'results5'!A80.
+   SubClassOf: Carnitines
+Class: o-coumaric_acid  # Generated from value "o-coumaric_acid" located at cell 'results5'!A81.
+   SubClassOf: Hydroxycinnamic acids
+Class: n-methylpyridinium  # Generated from value "n-methylpyridinium" located at cell 'results5'!A82.
+   SubClassOf: N-methylpyridinium compounds
+Class: 5-n-nonadecylresorcinol  # Generated from value "5-n-nonadecylresorcinol" located at cell 'results5'!A83.
+   SubClassOf: Resorcinols
+Class: ferulic_acid_4-sulfate  # Generated from value "ferulic_acid_4-sulfate" located at cell 'results5'!A84.
+   SubClassOf: Coumaric acids and derivatives
+Class: caffeic_acid  # Generated from value "caffeic_acid" located at cell 'results5'!A85.
+   SubClassOf: Hydroxycinnamic acids
+Class: 2,3-dihydroxybenzoic_acid_3-sulfate  # Generated from value "2,3-dihydroxybenzoic_acid_3-sulfate" located at cell 'results5'!A86.
+   SubClassOf: Phenylsulfates
+Class: 1-methyluric_acid  # Generated from value "1-methyluric_acid" located at cell 'results5'!A87.
+   SubClassOf: Xanthines
+Class: 3,5-dihydroxyphenylvaleric_acid  # Generated from value "3,5-dihydroxyphenylvaleric_acid" located at cell 'results5'!A88.
+   SubClassOf: Resorcinols
+Class: paraxanthine  # Generated from value "paraxanthine" located at cell 'results5'!A89.
+   SubClassOf: Xanthines
+Class: isoferulic_acid  # Generated from value "isoferulic_acid" located at cell 'results5'!A90.
+   SubClassOf: Hydroxycinnamic acids
+Class: dihydroisoferulic_acid_3-sulfate  # Generated from value "dihydroisoferulic_acid_3-sulfate" located at cell 'results5'!A91.
+   SubClassOf: Phenylsulfates
+Class: acetyl-l-carnitine  # Generated from value "acetyl-l-carnitine" located at cell 'results5'!A92.
+   SubClassOf: Acyl carnitines
+Class: 5-acetylamino-6-formylamino-3-methyluracil  # Generated from value "5-acetylamino-6-formylamino-3-methyluracil" located at cell 'results5'!A93.
+   SubClassOf: Hydroxypyrimidines
+Class: quercetin  # Generated from value "quercetin" located at cell 'results5'!A94.
+   SubClassOf: Flavonols
+Class: 4-hydroxybenzoic_acid_sulfate  # Generated from value "4-hydroxybenzoic_acid_sulfate" located at cell 'results5'!A95.
+   SubClassOf: Phenylsulfates
+Class: phytanic_acid  # Generated from value "phytanic_acid" located at cell 'results5'!A96.
+   SubClassOf: Acyclic diterpenoids
+Class: caffeine  # Generated from value "caffeine" located at cell 'results5'!A97.
+   SubClassOf: Xanthines
+Class: indole-3-acetic_acid  # Generated from value "indole-3-acetic_acid" located at cell 'results5'!A98.
+   SubClassOf: Indole-3-acetic acid derivatives
+Class: caffeic_acid_4-sulfate  # Generated from value "caffeic_acid_4-sulfate" located at cell 'results5'!A99.
+   SubClassOf: Hydroxycinnamic acids
+Class: arsenobetaine  # Generated from value "arsenobetaine" located at cell 'results5'!A100.
+   SubClassOf: Tetraorganoarsonium salts
+Class: α-chaconine  # Generated from value "α-chaconine" located at cell 'results5'!A101.
+   SubClassOf: Steroidal saponins
+Class: genistein  # Generated from value "genistein" located at cell 'results5'!A102.
+   SubClassOf: Isoflavones
+Class: 2,4-dihydroxybenzoic_acid  # Generated from value "2,4-dihydroxybenzoic_acid" located at cell 'results5'!A103.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: dihydroferulic_acid_4-sulfate  # Generated from value "dihydroferulic_acid_4-sulfate" located at cell 'results5'!A104.
+   SubClassOf: Phenylsulfates
+Class: vaccenic_acid  # Generated from value "vaccenic_acid" located at cell 'results5'!A105.
+   SubClassOf: Long-chain fatty acids
+Class: 3,5-dihydroxybenzoic_acid  # Generated from value "3,5-dihydroxybenzoic_acid" located at cell 'results5'!A106.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: trimethylamine_n-oxide  # Generated from value "trimethylamine_n-oxide" located at cell 'results5'!A107.
+   SubClassOf: Trialkyl amine oxides
+Class: 3-hydroxyphenylacetic_acid_sulfate  # Generated from value "3-hydroxyphenylacetic_acid_sulfate" located at cell 'results5'!A108.
+   SubClassOf: Phenylsulfates
+Class: tyrosol_sulfate  # Generated from value "tyrosol_sulfate" located at cell 'results5'!A109.
+   SubClassOf: Phenylsulfates
+Class: phloretin  # Generated from value "phloretin" located at cell 'results5'!A110.
+   SubClassOf: 2'-Hydroxy-dihydrochalcones
+Class: hydroxytyrosol_4'-sulfate  # Generated from value "hydroxytyrosol_4'-sulfate" located at cell 'results5'!A111.
+   SubClassOf: Phenylsulfates
+Class: 2-aminophenol_sulfate  # Generated from value "2-aminophenol_sulfate" located at cell 'results5'!A112.
+   SubClassOf: Phenylsulfates
+Class: caffeic_acid_3-sulfate  # Generated from value "caffeic_acid_3-sulfate" located at cell 'results5'!A113.
+   SubClassOf: Hydroxycinnamic acids
+Class: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',5'-dihydroxyphenyl)-γ-valerolactone" located at cell 'results5'!A114.
+   SubClassOf: Resorcinols
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate" located at cell 'results5'!A115.
+   SubClassOf: Phenylsulfates
+Class: 3-(3,5-dihydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)propionic_acid_sulfate" located at cell 'results5'!A116.
+   SubClassOf: Phenylsulfates
+Class: p-cresol_sulfate  # Generated from value "p-cresol_sulfate" located at cell 'results5'!A117.
+   SubClassOf: Phenylsulfates
+Class: pentadecanoic_acid  # Generated from value "pentadecanoic_acid" located at cell 'results5'!A118.
+   SubClassOf: Long-chain fatty acids
+Class: pyrogallol_2-sulfate  # Generated from value "pyrogallol_2-sulfate" located at cell 'results5'!A119.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dihydroxybenzoic_acid_5-sulfate  # Generated from value "2,5-dihydroxybenzoic_acid_5-sulfate" located at cell 'results5'!A120.
+   SubClassOf: Phenylsulfates
+Class: taurine  # Generated from value "taurine" located at cell 'results5'!A121.
+   SubClassOf: Organosulfonic acids
+Class: 6-amino-5-(n-methylformylamino)-1-methyluracil  # Generated from value "6-amino-5-(n-methylformylamino)-1-methyluracil" located at cell 'results5'!A122.
+   SubClassOf: N-acetylarylamines
+Class: tomatidine  # Generated from value "tomatidine" located at cell 'results5'!A123.
+   SubClassOf: Spirosolanes and derivatives
+Class: theobromine  # Generated from value "theobromine" located at cell 'results5'!A124.
+   SubClassOf: Xanthines
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate" located at cell 'results5'!A125.
+   SubClassOf: Phenylsulfates
+Class: tyrosol  # Generated from value "tyrosol" located at cell 'results5'!A126.
+   SubClassOf: Tyrosols
+Class: catechol  # Generated from value "catechol" located at cell 'results5'!A127.
+   SubClassOf: Catechols
+Class: phloretin_glucuronide  # Generated from value "phloretin_glucuronide" located at cell 'results5'!A128.
+   SubClassOf: Flavonoid O-glycosides
+Class: 7-methyluric_acid  # Generated from value "7-methyluric_acid" located at cell 'results5'!A129.
+   SubClassOf: Xanthines
+Class: 3-(4-hydroxyphenyl)propionic_acid_sulfate  # Generated from value "3-(4-hydroxyphenyl)propionic_acid_sulfate" located at cell 'results5'!A130.
+   SubClassOf: Phenylsulfates
+Class: m-coumaric_acid_sulfate  # Generated from value "m-coumaric_acid_sulfate" located at cell 'results5'!A131.
+   SubClassOf: Coumaric acids and derivatives
+Class: 3,4-dihydroxybenzoic_acid  # Generated from value "3,4-dihydroxybenzoic_acid" located at cell 'results5'!A132.
+   SubClassOf: Hydroxybenzoic acid derivatives
+Class: 4-methylcatechol  # Generated from value "4-methylcatechol" located at cell 'results5'!A133.
+   SubClassOf: Catechols
+Class: theophylline  # Generated from value "theophylline" located at cell 'results5'!A134.
+   SubClassOf: Xanthines
+Class: α-solanine  # Generated from value "α-solanine" located at cell 'results5'!A135.
+   SubClassOf: Steroidal saponins
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone" located at cell 'results5'!A136.
+   SubClassOf: Catechols
+Class: oleic_acid  # Generated from value "oleic_acid" located at cell 'results5'!A137.
+   SubClassOf: Long-chain fatty acids
+Class: elaidic_acid  # Generated from value "elaidic_acid" located at cell 'results5'!A138.
+   SubClassOf: Long-chain fatty acids
+Class: daidzein  # Generated from value "daidzein" located at cell 'results5'!A139.
+   SubClassOf: Isoflavones
+Class: 3,4-dihydroxyphenylacetic_acid_4-sulfate  # Generated from value "3,4-dihydroxyphenylacetic_acid_4-sulfate" located at cell 'results5'!A140.
+   SubClassOf: Phenylsulfates
+
+# Cell range: (results5!E2:E140) Comment: ""
+# Class: @E*(rdfs:label=(@E*)) 
+# SubClassOf: @D*
+
+Class: Isoflavanols  # Generated from value "Isoflavanols" located at cell 'results5'!E2.
+   SubClassOf: Isoflavans
+Class: Acetanilides  # Generated from value "Acetanilides" located at cell 'results5'!E3.
+   SubClassOf: Anilides
+Class: 4'-O-methylated flavonoids  # Generated from value "4'-O-methylated flavonoids" located at cell 'results5'!E4.
+   SubClassOf: O-methylated flavonoids
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E5.
+   SubClassOf: Arylsulfates
+Class: 4'-O-methylated flavonoids  # Generated from value "4'-O-methylated flavonoids" located at cell 'results5'!E6.
+   SubClassOf: O-methylated flavonoids
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E7.
+   SubClassOf: Benzenediols
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E8.
+   SubClassOf: Benzenediols
+Class: Curcuminoids  # Generated from value "Curcuminoids" located at cell 'results5'!E9.
+   SubClassOf: Linear diarylheptanoids
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E10.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E11.
+   SubClassOf: Arylsulfates
+Class: 2(hydroxyphenyl)acetic acids  # Generated from value "2(hydroxyphenyl)acetic acids" located at cell 'results5'!E12.
+   SubClassOf: Phenylacetic acids
+Class: Catechols  # Generated from value "Catechols" located at cell 'results5'!E13.
+   SubClassOf: Benzenediols
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E14.
+   SubClassOf: Arylsulfates
+Class: Isoflavones  # Generated from value "Isoflavones" located at cell 'results5'!E15.
+   SubClassOf: Isoflav-2-enes
+Class: 3'-O-methylated flavonoids  # Generated from value "3'-O-methylated flavonoids" located at cell 'results5'!E16.
+   SubClassOf: O-methylated flavonoids
+Class: Pyrogallols and derivatives  # Generated from value "Pyrogallols and derivatives" located at cell 'results5'!E17.
+   SubClassOf: Benzenetriols and derivatives
+Class: Coumaric acids and derivatives  # Generated from value "Coumaric acids and derivatives" located at cell 'results5'!E18.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Isoflavones  # Generated from value "Isoflavones" located at cell 'results5'!E19.
+   SubClassOf: Isoflav-2-enes
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E20.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E21.
+   SubClassOf: Arylsulfates
+Class: Indole-3-acetic acid derivatives  # Generated from value "Indole-3-acetic acid derivatives" located at cell 'results5'!E22.
+   SubClassOf: Indolyl carboxylic acids and derivatives
+Class: Sugar acids and derivatives  # Generated from value "Sugar acids and derivatives" located at cell 'results5'!E23.
+   SubClassOf: Carbohydrates and carbohydrate conjugates
+Class: Hydroxybenzoic acid derivatives  # Generated from value "Hydroxybenzoic acid derivatives" located at cell 'results5'!E24.
+   SubClassOf: Benzoic acids and derivatives
+Class: Flavanones  # Generated from value "Flavanones" located at cell 'results5'!E25.
+   SubClassOf: Flavans
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E26.
+   SubClassOf: Arylsulfates
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E27.
+   SubClassOf: Benzenediols
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E28.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E29.
+   SubClassOf: Arylsulfates
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E30.
+   SubClassOf: Purines and purine derivatives
+Class: Sulfated fatty acids  # Generated from value "Sulfated fatty acids" located at cell 'results5'!E31.
+   SubClassOf: Fatty acids and conjugates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E32.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E33.
+   SubClassOf: Arylsulfates
+Class: Hydroxybenzoic acid derivatives  # Generated from value "Hydroxybenzoic acid derivatives" located at cell 'results5'!E34.
+   SubClassOf: Benzoic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E35.
+   SubClassOf: Arylsulfates
+Class: Para cresols  # Generated from value "Para cresols" located at cell 'results5'!E36.
+   SubClassOf: Cresols
+Class: Flavonols  # Generated from value "Flavonols" located at cell 'results5'!E37.
+   SubClassOf: Flavones
+Class: Flavonols  # Generated from value "Flavonols" located at cell 'results5'!E38.
+   SubClassOf: Flavones
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E39.
+   SubClassOf: Fatty acids and conjugates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E40.
+   SubClassOf: Arylsulfates
+Class: Tyrosols  # Generated from value "Tyrosols" located at cell 'results5'!E41.
+   SubClassOf: Tyrosols and derivatives
+Class: Solanidines and derivatives  # Generated from value "Solanidines and derivatives" located at cell 'results5'!E42.
+   SubClassOf: Steroidal alkaloids
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E43.
+   SubClassOf: Arylsulfates
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E44.
+   SubClassOf: Fatty acids and conjugates
+Class: Sulfuric acid monoesters  # Generated from value "Sulfuric acid monoesters" located at cell 'results5'!E45.
+   SubClassOf: Sulfuric acid esters
+Class: Coumaric acids and derivatives  # Generated from value "Coumaric acids and derivatives" located at cell 'results5'!E46.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E47.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E48.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Catechols  # Generated from value "Catechols" located at cell 'results5'!E49.
+   SubClassOf: Benzenediols
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E50.
+   SubClassOf: Benzenediols
+Class: Flavanones  # Generated from value "Flavanones" located at cell 'results5'!E51.
+   SubClassOf: Flavans
+Class: Flavanones  # Generated from value "Flavanones" located at cell 'results5'!E52.
+   SubClassOf: Flavans
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E53.
+   SubClassOf: Arylsulfates
+Class: Very long-chain fatty acids  # Generated from value "Very long-chain fatty acids" located at cell 'results5'!E54.
+   SubClassOf: Fatty acids and conjugates
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E55.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E56.
+   SubClassOf: Arylsulfates
+Class: Flavan-3-ols  # Generated from value "Flavan-3-ols" located at cell 'results5'!E57.
+   SubClassOf: Flavans
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E58.
+   SubClassOf: Arylsulfates
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E59.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E60.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E61.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E62.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E63.
+   SubClassOf: Arylsulfates
+Class: Curcuminoids  # Generated from value "Curcuminoids" located at cell 'results5'!E64.
+   SubClassOf: Linear diarylheptanoids
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E65.
+   SubClassOf: Arylsulfates
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E66.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E67.
+   SubClassOf: Arylsulfates
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E68.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E69.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E70.
+   SubClassOf: Arylsulfates
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E71.
+   SubClassOf: Purines and purine derivatives
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E72.
+   SubClassOf: Benzenediols
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E73.
+   SubClassOf: Arylsulfates
+Class: Flavonols  # Generated from value "Flavonols" located at cell 'results5'!E74.
+   SubClassOf: Flavones
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E75.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E76.
+   SubClassOf: Arylsulfates
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E77.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Flavan-3-ols  # Generated from value "Flavan-3-ols" located at cell 'results5'!E78.
+   SubClassOf: Flavans
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E79.
+   SubClassOf: Purines and purine derivatives
+Class: Carnitines  # Generated from value "Carnitines" located at cell 'results5'!E80.
+   SubClassOf: Quaternary ammonium salts
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E81.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: N-methylpyridinium compounds  # Generated from value "N-methylpyridinium compounds" located at cell 'results5'!E82.
+   SubClassOf: Methylpyridines
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E83.
+   SubClassOf: Benzenediols
+Class: Coumaric acids and derivatives  # Generated from value "Coumaric acids and derivatives" located at cell 'results5'!E84.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E85.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E86.
+   SubClassOf: Arylsulfates
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E87.
+   SubClassOf: Purines and purine derivatives
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E88.
+   SubClassOf: Benzenediols
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E89.
+   SubClassOf: Purines and purine derivatives
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E90.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E91.
+   SubClassOf: Arylsulfates
+Class: Acyl carnitines  # Generated from value "Acyl carnitines" located at cell 'results5'!E92.
+   SubClassOf: Fatty acid esters
+Class: Hydroxypyrimidines  # Generated from value "Hydroxypyrimidines" located at cell 'results5'!E93.
+   SubClassOf: Pyrimidines and pyrimidine derivatives
+Class: Flavonols  # Generated from value "Flavonols" located at cell 'results5'!E94.
+   SubClassOf: Flavones
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E95.
+   SubClassOf: Arylsulfates
+Class: Acyclic diterpenoids  # Generated from value "Acyclic diterpenoids" located at cell 'results5'!E96.
+   SubClassOf: Diterpenoids
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E97.
+   SubClassOf: Purines and purine derivatives
+Class: Indole-3-acetic acid derivatives  # Generated from value "Indole-3-acetic acid derivatives" located at cell 'results5'!E98.
+   SubClassOf: Indolyl carboxylic acids and derivatives
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E99.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Tetraorganoarsonium salts  # Generated from value "Tetraorganoarsonium salts" located at cell 'results5'!E100.
+   SubClassOf: Organoarsenic compounds
+Class: Steroidal saponins  # Generated from value "Steroidal saponins" located at cell 'results5'!E101.
+   SubClassOf: Steroidal glycosides
+Class: Isoflavones  # Generated from value "Isoflavones" located at cell 'results5'!E102.
+   SubClassOf: Isoflav-2-enes
+Class: Hydroxybenzoic acid derivatives  # Generated from value "Hydroxybenzoic acid derivatives" located at cell 'results5'!E103.
+   SubClassOf: Benzoic acids and derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E104.
+   SubClassOf: Arylsulfates
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E105.
+   SubClassOf: Fatty acids and conjugates
+Class: Hydroxybenzoic acid derivatives  # Generated from value "Hydroxybenzoic acid derivatives" located at cell 'results5'!E106.
+   SubClassOf: Benzoic acids and derivatives
+Class: Trialkyl amine oxides  # Generated from value "Trialkyl amine oxides" located at cell 'results5'!E107.
+   SubClassOf: Aminoxides
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E108.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E109.
+   SubClassOf: Arylsulfates
+Class: 2'-Hydroxy-dihydrochalcones  # Generated from value "2'-Hydroxy-dihydrochalcones" located at cell 'results5'!E110.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E111.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E112.
+   SubClassOf: Arylsulfates
+Class: Hydroxycinnamic acids  # Generated from value "Hydroxycinnamic acids" located at cell 'results5'!E113.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Resorcinols  # Generated from value "Resorcinols" located at cell 'results5'!E114.
+   SubClassOf: Benzenediols
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E115.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E116.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E117.
+   SubClassOf: Arylsulfates
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E118.
+   SubClassOf: Fatty acids and conjugates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E119.
+   SubClassOf: Arylsulfates
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E120.
+   SubClassOf: Arylsulfates
+Class: Organosulfonic acids  # Generated from value "Organosulfonic acids" located at cell 'results5'!E121.
+   SubClassOf: Organosulfonic acids and derivatives
+Class: N-acetylarylamines  # Generated from value "N-acetylarylamines" located at cell 'results5'!E122.
+   SubClassOf: N-arylamides
+Class: Spirosolanes and derivatives  # Generated from value "Spirosolanes and derivatives" located at cell 'results5'!E123.
+   SubClassOf: Steroidal alkaloids
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E124.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E125.
+   SubClassOf: Arylsulfates
+Class: Tyrosols  # Generated from value "Tyrosols" located at cell 'results5'!E126.
+   SubClassOf: Tyrosols and derivatives
+Class: Catechols  # Generated from value "Catechols" located at cell 'results5'!E127.
+   SubClassOf: Benzenediols
+Class: Flavonoid O-glycosides  # Generated from value "Flavonoid O-glycosides" located at cell 'results5'!E128.
+   SubClassOf: Flavonoid glycosides
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E129.
+   SubClassOf: Purines and purine derivatives
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E130.
+   SubClassOf: Arylsulfates
+Class: Coumaric acids and derivatives  # Generated from value "Coumaric acids and derivatives" located at cell 'results5'!E131.
+   SubClassOf: Hydroxycinnamic acids and derivatives
+Class: Hydroxybenzoic acid derivatives  # Generated from value "Hydroxybenzoic acid derivatives" located at cell 'results5'!E132.
+   SubClassOf: Benzoic acids and derivatives
+Class: Catechols  # Generated from value "Catechols" located at cell 'results5'!E133.
+   SubClassOf: Benzenediols
+Class: Xanthines  # Generated from value "Xanthines" located at cell 'results5'!E134.
+   SubClassOf: Purines and purine derivatives
+Class: Steroidal saponins  # Generated from value "Steroidal saponins" located at cell 'results5'!E135.
+   SubClassOf: Steroidal glycosides
+Class: Catechols  # Generated from value "Catechols" located at cell 'results5'!E136.
+   SubClassOf: Benzenediols
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E137.
+   SubClassOf: Fatty acids and conjugates
+Class: Long-chain fatty acids  # Generated from value "Long-chain fatty acids" located at cell 'results5'!E138.
+   SubClassOf: Fatty acids and conjugates
+Class: Isoflavones  # Generated from value "Isoflavones" located at cell 'results5'!E139.
+   SubClassOf: Isoflav-2-enes
+Class: Phenylsulfates  # Generated from value "Phenylsulfates" located at cell 'results5'!E140.
+   SubClassOf: Arylsulfates
+
+===========================================================================================================
+Date: 2019-07-23 09:47:38
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results4.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (results4!A2:A69) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+# SubClassOf: @D*
+
+Class: 4-methylumbelliferone_glucuronide  # Generated from value "4-methylumbelliferone_glucuronide" located at cell 'results4'!A2.
+   SubClassOf: Coumarin glycosides
+Class: 2-benzoxazolinone  # Generated from value "2-benzoxazolinone" located at cell 'results4'!A3.
+   SubClassOf: Benzoxazolones
+Class: daidzein_4'-glucuronide  # Generated from value "daidzein_4'-glucuronide" located at cell 'results4'!A4.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: malic_acid  # Generated from value "malic_acid" located at cell 'results4'!A5.
+   SubClassOf: Beta hydroxy acids and derivatives
+Class: indoxyl_sulfate  # Generated from value "indoxyl_sulfate" located at cell 'results4'!A6.
+   SubClassOf: Arylsulfates
+Class: 2-aminophenol  # Generated from value "2-aminophenol" located at cell 'results4'!A7.
+   SubClassOf: Aniline and substituted anilines
+Class: cis-resveratrol_4'-glucuronide  # Generated from value "cis-resveratrol_4'-glucuronide" located at cell 'results4'!A8.
+   SubClassOf: Stilbene glycosides
+Class: trans-resveratrol_4'-glucuronide  # Generated from value "trans-resveratrol_4'-glucuronide" located at cell 'results4'!A9.
+   SubClassOf: Stilbene glycosides
+Class: 2,4-dihydroxy-1,4-benzoxazin-3-one  # Generated from value "2,4-dihydroxy-1,4-benzoxazin-3-one" located at cell 'results4'!A10.
+   SubClassOf: Benzoxazinones
+Class: carnosine  # Generated from value "carnosine" located at cell 'results4'!A11.
+   SubClassOf: Hybrid peptides
+Class: 3,4-dihydroxybenzoic_acid_3-glucuronide  # Generated from value "3,4-dihydroxybenzoic_acid_3-glucuronide" located at cell 'results4'!A12.
+   SubClassOf: Hydrolyzable tannins
+Class: genistein_diglucuronide  # Generated from value "genistein_diglucuronide" located at cell 'results4'!A13.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: α-linolenic_acid  # Generated from value "α-linolenic_acid" located at cell 'results4'!A14.
+   SubClassOf: Lineolic acids and derivatives
+Class: enterodiol  # Generated from value "enterodiol" located at cell 'results4'!A15.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: 3-hydroxyphenylacetic_acid  # Generated from value "3-hydroxyphenylacetic_acid" located at cell 'results4'!A16.
+   SubClassOf: 1-hydroxy-4-unsubstituted benzenoids
+Class: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone" located at cell 'results4'!A17.
+   SubClassOf: Methoxyphenols
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one" located at cell 'results4'!A18.
+   SubClassOf: Benzoxazinones
+Class: daidzein_7-glucuronide-4'-sulfate  # Generated from value "daidzein_7-glucuronide-4'-sulfate" located at cell 'results4'!A19.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: cyclamate  # Generated from value "cyclamate" located at cell 'results4'!A20.
+   SubClassOf: Cyclamates
+Class: trans-piceid  # Generated from value "trans-piceid" located at cell 'results4'!A21.
+   SubClassOf: Stilbene glycosides
+Class: 3-methylgallic_acid_5-glucuronide  # Generated from value "3-methylgallic_acid_5-glucuronide" located at cell 'results4'!A22.
+   SubClassOf: Hydrolyzable tannins
+Class: luteolin  # Generated from value "luteolin" located at cell 'results4'!A23.
+   SubClassOf: Flavones
+Class: rumenic_acid  # Generated from value "rumenic_acid" located at cell 'results4'!A24.
+   SubClassOf: Lineolic acids and derivatives
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid" located at cell 'results4'!A25.
+   SubClassOf: Medium-chain hydroxy acids and derivatives
+Class: genistein_7-glucuronide  # Generated from value "genistein_7-glucuronide" located at cell 'results4'!A26.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: genistein_7-glucuronide-4'-sulfate  # Generated from value "genistein_7-glucuronide-4'-sulfate" located at cell 'results4'!A27.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: citric_acid  # Generated from value "citric_acid" located at cell 'results4'!A28.
+   SubClassOf: Tricarboxylic acids and derivatives
+Class: biochanin_a_7-glucuronide  # Generated from value "biochanin_a_7-glucuronide" located at cell 'results4'!A29.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: apigenin  # Generated from value "apigenin" located at cell 'results4'!A30.
+   SubClassOf: Flavones
+Class: guaiacol  # Generated from value "guaiacol" located at cell 'results4'!A31.
+   SubClassOf: Methoxyphenols
+Class: 1-methylpyrogallol  # Generated from value "1-methylpyrogallol" located at cell 'results4'!A32.
+   SubClassOf: Methoxyphenols
+Class: dihydroresveratrol_4'-glucuronide  # Generated from value "dihydroresveratrol_4'-glucuronide" located at cell 'results4'!A33.
+   SubClassOf: Stilbene glycosides
+Class: maslinic_acid  # Generated from value "maslinic_acid" located at cell 'results4'!A34.
+   SubClassOf: Triterpenoids
+Class: oleanolic_acid  # Generated from value "oleanolic_acid" located at cell 'results4'!A35.
+   SubClassOf: Triterpenoids
+Class: 6-methoxy-benzoxazolin-2-one  # Generated from value "6-methoxy-benzoxazolin-2-one" located at cell 'results4'!A36.
+   SubClassOf: Benzoxazolones
+Class: daidzein_7-glucuronide  # Generated from value "daidzein_7-glucuronide" located at cell 'results4'!A37.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: vanillin  # Generated from value "vanillin" located at cell 'results4'!A38.
+   SubClassOf: Methoxyphenols
+Class: anserine  # Generated from value "anserine" located at cell 'results4'!A39.
+   SubClassOf: Hybrid peptides
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one" located at cell 'results4'!A40.
+   SubClassOf: Benzoxazinones
+Class: genistein_4'-glucuronide  # Generated from value "genistein_4'-glucuronide" located at cell 'results4'!A41.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: daidzein_diglucuronide  # Generated from value "daidzein_diglucuronide" located at cell 'results4'!A42.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: dihydroresveratrol_3-glucuronide  # Generated from value "dihydroresveratrol_3-glucuronide" located at cell 'results4'!A43.
+   SubClassOf: Stilbene glycosides
+Class: piceid_4'-sulfate  # Generated from value "piceid_4'-sulfate" located at cell 'results4'!A44.
+   SubClassOf: Stilbene glycosides
+Class: 5-(3'-hydroxyphenyl)-γ-valerolactone  # Generated from value "5-(3'-hydroxyphenyl)-γ-valerolactone" located at cell 'results4'!A45.
+   SubClassOf: 1-hydroxy-2-unsubstituted benzenoids
+Class: p-coumaric_acid_sulfate  # Generated from value "p-coumaric_acid_sulfate" located at cell 'results4'!A46.
+   SubClassOf: Cinnamic acids
+Class: piceid_4'-glucuronide  # Generated from value "piceid_4'-glucuronide" located at cell 'results4'!A47.
+   SubClassOf: Stilbene glycosides
+Class: umbelliferone_glucuronide  # Generated from value "umbelliferone_glucuronide" located at cell 'results4'!A48.
+   SubClassOf: Coumarin glycosides
+Class: 2-methylpyrogallol  # Generated from value "2-methylpyrogallol" located at cell 'results4'!A49.
+   SubClassOf: Methoxyphenols
+Class: l-tryptophan  # Generated from value "l-tryptophan" located at cell 'results4'!A50.
+   SubClassOf: Indolyl carboxylic acids and derivatives
+Class: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid  # Generated from value "4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid" located at cell 'results4'!A51.
+   SubClassOf: Medium-chain hydroxy acids and derivatives
+Class: homovanillic_acid  # Generated from value "homovanillic_acid" located at cell 'results4'!A52.
+   SubClassOf: Methoxyphenols
+Class: cis-resveratrol_3-glucuronide  # Generated from value "cis-resveratrol_3-glucuronide" located at cell 'results4'!A53.
+   SubClassOf: Stilbene glycosides
+Class: trans-resveratrol_3-glucuronide  # Generated from value "trans-resveratrol_3-glucuronide" located at cell 'results4'!A54.
+   SubClassOf: Stilbene glycosides
+Class: oleuropein  # Generated from value "oleuropein" located at cell 'results4'!A55.
+   SubClassOf: Terpene glycosides
+Class: genistein_4'-glucuronide-7-sulfate  # Generated from value "genistein_4'-glucuronide-7-sulfate" located at cell 'results4'!A56.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: piceid_3-glucuronide  # Generated from value "piceid_3-glucuronide" located at cell 'results4'!A57.
+   SubClassOf: Stilbene glycosides
+Class: ascorbic_acid  # Generated from value "ascorbic_acid" located at cell 'results4'!A58.
+   SubClassOf: Furanones
+Class: 2-hydroxy-1,4-benzoxazin-3-one  # Generated from value "2-hydroxy-1,4-benzoxazin-3-one" located at cell 'results4'!A59.
+   SubClassOf: Benzoxazinones
+Class: kaempferol_3-sulfate  # Generated from value "kaempferol_3-sulfate" located at cell 'results4'!A60.
+   SubClassOf: Flavones
+Class: gallic_acid_3-glucuronide  # Generated from value "gallic_acid_3-glucuronide" located at cell 'results4'!A61.
+   SubClassOf: Hydrolyzable tannins
+Class: syringic_acid_glucuronide  # Generated from value "syringic_acid_glucuronide" located at cell 'results4'!A62.
+   SubClassOf: Hydrolyzable tannins
+Class: allyl_methyl_sulfone  # Generated from value "allyl_methyl_sulfone" located at cell 'results4'!A63.
+   SubClassOf: Sulfones
+Class: piceid_3-sulfate  # Generated from value "piceid_3-sulfate" located at cell 'results4'!A64.
+   SubClassOf: Stilbene glycosides
+Class: equol_7-glucuronide  # Generated from value "equol_7-glucuronide" located at cell 'results4'!A65.
+   SubClassOf: Isoflavonoid O-glycosides
+Class: 3-methylgallic_acid_4-glucuronide  # Generated from value "3-methylgallic_acid_4-glucuronide" located at cell 'results4'!A66.
+   SubClassOf: Hydrolyzable tannins
+Class: procyanidin_b2  # Generated from value "procyanidin_b2" located at cell 'results4'!A67.
+   SubClassOf: Biflavonoids and polyflavonoids
+Class: homovanillyl_alcohol  # Generated from value "homovanillyl_alcohol" located at cell 'results4'!A68.
+   SubClassOf: Methoxyphenols
+Class: 4-hydroxyphenylacetic_acid  # Generated from value "4-hydroxyphenylacetic_acid" located at cell 'results4'!A69.
+   SubClassOf: 1-hydroxy-2-unsubstituted benzenoids
+
+# Cell range: (results4!D2:D69) Comment: ""
+# Class: @D*(rdfs:label=(@D*)) 
+#     SubClassOf: @C*
+
+Class: Coumarin glycosides  # Generated from value "Coumarin glycosides" located at cell 'results4'!D2.
+   SubClassOf: Coumarins and derivatives
+Class: Benzoxazolones  # Generated from value "Benzoxazolones" located at cell 'results4'!D3.
+   SubClassOf: Benzoxazoles
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D4.
+   SubClassOf: Isoflavonoids
+Class: Beta hydroxy acids and derivatives  # Generated from value "Beta hydroxy acids and derivatives" located at cell 'results4'!D5.
+   SubClassOf: Hydroxy acids and derivatives
+Class: Arylsulfates  # Generated from value "Arylsulfates" located at cell 'results4'!D6.
+   SubClassOf: Organic sulfuric acids and derivatives
+Class: Aniline and substituted anilines  # Generated from value "Aniline and substituted anilines" located at cell 'results4'!D7.
+   SubClassOf: Benzene and substituted derivatives
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D8.
+   SubClassOf: Stilbenes
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D9.
+   SubClassOf: Stilbenes
+Class: Benzoxazinones  # Generated from value "Benzoxazinones" located at cell 'results4'!D10.
+   SubClassOf: Benzoxazines
+Class: Hybrid peptides  # Generated from value "Hybrid peptides" located at cell 'results4'!D11.
+   SubClassOf: Peptidomimetics
+Class: Hydrolyzable tannins  # Generated from value "Hydrolyzable tannins" located at cell 'results4'!D12.
+   SubClassOf: Tannins
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D13.
+   SubClassOf: Isoflavonoids
+Class: Lineolic acids and derivatives  # Generated from value "Lineolic acids and derivatives" located at cell 'results4'!D14.
+   SubClassOf: Fatty Acyls
+Class: Dibenzylbutanediol lignans  # Generated from value "Dibenzylbutanediol lignans" located at cell 'results4'!D15.
+   SubClassOf: Dibenzylbutane lignans
+Class: 1-hydroxy-4-unsubstituted benzenoids  # Generated from value "1-hydroxy-4-unsubstituted benzenoids" located at cell 'results4'!D16.
+   SubClassOf: Phenols
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D17.
+   SubClassOf: Phenols
+Class: Benzoxazinones  # Generated from value "Benzoxazinones" located at cell 'results4'!D18.
+   SubClassOf: Benzoxazines
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D19.
+   SubClassOf: Isoflavonoids
+Class: Cyclamates  # Generated from value "Cyclamates" located at cell 'results4'!D20.
+   SubClassOf: Sulfamic acid derivatives
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D21.
+   SubClassOf: Stilbenes
+Class: Hydrolyzable tannins  # Generated from value "Hydrolyzable tannins" located at cell 'results4'!D22.
+   SubClassOf: Tannins
+Class: Flavones  # Generated from value "Flavones" located at cell 'results4'!D23.
+   SubClassOf: Flavonoids
+Class: Lineolic acids and derivatives  # Generated from value "Lineolic acids and derivatives" located at cell 'results4'!D24.
+   SubClassOf: Fatty Acyls
+Class: Medium-chain hydroxy acids and derivatives  # Generated from value "Medium-chain hydroxy acids and derivatives" located at cell 'results4'!D25.
+   SubClassOf: Hydroxy acids and derivatives
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D26.
+   SubClassOf: Isoflavonoids
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D27.
+   SubClassOf: Isoflavonoids
+Class: Tricarboxylic acids and derivatives  # Generated from value "Tricarboxylic acids and derivatives" located at cell 'results4'!D28.
+   SubClassOf: Carboxylic acids and derivatives
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D29.
+   SubClassOf: Isoflavonoids
+Class: Flavones  # Generated from value "Flavones" located at cell 'results4'!D30.
+   SubClassOf: Flavonoids
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D31.
+   SubClassOf: Phenols
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D32.
+   SubClassOf: Phenols
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D33.
+   SubClassOf: Stilbenes
+Class: Triterpenoids  # Generated from value "Triterpenoids" located at cell 'results4'!D34.
+   SubClassOf: Prenol lipids
+Class: Triterpenoids  # Generated from value "Triterpenoids" located at cell 'results4'!D35.
+   SubClassOf: Prenol lipids
+Class: Benzoxazolones  # Generated from value "Benzoxazolones" located at cell 'results4'!D36.
+   SubClassOf: Benzoxazoles
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D37.
+   SubClassOf: Isoflavonoids
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D38.
+   SubClassOf: Phenols
+Class: Hybrid peptides  # Generated from value "Hybrid peptides" located at cell 'results4'!D39.
+   SubClassOf: Peptidomimetics
+Class: Benzoxazinones  # Generated from value "Benzoxazinones" located at cell 'results4'!D40.
+   SubClassOf: Benzoxazines
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D41.
+   SubClassOf: Isoflavonoids
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D42.
+   SubClassOf: Isoflavonoids
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D43.
+   SubClassOf: Stilbenes
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D44.
+   SubClassOf: Stilbenes
+Class: 1-hydroxy-2-unsubstituted benzenoids  # Generated from value "1-hydroxy-2-unsubstituted benzenoids" located at cell 'results4'!D45.
+   SubClassOf: Phenols
+Class: Cinnamic acids  # Generated from value "Cinnamic acids" located at cell 'results4'!D46.
+   SubClassOf: Cinnamic acids and derivatives
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D47.
+   SubClassOf: Stilbenes
+Class: Coumarin glycosides  # Generated from value "Coumarin glycosides" located at cell 'results4'!D48.
+   SubClassOf: Coumarins and derivatives
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D49.
+   SubClassOf: Phenols
+Class: Indolyl carboxylic acids and derivatives  # Generated from value "Indolyl carboxylic acids and derivatives" located at cell 'results4'!D50.
+   SubClassOf: Indoles and derivatives
+Class: Medium-chain hydroxy acids and derivatives  # Generated from value "Medium-chain hydroxy acids and derivatives" located at cell 'results4'!D51.
+   SubClassOf: Hydroxy acids and derivatives
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D52.
+   SubClassOf: Phenols
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D53.
+   SubClassOf: Stilbenes
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D54.
+   SubClassOf: Stilbenes
+Class: Terpene glycosides  # Generated from value "Terpene glycosides" located at cell 'results4'!D55.
+   SubClassOf: Prenol lipids
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D56.
+   SubClassOf: Isoflavonoids
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D57.
+   SubClassOf: Stilbenes
+Class: Furanones  # Generated from value "Furanones" located at cell 'results4'!D58.
+   SubClassOf: Dihydrofurans
+Class: Benzoxazinones  # Generated from value "Benzoxazinones" located at cell 'results4'!D59.
+   SubClassOf: Benzoxazines
+Class: Flavones  # Generated from value "Flavones" located at cell 'results4'!D60.
+   SubClassOf: Flavonoids
+Class: Hydrolyzable tannins  # Generated from value "Hydrolyzable tannins" located at cell 'results4'!D61.
+   SubClassOf: Tannins
+Class: Hydrolyzable tannins  # Generated from value "Hydrolyzable tannins" located at cell 'results4'!D62.
+   SubClassOf: Tannins
+Class: Sulfones  # Generated from value "Sulfones" located at cell 'results4'!D63.
+   SubClassOf: Sulfonyls
+Class: Stilbene glycosides  # Generated from value "Stilbene glycosides" located at cell 'results4'!D64.
+   SubClassOf: Stilbenes
+Class: Isoflavonoid O-glycosides  # Generated from value "Isoflavonoid O-glycosides" located at cell 'results4'!D65.
+   SubClassOf: Isoflavonoids
+Class: Hydrolyzable tannins  # Generated from value "Hydrolyzable tannins" located at cell 'results4'!D66.
+   SubClassOf: Tannins
+Class: Biflavonoids and polyflavonoids  # Generated from value "Biflavonoids and polyflavonoids" located at cell 'results4'!D67.
+   SubClassOf: Flavonoids
+Class: Methoxyphenols  # Generated from value "Methoxyphenols" located at cell 'results4'!D68.
+   SubClassOf: Phenols
+Class: 1-hydroxy-2-unsubstituted benzenoids  # Generated from value "1-hydroxy-2-unsubstituted benzenoids" located at cell 'results4'!D69.
+   SubClassOf: Phenols
+
+===========================================================================================================
+Date: 2019-07-23 09:51:56
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/results3.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (results3!A2:A35) Comment: ""
+# Class: @A*(rdfs:label=(@A*)) 
+#     SubClassOf: @C*
+
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide" located at cell 'results3'!A2.
+   SubClassOf: Saccharolipids
+Class: dihydroferulic_acid  # Generated from value "dihydroferulic_acid" located at cell 'results3'!A3.
+   SubClassOf: Phenylpropanoic acids
+Class: 1-hydroxypyrene_glucuronide  # Generated from value "1-hydroxypyrene_glucuronide" located at cell 'results3'!A4.
+   SubClassOf: Pyrenes
+Class: saccharin  # Generated from value "saccharin" located at cell 'results3'!A5.
+   SubClassOf: Benzothiazoles
+Class: trans-resveratrol_3-sulfate  # Generated from value "trans-resveratrol_3-sulfate" located at cell 'results3'!A6.
+   SubClassOf: Stilbenes
+Class: cis-resveratrol_3-sulfate  # Generated from value "cis-resveratrol_3-sulfate" located at cell 'results3'!A7.
+   SubClassOf: Stilbenes
+Class: dihydrocaffeic_acid  # Generated from value "dihydrocaffeic_acid" located at cell 'results3'!A8.
+   SubClassOf: Phenylpropanoic acids
+Class: 4-methylumbelliferone_sulfate  # Generated from value "4-methylumbelliferone_sulfate" located at cell 'results3'!A9.
+   SubClassOf: Coumarins and derivatives
+Class: urolithin_c  # Generated from value "urolithin_c" located at cell 'results3'!A10.
+   SubClassOf: Coumarins and derivatives
+Class: dihydroresveratrol  # Generated from value "dihydroresveratrol" located at cell 'results3'!A11.
+   SubClassOf: Stilbenes
+Class: 3-(3,5-dihydroxyphenyl)propionic_acid  # Generated from value "3-(3,5-dihydroxyphenyl)propionic_acid" located at cell 'results3'!A12.
+   SubClassOf: Phenylpropanoic acids
+Class: p-hydroxyphenyllactic_acid  # Generated from value "p-hydroxyphenyllactic_acid" located at cell 'results3'!A13.
+   SubClassOf: Phenylpropanoic acids
+Class: allyl_methyl_sulfoxide  # Generated from value "allyl_methyl_sulfoxide" located at cell 'results3'!A14.
+   SubClassOf: Sulfoxides
+Class: dihydroresveratrol_3-sulfate  # Generated from value "dihydroresveratrol_3-sulfate" located at cell 'results3'!A15.
+   SubClassOf: Stilbenes
+Class: 3-(3-hydroxyphenyl)-3-hydroxypropionic_acid  # Generated from value "3-(3-hydroxyphenyl)-3-hydroxypropionic_acid" located at cell 'results3'!A16.
+   SubClassOf: Phenylpropanoic acids
+Class: trans-resveratrol_4'-sulfate  # Generated from value "trans-resveratrol_4'-sulfate" located at cell 'results3'!A17.
+   SubClassOf: Stilbenes
+Class: cis-resveratrol_4'-sulfate  # Generated from value "cis-resveratrol_4'-sulfate" located at cell 'results3'!A18.
+   SubClassOf: Stilbenes
+Class: iberin  # Generated from value "iberin" located at cell 'results3'!A19.
+   SubClassOf: Sulfoxides
+Class: umbelliferone_sulfate  # Generated from value "umbelliferone_sulfate" located at cell 'results3'!A20.
+   SubClassOf: Coumarins and derivatives
+Class: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide  # Generated from value "4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide" located at cell 'results3'!A21.
+   SubClassOf: Saccharolipids
+Class: urolithin_b_sulfate  # Generated from value "urolithin_b_sulfate" located at cell 'results3'!A22.
+   SubClassOf: Coumarins and derivatives
+Class: trans-resveratrol  # Generated from value "trans-resveratrol" located at cell 'results3'!A23.
+   SubClassOf: Stilbenes
+Class: cis-resveratrol  # Generated from value "cis-resveratrol" located at cell 'results3'!A24.
+   SubClassOf: Stilbenes
+Class: 3-(4-hydroxyphenyl)propionic_acid  # Generated from value "3-(4-hydroxyphenyl)propionic_acid" located at cell 'results3'!A25.
+   SubClassOf: Phenylpropanoic acids
+Class: allyl_methyl_sulfide  # Generated from value "allyl_methyl_sulfide" located at cell 'results3'!A26.
+   SubClassOf: Allyl sulfur compounds
+Class: 3-(3-hydroxyphenyl)propionic_acid  # Generated from value "3-(3-hydroxyphenyl)propionic_acid" located at cell 'results3'!A27.
+   SubClassOf: Phenylpropanoic acids
+Class: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide  # Generated from value "5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide" located at cell 'results3'!A28.
+   SubClassOf: Phenol ethers
+Class: urolithin_a  # Generated from value "urolithin_a" located at cell 'results3'!A29.
+   SubClassOf: Coumarins and derivatives
+Class: sulforaphane  # Generated from value "sulforaphane" located at cell 'results3'!A30.
+   SubClassOf: Sulfoxides
+Class: phenyllactic_acid  # Generated from value "phenyllactic_acid" located at cell 'results3'!A31.
+   SubClassOf: Phenylpropanoic acids
+Class: dihydroresveratrol_4'-sulfate  # Generated from value "dihydroresveratrol_4'-sulfate" located at cell 'results3'!A32.
+   SubClassOf: Stilbenes
+Class: acesulfame_k  # Generated from value "acesulfame_k" located at cell 'results3'!A33.
+   SubClassOf: Organic sulfuric acids and derivatives
+Class: urolithin_b  # Generated from value "urolithin_b" located at cell 'results3'!A34.
+   SubClassOf: Coumarins and derivatives
+Class: dihydroisoferulic_acid  # Generated from value "dihydroisoferulic_acid" located at cell 'results3'!A35.
+   SubClassOf: Phenylpropanoic acids
+
+# Cell range: (results3!C2:C35) Comment: ""
+# Class: @C*(rdfs:label=(@C*)) 
+#     SubClassOf: @B*
+
+Class: Saccharolipids  # Generated from value "Saccharolipids" located at cell 'results3'!C2.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C3.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Pyrenes  # Generated from value "Pyrenes" located at cell 'results3'!C4.
+   SubClassOf: Benzenoids
+Class: Benzothiazoles  # Generated from value "Benzothiazoles" located at cell 'results3'!C5.
+   SubClassOf: Organoheterocyclic compounds
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C6.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C7.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C8.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C9.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C10.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C11.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C12.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C13.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Sulfoxides  # Generated from value "Sulfoxides" located at cell 'results3'!C14.
+   SubClassOf: Organosulfur compounds
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C15.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C16.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C17.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C18.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Sulfoxides  # Generated from value "Sulfoxides" located at cell 'results3'!C19.
+   SubClassOf: Organosulfur compounds
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C20.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Saccharolipids  # Generated from value "Saccharolipids" located at cell 'results3'!C21.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C22.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C23.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C24.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C25.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Allyl sulfur compounds  # Generated from value "Allyl sulfur compounds" located at cell 'results3'!C26.
+   SubClassOf: Organosulfur compounds
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C27.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenol ethers  # Generated from value "Phenol ethers" located at cell 'results3'!C28.
+   SubClassOf: Benzenoids
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C29.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Sulfoxides  # Generated from value "Sulfoxides" located at cell 'results3'!C30.
+   SubClassOf: Organosulfur compounds
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C31.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Stilbenes  # Generated from value "Stilbenes" located at cell 'results3'!C32.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organic sulfuric acids and derivatives  # Generated from value "Organic sulfuric acids and derivatives" located at cell 'results3'!C33.
+   SubClassOf: Organic acids and derivatives
+Class: Coumarins and derivatives  # Generated from value "Coumarins and derivatives" located at cell 'results3'!C34.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenylpropanoic acids  # Generated from value "Phenylpropanoic acids" located at cell 'results3'!C35.
+   SubClassOf: Phenylpropanoids and polyketides
+
+===========================================================================================================
+Date: 2019-07-23 10:00:10
+Ontology source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/test/FBOnto2018_6_test.owl
+Worksheet source: /Users/pol/Dropbox/Foodbiomarkerontology/v6_beta/FINAL.xlsx
+Transformation rules: /Users/pol/Dropbox/Foodbiomarkerontology/rules.json
+
+# Cell range: (FINAL!B2:B345) Comment: ""
+# Class: @B*(rdfs:label=(@B*)) 
+#     SubClassOf: @A*
+
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B2.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B3.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B4.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B5.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B6.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B7.
+   SubClassOf: Benzenoids
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B8.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Benzoxazoles  # Generated from value "Benzoxazoles" located at cell 'FINAL'!B9.
+   SubClassOf: Organoheterocyclic compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B10.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B11.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B12.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B13.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B14.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B15.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B16.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B17.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Hydroxy acids and derivatives  # Generated from value "Hydroxy acids and derivatives" located at cell 'FINAL'!B18.
+   SubClassOf: Organic acids and derivatives
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B19.
+   SubClassOf: Benzenoids
+Class: Diarylheptanoids  # Generated from value "Diarylheptanoids" located at cell 'FINAL'!B20.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B21.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B22.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B23.
+   SubClassOf: Benzenoids
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B24.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B25.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B26.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B27.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B28.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B29.
+   SubClassOf: Benzenoids
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B30.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B31.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B32.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B33.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B34.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B35.
+   SubClassOf: Organic acids and derivatives
+Class: Benzoxazines  # Generated from value "Benzoxazines" located at cell 'FINAL'!B36.
+   SubClassOf: Organoheterocyclic compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B37.
+   SubClassOf: Organic oxygen compounds
+Class: Peptidomimetics  # Generated from value "Peptidomimetics" located at cell 'FINAL'!B38.
+   SubClassOf: Organic acids and derivatives
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B39.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B40.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B41.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B42.
+   SubClassOf: Organic oxygen compounds
+Class: Tannins  # Generated from value "Tannins" located at cell 'FINAL'!B43.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B44.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B45.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B46.
+   SubClassOf: Benzenoids
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B47.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B48.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B49.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B50.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B51.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B52.
+   SubClassOf: Organic oxygen compounds
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B53.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B54.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B55.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B56.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B57.
+   SubClassOf: Organic oxygen compounds
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B58.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B59.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Indoles and derivatives  # Generated from value "Indoles and derivatives" located at cell 'FINAL'!B60.
+   SubClassOf: Organoheterocyclic compounds
+Class: Dibenzylbutane lignans  # Generated from value "Dibenzylbutane lignans" located at cell 'FINAL'!B61.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B62.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B63.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B64.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B65.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B66.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B67.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B68.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B69.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B70.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B71.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B72.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B73.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B74.
+   SubClassOf: Benzenoids
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B75.
+   SubClassOf: Benzenoids
+Class: Benzoxazines  # Generated from value "Benzoxazines" located at cell 'FINAL'!B76.
+   SubClassOf: Organoheterocyclic compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B77.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B78.
+   SubClassOf: Organoheterocyclic compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B79.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B80.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B81.
+   SubClassOf: Organic acids and derivatives
+Class: Sulfamic acid derivatives  # Generated from value "Sulfamic acid derivatives" located at cell 'FINAL'!B82.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B83.
+   SubClassOf: Organic oxygen compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B84.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B85.
+   SubClassOf: Organoheterocyclic compounds
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B86.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B87.
+   SubClassOf: Organic oxygen compounds
+Class: Furanoid lignans  # Generated from value "Furanoid lignans" located at cell 'FINAL'!B88.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B89.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B90.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B91.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B92.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B93.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B94.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B95.
+   SubClassOf: Benzenoids
+Class: Tannins  # Generated from value "Tannins" located at cell 'FINAL'!B96.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B97.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B98.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B99.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B100.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B101.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B102.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B103.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B104.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B105.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Hydroxy acids and derivatives  # Generated from value "Hydroxy acids and derivatives" located at cell 'FINAL'!B106.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B107.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B108.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B109.
+   SubClassOf: Organic acids and derivatives
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B110.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B111.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B112.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B113.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B114.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B115.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B116.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B117.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B118.
+   SubClassOf: Benzenoids
+Class: Steroids and steroid derivatives  # Generated from value "Steroids and steroid derivatives" located at cell 'FINAL'!B119.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B120.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B121.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B122.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B123.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B124.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B125.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B126.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B127.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B128.
+   SubClassOf: Organic oxygen compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B129.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B130.
+   SubClassOf: Organic acids and derivatives
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B131.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B132.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B133.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B134.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B135.
+   SubClassOf: Organic oxygen compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B136.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B137.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B138.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B139.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B140.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B141.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B142.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B143.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B144.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B145.
+   SubClassOf: Organic acids and derivatives
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B146.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B147.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B148.
+   SubClassOf: Benzenoids
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B149.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B150.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B151.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B152.
+   SubClassOf: Organic oxygen compounds
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B153.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B154.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B155.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B156.
+   SubClassOf: Organic oxygen compounds
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B157.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Benzoxazoles  # Generated from value "Benzoxazoles" located at cell 'FINAL'!B158.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B159.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B160.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B161.
+   SubClassOf: Organic acids and derivatives
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B162.
+   SubClassOf: Organoheterocyclic compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B163.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B164.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Peptidomimetics  # Generated from value "Peptidomimetics" located at cell 'FINAL'!B165.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B166.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B167.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzoxazines  # Generated from value "Benzoxazines" located at cell 'FINAL'!B168.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B169.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Diarylheptanoids  # Generated from value "Diarylheptanoids" located at cell 'FINAL'!B170.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B171.
+   SubClassOf: Organic oxygen compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B172.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B173.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B174.
+   SubClassOf: Organic oxygen compounds
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B175.
+   SubClassOf: Organoheterocyclic compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B176.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B177.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B178.
+   SubClassOf: Organoheterocyclic compounds
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B179.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B180.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B181.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B182.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B183.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B184.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B185.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B186.
+   SubClassOf: Organic oxygen compounds
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B187.
+   SubClassOf: Organoheterocyclic compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B188.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B189.
+   SubClassOf: Organic acids and derivatives
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B190.
+   SubClassOf: Benzenoids
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B191.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B192.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B193.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B194.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B195.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B196.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B197.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B198.
+   SubClassOf: Organoheterocyclic compounds
+Class: Organonitrogen compounds  # Generated from value "Organonitrogen compounds" located at cell 'FINAL'!B199.
+   SubClassOf: Organic nitrogen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B200.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B201.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B202.
+   SubClassOf: Organic acids and derivatives
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B203.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Pyridines and derivatives  # Generated from value "Pyridines and derivatives" located at cell 'FINAL'!B204.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B205.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B206.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B207.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B208.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B209.
+   SubClassOf: Organic oxygen compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B210.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B211.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B212.
+   SubClassOf: Organic oxygen compounds
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B213.
+   SubClassOf: Organoheterocyclic compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B214.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B215.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B216.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B217.
+   SubClassOf: Benzenoids
+Class: Indoles and derivatives  # Generated from value "Indoles and derivatives" located at cell 'FINAL'!B218.
+   SubClassOf: Organoheterocyclic compounds
+Class: Hydroxy acids and derivatives  # Generated from value "Hydroxy acids and derivatives" located at cell 'FINAL'!B219.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B220.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B221.
+   SubClassOf: Benzenoids
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B222.
+   SubClassOf: Benzenoids
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B223.
+   SubClassOf: Organoheterocyclic compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B224.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B225.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B226.
+   SubClassOf: Organic oxygen compounds
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B227.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Diazines  # Generated from value "Diazines" located at cell 'FINAL'!B228.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B229.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B230.
+   SubClassOf: Organic oxygen compounds
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B231.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B232.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B233.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B234.
+   SubClassOf: Benzenoids
+Class: Prenol lipids  # Generated from value "Prenol lipids" located at cell 'FINAL'!B235.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B236.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B237.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B238.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B239.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B240.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B241.
+   SubClassOf: Organic acids and derivatives
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B242.
+   SubClassOf: Organoheterocyclic compounds
+Class: Indoles and derivatives  # Generated from value "Indoles and derivatives" located at cell 'FINAL'!B243.
+   SubClassOf: Organoheterocyclic compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B244.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B245.
+   SubClassOf: Organic oxygen compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B246.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B247.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B248.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B249.
+   SubClassOf: Organic oxygen compounds
+Class: Organometalloid compounds  # Generated from value "Organometalloid compounds" located at cell 'FINAL'!B250.
+   SubClassOf: Organometallic compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B251.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B252.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B253.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B254.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B255.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B256.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B257.
+   SubClassOf: Benzenoids
+Class: Steroids and steroid derivatives  # Generated from value "Steroids and steroid derivatives" located at cell 'FINAL'!B258.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Dihydrofurans  # Generated from value "Dihydrofurans" located at cell 'FINAL'!B259.
+   SubClassOf: Organoheterocyclic compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B260.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B261.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B262.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B263.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B264.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B265.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B266.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B267.
+   SubClassOf: Organic acids and derivatives
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B268.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B269.
+   SubClassOf: Benzenoids
+Class: Organonitrogen compounds  # Generated from value "Organonitrogen compounds" located at cell 'FINAL'!B270.
+   SubClassOf: Organic nitrogen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B271.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B272.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B273.
+   SubClassOf: Benzenoids
+Class: Linear 1,3-diarylpropanoids  # Generated from value "Linear 1,3-diarylpropanoids" located at cell 'FINAL'!B274.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B275.
+   SubClassOf: Organic oxygen compounds
+Class: Benzoxazines  # Generated from value "Benzoxazines" located at cell 'FINAL'!B276.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B277.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B278.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B279.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B280.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B281.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B282.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B283.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B284.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B285.
+   SubClassOf: Organic oxygen compounds
+Class: Tannins  # Generated from value "Tannins" located at cell 'FINAL'!B286.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B287.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B288.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B289.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B290.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Tannins  # Generated from value "Tannins" located at cell 'FINAL'!B291.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Sulfonyls  # Generated from value "Sulfonyls" located at cell 'FINAL'!B292.
+   SubClassOf: Organosulfur compounds
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B293.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B294.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B295.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B296.
+   SubClassOf: Organic oxygen compounds
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B297.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: NA  # Generated from value "NA" located at cell 'FINAL'!B298.
+   SubClassOf: Alkaloids and derivatives
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B299.
+   SubClassOf: Benzenoids
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B300.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B301.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Tannins  # Generated from value "Tannins" located at cell 'FINAL'!B302.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B303.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B304.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B305.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B306.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organic sulfonic acids and derivatives  # Generated from value "Organic sulfonic acids and derivatives" located at cell 'FINAL'!B307.
+   SubClassOf: Organic acids and derivatives
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B308.
+   SubClassOf: Organic oxygen compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B309.
+   SubClassOf: Benzenoids
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B310.
+   SubClassOf: Organic acids and derivatives
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B311.
+   SubClassOf: Organic acids and derivatives
+Class: Organonitrogen compounds  # Generated from value "Organonitrogen compounds" located at cell 'FINAL'!B312.
+   SubClassOf: Organic nitrogen compounds
+Class: Steroids and steroid derivatives  # Generated from value "Steroids and steroid derivatives" located at cell 'FINAL'!B313.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B314.
+   SubClassOf: Organoheterocyclic compounds
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B315.
+   SubClassOf: Benzenoids
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B316.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B317.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B318.
+   SubClassOf: Organic oxygen compounds
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B319.
+   SubClassOf: Benzenoids
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B320.
+   SubClassOf: Organoheterocyclic compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B321.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B322.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B323.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B324.
+   SubClassOf: Organic oxygen compounds
+Class: Cinnamic acids and derivatives  # Generated from value "Cinnamic acids and derivatives" located at cell 'FINAL'!B325.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B326.
+   SubClassOf: Benzenoids
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B327.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B328.
+   SubClassOf: Benzenoids
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B329.
+   SubClassOf: Organic oxygen compounds
+Class: Carboxylic acids and derivatives  # Generated from value "Carboxylic acids and derivatives" located at cell 'FINAL'!B330.
+   SubClassOf: Organic acids and derivatives
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B331.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Imidazopyrimidines  # Generated from value "Imidazopyrimidines" located at cell 'FINAL'!B332.
+   SubClassOf: Organoheterocyclic compounds
+Class: Steroids and steroid derivatives  # Generated from value "Steroids and steroid derivatives" located at cell 'FINAL'!B333.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B334.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Benzene and substituted derivatives  # Generated from value "Benzene and substituted derivatives" located at cell 'FINAL'!B335.
+   SubClassOf: Benzenoids
+Class: Phenols  # Generated from value "Phenols" located at cell 'FINAL'!B336.
+   SubClassOf: Benzenoids
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B337.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Fatty Acyls  # Generated from value "Fatty Acyls" located at cell 'FINAL'!B338.
+   SubClassOf: Lipids and lipid-like molecules
+Class: Isoflavonoids  # Generated from value "Isoflavonoids" located at cell 'FINAL'!B339.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B340.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B341.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B342.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B343.
+   SubClassOf: Organic oxygen compounds
+Class: Organooxygen compounds  # Generated from value "Organooxygen compounds" located at cell 'FINAL'!B344.
+   SubClassOf: Organic oxygen compounds
+Class: Flavonoids  # Generated from value "Flavonoids" located at cell 'FINAL'!B345.
+   SubClassOf: Phenylpropanoids and polyketides
+
+===========================================================================================================
