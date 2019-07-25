@@ -2970,6 +2970,12 @@
         <Class IRI="#FB_040223"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FB_040224"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FB_040225"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FB_07552"/>
     </Declaration>
     <Declaration>
@@ -3856,7 +3862,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007934"/>
-        <Class IRI="#FB_07557"/>
+        <Class IRI="#FB_040224"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007934"/>
@@ -3881,7 +3887,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007935"/>
-        <Class IRI="#FB_07557"/>
+        <Class IRI="#FB_040224"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007935"/>
@@ -3985,7 +3991,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007940"/>
-        <Class IRI="#FB_07557"/>
+        <Class IRI="#FB_040224"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007940"/>
@@ -25544,6 +25550,14 @@
         <Class IRI="#FB_040220"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#FB_040224"/>
+        <Class IRI="#FB_07557"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040225"/>
+        <Class IRI="#FB_07557"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#FB_07552"/>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0002"/>
     </SubClassOf>
@@ -25625,7 +25639,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_07558"/>
-        <Class IRI="#FB_07557"/>
+        <Class IRI="#FB_040225"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_07558"/>
@@ -25643,7 +25657,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_07559"/>
-        <Class IRI="#FB_07557"/>
+        <Class IRI="#FB_040225"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_07559"/>
@@ -30797,7 +30811,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0002</IRI>
-        <Literal>Cacao</Literal>
+        <Literal>Cacao products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30817,7 +30831,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005</IRI>
-        <Literal>Dairy</Literal>
+        <Literal>Dairy products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30897,7 +30911,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0015</IRI>
-        <Literal>Alcohol</Literal>
+        <Literal>Alcohols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30957,7 +30971,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0021</IRI>
-        <Literal>Fermented_Alcohols</Literal>
+        <Literal>Fermented alcohols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30987,7 +31001,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0024</IRI>
-        <Literal>Infusion</Literal>
+        <Literal>Infusions</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30997,7 +31011,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0027</IRI>
-        <Literal>Coffee</Literal>
+        <Literal>Coffee products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31007,7 +31021,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0028</IRI>
-        <Literal>Tea</Literal>
+        <Literal>Tea products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31077,7 +31091,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0036</IRI>
-        <Literal>Fats_&amp;_Oils</Literal>
+        <Literal>Fats and oils</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31237,7 +31251,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0048</IRI>
-        <Literal>Fruits_&amp;_Vegetables</Literal>
+        <Literal>Fruits and vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31297,7 +31311,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00538</IRI>
-        <Literal>Carbonated_Soft_Drink</Literal>
+        <Literal>Carbonated soft drinks</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31307,7 +31321,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00539</IRI>
-        <Literal>Diet_Carbonated_Soft_Drink</Literal>
+        <Literal>Diet carbonated soft drinks</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32567,7 +32581,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0121</IRI>
-        <Literal>Herbs_&amp;_Spices</Literal>
+        <Literal>Herbs and spices</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32707,7 +32721,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0135</IRI>
-        <Literal>Nuts_&amp;_Legumes</Literal>
+        <Literal>Nuts and legumes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33597,7 +33611,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508</IRI>
-        <Literal>Prepared_Foods</Literal>
+        <Literal>Prepared foods</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33637,7 +33651,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07513</IRI>
-        <Literal>Water</Literal>
+        <Literal>Waters</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -36267,17 +36281,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040011</IRI>
-        <Literal xml:lang="en">Flavonoids</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040011</IRI>
         <Literal>Flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040012</IRI>
-        <Literal xml:lang="en">Isoflavonoids</Literal>
+        <IRI>#FB_040011</IRI>
+        <Literal xml:lang="en">Flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36286,8 +36295,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040013</IRI>
-        <Literal xml:lang="en">Benzene and substituted derivatives</Literal>
+        <IRI>#FB_040012</IRI>
+        <Literal xml:lang="en">Isoflavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36296,8 +36305,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040014</IRI>
-        <Literal xml:lang="en">Organooxygen compounds</Literal>
+        <IRI>#FB_040013</IRI>
+        <Literal xml:lang="en">Benzene and substituted derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36306,8 +36315,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040015</IRI>
-        <Literal xml:lang="en">Prenol lipids</Literal>
+        <IRI>#FB_040014</IRI>
+        <Literal xml:lang="en">Organooxygen compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36316,8 +36325,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040016</IRI>
-        <Literal xml:lang="en">Organic sulfuric acids and derivatives</Literal>
+        <IRI>#FB_040015</IRI>
+        <Literal xml:lang="en">Prenol lipids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36326,8 +36335,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040017</IRI>
-        <Literal xml:lang="en">Coumarins and derivatives</Literal>
+        <IRI>#FB_040016</IRI>
+        <Literal xml:lang="en">Organic sulfuric acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36336,8 +36345,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040018</IRI>
-        <Literal xml:lang="en">Benzoxazoles</Literal>
+        <IRI>#FB_040017</IRI>
+        <Literal xml:lang="en">Coumarins and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36346,8 +36355,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040019</IRI>
-        <Literal xml:lang="en">Phenols</Literal>
+        <IRI>#FB_040018</IRI>
+        <Literal xml:lang="en">Benzoxazoles</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36356,8 +36365,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040020</IRI>
-        <Literal xml:lang="en">Hydroxy acids and derivatives</Literal>
+        <IRI>#FB_040019</IRI>
+        <Literal xml:lang="en">Phenols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36366,8 +36375,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040021</IRI>
-        <Literal xml:lang="en">Saccharolipids</Literal>
+        <IRI>#FB_040020</IRI>
+        <Literal xml:lang="en">Hydroxy acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36376,8 +36385,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040022</IRI>
-        <Literal xml:lang="en">Diarylheptanoids</Literal>
+        <IRI>#FB_040021</IRI>
+        <Literal xml:lang="en">Saccharolipids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36386,8 +36395,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040023</IRI>
-        <Literal xml:lang="en">Phenylpropanoic acids</Literal>
+        <IRI>#FB_040022</IRI>
+        <Literal xml:lang="en">Diarylheptanoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36396,8 +36405,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040024</IRI>
-        <Literal xml:lang="en">Carboxylic acids and derivatives</Literal>
+        <IRI>#FB_040023</IRI>
+        <Literal xml:lang="en">Phenylpropanoic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36406,8 +36415,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040025</IRI>
-        <Literal xml:lang="en">Cinnamic acids and derivatives</Literal>
+        <IRI>#FB_040024</IRI>
+        <Literal xml:lang="en">Carboxylic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36416,8 +36425,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040026</IRI>
-        <Literal xml:lang="en">Pyrenes</Literal>
+        <IRI>#FB_040025</IRI>
+        <Literal xml:lang="en">Cinnamic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36426,8 +36435,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040027</IRI>
-        <Literal xml:lang="en">Imidazopyrimidines</Literal>
+        <IRI>#FB_040026</IRI>
+        <Literal xml:lang="en">Pyrenes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36436,8 +36445,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040028</IRI>
-        <Literal xml:lang="en">Stilbenes</Literal>
+        <IRI>#FB_040027</IRI>
+        <Literal xml:lang="en">Imidazopyrimidines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36446,8 +36455,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040029</IRI>
-        <Literal xml:lang="en">Benzoxazines</Literal>
+        <IRI>#FB_040028</IRI>
+        <Literal xml:lang="en">Stilbenes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36456,8 +36465,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040030</IRI>
-        <Literal xml:lang="en">Peptidomimetics</Literal>
+        <IRI>#FB_040029</IRI>
+        <Literal xml:lang="en">Benzoxazines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36466,8 +36475,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040031</IRI>
-        <Literal xml:lang="en">Benzothiazoles</Literal>
+        <IRI>#FB_040030</IRI>
+        <Literal xml:lang="en">Peptidomimetics</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36476,8 +36485,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040032</IRI>
-        <Literal xml:lang="en">Tannins</Literal>
+        <IRI>#FB_040031</IRI>
+        <Literal xml:lang="en">Benzothiazoles</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36486,8 +36495,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040033</IRI>
-        <Literal xml:lang="en">Fatty Acyls</Literal>
+        <IRI>#FB_040032</IRI>
+        <Literal xml:lang="en">Tannins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36496,8 +36505,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040034</IRI>
-        <Literal xml:lang="en">Indoles and derivatives</Literal>
+        <IRI>#FB_040033</IRI>
+        <Literal xml:lang="en">Fatty Acyls</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36506,8 +36515,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040035</IRI>
-        <Literal xml:lang="en">Dibenzylbutane lignans</Literal>
+        <IRI>#FB_040034</IRI>
+        <Literal xml:lang="en">Indoles and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36516,8 +36525,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040036</IRI>
-        <Literal xml:lang="en">Sulfamic acid derivatives</Literal>
+        <IRI>#FB_040035</IRI>
+        <Literal xml:lang="en">Dibenzylbutane lignans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36526,8 +36535,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040037</IRI>
-        <Literal xml:lang="en">Furanoid lignans</Literal>
+        <IRI>#FB_040036</IRI>
+        <Literal xml:lang="en">Sulfamic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36536,8 +36545,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040038</IRI>
-        <Literal xml:lang="en">Steroids and steroid derivatives</Literal>
+        <IRI>#FB_040037</IRI>
+        <Literal xml:lang="en">Furanoid lignans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36546,8 +36555,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040039</IRI>
-        <Literal xml:lang="en">Sulfoxides</Literal>
+        <IRI>#FB_040038</IRI>
+        <Literal xml:lang="en">Steroids and steroid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36556,8 +36565,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040040</IRI>
-        <Literal xml:lang="en">Allyl sulfur compounds</Literal>
+        <IRI>#FB_040039</IRI>
+        <Literal xml:lang="en">Sulfoxides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36566,8 +36575,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040041</IRI>
-        <Literal xml:lang="en">Organonitrogen compounds</Literal>
+        <IRI>#FB_040040</IRI>
+        <Literal xml:lang="en">Allyl sulfur compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36576,8 +36585,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040042</IRI>
-        <Literal xml:lang="en">Pyridines and derivatives</Literal>
+        <IRI>#FB_040041</IRI>
+        <Literal xml:lang="en">Organonitrogen compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36586,8 +36595,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040043</IRI>
-        <Literal xml:lang="en">Phenol ethers</Literal>
+        <IRI>#FB_040042</IRI>
+        <Literal xml:lang="en">Pyridines and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36596,8 +36605,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040044</IRI>
-        <Literal xml:lang="en">Diazines</Literal>
+        <IRI>#FB_040043</IRI>
+        <Literal xml:lang="en">Phenol ethers</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36606,8 +36615,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040045</IRI>
-        <Literal xml:lang="en">Organometalloid compounds</Literal>
+        <IRI>#FB_040044</IRI>
+        <Literal xml:lang="en">Diazines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36616,8 +36625,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040046</IRI>
-        <Literal xml:lang="en">Dihydrofurans</Literal>
+        <IRI>#FB_040045</IRI>
+        <Literal xml:lang="en">Organometalloid compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36626,8 +36635,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040047</IRI>
-        <Literal xml:lang="en">Linear 1,3-diarylpropanoids</Literal>
+        <IRI>#FB_040046</IRI>
+        <Literal xml:lang="en">Dihydrofurans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36636,8 +36645,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040048</IRI>
-        <Literal xml:lang="en">Sulfonyls</Literal>
+        <IRI>#FB_040047</IRI>
+        <Literal xml:lang="en">Linear 1,3-diarylpropanoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36646,13 +36655,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040049</IRI>
-        <Literal xml:lang="en">Organic sulfonic acids and derivatives</Literal>
+        <IRI>#FB_040048</IRI>
+        <Literal xml:lang="en">Sulfonyls</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040049</IRI>
         <Literal>Organic sulfonic acids and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040049</IRI>
+        <Literal xml:lang="en">Organic sulfonic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36692,17 +36706,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040057</IRI>
-        <Literal xml:lang="en">Arylsulfates</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040057</IRI>
         <Literal>Arylsulfates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040058</IRI>
-        <Literal xml:lang="en">Coumarin glycosides</Literal>
+        <IRI>#FB_040057</IRI>
+        <Literal xml:lang="en">Arylsulfates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36711,8 +36720,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040059</IRI>
-        <Literal xml:lang="en">Benzoxazolones</Literal>
+        <IRI>#FB_040058</IRI>
+        <Literal xml:lang="en">Coumarin glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36721,13 +36730,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040060</IRI>
-        <Literal xml:lang="en">Isoflavonoid O-glycosides</Literal>
+        <IRI>#FB_040059</IRI>
+        <Literal xml:lang="en">Benzoxazolones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040060</IRI>
         <Literal>Isoflavonoid O-glycosides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040060</IRI>
+        <Literal xml:lang="en">Isoflavonoid O-glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36742,12 +36756,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040063</IRI>
-        <Literal xml:lang="en">Beta hydroxy acids and derivatives</Literal>
+        <Literal>Beta hydroxy acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040063</IRI>
-        <Literal>Beta hydroxy acids and derivatives</Literal>
+        <Literal xml:lang="en">Beta hydroxy acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36782,17 +36796,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040070</IRI>
-        <Literal xml:lang="en">Aniline and substituted anilines</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040070</IRI>
         <Literal>Aniline and substituted anilines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040071</IRI>
-        <Literal xml:lang="en">Stilbene glycosides</Literal>
+        <IRI>#FB_040070</IRI>
+        <Literal xml:lang="en">Aniline and substituted anilines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36801,8 +36810,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040072</IRI>
-        <Literal xml:lang="en">Benzoxazinones</Literal>
+        <IRI>#FB_040071</IRI>
+        <Literal xml:lang="en">Stilbene glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36811,13 +36820,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040073</IRI>
-        <Literal xml:lang="en">Hybrid peptides</Literal>
+        <IRI>#FB_040072</IRI>
+        <Literal xml:lang="en">Benzoxazinones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040073</IRI>
         <Literal>Hybrid peptides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040073</IRI>
+        <Literal xml:lang="en">Hybrid peptides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36832,17 +36846,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040076</IRI>
-        <Literal xml:lang="en">Hydrolyzable tannins</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040076</IRI>
         <Literal>Hydrolyzable tannins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040077</IRI>
-        <Literal xml:lang="en">Lineolic acids and derivatives</Literal>
+        <IRI>#FB_040076</IRI>
+        <Literal xml:lang="en">Hydrolyzable tannins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36851,8 +36860,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040078</IRI>
-        <Literal xml:lang="en">Indolyl carboxylic acids and derivatives</Literal>
+        <IRI>#FB_040077</IRI>
+        <Literal xml:lang="en">Lineolic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36861,8 +36870,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040079</IRI>
-        <Literal xml:lang="en">Dibenzylbutanediol lignans</Literal>
+        <IRI>#FB_040078</IRI>
+        <Literal xml:lang="en">Indolyl carboxylic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36871,8 +36880,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040080</IRI>
-        <Literal xml:lang="en">1-hydroxy-4-unsubstituted benzenoids</Literal>
+        <IRI>#FB_040079</IRI>
+        <Literal xml:lang="en">Dibenzylbutanediol lignans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36881,13 +36890,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040081</IRI>
-        <Literal xml:lang="en">Methoxyphenols</Literal>
+        <IRI>#FB_040080</IRI>
+        <Literal xml:lang="en">1-hydroxy-4-unsubstituted benzenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040081</IRI>
         <Literal>Methoxyphenols</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040081</IRI>
+        <Literal xml:lang="en">Methoxyphenols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36897,12 +36911,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040083</IRI>
-        <Literal xml:lang="en">Cyclamates</Literal>
+        <Literal>Cyclamates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040083</IRI>
-        <Literal>Cyclamates</Literal>
+        <Literal xml:lang="en">Cyclamates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36927,12 +36941,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040088</IRI>
-        <Literal xml:lang="en">Flavones</Literal>
+        <Literal>Flavones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040088</IRI>
-        <Literal>Flavones</Literal>
+        <Literal xml:lang="en">Flavones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36942,12 +36956,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040090</IRI>
-        <Literal xml:lang="en">Medium-chain hydroxy acids and derivatives</Literal>
+        <Literal>Medium-chain hydroxy acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040090</IRI>
-        <Literal>Medium-chain hydroxy acids and derivatives</Literal>
+        <Literal xml:lang="en">Medium-chain hydroxy acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36967,17 +36981,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040094</IRI>
-        <Literal xml:lang="en">Tricarboxylic acids and derivatives</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040094</IRI>
         <Literal>Tricarboxylic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040095</IRI>
-        <Literal xml:lang="en">Triterpenoids</Literal>
+        <IRI>#FB_040094</IRI>
+        <Literal xml:lang="en">Tricarboxylic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36986,8 +36995,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040096</IRI>
-        <Literal xml:lang="en">1-hydroxy-2-unsubstituted benzenoids</Literal>
+        <IRI>#FB_040095</IRI>
+        <Literal xml:lang="en">Triterpenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -36996,13 +37005,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040097</IRI>
-        <Literal xml:lang="en">Cinnamic acids</Literal>
+        <IRI>#FB_040096</IRI>
+        <Literal xml:lang="en">1-hydroxy-2-unsubstituted benzenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040097</IRI>
         <Literal>Cinnamic acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040097</IRI>
+        <Literal xml:lang="en">Cinnamic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37027,12 +37041,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040102</IRI>
-        <Literal xml:lang="en">Terpene glycosides</Literal>
+        <Literal>Terpene glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040102</IRI>
-        <Literal>Terpene glycosides</Literal>
+        <Literal xml:lang="en">Terpene glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37052,12 +37066,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040106</IRI>
-        <Literal xml:lang="en">Furanones</Literal>
+        <Literal>Furanones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040106</IRI>
-        <Literal>Furanones</Literal>
+        <Literal xml:lang="en">Furanones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37072,22 +37086,22 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040109</IRI>
-        <Literal xml:lang="en">Sulfones</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040109</IRI>
         <Literal>Sulfones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040110</IRI>
-        <Literal xml:lang="en">Biflavonoids and polyflavonoids</Literal>
+        <IRI>#FB_040109</IRI>
+        <Literal xml:lang="en">Sulfones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040110</IRI>
         <Literal>Biflavonoids and polyflavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040110</IRI>
+        <Literal xml:lang="en">Biflavonoids and polyflavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37102,17 +37116,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040113</IRI>
-        <Literal xml:lang="en">Flavonoid O-glycosides</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040113</IRI>
         <Literal>Flavonoid O-glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040114</IRI>
-        <Literal xml:lang="en">Isoflavanols</Literal>
+        <IRI>#FB_040113</IRI>
+        <Literal xml:lang="en">Flavonoid O-glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37121,13 +37130,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040115</IRI>
-        <Literal xml:lang="en">Acetanilides</Literal>
+        <IRI>#FB_040114</IRI>
+        <Literal xml:lang="en">Isoflavanols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040115</IRI>
         <Literal>Acetanilides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040115</IRI>
+        <Literal xml:lang="en">Acetanilides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37137,22 +37151,22 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040117</IRI>
-        <Literal xml:lang="en">4&apos;-O-methylated flavonoids</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040117</IRI>
         <Literal>4&apos;-O-methylated flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040118</IRI>
-        <Literal xml:lang="en">Hydroxybenzoic acid derivatives</Literal>
+        <IRI>#FB_040117</IRI>
+        <Literal xml:lang="en">4&apos;-O-methylated flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040118</IRI>
         <Literal>Hydroxybenzoic acid derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040118</IRI>
+        <Literal xml:lang="en">Hydroxybenzoic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37162,17 +37176,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040120</IRI>
-        <Literal xml:lang="en">Phenylsulfates</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040120</IRI>
         <Literal>Phenylsulfates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040121</IRI>
-        <Literal xml:lang="en">Flavan-3-ols</Literal>
+        <IRI>#FB_040120</IRI>
+        <Literal xml:lang="en">Phenylsulfates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37181,8 +37190,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040122</IRI>
-        <Literal xml:lang="en">Resorcinols</Literal>
+        <IRI>#FB_040121</IRI>
+        <Literal xml:lang="en">Flavan-3-ols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37191,13 +37200,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040123</IRI>
-        <Literal xml:lang="en">Curcuminoids</Literal>
+        <IRI>#FB_040122</IRI>
+        <Literal xml:lang="en">Resorcinols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040123</IRI>
         <Literal>Curcuminoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040123</IRI>
+        <Literal xml:lang="en">Curcuminoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37212,17 +37226,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040126</IRI>
-        <Literal xml:lang="en">Coumaric acids and derivatives</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040126</IRI>
         <Literal>Coumaric acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040127</IRI>
-        <Literal xml:lang="en">Xanthines</Literal>
+        <IRI>#FB_040126</IRI>
+        <Literal xml:lang="en">Coumaric acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37231,8 +37240,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040128</IRI>
-        <Literal xml:lang="en">2(hydroxyphenyl)acetic acids</Literal>
+        <IRI>#FB_040127</IRI>
+        <Literal xml:lang="en">Xanthines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37241,8 +37250,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040129</IRI>
-        <Literal xml:lang="en">Catechols</Literal>
+        <IRI>#FB_040128</IRI>
+        <Literal xml:lang="en">2(hydroxyphenyl)acetic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37251,13 +37260,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040130</IRI>
-        <Literal xml:lang="en">Isoflavones</Literal>
+        <IRI>#FB_040129</IRI>
+        <Literal xml:lang="en">Catechols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040130</IRI>
         <Literal>Isoflavones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040130</IRI>
+        <Literal xml:lang="en">Isoflavones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37267,22 +37281,22 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040132</IRI>
-        <Literal xml:lang="en">3&apos;-O-methylated flavonoids</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040132</IRI>
         <Literal>3&apos;-O-methylated flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040133</IRI>
-        <Literal xml:lang="en">Pyrogallols and derivatives</Literal>
+        <IRI>#FB_040132</IRI>
+        <Literal xml:lang="en">3&apos;-O-methylated flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040133</IRI>
         <Literal>Pyrogallols and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040133</IRI>
+        <Literal xml:lang="en">Pyrogallols and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37292,17 +37306,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040135</IRI>
-        <Literal xml:lang="en">Indole-3-acetic acid derivatives</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040135</IRI>
         <Literal>Indole-3-acetic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040136</IRI>
-        <Literal xml:lang="en">Sugar acids and derivatives</Literal>
+        <IRI>#FB_040135</IRI>
+        <Literal xml:lang="en">Indole-3-acetic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37311,13 +37320,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040137</IRI>
-        <Literal xml:lang="en">Flavanones</Literal>
+        <IRI>#FB_040136</IRI>
+        <Literal xml:lang="en">Sugar acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040137</IRI>
         <Literal>Flavanones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040137</IRI>
+        <Literal xml:lang="en">Flavanones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37332,12 +37346,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040140</IRI>
-        <Literal xml:lang="en">Sulfated fatty acids</Literal>
+        <Literal>Sulfated fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040140</IRI>
-        <Literal>Sulfated fatty acids</Literal>
+        <Literal xml:lang="en">Sulfated fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37352,17 +37366,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040143</IRI>
-        <Literal xml:lang="en">Para cresols</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040143</IRI>
         <Literal>Para cresols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040144</IRI>
-        <Literal xml:lang="en">Flavonols</Literal>
+        <IRI>#FB_040143</IRI>
+        <Literal xml:lang="en">Para cresols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37371,8 +37380,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040145</IRI>
-        <Literal xml:lang="en">Long-chain fatty acids</Literal>
+        <IRI>#FB_040144</IRI>
+        <Literal xml:lang="en">Flavonols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37381,8 +37390,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040146</IRI>
-        <Literal xml:lang="en">Tyrosols</Literal>
+        <IRI>#FB_040145</IRI>
+        <Literal xml:lang="en">Long-chain fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37391,8 +37400,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040147</IRI>
-        <Literal xml:lang="en">Solanidines and derivatives</Literal>
+        <IRI>#FB_040146</IRI>
+        <Literal xml:lang="en">Tyrosols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37401,8 +37410,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040148</IRI>
-        <Literal xml:lang="en">Sulfuric acid monoesters</Literal>
+        <IRI>#FB_040147</IRI>
+        <Literal xml:lang="en">Solanidines and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37411,13 +37420,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040149</IRI>
-        <Literal xml:lang="en">Hydroxycinnamic acids</Literal>
+        <IRI>#FB_040148</IRI>
+        <Literal xml:lang="en">Sulfuric acid monoesters</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040149</IRI>
         <Literal>Hydroxycinnamic acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040149</IRI>
+        <Literal xml:lang="en">Hydroxycinnamic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37432,17 +37446,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040152</IRI>
-        <Literal xml:lang="en">Very long-chain fatty acids</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040152</IRI>
         <Literal>Very long-chain fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040153</IRI>
-        <Literal xml:lang="en">Carnitines</Literal>
+        <IRI>#FB_040152</IRI>
+        <Literal xml:lang="en">Very long-chain fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37451,8 +37460,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040154</IRI>
-        <Literal xml:lang="en">N-methylpyridinium compounds</Literal>
+        <IRI>#FB_040153</IRI>
+        <Literal xml:lang="en">Carnitines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37461,8 +37470,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040155</IRI>
-        <Literal xml:lang="en">Acyl carnitines</Literal>
+        <IRI>#FB_040154</IRI>
+        <Literal xml:lang="en">N-methylpyridinium compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37471,8 +37480,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040156</IRI>
-        <Literal xml:lang="en">Hydroxypyrimidines</Literal>
+        <IRI>#FB_040155</IRI>
+        <Literal xml:lang="en">Acyl carnitines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37481,13 +37490,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040157</IRI>
-        <Literal xml:lang="en">Acyclic diterpenoids</Literal>
+        <IRI>#FB_040156</IRI>
+        <Literal xml:lang="en">Hydroxypyrimidines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040157</IRI>
         <Literal>Acyclic diterpenoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040157</IRI>
+        <Literal xml:lang="en">Acyclic diterpenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37502,17 +37516,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040160</IRI>
-        <Literal xml:lang="en">Tetraorganoarsonium salts</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040160</IRI>
         <Literal>Tetraorganoarsonium salts</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040161</IRI>
-        <Literal xml:lang="en">Steroidal saponins</Literal>
+        <IRI>#FB_040160</IRI>
+        <Literal xml:lang="en">Tetraorganoarsonium salts</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37521,8 +37530,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040162</IRI>
-        <Literal xml:lang="en">Trialkyl amine oxides</Literal>
+        <IRI>#FB_040161</IRI>
+        <Literal xml:lang="en">Steroidal saponins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37531,13 +37540,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040163</IRI>
-        <Literal xml:lang="en">2&apos;-Hydroxy-dihydrochalcones</Literal>
+        <IRI>#FB_040162</IRI>
+        <Literal xml:lang="en">Trialkyl amine oxides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040163</IRI>
         <Literal>2&apos;-Hydroxy-dihydrochalcones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040163</IRI>
+        <Literal xml:lang="en">2&apos;-Hydroxy-dihydrochalcones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37547,17 +37561,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040165</IRI>
-        <Literal xml:lang="en">Organosulfonic acids</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040165</IRI>
         <Literal>Organosulfonic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040166</IRI>
-        <Literal xml:lang="en">N-acetylarylamines</Literal>
+        <IRI>#FB_040165</IRI>
+        <Literal xml:lang="en">Organosulfonic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37566,13 +37575,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040167</IRI>
-        <Literal xml:lang="en">Spirosolanes and derivatives</Literal>
+        <IRI>#FB_040166</IRI>
+        <Literal xml:lang="en">N-acetylarylamines</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040167</IRI>
         <Literal>Spirosolanes and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040167</IRI>
+        <Literal xml:lang="en">Spirosolanes and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37587,12 +37601,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040170</IRI>
-        <Literal xml:lang="en">Phenolic glycosides</Literal>
+        <Literal>Phenolic glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040170</IRI>
-        <Literal>Phenolic glycosides</Literal>
+        <Literal xml:lang="en">Phenolic glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37602,17 +37616,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040172</IRI>
-        <Literal xml:lang="en">Carotenes</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040172</IRI>
         <Literal>Carotenes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040173</IRI>
-        <Literal xml:lang="en">C-glycosyl compounds</Literal>
+        <IRI>#FB_040172</IRI>
+        <Literal xml:lang="en">Carotenes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37621,8 +37630,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040174</IRI>
-        <Literal xml:lang="en">Catechins</Literal>
+        <IRI>#FB_040173</IRI>
+        <Literal xml:lang="en">C-glycosyl compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37631,8 +37640,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040175</IRI>
-        <Literal xml:lang="en">Flavonoid O-glucuronides</Literal>
+        <IRI>#FB_040174</IRI>
+        <Literal xml:lang="en">Catechins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37641,8 +37650,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040176</IRI>
-        <Literal xml:lang="en">Alpha amino acids and derivatives</Literal>
+        <IRI>#FB_040175</IRI>
+        <Literal xml:lang="en">Flavonoid O-glucuronides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37651,8 +37660,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040177</IRI>
-        <Literal xml:lang="en">Acylphloroglucinols and derivatives</Literal>
+        <IRI>#FB_040176</IRI>
+        <Literal xml:lang="en">Alpha amino acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37661,13 +37670,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040178</IRI>
-        <Literal xml:lang="en">Coumaric acids</Literal>
+        <IRI>#FB_040177</IRI>
+        <Literal xml:lang="en">Acylphloroglucinols and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040178</IRI>
         <Literal>Coumaric acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040178</IRI>
+        <Literal xml:lang="en">Coumaric acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37677,17 +37691,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040180</IRI>
-        <Literal xml:lang="en">O-glycosyl compounds</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040180</IRI>
         <Literal>O-glycosyl compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040181</IRI>
-        <Literal xml:lang="en">Xanthophylls</Literal>
+        <IRI>#FB_040180</IRI>
+        <Literal xml:lang="en">O-glycosyl compounds</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37696,8 +37705,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040182</IRI>
-        <Literal xml:lang="en">Gallic acid and derivatives</Literal>
+        <IRI>#FB_040181</IRI>
+        <Literal xml:lang="en">Xanthophylls</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37706,13 +37715,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040183</IRI>
-        <Literal xml:lang="en">Cyclohexanols</Literal>
+        <IRI>#FB_040182</IRI>
+        <Literal xml:lang="en">Gallic acid and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040183</IRI>
         <Literal>Cyclohexanols</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040183</IRI>
+        <Literal xml:lang="en">Cyclohexanols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37722,22 +37736,22 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040185</IRI>
-        <Literal xml:lang="en">4&apos;-O-methylisoflavones</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040185</IRI>
         <Literal>4&apos;-O-methylisoflavones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040186</IRI>
-        <Literal xml:lang="en">Dibenzylbutyrolactone lignans</Literal>
+        <IRI>#FB_040185</IRI>
+        <Literal xml:lang="en">4&apos;-O-methylisoflavones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040186</IRI>
         <Literal>Dibenzylbutyrolactone lignans</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040186</IRI>
+        <Literal xml:lang="en">Dibenzylbutyrolactone lignans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37747,22 +37761,22 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040188</IRI>
-        <Literal xml:lang="en">Glucuronic acid derivatives</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040188</IRI>
         <Literal>Glucuronic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040189</IRI>
-        <Literal xml:lang="en">P-methoxybenzoic acids and derivatives</Literal>
+        <IRI>#FB_040188</IRI>
+        <Literal xml:lang="en">Glucuronic acid derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040189</IRI>
         <Literal>P-methoxybenzoic acids and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040189</IRI>
+        <Literal xml:lang="en">P-methoxybenzoic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37772,17 +37786,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040191</IRI>
-        <Literal xml:lang="en">Oligopeptides</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040191</IRI>
         <Literal>Oligopeptides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040192</IRI>
-        <Literal xml:lang="en">Hexoses</Literal>
+        <IRI>#FB_040191</IRI>
+        <Literal xml:lang="en">Oligopeptides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37791,8 +37800,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040193</IRI>
-        <Literal xml:lang="en">M-methoxybenzoic acids and derivatives</Literal>
+        <IRI>#FB_040192</IRI>
+        <Literal xml:lang="en">Hexoses</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37801,8 +37810,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040194</IRI>
-        <Literal xml:lang="en">Beta amino acids and derivatives</Literal>
+        <IRI>#FB_040193</IRI>
+        <Literal xml:lang="en">M-methoxybenzoic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37811,8 +37820,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040195</IRI>
-        <Literal xml:lang="en">Furanoid fatty acids</Literal>
+        <IRI>#FB_040194</IRI>
+        <Literal xml:lang="en">Beta amino acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37821,8 +37830,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040196</IRI>
-        <Literal xml:lang="en">5-unsubstituted pyrrogallols</Literal>
+        <IRI>#FB_040195</IRI>
+        <Literal xml:lang="en">Furanoid fatty acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37831,8 +37840,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040197</IRI>
-        <Literal xml:lang="en">8-prenylated flavanones</Literal>
+        <IRI>#FB_040196</IRI>
+        <Literal xml:lang="en">5-unsubstituted pyrrogallols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37841,8 +37850,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040198</IRI>
-        <Literal xml:lang="en">Anthocyanidin-3-O-glycosides</Literal>
+        <IRI>#FB_040197</IRI>
+        <Literal xml:lang="en">8-prenylated flavanones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37851,8 +37860,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040199</IRI>
-        <Literal xml:lang="en">Salicylic acids</Literal>
+        <IRI>#FB_040198</IRI>
+        <Literal xml:lang="en">Anthocyanidin-3-O-glycosides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37861,8 +37870,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040200</IRI>
-        <Literal xml:lang="en">Flavonoid-7-O-glucuronides</Literal>
+        <IRI>#FB_040199</IRI>
+        <Literal xml:lang="en">Salicylic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37871,8 +37880,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040201</IRI>
-        <Literal xml:lang="en">Histidine and derivatives</Literal>
+        <IRI>#FB_040200</IRI>
+        <Literal xml:lang="en">Flavonoid-7-O-glucuronides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37881,8 +37890,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040202</IRI>
-        <Literal xml:lang="en">Alanine and derivatives</Literal>
+        <IRI>#FB_040201</IRI>
+        <Literal xml:lang="en">Histidine and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37891,8 +37900,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040203</IRI>
-        <Literal xml:lang="en">N-acyl-alpha amino acids and derivatives</Literal>
+        <IRI>#FB_040202</IRI>
+        <Literal xml:lang="en">Alanine and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37901,8 +37910,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040204</IRI>
-        <Literal xml:lang="en">Proline and derivatives</Literal>
+        <IRI>#FB_040203</IRI>
+        <Literal xml:lang="en">N-acyl-alpha amino acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37911,8 +37920,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040205</IRI>
-        <Literal xml:lang="en">Phenylalanine and derivatives</Literal>
+        <IRI>#FB_040204</IRI>
+        <Literal xml:lang="en">Proline and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37921,8 +37930,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040206</IRI>
-        <Literal xml:lang="en">Quinic acids and derivatives</Literal>
+        <IRI>#FB_040205</IRI>
+        <Literal xml:lang="en">Phenylalanine and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37931,8 +37940,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040207</IRI>
-        <Literal xml:lang="en">Flavonoid-3-O-glucuronides</Literal>
+        <IRI>#FB_040206</IRI>
+        <Literal xml:lang="en">Quinic acids and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37941,8 +37950,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040208</IRI>
-        <Literal xml:lang="en">5-hydroxypsoralens</Literal>
+        <IRI>#FB_040207</IRI>
+        <Literal xml:lang="en">Flavonoid-3-O-glucuronides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37951,8 +37960,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040209</IRI>
-        <Literal xml:lang="en">Benzaldehydes</Literal>
+        <IRI>#FB_040208</IRI>
+        <Literal xml:lang="en">5-hydroxypsoralens</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37961,8 +37970,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040210</IRI>
-        <Literal xml:lang="en">Cysteine and derivatives</Literal>
+        <IRI>#FB_040209</IRI>
+        <Literal xml:lang="en">Benzaldehydes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37971,8 +37980,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040211</IRI>
-        <Literal xml:lang="en">Inositol phosphates</Literal>
+        <IRI>#FB_040210</IRI>
+        <Literal xml:lang="en">Cysteine and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37981,8 +37990,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040212</IRI>
-        <Literal xml:lang="en">Glucuronides</Literal>
+        <IRI>#FB_040211</IRI>
+        <Literal xml:lang="en">Inositol phosphates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -37991,8 +38000,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040213</IRI>
-        <Literal xml:lang="en">Gallic acids</Literal>
+        <IRI>#FB_040212</IRI>
+        <Literal xml:lang="en">Glucuronides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38001,8 +38010,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040214</IRI>
-        <Literal xml:lang="en">Hippuric acids</Literal>
+        <IRI>#FB_040213</IRI>
+        <Literal xml:lang="en">Gallic acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38011,8 +38020,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040215</IRI>
-        <Literal xml:lang="en">Catechin gallates</Literal>
+        <IRI>#FB_040214</IRI>
+        <Literal xml:lang="en">Hippuric acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38021,8 +38030,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040216</IRI>
-        <Literal xml:lang="en">Tyrosine and derivatives</Literal>
+        <IRI>#FB_040215</IRI>
+        <Literal xml:lang="en">Catechin gallates</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38031,8 +38040,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040217</IRI>
-        <Literal xml:lang="en">Galloyl esters</Literal>
+        <IRI>#FB_040216</IRI>
+        <Literal xml:lang="en">Tyrosine and derivatives</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38041,8 +38050,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040218</IRI>
-        <Literal xml:lang="en">Epigallocatechins</Literal>
+        <IRI>#FB_040217</IRI>
+        <Literal xml:lang="en">Galloyl esters</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38051,13 +38060,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#FB_040219</IRI>
-        <Literal xml:lang="en">Alpha amino acids</Literal>
+        <IRI>#FB_040218</IRI>
+        <Literal xml:lang="en">Epigallocatechins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040219</IRI>
         <Literal>Alpha amino acids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040219</IRI>
+        <Literal xml:lang="en">Alpha amino acids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38078,6 +38092,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040223</IRI>
         <Literal xml:lang="es">Non vegeterian dishes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040224</IRI>
+        <Literal xml:lang="es">Hot sauces</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040225</IRI>
+        <Literal xml:lang="es">Cold sauces</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38122,7 +38146,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07560</IRI>
-        <Literal xml:lang="es">Flavoring_Agents</Literal>
+        <Literal xml:lang="es">Flavoring agents</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38202,7 +38226,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07576</IRI>
-        <Literal xml:lang="es">Distilled_Alcohols</Literal>
+        <Literal xml:lang="es">Distilled alcohols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
