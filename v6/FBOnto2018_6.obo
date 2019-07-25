@@ -9,17 +9,17 @@ name: Foods
 
 [Term]
 id: FB_0002
-name: Cacao
+name: Cacao products
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0003
 name: chocolate
-is_a: FB_0002 ! Cacao
+is_a: FB_0002 ! Cacao products
 
 [Term]
 id: FB_0005
-name: Dairy
+name: Dairy products
 is_a: FB_0001 ! Foods
 
 [Term]
@@ -59,13 +59,13 @@ is_a: FB_0018 ! No_Fermented_Dairy
 
 [Term]
 id: FB_0015
-name: Alcohol
+name: Alcohols
 is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0016
 name: Processed_Dairy
-is_a: FB_0005 ! Dairy
+is_a: FB_0005 ! Dairy products
 
 [Term]
 id: FB_0017
@@ -80,7 +80,7 @@ is_a: FB_0016 ! Processed_Dairy
 [Term]
 id: FB_0019
 name: Raw_Dairy
-is_a: FB_0005 ! Dairy
+is_a: FB_0005 ! Dairy products
 
 [Term]
 id: FB_0020
@@ -89,48 +89,48 @@ is_a: FB_0019 ! Raw_Dairy
 
 [Term]
 id: FB_0021
-name: Fermented_Alcohols
-is_a: FB_0015 ! Alcohol
+name: Fermented alcohols
+is_a: FB_0015 ! Alcohols
 
 [Term]
 id: FB_0022
 name: beer
-is_a: FB_0021 ! Fermented_Alcohols
+is_a: FB_0021 ! Fermented alcohols
 
 [Term]
 id: FB_0023
 name: wine
-is_a: FB_0021 ! Fermented_Alcohols
+is_a: FB_0021 ! Fermented alcohols
 
 [Term]
 id: FB_0024
-name: Infusion
+name: Infusions
 is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0027
-name: Coffee
+name: Coffee products
 is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_0028
-name: Tea
-is_a: FB_0024 ! Infusion
+name: Tea products
+is_a: FB_0024 ! Infusions
 
 [Term]
 id: FB_0029
 name: black_tea
-is_a: FB_0028 ! Tea
+is_a: FB_0028 ! Tea products
 
 [Term]
 id: FB_0030
 name: green_tea
-is_a: FB_0028 ! Tea
+is_a: FB_0028 ! Tea products
 
 [Term]
 id: FB_0031
 name: red_tea
-is_a: FB_0028 ! Tea
+is_a: FB_0028 ! Tea products
 
 [Term]
 id: FB_0033
@@ -149,13 +149,13 @@ is_a: FB_0034 ! Chicken_Eggs
 
 [Term]
 id: FB_0036
-name: Fats_&_Oils
+name: Fats and oils
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0037
 name: Fats
-is_a: FB_0036 ! Fats_&_Oils
+is_a: FB_0036 ! Fats and oils
 
 [Term]
 id: FB_0038
@@ -170,7 +170,7 @@ is_a: FB_0038 ! Vegetable_Fats
 [Term]
 id: FB_0040
 name: Oils
-is_a: FB_0036 ! Fats_&_Oils
+is_a: FB_0036 ! Fats and oils
 
 [Term]
 id: FB_0041
@@ -209,18 +209,18 @@ is_a: FB_0099 ! Fat_Vegetables
 
 [Term]
 id: FB_0048
-name: Fruits_&_Vegetables
+name: Fruits and vegetables
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0049
 name: Fruits
-is_a: FB_0048 ! Fruits_&_Vegetables
+is_a: FB_0048 ! Fruits and vegetables
 
 [Term]
 id: FB_0050
 name: Vegetables
-is_a: FB_0048 ! Fruits_&_Vegetables
+is_a: FB_0048 ! Fruits and vegetables
 
 [Term]
 id: FB_0051
@@ -239,12 +239,12 @@ is_a: FB_0051 ! Berries
 
 [Term]
 id: FB_00538
-name: Carbonated_Soft_Drink
+name: Carbonated soft drinks
 is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_00539
-name: Diet_Carbonated_Soft_Drink
+name: Diet carbonated soft drinks
 is_a: FB_0011 ! Beverages
 
 [Term]
@@ -375,7 +375,7 @@ is_a: FB_0078 ! Tropical_Fruits
 [Term]
 id: FB_007928
 name: blanquette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0094 ! carrot
 relationship: FB_00424 FB_0201 ! veal
@@ -383,7 +383,7 @@ relationship: FB_00424 FB_0201 ! veal
 [Term]
 id: FB_007929
 name: cordon_bleu
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0188 ! chicken
 relationship: FB_00424 FB_0208 ! ham
@@ -391,7 +391,7 @@ relationship: FB_00424 FB_0208 ! ham
 [Term]
 id: FB_007930
 name: croc_monsieur
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0013 ! butter
@@ -402,27 +402,27 @@ relationship: FB_00424 FB_0275 ! black_pepper
 [Term]
 id: FB_007931
 name: fondue_bourguignonne
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 relationship: FB_00424 FB_0172 ! Meats
 
 [Term]
 id: FB_007932
 name: fondue_savoyarde
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 
 [Term]
 id: FB_007933
 name: hachis_parmentier
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0115 ! potato
 
 [Term]
 id: FB_007934
 name: bechamel
-is_a: FB_07557 ! Sauces
+is_a: FB_040224 ! Hot sauces
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0269 ! flour
@@ -430,7 +430,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007935
 name: bolognese
-is_a: FB_07557 ! Sauces
+is_a: FB_040224 ! Hot sauces
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0105 ! tomato
 relationship: FB_00424 FB_0197 ! beef
@@ -438,7 +438,7 @@ relationship: FB_00424 FB_0197 ! beef
 [Term]
 id: FB_007936
 name: vegetarian_bolognese
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_00898 ! Soy
 relationship: FB_00424 FB_0105 ! tomato
@@ -446,28 +446,28 @@ relationship: FB_00424 FB_0105 ! tomato
 [Term]
 id: FB_007937
 name: bourguignon
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0023 ! wine
 relationship: FB_00424 FB_0197 ! beef
 
 [Term]
 id: FB_007938
 name: brochette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 
 [Term]
 id: FB_007939
 name: broth
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 
 [Term]
 id: FB_007940
 name: carbonara
-is_a: FB_07557 ! Sauces
+is_a: FB_040224 ! Hot sauces
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0046 ! olive_oil
@@ -477,7 +477,7 @@ relationship: FB_00424 FB_0275 ! black_pepper
 [Term]
 id: FB_007941
 name: croziflette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0143 ! Pasta
 relationship: FB_00424 FB_0209 ! pancetta
@@ -485,7 +485,7 @@ relationship: FB_00424 FB_0209 ! pancetta
 [Term]
 id: FB_007942
 name: fajitas
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 relationship: FB_00424 FB_0269 ! flour
@@ -493,14 +493,14 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007943
 name: vegetarian_fajitas
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0269 ! flour
 
 [Term]
 id: FB_007944
 name: falafel
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 relationship: FB_00424 FB_0124 ! garlic
 relationship: FB_00424 FB_0136 ! Legumes
@@ -508,7 +508,7 @@ relationship: FB_00424 FB_0136 ! Legumes
 [Term]
 id: FB_007945
 name: filled
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
@@ -517,7 +517,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007946
 name: gnocchi
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0115 ! potato
@@ -526,7 +526,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007947
 name: hummus
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 relationship: FB_00424 FB_0124 ! garlic
 relationship: FB_00424 FB_0136 ! Legumes
@@ -534,7 +534,7 @@ relationship: FB_00424 FB_0136 ! Legumes
 [Term]
 id: FB_007948
 name: kebab
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 relationship: FB_00424 FB_0269 ! flour
@@ -542,7 +542,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007949
 name: lasagne
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0023 ! wine
 relationship: FB_00424 FB_0046 ! olive_oil
@@ -556,7 +556,7 @@ relationship: FB_00424 FB_0201 ! veal
 [Term]
 id: FB_007950
 name: vegetarian_lasagne
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0023 ! wine
 relationship: FB_00424 FB_0046 ! olive_oil
@@ -568,8 +568,8 @@ relationship: FB_00424 FB_0143 ! Pasta
 [Term]
 id: FB_007951
 name: millefeuille
-is_a: FB_07508 ! Prepared_Foods
-relationship: FB_00424 FB_0002 ! Cacao
+is_a: FB_07508 ! Prepared foods
+relationship: FB_00424 FB_0002 ! Cacao products
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0151 ! Nuts
 relationship: FB_00424 FB_0170 ! sugar
@@ -578,7 +578,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007952
 name: moussaka
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0104 ! eggplant
 relationship: FB_00424 FB_0105 ! tomato
 relationship: FB_00424 FB_0115 ! potato
@@ -586,7 +586,7 @@ relationship: FB_00424 FB_0115 ! potato
 [Term]
 id: FB_007953
 name: paella
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0144 ! rice
 relationship: FB_00424 FB_0172 ! Meats
@@ -594,7 +594,7 @@ relationship: FB_00424 FB_0172 ! Meats
 [Term]
 id: FB_007954
 name: panini
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
@@ -603,7 +603,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007955
 name: pizza
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
@@ -612,7 +612,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007956
 name: vegetarian_pizza
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0269 ! flour
@@ -620,7 +620,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007957
 name: pudding
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0049 ! Fruits
 relationship: FB_00424 FB_0144 ! rice
@@ -629,7 +629,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007958
 name: quenelle
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0035 ! egg
@@ -639,7 +639,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007959
 name: quiche
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0035 ! egg
@@ -652,7 +652,7 @@ relationship: FB_00424 FB_0275 ! black_pepper
 [Term]
 id: FB_007960
 name: vegetarian_quiche
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0035 ! egg
@@ -663,14 +663,14 @@ relationship: FB_00424 FB_0275 ! black_pepper
 [Term]
 id: FB_007961
 name: raclette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0115 ! potato
 
 [Term]
 id: FB_007962
 name: ratatouille
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0095 ! pepper
 relationship: FB_00424 FB_0104 ! eggplant
 relationship: FB_00424 FB_0105 ! tomato
@@ -680,7 +680,7 @@ relationship: FB_00424 FB_0122 ! Herbs
 [Term]
 id: FB_007963
 name: risotto
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0023 ! wine
 relationship: FB_00424 FB_0124 ! garlic
@@ -691,7 +691,7 @@ relationship: FB_00424 FB_0144 ! rice
 [Term]
 id: FB_007964
 name: salad
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0111 ! lettuce
@@ -699,7 +699,7 @@ relationship: FB_00424 FB_0111 ! lettuce
 [Term]
 id: FB_007965
 name: sandwich
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 relationship: FB_00424 FB_0270 ! bread
@@ -707,7 +707,7 @@ relationship: FB_00424 FB_0270 ! bread
 [Term]
 id: FB_007966
 name: cheese_sandwich
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0270 ! bread
@@ -715,7 +715,7 @@ relationship: FB_00424 FB_0270 ! bread
 [Term]
 id: FB_007967
 name: egg_sandwich
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0270 ! bread
@@ -723,19 +723,19 @@ relationship: FB_00424 FB_0270 ! bread
 [Term]
 id: FB_007968
 name: souffle
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 
 [Term]
 id: FB_007969
 name: soup
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 
 [Term]
 id: FB_007970
 name: stew
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0094 ! carrot
 relationship: FB_00424 FB_0095 ! pepper
 relationship: FB_00424 FB_0105 ! tomato
@@ -747,7 +747,7 @@ relationship: FB_00424 FB_0197 ! beef
 [Term]
 id: FB_007971
 name: sushi
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_00898 ! Soy
 relationship: FB_00424 FB_0144 ! rice
@@ -756,7 +756,7 @@ relationship: FB_00424 FB_0174 ! Fish
 [Term]
 id: FB_007972
 name: tabbouleh
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0046 ! olive_oil
 relationship: FB_00424 FB_0063 ! lemon
 relationship: FB_00424 FB_0105 ! tomato
@@ -766,7 +766,7 @@ relationship: FB_00424 FB_0172 ! Meats
 [Term]
 id: FB_007973
 name: taco
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 relationship: FB_00424 FB_0269 ! flour
@@ -774,21 +774,21 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007974
 name: vegetarian_taco
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0269 ! flour
 
 [Term]
 id: FB_007975
 name: tagine
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 
 [Term]
 id: FB_007976
 name: tartiflette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0010 ! cheese
 relationship: FB_00424 FB_0095 ! pepper
 relationship: FB_00424 FB_0115 ! potato
@@ -798,7 +798,7 @@ relationship: FB_00424 FB_0207 ! bacon
 [Term]
 id: FB_007977
 name: tropezienne
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0013 ! butter
 relationship: FB_00424 FB_0035 ! egg
@@ -809,7 +809,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_007978
 name: meat_wrap
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 relationship: FB_00424 FB_0270 ! bread
@@ -817,28 +817,28 @@ relationship: FB_00424 FB_0270 ! bread
 [Term]
 id: FB_007979
 name: vegetarian_wrap
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0270 ! bread
 
 [Term]
 id: FB_007981
 name: vegetarian_chilli
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_00898 ! Soy
 
 [Term]
 id: FB_007982
 name: porridge
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0146 ! oat
 
 [Term]
 id: FB_007983
 name: curry
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0105 ! tomato
 relationship: FB_00424 FB_0123 ! Spices
 relationship: FB_00424 FB_0127 ! onion
@@ -847,7 +847,7 @@ relationship: FB_00424 FB_0172 ! Meats
 [Term]
 id: FB_007984
 name: vegetarian_curry
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0105 ! tomato
 relationship: FB_00424 FB_0123 ! Spices
@@ -856,7 +856,7 @@ relationship: FB_00424 FB_0127 ! onion
 [Term]
 id: FB_007985
 name: omelette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0208 ! ham
@@ -864,7 +864,7 @@ relationship: FB_00424 FB_0208 ! ham
 [Term]
 id: FB_007986
 name: vegetarian_omelette
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0007 ! milk
 relationship: FB_00424 FB_0035 ! egg
 
@@ -1080,18 +1080,18 @@ is_a: FB_0115 ! potato
 
 [Term]
 id: FB_0121
-name: Herbs_&_Spices
+name: Herbs and spices
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0122
 name: Herbs
-is_a: FB_0121 ! Herbs_&_Spices
+is_a: FB_0121 ! Herbs and spices
 
 [Term]
 id: FB_0123
 name: Spices
-is_a: FB_0121 ! Herbs_&_Spices
+is_a: FB_0121 ! Herbs and spices
 
 [Term]
 id: FB_0124
@@ -1150,13 +1150,13 @@ is_a: FB_0125 ! Onion_Family_Vegetables
 
 [Term]
 id: FB_0135
-name: Nuts_&_Legumes
+name: Nuts and legumes
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_0136
 name: Legumes
-is_a: FB_0135 ! Nuts_&_Legumes
+is_a: FB_0135 ! Nuts and legumes
 
 [Term]
 id: FB_0137
@@ -1225,7 +1225,7 @@ name: Biomarkers
 [Term]
 id: FB_0151
 name: Nuts
-is_a: FB_0135 ! Nuts_&_Legumes
+is_a: FB_0135 ! Nuts and legumes
 
 [Term]
 id: FB_0156
@@ -1560,16 +1560,16 @@ is_a: FB_0279 ! dry_corn
 [Term]
 id: FB_0281
 name: sauerkraut
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0088 ! cabbage
 
 [Term]
 id: FB_030318
 name: 2-hydroxybenzoic_acid
 is_a: FB_040199 ! Salicylic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1582,9 +1582,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030319
 name: 3-hydroxybenzoic_acid
 is_a: FB_040118 ! Hydroxybenzoic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1597,9 +1597,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030320
 name: 4-hydroxybenzoic_acid
 is_a: FB_040118 ! Hydroxybenzoic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1612,9 +1612,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030321
 name: 2-hydroxybenzoic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1627,9 +1627,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030322
 name: 3-hydroxybenzoic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1642,9 +1642,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030323
 name: 4-hydroxybenzoic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1657,9 +1657,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030324
 name: 2-hydroxybenzoic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1672,9 +1672,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030325
 name: 3-hydroxybenzoic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1687,9 +1687,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030326
 name: 4-hydroxybenzoic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1702,9 +1702,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030327
 name: 2,4-dihydroxybenzoic_acid
 is_a: FB_040118 ! Hydroxybenzoic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1717,9 +1717,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030328
 name: 2,6-dihydroxybenzoic_acid
 is_a: FB_040199 ! Salicylic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1732,9 +1732,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030329
 name: 3,4-dihydroxybenzoic_acid
 is_a: FB_040118 ! Hydroxybenzoic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1747,9 +1747,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030330
 name: 3,5-dihydroxybenzoic_acid
 is_a: FB_040118 ! Hydroxybenzoic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1762,9 +1762,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030331
 name: 3,4-dihydroxybenzoic_acid_3-glucuronide
 is_a: FB_040076 ! Hydrolyzable tannins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1777,9 +1777,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030332
 name: 3,4-dihydroxybenzoic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1792,9 +1792,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030333
 name: 3,5-dihydroxybenzoic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1807,9 +1807,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030334
 name: dihydroxybenzoic_acid_glucuronide_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1822,9 +1822,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030335
 name: dihydroxybenzoic_acid_glucuronide_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1837,9 +1837,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030336
 name: 3,4-dihydroxybenzoic_acid_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1852,9 +1852,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030337
 name: 3,4-dihydroxybenzoic_acid_4-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1867,9 +1867,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030338
 name: 3,5-dihydroxybenzoic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1882,9 +1882,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030339
 name: dihydroxybenzoic_acid_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1897,9 +1897,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030340
 name: hippuric_acid
 is_a: FB_040214 ! Hippuric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1912,9 +1912,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030341
 name: 4-hydroxyhippuric_acid
 is_a: FB_040214 ! Hippuric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1927,9 +1927,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030342
 name: 3-hydroxyhippuric_acid
 is_a: FB_040214 ! Hippuric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1942,9 +1942,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030343
 name: vanillic_acid
 is_a: FB_040193 ! M-methoxybenzoic acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1957,9 +1957,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030344
 name: vanillic_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1972,9 +1972,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030345
 name: vanillic_acid_sulfate
 is_a: FB_040193 ! M-methoxybenzoic acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -1987,9 +1987,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030346
 name: isovanillic_acid
 is_a: FB_040189 ! P-methoxybenzoic acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2002,9 +2002,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030347
 name: isovanillic_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2017,9 +2017,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030348
 name: isovanillic_acid_sulfate
 is_a: FB_040189 ! P-methoxybenzoic acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2032,9 +2032,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030349
 name: syringic_acid
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2047,9 +2047,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030350
 name: syringic_acid_glucuronide
 is_a: FB_040076 ! Hydrolyzable tannins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2062,9 +2062,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030351
 name: syringic_acid_sulfate
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2077,9 +2077,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030352
 name: gallic_acid
 is_a: FB_040213 ! Gallic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2092,9 +2092,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030353
 name: gallic_acid_3-glucuronide
 is_a: FB_040076 ! Hydrolyzable tannins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2107,9 +2107,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030354
 name: gallic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2122,9 +2122,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030355
 name: gallic_acid_3-sulfate
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2137,9 +2137,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030356
 name: gallic_acid_4-sulfate
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2152,9 +2152,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030357
 name: 4-methylgallic_acid
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2167,9 +2167,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030358
 name: 3-methylgallic_acid
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2182,9 +2182,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030359
 name: methylgallic_acid_glucuronide_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2197,9 +2197,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030360
 name: methylgallic_acid_glucuronide_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2212,9 +2212,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030361
 name: methylgallic_acid_glucuronide_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2227,9 +2227,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030362
 name: methylgallic_acid_sulfate_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2242,9 +2242,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030363
 name: methylgallic_acid_sulfate_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2257,9 +2257,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030364
 name: methylgallic_acid_sulfate_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2272,9 +2272,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030365
 name: ethylgallate
 is_a: FB_040217 ! Galloyl esters
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2287,9 +2287,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030366
 name: ethylgallate_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2302,9 +2302,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030367
 name: ethylgallate_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2317,9 +2317,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030368
 name: 2-hydroxyphenylacetic_acid
 is_a: FB_040128 ! 2(hydroxyphenyl)acetic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2332,9 +2332,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030369
 name: 3-hydroxyphenylacetic_acid
 is_a: FB_040080 ! 1-hydroxy-4-unsubstituted benzenoids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2347,9 +2347,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030370
 name: 4-hydroxyphenylacetic_acid
 is_a: FB_040096 ! 1-hydroxy-2-unsubstituted benzenoids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2362,9 +2362,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030371
 name: 2-hydroxyphenylacetic_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2377,9 +2377,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030372
 name: 3-hydroxyphenylacetic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2392,9 +2392,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030373
 name: 4-hydroxyphenylacetic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2407,9 +2407,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030374
 name: 2-hydroxyphenylacetic_acid_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2422,9 +2422,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030375
 name: 3-hydroxyphenylacetic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2437,9 +2437,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030376
 name: 4-hydroxyphenylacetic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2452,9 +2452,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030377
 name: 3,4-dihydroxyphenylacetic_acid
 is_a: FB_040129 ! Catechols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2467,9 +2467,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030378
 name: 3,4-dihydroxyphenylacetic_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2482,9 +2482,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030379
 name: 3,4-dihydroxyphenylacetic_acid_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2497,9 +2497,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030380
 name: homovanillic_acid
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2512,9 +2512,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030381
 name: homovanillic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2527,9 +2527,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030382
 name: homovanillic_acid_4-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2542,9 +2542,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030383
 name: o-coumaric_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2557,9 +2557,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030384
 name: m-coumaric_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2572,9 +2572,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030385
 name: p-coumaric_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2587,9 +2587,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030386
 name: o-coumaric_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2602,9 +2602,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030387
 name: m-coumaric_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2617,9 +2617,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030388
 name: p-coumaric_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2632,9 +2632,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030389
 name: o-coumaric_acid_sulfate
 is_a: FB_040178 ! Coumaric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2647,9 +2647,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030390
 name: m-coumaric_acid_sulfate
 is_a: FB_040126 ! Coumaric acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2662,9 +2662,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030391
 name: p-coumaric_acid_sulfate
 is_a: FB_040097 ! Cinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2677,9 +2677,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030392
 name: caffeic_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2692,9 +2692,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030393
 name: caffeic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2707,9 +2707,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030394
 name: caffeic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2722,9 +2722,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030395
 name: caffeic_acid_3-sulfate
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2737,9 +2737,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030396
 name: caffeic_acid_4-sulfate
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2752,8 +2752,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030397
 name: 3-caffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2761,8 +2761,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030398
 name: 4-caffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2770,8 +2770,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030399
 name: 5-caffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2779,8 +2779,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030400
 name: 3,4-dicaffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2788,8 +2788,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030401
 name: 3,5-dicaffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2797,8 +2797,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030402
 name: 4,5-dicaffeoylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2806,8 +2806,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030403
 name: 3-feruloylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2815,8 +2815,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030404
 name: 4-feruloylquinic_acid
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2824,8 +2824,8 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030405
 name: 5-feruloylquinic_acid
 is_a: FB_040206 ! Quinic acids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
 
@@ -2833,9 +2833,9 @@ relationship: FB_00422 FB_0050 ! Vegetables
 id: FB_030406
 name: ferulic_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2848,9 +2848,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030407
 name: isoferulic_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2863,9 +2863,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030408
 name: ferulic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2878,9 +2878,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030409
 name: isoferulic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2893,9 +2893,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030410
 name: ferulic_acid_4-sulfate
 is_a: FB_040126 ! Coumaric acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2908,9 +2908,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030411
 name: isoferulic_acid_3-sulfate
 is_a: FB_040126 ! Coumaric acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2923,9 +2923,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030412
 name: sinapic_acid
 is_a: FB_040149 ! Hydroxycinnamic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2938,9 +2938,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030413
 name: sinapic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2953,9 +2953,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030414
 name: sinapic_acid_sulfate
 is_a: FB_040126 ! Coumaric acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2968,9 +2968,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030415
 name: 3-(3-hydroxyphenyl)propionic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2983,9 +2983,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030416
 name: 3-(4-hydroxyphenyl)propionic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -2998,9 +2998,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030417
 name: hydroxyphenylpropionic_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3013,9 +3013,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030418
 name: hydroxyphenylpropionic_acid_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3028,9 +3028,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030419
 name: 3-(3,5-dihydroxyphenyl)propionic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3043,9 +3043,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030420
 name: 3-(3,5-dihydroxyphenyl)propionic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3058,9 +3058,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030421
 name: 3-(3,5-dihydroxyphenyl)propionic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3073,9 +3073,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030422
 name: dihydrocaffeic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3088,9 +3088,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030423
 name: dihydrocaffeic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3103,9 +3103,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030424
 name: dihydrocaffeic_acid_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3118,9 +3118,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030425
 name: dihydroferulic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3133,9 +3133,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030426
 name: dihydroisoferulic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3148,9 +3148,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030427
 name: dihydroferulic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3163,9 +3163,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030428
 name: dihydroisoferulic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3178,9 +3178,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030429
 name: dihydroferulic_acid_4-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3193,9 +3193,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030430
 name: dihydroisoferulic_acid_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3208,9 +3208,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030431
 name: 3-(3-hydroxyphenyl)-3-hydroxypropionic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3224,9 +3224,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030432
 name: pyrogallol
 is_a: FB_040196 ! 5-unsubstituted pyrrogallols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3239,9 +3239,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030433
 name: pyrogallol_1-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3254,9 +3254,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030434
 name: pyrogallol_2-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3269,9 +3269,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030435
 name: pyrogallol_1-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3284,9 +3284,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030436
 name: pyrogallol_2-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3299,9 +3299,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030437
 name: 1-methylpyrogallol
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3314,9 +3314,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030438
 name: 2-methylpyrogallol
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3329,9 +3329,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030439
 name: methylpyrogallol_glucuronide_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3344,9 +3344,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030440
 name: methylpyrogallol_glucuronide_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3359,9 +3359,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030441
 name: methylpyrogallol_sulfate_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3374,9 +3374,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030442
 name: methylpyrogallol_sulfate_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3389,9 +3389,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030443
 name: methylpyrogallol_sulfate_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3404,9 +3404,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030444
 name: catechol
 is_a: FB_040129 ! Catechols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3419,9 +3419,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030445
 name: catechol_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3434,9 +3434,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030446
 name: catechol_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3449,9 +3449,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030447
 name: 4-methylcatechol
 is_a: FB_040129 ! Catechols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3464,9 +3464,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030448
 name: 4-methylcatechol_1-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3479,9 +3479,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030449
 name: 4-methylcatechol_2-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3494,9 +3494,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030450
 name: 4-methylcatechol_1-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3509,9 +3509,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030451
 name: 4-methylcatechol_2-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3524,9 +3524,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030452
 name: guaiacol
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3539,9 +3539,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030453
 name: 3-hydroxybenzaldehyde
 is_a: FB_040209 ! Benzaldehydes
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3554,9 +3554,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030454
 name: 4-hydroxybenzaldehyde
 is_a: FB_040209 ! Benzaldehydes
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3569,9 +3569,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030455
 name: 3,4-dihydroxybenzaldehyde
 is_a: FB_040209 ! Benzaldehydes
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3584,9 +3584,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030456
 name: 2,4,6-trihydroxybenzaldehyde
 is_a: FB_040177 ! Acylphloroglucinols and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3599,9 +3599,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030457
 name: vanillin
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3614,9 +3614,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030458
 name: vanillin_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3629,9 +3629,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030459
 name: vanillin_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -3644,8 +3644,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030460
 name: catechin
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3655,8 +3655,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030461
 name: epicatechin
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3666,8 +3666,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030462
 name: (epi)catechin_glucuronide_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3677,8 +3677,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030463
 name: (epi)catechin_glucuronide_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3688,8 +3688,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030464
 name: (epi)catechin_glucuronide_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3699,8 +3699,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030465
 name: (epi)catechin_glucuronide_4
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3710,8 +3710,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030466
 name: (epi)catechin_glucuronide_5
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3721,8 +3721,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030467
 name: (epi)catechin_sulfate_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3732,8 +3732,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030468
 name: (epi)catechin_sulfate_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3743,8 +3743,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030469
 name: (epi)catechin_sulfate_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3754,8 +3754,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030470
 name: (epi)catechin_sulfate_4
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3765,8 +3765,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030471
 name: (epi)catechin_sulfate_5
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3776,8 +3776,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030472
 name: 4'-methylepicatechin
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3787,8 +3787,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030473
 name: 3'-methylepicatechin
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3798,8 +3798,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030474
 name: methyl(epi)catechin_glucuronide_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3809,8 +3809,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030475
 name: methyl(epi)catechin_glucuronide_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3820,8 +3820,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030476
 name: methyl(epi)catechin_glucuronide_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3831,8 +3831,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030477
 name: methyl(epi)catechin_glucuronide_4
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3842,8 +3842,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030478
 name: methyl(epi)catechin_glucuronide_5
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3853,8 +3853,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030479
 name: methyl(epi)catechin_sulfate_1
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3864,8 +3864,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030480
 name: methyl(epi)catechin_sulfate_2
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3875,8 +3875,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030481
 name: methyl(epi)catechin_sulfate_3
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3886,8 +3886,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030482
 name: methyl(epi)catechin_sulfate_4
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3897,8 +3897,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030483
 name: methyl(epi)catechin_sulfate_5
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3908,8 +3908,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030484
 name: methyl(epi)catechin_sulfate_6
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3919,8 +3919,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030485
 name: epicatechin-3-gallate
 is_a: FB_040215 ! Catechin gallates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3930,8 +3930,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030486
 name: epigallocatechin
 is_a: FB_040218 ! Epigallocatechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3941,8 +3941,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030487
 name: epigallocatechin_3-glucuronide
 is_a: FB_040207 ! Flavonoid-3-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3952,8 +3952,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030488
 name: epigallocatechin_3-sulfate
 is_a: FB_040121 ! Flavan-3-ols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3963,8 +3963,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030489
 name: epigallocatechin-3-gallate
 is_a: FB_040215 ! Catechin gallates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3974,8 +3974,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030490
 name: procyanidin_b2
 is_a: FB_040110 ! Biflavonoids and polyflavonoids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3985,8 +3985,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030491
 name: theaflavin
 is_a: FB_040121 ! Flavan-3-ols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -3996,8 +3996,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030492
 name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid
 is_a: FB_040090 ! Medium-chain hydroxy acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4007,8 +4007,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030493
 name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-glucuronide
 is_a: FB_040021 ! Saccharolipids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4018,8 +4018,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030494
 name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-glucuronide
 is_a: FB_040021 ! Saccharolipids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4029,8 +4029,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030495
 name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_3'-sulfate
 is_a: FB_040140 ! Sulfated fatty acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4040,8 +4040,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030496
 name: 4-hydroxy-5-(3',4'-dihydroxyphenyl)-valeric_acid_4'-sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4051,8 +4051,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030497
 name: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4062,8 +4062,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030498
 name: 5-(3'-hydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4073,8 +4073,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030499
 name: 5-(4'-hydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4084,8 +4084,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030500
 name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone
 is_a: FB_040129 ! Catechols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4095,8 +4095,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030501
 name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_040043 ! Phenol ethers
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4106,8 +4106,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030502
 name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4117,8 +4117,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030503
 name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4128,8 +4128,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030504
 name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4139,8 +4139,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030505
 name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4150,8 +4150,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030506
 name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone
 is_a: FB_040133 ! Pyrogallols and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4161,8 +4161,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030507
 name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4172,8 +4172,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030508
 name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4183,8 +4183,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030509
 name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_3'-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4194,8 +4194,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030510
 name: 5-(3',4',5'-trihydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4205,8 +4205,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030511
 name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone
 is_a: FB_040081 ! Methoxyphenols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4216,8 +4216,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030512
 name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4227,8 +4227,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030513
 name: 5-(3'-methoxy-4'-hydroxyphenyl)-γ-valerolactone_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -4508,9 +4508,9 @@ relationship: FB_00422 FB_0136 ! Legumes
 id: FB_030553
 name: apigenin
 is_a: FB_040088 ! Flavones
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4523,9 +4523,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030554
 name: apigenin_7-glucuronide
 is_a: FB_040200 ! Flavonoid-7-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4538,9 +4538,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030555
 name: luteolin
 is_a: FB_040088 ! Flavones
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4553,9 +4553,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030556
 name: luteolin_3'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4568,9 +4568,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030557
 name: luteolin_7-glucuronide
 is_a: FB_040200 ! Flavonoid-7-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4583,9 +4583,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030558
 name: quercetin
 is_a: FB_040144 ! Flavonols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4598,9 +4598,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030559
 name: quercetin_3-glucuronide
 is_a: FB_040207 ! Flavonoid-3-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4613,9 +4613,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030560
 name: quercetin_3'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4628,9 +4628,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030561
 name: quercetin_3'-sulfate
 is_a: FB_040144 ! Flavonols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4643,9 +4643,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030562
 name: isorhamnetin
 is_a: FB_040144 ! Flavonols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4658,9 +4658,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030563
 name: isorhamnetin_3-glucuronide
 is_a: FB_040207 ! Flavonoid-3-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4673,9 +4673,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030564
 name: isorhamnetin_3-sulfate
 is_a: FB_040132 ! 3'-O-methylated flavonoids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4688,9 +4688,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030565
 name: kaempferol
 is_a: FB_040144 ! Flavonols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4703,9 +4703,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030566
 name: kaempferol_3-glucuronide
 is_a: FB_040207 ! Flavonoid-3-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -4718,9 +4718,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030567
 name: kaempferol_3-sulfate
 is_a: FB_040088 ! Flavones
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5035,9 +5035,9 @@ relationship: FB_00422 FB_008139 ! curcuma
 id: FB_030612
 name: enterolactone
 is_a: FB_040186 ! Dibenzylbutyrolactone lignans
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5050,9 +5050,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030613
 name: enterolactone_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5065,9 +5065,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030614
 name: enterolactone_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5080,9 +5080,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030615
 name: enterodiol
 is_a: FB_040079 ! Dibenzylbutanediol lignans
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5095,9 +5095,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030616
 name: enterodiol_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5110,9 +5110,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030617
 name: enterodiol_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5155,43 +5155,43 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030623
 name: atractyligenin_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0027 ! Coffee products
 
 [Term]
 id: FB_030624
 name: acesulfame_k
 is_a: FB_040016 ! Organic sulfuric acids and derivatives
-relationship: FB_00422 FB_00539 ! Diet_Carbonated_Soft_Drink
+relationship: FB_00422 FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_030625
 name: cyclamate
 is_a: FB_040083 ! Cyclamates
-relationship: FB_00422 FB_00539 ! Diet_Carbonated_Soft_Drink
+relationship: FB_00422 FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_030626
 name: saccharin
 is_a: FB_040031 ! Benzothiazoles
-relationship: FB_00422 FB_00539 ! Diet_Carbonated_Soft_Drink
+relationship: FB_00422 FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_030627
 name: sucralose
 is_a: FB_040173 ! C-glycosyl compounds
-relationship: FB_00422 FB_00539 ! Diet_Carbonated_Soft_Drink
+relationship: FB_00422 FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_030628
 name: ethyl_glucuronide
 is_a: FB_040212 ! Glucuronides
-relationship: FB_00422 FB_0015 ! Alcohol
+relationship: FB_00422 FB_0015 ! Alcohols
 
 [Term]
 id: FB_030629
 name: ethyl_sulfate
 is_a: FB_040148 ! Sulfuric acid monoesters
-relationship: FB_00422 FB_0015 ! Alcohol
+relationship: FB_00422 FB_0015 ! Alcohols
 
 [Term]
 id: FB_030630
@@ -5319,16 +5319,16 @@ relationship: FB_00422 FB_0086 ! Cruciferous
 id: FB_030649
 name: n-(2-furoyl)glycine
 is_a: FB_040203 ! N-acyl-alpha amino acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
 relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: FB_030650
 name: 5-(hydroxymethyl-2-furoyl)glycine
 is_a: FB_040203 ! N-acyl-alpha amino acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
 relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 
 [Term]
@@ -5341,143 +5341,143 @@ relationship: FB_00422 FB_0174 ! Fish
 id: FB_030652
 name: 1-methylxanthine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030653
 name: 3-methylxanthine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030654
 name: 7-methylxanthine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030655
 name: paraxanthine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030656
 name: theophylline
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030657
 name: theobromine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030658
 name: caffeine
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030659
 name: 1-methyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030660
 name: 3-methyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030661
 name: 7-methyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030662
 name: 1,3-dimethyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030663
 name: 1,7-dimethyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030664
 name: 3,7-dimethyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030665
 name: 1,3,7-trimethyluric_acid
 is_a: FB_040127 ! Xanthines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030666
 name: 6-amino-5-(n-methylformylamino)-1-methyluracil
 is_a: FB_040166 ! N-acetylarylamines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030667
 name: 5-acetylamino-6-formylamino-3-methyluracil
 is_a: FB_040156 ! Hydroxypyrimidines
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 
 [Term]
 id: FB_030668
 name: cyclo(l-leucyl-l-prolyl)
 is_a: FB_040176 ! Alpha amino acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
 
 [Term]
 id: FB_030669
 name: cyclo(l-prolyl-l-valyl)
 is_a: FB_040176 ! Alpha amino acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
 
 [Term]
 id: FB_030670
@@ -5507,9 +5507,9 @@ relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 id: FB_030674
 name: feruloylglycine
 is_a: FB_040203 ! N-acyl-alpha amino acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5522,9 +5522,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_030675
 name: vanilloylglycine
 is_a: FB_040214 ! Hippuric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -5645,7 +5645,7 @@ relationship: FB_00422 FB_0193 ! Red_Meat
 id: FB_030692
 name: l-phenylalanine
 is_a: FB_040205 ! Phenylalanine and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5657,7 +5657,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030693
 name: phenyllactic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5669,7 +5669,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030694
 name: p-hydroxyphenyllactic_acid
 is_a: FB_040023 ! Phenylpropanoic acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5681,7 +5681,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030695
 name: phenylacetylglycine
 is_a: FB_040203 ! N-acyl-alpha amino acids and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5693,7 +5693,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030696
 name: phenylacetylglutamine
 is_a: FB_040203 ! N-acyl-alpha amino acids and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5705,7 +5705,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030697
 name: l-tyrosine
 is_a: FB_040216 ! Tyrosine and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5717,7 +5717,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030698
 name: p-cresol
 is_a: FB_040143 ! Para cresols
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5729,7 +5729,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030699
 name: p-cresol_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5741,7 +5741,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030700
 name: p-cresol_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5753,7 +5753,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030701
 name: l-tryptophan
 is_a: FB_040078 ! Indolyl carboxylic acids and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5765,7 +5765,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030702
 name: indoxyl_sulfate
 is_a: FB_040057 ! Arylsulfates
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5777,7 +5777,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030703
 name: indoxyl_glucuronide
 is_a: FB_040212 ! Glucuronides
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5789,7 +5789,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030704
 name: indole-3-acetic_acid
 is_a: FB_040135 ! Indole-3-acetic acid derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5801,7 +5801,7 @@ relationship: FB_00422 FB_0172 ! Meats
 id: FB_030705
 name: 5-hydroxyindole-3-acetic_acid
 is_a: FB_040135 ! Indole-3-acetic acid derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_00898 ! Soy
 relationship: FB_00422 FB_0136 ! Legumes
@@ -5854,14 +5854,14 @@ relationship: FB_00422 FB_0215 ! Seafood
 id: FB_030712
 name: trigonelline
 is_a: FB_040010 ! Alkaloids and derivatives
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0027 ! Coffee products
 relationship: FB_00422 FB_0136 ! Legumes
 
 [Term]
 id: FB_030713
 name: n-methylpyridinium
 is_a: FB_040154 ! N-methylpyridinium compounds
-relationship: FB_00422 FB_0027 ! Coffee
+relationship: FB_00422 FB_0027 ! Coffee products
 relationship: FB_00422 FB_0136 ! Legumes
 
 [Term]
@@ -6012,13 +6012,13 @@ relationship: FB_00422 FB_0145 ! Whole_Grain_Cereals
 id: FB_030738
 name: pentadecanoic_acid
 is_a: FB_040145 ! Long-chain fatty acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 
 [Term]
 id: FB_030739
 name: heptadecanoic_acid
 is_a: FB_040145 ! Long-chain fatty acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 
 [Term]
 id: FB_030740
@@ -6048,7 +6048,7 @@ relationship: FB_00422 FB_0174 ! Fish
 id: FB_030744
 name: cyanocobalamin
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0033 ! Eggs
 relationship: FB_00422 FB_0172 ! Meats
 
@@ -6136,7 +6136,7 @@ id: FB_030757
 name: sucrose
 is_a: FB_040180 ! O-glycosyl compounds
 relationship: FB_00422 FB_0049 ! Fruits
-relationship: FB_00422 FB_00538 ! Carbonated_Soft_Drink
+relationship: FB_00422 FB_00538 ! Carbonated soft drinks
 relationship: FB_00422 FB_0163 ! Sugars
 
 [Term]
@@ -6144,7 +6144,7 @@ id: FB_030758
 name: glucose
 is_a: FB_040192 ! Hexoses
 relationship: FB_00422 FB_0049 ! Fruits
-relationship: FB_00422 FB_00538 ! Carbonated_Soft_Drink
+relationship: FB_00422 FB_00538 ! Carbonated soft drinks
 relationship: FB_00422 FB_0163 ! Sugars
 
 [Term]
@@ -6152,7 +6152,7 @@ id: FB_030759
 name: fructose
 is_a: FB_040173 ! C-glycosyl compounds
 relationship: FB_00422 FB_0049 ! Fruits
-relationship: FB_00422 FB_00538 ! Carbonated_Soft_Drink
+relationship: FB_00422 FB_00538 ! Carbonated soft drinks
 relationship: FB_00422 FB_0163 ! Sugars
 
 [Term]
@@ -7258,7 +7258,7 @@ is_a: FB_040176 ! Alpha amino acids and derivatives
 [Term]
 id: FB_040220
 name: Dishes
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 
 [Term]
 id: FB_040221
@@ -7275,38 +7275,48 @@ name: Non vegeterian dishes
 is_a: FB_040220 ! Dishes
 
 [Term]
+id: FB_040224
+name: Hot sauces
+is_a: FB_07557 ! Sauces
+
+[Term]
+id: FB_040225
+name: Cold sauces
+is_a: FB_07557 ! Sauces
+
+[Term]
 id: FB_07501
 name: Coca_Cola_Zero
-is_a: FB_00539 ! Diet_Carbonated_Soft_Drink
+is_a: FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_07502
 name: Coca_Cola_Light
-is_a: FB_00539 ! Diet_Carbonated_Soft_Drink
+is_a: FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_07503
 name: Pepsi_Max
-is_a: FB_00539 ! Diet_Carbonated_Soft_Drink
+is_a: FB_00539 ! Diet carbonated soft drinks
 
 [Term]
 id: FB_07504
 name: Coca_Cola
-is_a: FB_00538 ! Carbonated_Soft_Drink
+is_a: FB_00538 ! Carbonated soft drinks
 
 [Term]
 id: FB_07505
 name: Pepsi
-is_a: FB_00538 ! Carbonated_Soft_Drink
+is_a: FB_00538 ! Carbonated soft drinks
 
 [Term]
 id: FB_07506
 name: Fanta
-is_a: FB_00538 ! Carbonated_Soft_Drink
+is_a: FB_00538 ! Carbonated soft drinks
 
 [Term]
 id: FB_07508
-name: Prepared_Foods
+name: Prepared foods
 is_a: FB_0001 ! Foods
 
 [Term]
@@ -7326,18 +7336,18 @@ is_a: FB_0145 ! Whole_Grain_Cereals
 
 [Term]
 id: FB_07513
-name: Water
+name: Waters
 is_a: FB_0011 ! Beverages
 
 [Term]
 id: FB_07515
 name: sparkling_water
-is_a: FB_07513 ! Water
+is_a: FB_07513 ! Waters
 
 [Term]
 id: FB_07516
 name: flavored_water
-is_a: FB_07513 ! Water
+is_a: FB_07513 ! Waters
 
 [Term]
 id: FB_07517
@@ -7387,7 +7397,7 @@ is_a: FB_0145 ! Whole_Grain_Cereals
 [Term]
 id: FB_07526
 name: coleslaw
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0088 ! cabbage
 relationship: FB_00424 FB_0094 ! carrot
 
@@ -7404,7 +7414,7 @@ is_a: FB_0148 ! wholegrain
 [Term]
 id: FB_07529
 name: gravy
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0050 ! Vegetables
 relationship: FB_00424 FB_0172 ! Meats
 
@@ -7441,7 +7451,7 @@ is_a: FB_07534 ! peanuts
 [Term]
 id: FB_07536
 name: muesli
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0049 ! Fruits
 relationship: FB_00424 FB_0140 ! Cereals
 relationship: FB_00424 FB_0151 ! Nuts
@@ -7459,14 +7469,14 @@ is_a: FB_0012 ! yoghurt
 [Term]
 id: FB_07539
 name: chicken_curry
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_007983 ! curry
 relationship: FB_00424 FB_0188 ! chicken
 
 [Term]
 id: FB_07540
 name: garlic_bread
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 relationship: FB_00424 FB_0124 ! garlic
 relationship: FB_00424 FB_0270 ! bread
 
@@ -7488,7 +7498,7 @@ is_a: FB_0007 ! milk
 [Term]
 id: FB_07544
 name: black_coffee
-is_a: FB_0027 ! Coffee
+is_a: FB_0027 ! Coffee products
 
 [Term]
 id: FB_07545
@@ -7523,7 +7533,7 @@ is_a: FB_07591 ! cream_cheese
 [Term]
 id: FB_07552
 name: cocoa_powder
-is_a: FB_0002 ! Cacao
+is_a: FB_0002 ! Cacao products
 
 [Term]
 id: FB_07553
@@ -7551,24 +7561,24 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_07556
 name: Bakery_Products
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 
 [Term]
 id: FB_07557
 name: Sauces
-is_a: FB_07508 ! Prepared_Foods
+is_a: FB_07508 ! Prepared foods
 
 [Term]
 id: FB_07558
 name: mayonnaise
-is_a: FB_07557 ! Sauces
+is_a: FB_040225 ! Cold sauces
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0041 ! Vegetable_Oils
 
 [Term]
 id: FB_07559
 name: ketchup
-is_a: FB_07557 ! Sauces
+is_a: FB_040225 ! Cold sauces
 relationship: FB_00424 FB_0105 ! tomato
 relationship: FB_00424 FB_0123 ! Spices
 relationship: FB_00424 FB_0170 ! sugar
@@ -7576,13 +7586,13 @@ relationship: FB_00424 FB_07561 ! salt
 
 [Term]
 id: FB_07560
-name: Flavoring_Agents
+name: Flavoring agents
 is_a: FB_0001 ! Foods
 
 [Term]
 id: FB_07561
 name: salt
-is_a: FB_07560 ! Flavoring_Agents
+is_a: FB_07560 ! Flavoring agents
 
 [Term]
 id: FB_07562
@@ -7632,7 +7642,7 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_07569
 name: vinegar
-is_a: FB_07560 ! Flavoring_Agents
+is_a: FB_07560 ! Flavoring agents
 
 [Term]
 id: FB_07570
@@ -7666,38 +7676,38 @@ is_a: FB_0023 ! wine
 
 [Term]
 id: FB_07576
-name: Distilled_Alcohols
-is_a: FB_0015 ! Alcohol
+name: Distilled alcohols
+is_a: FB_0015 ! Alcohols
 
 [Term]
 id: FB_07577
 name: whiskey
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07578
 name: vodka
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07579
 name: brandy
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07580
 name: absinthe
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07581
 name: raki
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07582
 name: gin
-is_a: FB_07576 ! Distilled_Alcohols
+is_a: FB_07576 ! Distilled alcohols
 
 [Term]
 id: FB_07583
@@ -7770,8 +7780,8 @@ is_a: FB_0010 ! cheese
 id: FB_08566
 name: 3'-methylcatechin_4'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7781,8 +7791,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08567
 name: 3'-methylcatechin_5-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7792,8 +7802,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08568
 name: 3'-methylepicatechin_4'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7803,8 +7813,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08569
 name: 3'-methylepicatechin_5-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7814,8 +7824,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08642
 name: 3'-methylepicatechin_7-glucuronide
 is_a: FB_040200 ! Flavonoid-7-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7825,8 +7835,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08643
 name: 4'-methylepicatechin_3'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7836,8 +7846,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08644
 name: 4'-methylepicatechin_5-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7847,8 +7857,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08645
 name: 4'-methylepicatechin_7-glucuronide
 is_a: FB_040200 ! Flavonoid-7-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7858,8 +7868,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08646
 name: catechin_4'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7869,8 +7879,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08647
 name: catechin_5-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7880,8 +7890,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08648
 name: epicatechin_3'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7891,8 +7901,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08649
 name: epicatechin_4'-glucuronide
 is_a: FB_040175 ! Flavonoid O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7902,8 +7912,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08650
 name: epicatechin_5-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7913,8 +7923,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08651
 name: epicatechin_7-glucuronide
 is_a: FB_040200 ! Flavonoid-7-O-glucuronides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7924,8 +7934,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08652
 name: catechin_3'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7935,8 +7945,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08653
 name: catechin_4'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7946,8 +7956,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08654
 name: catechin_5-sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7957,8 +7967,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08655
 name: epicatechin_3-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7968,8 +7978,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08656
 name: epicatechin_3'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7979,8 +7989,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08657
 name: epicatechin_4'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -7990,8 +8000,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08658
 name: epicatechin_5-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8001,8 +8011,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08659
 name: epicatechin_7-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8012,9 +8022,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08660
 name: 3,4-dihydroxyphenylacetic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8027,9 +8037,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08661
 name: 3,4-dihydroxyphenylacetic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8042,9 +8052,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08662
 name: 3,4-dihydroxyphenylacetic_acid_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8057,9 +8067,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08663
 name: 3,4-dihydroxyphenylacetic_acid_4-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8072,8 +8082,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08664
 name: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone_4'-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8083,8 +8093,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08665
 name: 5-(3',5'-dihydroxyphenyl)-γ-valerolactone
 is_a: FB_040122 ! Resorcinols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8094,8 +8104,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08666
 name: 5-(3'-hydroxyphenyl)-γ-valerolactone
 is_a: FB_040096 ! 1-hydroxy-2-unsubstituted benzenoids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8105,9 +8115,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08667
 name: 2,3-dihydroxybenzoic_acid_2-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8120,9 +8130,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08668
 name: 2,3-dihydroxybenzoic_acid_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8135,9 +8145,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08669
 name: 2,4-dihydroxybenzoic_acid_2-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8150,9 +8160,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08670
 name: 2,4-dihydroxybenzoic_acid_4-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8165,9 +8175,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08671
 name: 2,6-dihydroxybenzoic_acid_2-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8180,9 +8190,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08672
 name: 2,6-dihydroxybenzoic_acid_6-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8195,9 +8205,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08673
 name: 2,3-dihydroxybenzoic_acid_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8210,9 +8220,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08674
 name: 2,4-dihydroxybenzoic_acid_4-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8225,9 +8235,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08675
 name: 2,5-dihydroxybenzoic_acid_5-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8261,9 +8271,9 @@ relationship: FB_00422 FB_0105 ! tomato
 id: FB_08679
 name: 3-(3-hydroxyphenyl)propionic_acid_glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8276,9 +8286,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08680
 name: 3-(4-hydroxyphenyl)propionic_acid_glucuronide
 is_a: FB_040188 ! Glucuronic acid derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8291,9 +8301,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08681
 name: 3-(3-hydroxyphenyl)propionic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8306,9 +8316,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08682
 name: 3-(4-hydroxyphenyl)propionic_acid_sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8321,8 +8331,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08683
 name: 3'-methylepicatechin_4'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8332,8 +8342,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08684
 name: 3'-methylepicatechin_5-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8343,8 +8353,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08685
 name: 3'-methylepicatechin_7-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8354,8 +8364,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08686
 name: 4'-methylepicatechin_3'-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8365,8 +8375,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08687
 name: 4'-methylepicatechin_5-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8376,8 +8386,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08688
 name: 4'-methylepicatechin_7-sulfate
 is_a: FB_040174 ! Catechins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8387,9 +8397,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08689
 name: 3-methylgallic_acid_4-glucuronide
 is_a: FB_040076 ! Hydrolyzable tannins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8402,9 +8412,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08690
 name: 3-methylgallic_acid_5-glucuronide
 is_a: FB_040076 ! Hydrolyzable tannins
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8417,9 +8427,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08691
 name: 4-methylgallic_acid_3-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8432,9 +8442,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08692
 name: 3-methylgallic_acid_4-sulfate
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8447,9 +8457,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08693
 name: 3-methylgallic_acid_5-sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8462,9 +8472,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08694
 name: 4-methylgallic_acid_3-sulfate
 is_a: FB_040182 ! Gallic acid and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8477,9 +8487,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08695
 name: 1-methylpyrogallol_2-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8492,9 +8502,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08696
 name: 1-methylpyrogallol_3-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8507,9 +8517,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08697
 name: 2-methylpyrogallol_1-glucuronide
 is_a: FB_040170 ! Phenolic glycosides
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8522,9 +8532,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08698
 name: 1-methylpyrogallol_2-sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8537,9 +8547,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08699
 name: 1-methylpyrogallol_3-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8552,9 +8562,9 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08700
 name: 2-methylpyrogallol_1-sulfate
 is_a: FB_040120 ! Phenylsulfates
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
@@ -8634,8 +8644,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08710
 name: 5-(4’-hydroxyphenyl)-γ-valerolactone_4'-glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8645,8 +8655,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08711
 name: 5-(4’-hydroxyphenyl)-γ-valerolactone
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8666,8 +8676,8 @@ relationship: FB_00424 FB_0269 ! flour
 [Term]
 id: FB_08720
 name: tiramisu
-is_a: FB_07508 ! Prepared_Foods
-relationship: FB_00424 FB_0027 ! Coffee
+is_a: FB_07508 ! Prepared foods
+relationship: FB_00424 FB_0027 ! Coffee products
 relationship: FB_00424 FB_0035 ! egg
 relationship: FB_00424 FB_0170 ! sugar
 relationship: FB_00424 FB_07552 ! cocoa_powder
@@ -8683,8 +8693,8 @@ is_a: FB_07591 ! cream_cheese
 id: FB_08803
 name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid
 is_a: FB_040090 ! Medium-chain hydroxy acids and derivatives
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8694,8 +8704,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08804
 name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8705,8 +8715,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08805
 name: 4-hydroxy-5-(3',5'-dihydroxyphenyl)-valeric_acid_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8716,8 +8726,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08806
 name: 3,4-dihydroxyphenylvaleric_acid
 is_a: FB_040129 ! Catechols
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8727,8 +8737,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08807
 name: 3,4-dihydroxyphenylvaleric_acid_3_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8738,8 +8748,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08808
 name: 3,4-dihydroxyphenylvaleric_acid_3_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8749,8 +8759,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08809
 name: 3,4-dihydroxyphenylvaleric_acid_4_glucuronide
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8760,8 +8770,8 @@ relationship: FB_00422 FB_07541 ! red_wine
 id: FB_08810
 name: 3,4-dihydroxyphenylvaleric_acid_4_sulfate
 is_a: FB_040221 ! TO_DO
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0051 ! Berries
 relationship: FB_00422 FB_0076 ! apple
 relationship: FB_00422 FB_0151 ! Nuts
@@ -8846,37 +8856,37 @@ relationship: FB_00422 FB_0151 ! Nuts
 id: FB_08823
 name: phytanic_acid
 is_a: FB_040157 ! Acyclic diterpenoids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_08824
 name: elaidic_acid
 is_a: FB_040145 ! Long-chain fatty acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_08825
 name: vaccenic_acid
 is_a: FB_040145 ! Long-chain fatty acids
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_08826
 name: rumenic_acid
 is_a: FB_040077 ! Lineolic acids and derivatives
-relationship: FB_00422 FB_0005 ! Dairy
+relationship: FB_00422 FB_0005 ! Dairy products
 relationship: FB_00422 FB_0193 ! Red_Meat
 
 [Term]
 id: FB_08827
 name: 2-hydroxyhippuric_acid
 is_a: FB_040214 ! Hippuric acids
-relationship: FB_00422 FB_0002 ! Cacao
-relationship: FB_00422 FB_0027 ! Coffee
-relationship: FB_00422 FB_0028 ! Tea
+relationship: FB_00422 FB_0002 ! Cacao products
+relationship: FB_00422 FB_0027 ! Coffee products
+relationship: FB_00422 FB_0028 ! Tea products
 relationship: FB_00422 FB_0046 ! olive_oil
 relationship: FB_00422 FB_0049 ! Fruits
 relationship: FB_00422 FB_0050 ! Vegetables
