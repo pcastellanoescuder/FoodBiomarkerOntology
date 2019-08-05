@@ -54,16 +54,10 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0015"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
@@ -402,9 +396,6 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007982"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984"/>
     </Declaration>
     <Declaration>
@@ -643,12 +634,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166"/>
@@ -2976,6 +2961,18 @@
         <Class IRI="#FB_040225"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FB_040226"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FB_040227"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FB_040228"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FB_040229"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FB_07552"/>
     </Declaration>
     <Declaration>
@@ -3439,15 +3436,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0008"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0009"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0010"/>
@@ -3470,24 +3467,16 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0011"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0005"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0021"/>
@@ -3719,7 +3708,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007928"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007928"/>
@@ -3744,7 +3733,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007929"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007929"/>
@@ -3769,7 +3758,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007930"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007930"/>
@@ -3815,7 +3804,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007931"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007931"/>
@@ -3833,7 +3822,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007932"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007932"/>
@@ -3851,13 +3840,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0050"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
             <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0115"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007933"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -3912,7 +3915,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007936"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007936"/>
@@ -3937,7 +3940,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007937"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007937"/>
@@ -3955,7 +3958,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007938"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007938"/>
@@ -3973,7 +3976,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007939"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040227"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007939"/>
@@ -4030,7 +4033,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007941"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007941"/>
@@ -4055,7 +4058,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007942"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007942"/>
@@ -4080,7 +4083,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007943"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007943"/>
@@ -4098,7 +4101,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007944"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007944"/>
@@ -4123,7 +4126,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007945"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007945"/>
@@ -4155,7 +4158,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007946"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007946"/>
@@ -4187,7 +4190,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007947"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007947"/>
@@ -4212,7 +4215,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007948"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007948"/>
@@ -4237,7 +4240,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007949"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007949"/>
@@ -4304,7 +4307,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007950"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007950"/>
@@ -4357,7 +4360,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007951"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_07556"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007951"/>
@@ -4396,7 +4399,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007952"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007952"/>
@@ -4421,7 +4424,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007953"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007953"/>
@@ -4446,7 +4449,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007954"/>
@@ -4478,7 +4481,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007955"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007955"/>
@@ -4510,7 +4513,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007956"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007956"/>
@@ -4535,7 +4538,14 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_07556"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957"/>
@@ -4555,7 +4565,7 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007957"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0144"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -4567,7 +4577,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007958"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007958"/>
@@ -4606,7 +4616,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007959"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007959"/>
@@ -4666,7 +4676,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007960"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007960"/>
@@ -4712,7 +4722,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007961"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007961"/>
@@ -4730,7 +4740,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007962"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007962"/>
@@ -4769,7 +4779,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007963"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007963"/>
@@ -4815,7 +4825,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007964"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007964"/>
@@ -4840,7 +4850,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007965"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040228"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007965"/>
@@ -4865,7 +4875,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007966"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040228"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007966"/>
@@ -4890,7 +4900,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007967"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040228"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007967"/>
@@ -4915,11 +4925,46 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_07556"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0010"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0013"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0035"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007968"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0269"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007969"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040227"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007969"/>
@@ -4929,15 +4974,8 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007969"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007970"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007970"/>
@@ -4990,7 +5028,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007971"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007971"/>
@@ -5022,7 +5060,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007972"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007972"/>
@@ -5061,7 +5099,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007973"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007973"/>
@@ -5086,7 +5124,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007974"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007974"/>
@@ -5104,7 +5142,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007975"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007975"/>
@@ -5122,7 +5160,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007976"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007976"/>
@@ -5161,7 +5199,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007977"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_07556"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007977"/>
@@ -5207,7 +5245,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007978"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007978"/>
@@ -5232,7 +5270,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007979"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007979"/>
@@ -5250,7 +5288,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007981"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007981"/>
@@ -5268,7 +5306,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007982"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040229"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007982"/>
@@ -5285,40 +5323,8 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0105"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0123"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0127"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984"/>
@@ -5350,13 +5356,13 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007985"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007985"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0007"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0010"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -5367,15 +5373,8 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007985"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0208"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007986"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007986"/>
@@ -5696,16 +5695,8 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0001"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0167"/>
@@ -5713,7 +5704,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0168"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0163"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0169"/>
@@ -5721,7 +5712,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0172"/>
@@ -5941,7 +5932,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0281"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0281"/>
@@ -6040,7 +6031,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07526"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040222"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07526"/>
@@ -6066,7 +6057,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07529"/>
@@ -6108,7 +6099,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07536"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040229"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07536"/>
@@ -6141,13 +6132,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040223"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
-            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0105"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0123"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07539"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_00424"/>
+            <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0127"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -6159,7 +6164,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07540"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_040229"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07540"/>
@@ -7401,7 +7406,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030334"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030334"/>
@@ -7475,7 +7480,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030335"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030335"/>
@@ -7771,7 +7776,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030339"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030339"/>
@@ -8141,7 +8146,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030344"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030344"/>
@@ -8363,7 +8368,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030347"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030347"/>
@@ -9251,7 +9256,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030359"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040076"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030359"/>
@@ -9325,7 +9330,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030360"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040076"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030360"/>
@@ -9399,7 +9404,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030361"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040076"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030361"/>
@@ -9473,7 +9478,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030362"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040182"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030362"/>
@@ -9547,7 +9552,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030363"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040182"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030363"/>
@@ -9621,7 +9626,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030364"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040182"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030364"/>
@@ -9769,7 +9774,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030366"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040076"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030366"/>
@@ -9843,7 +9848,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030367"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040182"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030367"/>
@@ -10139,7 +10144,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030371"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030371"/>
@@ -10361,7 +10366,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030374"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030374"/>
@@ -10657,7 +10662,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030378"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030378"/>
@@ -10731,7 +10736,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030379"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030379"/>
@@ -11249,7 +11254,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030386"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030386"/>
@@ -12287,7 +12292,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030404"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040206"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030404"/>
@@ -13165,7 +13170,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030417"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030417"/>
@@ -13239,7 +13244,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030418"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030418"/>
@@ -14800,7 +14805,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030439"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030439"/>
@@ -14874,7 +14879,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030440"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030440"/>
@@ -14948,7 +14953,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030441"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030441"/>
@@ -15022,7 +15027,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030442"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030442"/>
@@ -15096,7 +15101,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030443"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030443"/>
@@ -15466,7 +15471,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030448"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030448"/>
@@ -15540,7 +15545,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030449"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030449"/>
@@ -16206,7 +16211,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030458"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030458"/>
@@ -16446,7 +16451,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030462"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030462"/>
@@ -16492,7 +16497,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030463"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030463"/>
@@ -16538,7 +16543,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030464"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030464"/>
@@ -16584,7 +16589,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030465"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030465"/>
@@ -16630,7 +16635,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030466"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030466"/>
@@ -16676,7 +16681,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030467"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030467"/>
@@ -16722,7 +16727,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030468"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030468"/>
@@ -16768,7 +16773,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030469"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030469"/>
@@ -16814,7 +16819,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030470"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030470"/>
@@ -16860,7 +16865,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030471"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030471"/>
@@ -16998,7 +17003,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030474"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030474"/>
@@ -17044,7 +17049,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030475"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030475"/>
@@ -17090,7 +17095,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030476"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030476"/>
@@ -17136,7 +17141,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030477"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030477"/>
@@ -17182,7 +17187,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030478"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030478"/>
@@ -17228,7 +17233,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030479"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030479"/>
@@ -17274,7 +17279,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030480"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030480"/>
@@ -17320,7 +17325,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030481"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030481"/>
@@ -17366,7 +17371,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030482"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030482"/>
@@ -17412,7 +17417,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030483"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030483"/>
@@ -17458,7 +17463,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030484"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030484"/>
@@ -18010,7 +18015,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030496"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040129"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030496"/>
@@ -18056,7 +18061,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030497"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030497"/>
@@ -18148,7 +18153,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030499"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030499"/>
@@ -18424,7 +18429,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030505"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030505"/>
@@ -18874,7 +18879,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030516"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030516"/>
@@ -18892,7 +18897,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030517"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040137"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030517"/>
@@ -18964,7 +18969,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030521"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040117"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030521"/>
@@ -18982,7 +18987,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030522"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040117"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030522"/>
@@ -19022,7 +19027,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030525"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040208"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030525"/>
@@ -19195,7 +19200,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030535"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040060"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030535"/>
@@ -19393,7 +19398,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030546"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040114"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030546"/>
@@ -19447,7 +19452,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030549"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040185"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030549"/>
@@ -19501,7 +19506,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030552"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040185"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030552"/>
@@ -20676,7 +20681,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030571"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030571"/>
@@ -20701,7 +20706,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030572"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040017"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030572"/>
@@ -20826,7 +20831,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030577"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030577"/>
@@ -20851,7 +20856,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030578"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040017"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030578"/>
@@ -21453,7 +21458,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030613"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030613"/>
@@ -21527,7 +21532,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030614"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040186"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030614"/>
@@ -21675,7 +21680,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030616"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030616"/>
@@ -21749,7 +21754,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030617"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040079"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030617"/>
@@ -21845,7 +21850,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030620"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030620"/>
@@ -22143,7 +22148,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030642"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040191"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030642"/>
@@ -22176,7 +22181,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030645"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040210"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030645"/>
@@ -22187,7 +22192,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030646"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040203"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030646"/>
@@ -22198,7 +22203,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030647"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040191"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030647"/>
@@ -22209,7 +22214,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030648"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040191"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030648"/>
@@ -24202,7 +24207,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030728"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040072"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030728"/>
@@ -24213,7 +24218,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030729"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040072"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030729"/>
@@ -24268,7 +24273,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030734"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040072"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030734"/>
@@ -24279,7 +24284,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030735"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040072"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030735"/>
@@ -24378,7 +24383,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030744"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040215"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_030744"/>
@@ -25542,6 +25547,10 @@
         <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040103"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#FB_040222"/>
         <Class IRI="#FB_040220"/>
     </SubClassOf>
@@ -25556,6 +25565,22 @@
     <SubClassOf>
         <Class IRI="#FB_040225"/>
         <Class IRI="#FB_07557"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040226"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0151"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040227"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040228"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040229"/>
+        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_07552"/>
@@ -26087,7 +26112,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08567"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08567"/>
@@ -26179,7 +26204,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08569"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08569"/>
@@ -26593,7 +26618,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08650"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08650"/>
@@ -26777,7 +26802,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08654"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08654"/>
@@ -28189,7 +28214,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08678"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040175"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08678"/>
@@ -28927,7 +28952,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08691"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040076"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08691"/>
@@ -29075,7 +29100,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08693"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040182"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08693"/>
@@ -29445,7 +29470,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08698"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08698"/>
@@ -29721,7 +29746,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08704"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040137"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08704"/>
@@ -29807,7 +29832,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08708"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040017"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08708"/>
@@ -29832,7 +29857,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08709"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040017"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08709"/>
@@ -29857,7 +29882,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08710"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08710"/>
@@ -29903,7 +29928,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08711"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040096"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08711"/>
@@ -29995,7 +30020,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08720"/>
-        <Class IRI="http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07508"/>
+        <Class IRI="#FB_07556"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08720"/>
@@ -30091,7 +30116,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08804"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08804"/>
@@ -30137,7 +30162,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08805"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040122"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08805"/>
@@ -30229,7 +30254,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08807"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08807"/>
@@ -30275,7 +30300,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08808"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040129"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08808"/>
@@ -30321,7 +30346,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08809"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08809"/>
@@ -30367,7 +30392,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08810"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040129"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08810"/>
@@ -30424,7 +30449,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08812"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08812"/>
@@ -30435,7 +30460,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08813"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040122"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08813"/>
@@ -30457,7 +30482,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08815"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040170"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08815"/>
@@ -30468,7 +30493,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08816"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040120"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08816"/>
@@ -30501,7 +30526,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08819"/>
-        <Class IRI="#FB_040221"/>
+        <Class IRI="#FB_040219"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#FB_08819"/>
@@ -30811,7 +30836,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0002</IRI>
-        <Literal>Cacao products</Literal>
+        <Literal>Cocoa and cocoa products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30891,7 +30916,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0012</IRI>
-        <Literal>yoghurt</Literal>
+        <Literal>yogurt</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30915,23 +30940,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016</IRI>
-        <Literal>[FB]_0016</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0016</IRI>
-        <Literal>Processed_Dairy</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017</IRI>
         <Literal>[FB]_0017</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0017</IRI>
-        <Literal>Fermented_Dairy</Literal>
+        <Literal>Fermented milk products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30941,17 +30956,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0018</IRI>
-        <Literal>No_Fermented_Dairy</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019</IRI>
-        <Literal>[FB]_0019</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0019</IRI>
-        <Literal>Raw_Dairy</Literal>
+        <Literal>Unfermented milk products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -30961,7 +30966,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0020</IRI>
-        <Literal>Milk_Products</Literal>
+        <Literal>Milk products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31071,7 +31076,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0034</IRI>
-        <Literal>Chicken_Eggs</Literal>
+        <Literal>Chicken eggs</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31111,7 +31116,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0038</IRI>
-        <Literal>Vegetable_Fats</Literal>
+        <Literal>Vegetable fats</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31141,7 +31146,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0041</IRI>
-        <Literal>Vegetable_Oils</Literal>
+        <Literal>Vegetable oils</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31361,7 +31366,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0058</IRI>
-        <Literal>Dried_Fruits</Literal>
+        <Literal>Dried fruits</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -31561,7 +31566,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0078</IRI>
-        <Literal>Tropical_Fruits</Literal>
+        <Literal>Tropical fruits</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32115,16 +32120,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983</IRI>
-        <Literal>[FB]_007983</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007983</IRI>
-        <Literal>curry</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_007984</IRI>
         <Literal>[FB]_007984</Literal>
     </AnnotationAssertion>
@@ -32341,7 +32336,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0092</IRI>
-        <Literal>Dark_Yellow_Vegetables</Literal>
+        <Literal>Dark yellow vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32411,7 +32406,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0099</IRI>
-        <Literal>Fat_Vegetables</Literal>
+        <Literal>Fat vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32431,7 +32426,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0101</IRI>
-        <Literal>Fruity_Vegetables</Literal>
+        <Literal>Fruity vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32491,7 +32486,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0107</IRI>
-        <Literal>Leafy_Vegetables</Literal>
+        <Literal>Leafy vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32621,7 +32616,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0125</IRI>
-        <Literal>Onion_Family_Vegetables</Literal>
+        <Literal>Onion family vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32651,7 +32646,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0128</IRI>
-        <Literal>Shoot_Vegetables</Literal>
+        <Literal>Shoot vegetables</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32761,7 +32756,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0140</IRI>
-        <Literal>Cereals</Literal>
+        <Literal>Cereal products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32771,7 +32766,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0141</IRI>
-        <Literal>Refined_Grain_Cereals</Literal>
+        <Literal>Refined grain cereal products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32811,7 +32806,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0145</IRI>
-        <Literal>Whole_Grain_Cereals</Literal>
+        <Literal>Whole grain cereal products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32925,33 +32920,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164</IRI>
-        <Literal>[FB]_0164</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0164</IRI>
-        <Literal>Not_Refined_Sugar</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165</IRI>
-        <Literal>[FB]_0165</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0165</IRI>
-        <Literal>Refined_Sugar</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166</IRI>
         <Literal>[FB]_0166</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0166</IRI>
-        <Literal>Baking_Goods</Literal>
+        <Literal>Baking goods</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -32991,7 +32966,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0170</IRI>
-        <Literal>sugar</Literal>
+        <Literal>white_sugar</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33021,7 +32996,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0175</IRI>
-        <Literal>Blue_Fish</Literal>
+        <Literal>Blue fish</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33081,7 +33056,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0181</IRI>
-        <Literal>White_Fish</Literal>
+        <Literal>White fish</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33121,7 +33096,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0185</IRI>
-        <Literal>Lean_Meat</Literal>
+        <Literal>Lean meat</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33171,7 +33146,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0191</IRI>
-        <Literal>Rabbit</Literal>
+        <Literal>rabbit</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33181,7 +33156,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_0193</IRI>
-        <Literal>Red_Meat</Literal>
+        <Literal>Red meat</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33881,7 +33856,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07537</IRI>
-        <Literal>greek_yoghurt</Literal>
+        <Literal>greek_yogurt</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -33891,7 +33866,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/http://www.food_biomarkers_ontology/FBOnto#FB_07538</IRI>
-        <Literal>natural_yoghurt</Literal>
+        <Literal>natural_yogurt</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -38081,7 +38056,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040221</IRI>
-        <Literal xml:lang="en">TO_DO</Literal>
+        <Literal xml:lang="es">Kaurane diterpenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38091,7 +38066,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040223</IRI>
-        <Literal xml:lang="es">Non vegeterian dishes</Literal>
+        <Literal xml:lang="es">Non vegetarian dishes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38102,6 +38077,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040225</IRI>
         <Literal xml:lang="es">Cold sauces</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040226</IRI>
+        <Literal xml:lang="es">hazelnut</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040227</IRI>
+        <Literal xml:lang="es">Soups</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040228</IRI>
+        <Literal xml:lang="es">Sandwiches</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040229</IRI>
+        <Literal xml:lang="es">Other prepared foods</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -38126,7 +38121,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_07556</IRI>
-        <Literal xml:lang="es">Bakery_Products</Literal>
+        <Literal xml:lang="es">Bakery products</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
