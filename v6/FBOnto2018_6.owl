@@ -2832,6 +2832,12 @@
         <Class IRI="#FB_040229"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FB_040230"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FB_040231"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FB_07501"/>
     </Declaration>
     <Declaration>
@@ -25301,6 +25307,14 @@
         <Class IRI="#FB_07508"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#FB_040230"/>
+        <Class IRI="#FB_0027"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FB_040231"/>
+        <Class IRI="#FB_0028"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#FB_07501"/>
         <Class IRI="#FB_00539"/>
     </SubClassOf>
@@ -40214,6 +40228,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FB_040229</IRI>
         <Literal>Other prepared foods</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#FB_043384"/>
+        <IRI>#FB_040230</IRI>
+        <Literal>FB_040230</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040230</IRI>
+        <Literal>coffee</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#FB_043384"/>
+        <IRI>#FB_040231</IRI>
+        <Literal>FB_040231</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FB_040231</IRI>
+        <Literal>tea</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

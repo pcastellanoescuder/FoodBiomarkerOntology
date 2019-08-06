@@ -8220,6 +8220,18 @@ is_a: FB_07508 ! Prepared foods
 property_value: FB_043384 "FB_040229" xsd:string
 
 [Term]
+id: FB_040230
+name: coffee
+is_a: FB_0027 ! Coffee products
+property_value: FB_043384 "FB_040230" xsd:string
+
+[Term]
+id: FB_040231
+name: tea
+is_a: FB_0028 ! Tea products
+property_value: FB_043384 "FB_040231" xsd:string
+
+[Term]
 id: FB_07501
 name: Coca Cola Zero
 is_a: FB_00539 ! Diet carbonated soft drinks
