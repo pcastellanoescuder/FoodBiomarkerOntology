@@ -6,177 +6,166 @@ CHEBI
 
 [Low level source term URIs]
 
-http://purl.obolibrary.org/obo/CHEBI_10219	 # FOBI:030714	α-chaconine
-http://purl.obolibrary.org/obo/CHEBI_10362	 # FOBI:030754	β-cryptoxanthin
-http://purl.obolibrary.org/obo/CHEBI_11060	 # FOBI:030706	l-carnitine
-http://purl.obolibrary.org/obo/CHEBI_1427	 # FOBI:030415	3-(3-hydroxyphenyl)propionic acid
-http://purl.obolibrary.org/obo/CHEBI_15600	 # FOBI:030460	catechin
-http://purl.obolibrary.org/obo/CHEBI_15671	 # FOBI:030630	tartaric acid
-http://purl.obolibrary.org/obo/CHEBI_77131	 # FOBI:030412	sinapic acid
-http://purl.obolibrary.org/obo/CHEBI_15724	 # FOBI:030711	trimethylamine n-oxide
-http://purl.obolibrary.org/obo/CHEBI_15727	 # FOBI:030687	carnosine
-http://purl.obolibrary.org/obo/CHEBI_15761	 # FOBI:030713	n-methylpyridinium
-http://purl.obolibrary.org/obo/CHEBI_15864	 # FOBI:030555	luteolin
-http://purl.obolibrary.org/obo/CHEBI_15891	 # FOBI:030709	taurine
-http://purl.obolibrary.org/obo/CHEBI_15948	 # FOBI:030748	lycopene
-http://purl.obolibrary.org/obo/CHEBI_15964	 # FOBI:030625	cyclamate
-http://purl.obolibrary.org/obo/CHEBI_16112	 # FOBI:030397	3-caffeoylquinic acid
-http://purl.obolibrary.org/obo/CHEBI_16164	 # FOBI:030432	pyrogallol
-http://purl.obolibrary.org/obo/CHEBI_16196	 # FOBI:030741	oleic acid
-http://purl.obolibrary.org/obo/CHEBI_16207	 # FOBI:030453	3-hydroxybenzaldehyde
-http://purl.obolibrary.org/obo/CHEBI_16243	 # FOBI:030558	quercetin
-http://purl.obolibrary.org/obo/CHEBI_16285	 # FOBI:08823	phytanic acid
-http://purl.obolibrary.org/obo/CHEBI_31967	 # FOBI:030636	pelargonidin 3-glucoside
-http://purl.obolibrary.org/obo/CHEBI_16384	 # FOBI:030399	5-caffeoylquinic acid
-http://purl.obolibrary.org/obo/CHEBI_16411	 # FOBI:030704	indole-3-acetic acid
-http://purl.obolibrary.org/obo/CHEBI_16603	 # FOBI:030737	2-β-d-glucopyranosyloxy-4-hydroxy-7-methoxy-1,4-benzoxazin-3-one
-http://purl.obolibrary.org/obo/CHEBI_16737	 # FOBI:030708	creatinine
-http://purl.obolibrary.org/obo/CHEBI_16828	 # FOBI:030701	l-tryptophan
-http://purl.obolibrary.org/obo/CHEBI_57912	 # FOBI:030701	l-tryptophan
-http://purl.obolibrary.org/obo/CHEBI_16914	 # FOBI:030318	2-hydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_16958	 # FOBI:030691	β-alanine
-http://purl.obolibrary.org/obo/CHEBI_57966	 # FOBI:030691	β-alanine
-http://purl.obolibrary.org/obo/CHEBI_17254	 # FOBI:030447	4-methylcatechol
-http://purl.obolibrary.org/obo/CHEBI_17276	 # FOBI:030568	phloretin
-http://purl.obolibrary.org/obo/CHEBI_17295	 # FOBI:030692	l-phenylalanine
-http://purl.obolibrary.org/obo/CHEBI_58095	 # FOBI:030692	l-phenylalanine
-http://purl.obolibrary.org/obo/CHEBI_17377	 # FOBI:030523	bergaptol
-http://purl.obolibrary.org/obo/CHEBI_52058	 # FOBI:030523	bergaptol
-http://purl.obolibrary.org/obo/CHEBI_17385	 # FOBI:030694	p-hydroxyphenyllactic acid
-http://purl.obolibrary.org/obo/CHEBI_17395	 # FOBI:030392	caffeic acid
-http://purl.obolibrary.org/obo/CHEBI_17439	 # FOBI:030744	cyanocobalamin
-http://purl.obolibrary.org/obo/CHEBI_17445	 # FOBI:030369	3-hydroxyphenylacetic acid
-http://purl.obolibrary.org/obo/CHEBI_17574	 # FOBI:030547	biochanin a
-http://purl.obolibrary.org/obo/CHEBI_17579	 # FOBI:030747	β-carotene
-http://purl.obolibrary.org/obo/CHEBI_17597	 # FOBI:030454	4-hydroxybenzaldehyde
-http://purl.obolibrary.org/obo/CHEBI_17620	 # FOBI:030406	ferulic acid
-http://purl.obolibrary.org/obo/CHEBI_17691	 # FOBI:030674	feruloylglycine
-http://purl.obolibrary.org/obo/CHEBI_17846	 # FOBI:030514	naringenin
-http://purl.obolibrary.org/obo/CHEBI_17847	 # FOBI:030698	p-cresol
-http://purl.obolibrary.org/obo/CHEBI_17884	 # FOBI:030696	phenylacetylglutamine
-http://purl.obolibrary.org/obo/CHEBI_17895	 # FOBI:030697	l-tyrosine
-http://purl.obolibrary.org/obo/CHEBI_58315	 # FOBI:030697	l-tyrosine
-http://purl.obolibrary.org/obo/CHEBI_17992	 # FOBI:030757	sucrose
-http://purl.obolibrary.org/obo/CHEBI_65313	 # FOBI:030757	sucrose
-http://purl.obolibrary.org/obo/CHEBI_18048	 # FOBI:030736	2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one
-http://purl.obolibrary.org/obo/CHEBI_18088	 # FOBI:030550	formononetin
-http://purl.obolibrary.org/obo/CHEBI_18089	 # FOBI:030340	hippuric acid
-http://purl.obolibrary.org/obo/CHEBI_18095	 # FOBI:08828	4-hydroxyproline
-http://purl.obolibrary.org/obo/CHEBI_18101	 # FOBI:030370	4-hydroxyphenylacetic acid
-http://purl.obolibrary.org/obo/CHEBI_18112	 # FOBI:030671	2-aminophenol
-http://purl.obolibrary.org/obo/CHEBI_18123	 # FOBI:030712	trigonelline
-http://purl.obolibrary.org/obo/CHEBI_18125	 # FOBI:030383	o-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_18176	 # FOBI:030383	o-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_18135	 # FOBI:030444	catechol
-http://purl.obolibrary.org/obo/CHEBI_18323	 # FOBI:030688	anserine
-http://purl.obolibrary.org/obo/CHEBI_58445	 # FOBI:030688	anserine
-http://purl.obolibrary.org/obo/CHEBI_18346	 # FOBI:030457	vanillin
-http://purl.obolibrary.org/obo/CHEBI_18388	 # FOBI:030553	apigenin
-http://purl.obolibrary.org/obo/CHEBI_1879	 # FOBI:030579	tyrosol
-http://purl.obolibrary.org/obo/CHEBI_1904	 # FOBI:030528	4-methylumbelliferone glucuronide
-http://purl.obolibrary.org/obo/CHEBI_1905	 # FOBI:030529	4-methylumbelliferone sulfate
-http://purl.obolibrary.org/obo/CHEBI_2120	 # FOBI:030718	5-n-pentadecylresorcinol
-http://purl.obolibrary.org/obo/CHEBI_25858	 # FOBI:030655	paraxanthine
-http://purl.obolibrary.org/obo/CHEBI_25998	 # FOBI:030693	phenyllactic acid
-http://purl.obolibrary.org/obo/CHEBI_27432	 # FOBI:030740	α-linolenic acid
-http://purl.obolibrary.org/obo/CHEBI_27480	 # FOBI:030695	phenylacetylglycine
-http://purl.obolibrary.org/obo/CHEBI_27547	 # FOBI:030750	zeaxanthin
-http://purl.obolibrary.org/obo/CHEBI_27596	 # FOBI:030690	3-methylhistidine
-http://purl.obolibrary.org/obo/CHEBI_27732	 # FOBI:030658	caffeine
-http://purl.obolibrary.org/obo/CHEBI_27794	 # FOBI:030407	isoferulic acid
-http://purl.obolibrary.org/obo/CHEBI_27823	 # FOBI:030705	5-hydroxyindole-3-acetic acid
-http://purl.obolibrary.org/obo/CHEBI_27881	 # FOBI:030590	trans-resveratrol
-http://purl.obolibrary.org/obo/CHEBI_27997	 # FOBI:08824	elaidic acid
-http://purl.obolibrary.org/obo/CHEBI_28088	 # FOBI:030537	genistein
-http://purl.obolibrary.org/obo/CHEBI_28125	 # FOBI:030743	docosahexaenoic acid
-http://purl.obolibrary.org/obo/CHEBI_28177	 # FOBI:030656	theophylline
-http://purl.obolibrary.org/obo/CHEBI_28197	 # FOBI:030530	daidzein
-http://purl.obolibrary.org/obo/CHEBI_28364	 # FOBI:030742	eicosapentaenoic acid
-http://purl.obolibrary.org/obo/CHEBI_28374	 # FOBI:030716	solanidine
-http://purl.obolibrary.org/obo/CHEBI_28478	 # FOBI:030368	2-hydroxyphenylacetic acid
-http://purl.obolibrary.org/obo/CHEBI_28499	 # FOBI:030565	kaempferol
-http://purl.obolibrary.org/obo/CHEBI_28591	 # FOBI:030452	guaiacol
-http://purl.obolibrary.org/obo/CHEBI_28757	 # FOBI:030759	fructose
-http://purl.obolibrary.org/obo/CHEBI_28647	 # FOBI:030358	3-methylgallic acid
-http://purl.obolibrary.org/obo/CHEBI_36023	 # FOBI:08825	vaccenic acid
-http://purl.obolibrary.org/obo/CHEBI_28946	 # FOBI:030657	theobromine
-http://purl.obolibrary.org/obo/CHEBI_30763	 # FOBI:030320	4-hydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_79323	 # FOBI:030320	4-hydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_30764	 # FOBI:030319	3-hydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_30769	 # FOBI:030631	citric acid
-http://purl.obolibrary.org/obo/CHEBI_30778	 # FOBI:030352	gallic acid
-http://purl.obolibrary.org/obo/CHEBI_30816	 # FOBI:030343	vanillic acid
-http://purl.obolibrary.org/obo/CHEBI_31463	 # FOBI:030634	delphinidin 3-glucoside
-http://purl.obolibrary.org/obo/CHEBI_31799	 # FOBI:030635	malvidin 3-glucoside
-http://purl.obolibrary.org/obo/CHEBI_32111	 # FOBI:030626	saccharin
-http://purl.obolibrary.org/obo/CHEBI_32159	 # FOBI:030627	sucralose
-http://purl.obolibrary.org/obo/CHEBI_32357	 # FOBI:030384	m-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_47925	 # FOBI:030384	m-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_32365	 # FOBI:030739	heptadecanoic acid
-http://purl.obolibrary.org/obo/CHEBI_32374	 # FOBI:030385	p-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_36090	 # FOBI:030385	p-coumaric acid
-http://purl.obolibrary.org/obo/CHEBI_32643	 # FOBI:030667	5-acetylamino-6-formylamino-3-methyluracil
-http://purl.obolibrary.org/obo/CHEBI_32798	 # FOBI:08826	rumenic acid
-http://purl.obolibrary.org/obo/CHEBI_32980	 # FOBI:030416	3-(4-hydroxyphenyl)propionic acid
-http://purl.obolibrary.org/obo/CHEBI_34741	 # FOBI:030544	equol
-http://purl.obolibrary.org/obo/CHEBI_35147	 # FOBI:030746	α-carotene
-http://purl.obolibrary.org/obo/CHEBI_35280	 # FOBI:030685	proline betaine
-http://purl.obolibrary.org/obo/CHEBI_36002	 # FOBI:030591	cis-resveratrol
-http://purl.obolibrary.org/obo/CHEBI_39912	 # FOBI:030330	3,5-dihydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_41254	 # FOBI:030651	3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid
-http://purl.obolibrary.org/obo/CHEBI_43355	 # FOBI:030702	indoxyl sulfate
-http://purl.obolibrary.org/obo/CHEBI_45530	 # FOBI:030756	rhamnitol
-http://purl.obolibrary.org/obo/CHEBI_45658	 # FOBI:030678	s-methylcysteine
-http://purl.obolibrary.org/obo/CHEBI_4582	 # FOBI:030600	dihydroresveratrol
-http://purl.obolibrary.org/obo/CHEBI_4806	 # FOBI:030489	epigallocatechin-3-gallate
-http://purl.obolibrary.org/obo/CHEBI_4828	 # FOBI:030684	ergothioneine
-http://purl.obolibrary.org/obo/CHEBI_48400	 # FOBI:030422	dihydrocaffeic acid
-http://purl.obolibrary.org/obo/CHEBI_48991	 # FOBI:030654	7-methylxanthine
-http://purl.obolibrary.org/obo/CHEBI_50205	 # FOBI:030455	3,4-dihydroxybenzaldehyde
-http://purl.obolibrary.org/obo/CHEBI_6650	 # FOBI:030632	malic acid
-http://purl.obolibrary.org/obo/CHEBI_50599	 # FOBI:030689	1-methylhistidine
-http://purl.obolibrary.org/obo/CHEBI_545959	 # FOBI:030380	homovanillic acid
-http://purl.obolibrary.org/obo/CHEBI_57589	 # FOBI:030707	acetyl-l-carnitine
-http://purl.obolibrary.org/obo/CHEBI_5995	 # FOBI:030400	3,4-dicaffeoylquinic acid
-http://purl.obolibrary.org/obo/CHEBI_6052	 # FOBI:030562	isorhamnetin
-http://purl.obolibrary.org/obo/CHEBI_62207	 # FOBI:030653	3-methylxanthine
-http://purl.obolibrary.org/obo/CHEBI_63558	 # FOBI:030732	2,4-dihydroxy-1,4-benzoxazin-3-one
-http://purl.obolibrary.org/obo/CHEBI_63559	 # FOBI:030726	2-hydroxy-1,4-benzoxazin-3-one
-http://purl.obolibrary.org/obo/CHEBI_63798	 # FOBI:030346	isovanillic acid
-http://purl.obolibrary.org/obo/CHEBI_64414	 # FOBI:08681	3-(3-hydroxyphenyl)propionic acid sulfate
-http://purl.obolibrary.org/obo/CHEBI_66682	 # FOBI:030753	maslinic acid
-http://purl.obolibrary.org/obo/CHEBI_68329	 # FOBI:030349	syringic acid
-http://purl.obolibrary.org/obo/CHEBI_68441	 # FOBI:030659	1-methyluric acid
-http://purl.obolibrary.org/obo/CHEBI_68444	 # FOBI:030652	1-methylxanthine
-http://purl.obolibrary.org/obo/CHEBI_68447	 # FOBI:030662	1,3-dimethyluric acid
-http://purl.obolibrary.org/obo/CHEBI_68449	 # FOBI:030663	1,7-dimethyluric acid
-http://purl.obolibrary.org/obo/CHEBI_68465	 # FOBI:030328	2,6-dihydroxybenzoic acid
-http://purl.obolibrary.org/obo/CHEBI_68505	 # FOBI:030446	catechol sulfate
-http://purl.obolibrary.org/obo/CHEBI_68531	 # FOBI:030664	3,7-dimethyluric acid
-http://purl.obolibrary.org/obo/CHEBI_68889	 # FOBI:030582	hydroxytyrosol
-http://purl.obolibrary.org/obo/CHEBI_691622	 # FOBI:030665	1,3,7-trimethyluric acid
-http://purl.obolibrary.org/obo/CHEBI_69439	 # FOBI:030669	cyclo(l-prolyl-l-valyl)
-http://purl.obolibrary.org/obo/CHEBI_70824	 # FOBI:030342	3-hydroxyhippuric acid
-http://purl.obolibrary.org/obo/CHEBI_71018	 # FOBI:030341	4-hydroxyhippuric acid
-http://purl.obolibrary.org/obo/CHEBI_73961	 # FOBI:030321	2-hydroxybenzoic acid glucuronide
-http://purl.obolibrary.org/obo/CHEBI_74077	 # FOBI:030676	s-allylcysteine
-http://purl.obolibrary.org/obo/CHEBI_75632	 # FOBI:030490	procyanidin b2
-http://purl.obolibrary.org/obo/CHEBI_75721	 # FOBI:030566	kaempferol 3-glucuronide
-http://purl.obolibrary.org/obo/CHEBI_75726	 # FOBI:030556	luteolin 3'-glucuronide
-http://purl.obolibrary.org/obo/CHEBI_76126	 # FOBI:030485	epicatechin-3-gallate
-http://purl.obolibrary.org/obo/CHEBI_80091	 # FOBI:030733	2-β-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one
-http://purl.obolibrary.org/obo/CHEBI_85533	 # FOBI:030686	4-hydroxyproline betaine
-http://purl.obolibrary.org/obo/CHEBI_81556	 # FOBI:030615	enterodiol
-http://purl.obolibrary.org/obo/CHEBI_8198	 # FOBI:030605	trans-piceid
-http://purl.obolibrary.org/obo/CHEBI_82392	 # FOBI:030710	arsenobetaine
-http://purl.obolibrary.org/obo/CHEBI_82912	 # FOBI:030649	n-(2-furoyl)glycine
-http://purl.obolibrary.org/obo/CHEBI_82914	 # FOBI:030699	p-cresol sulfate
-http://purl.obolibrary.org/obo/CHEBI_84038	 # FOBI:030603	dihydroresveratrol 3-sulfate
-http://purl.obolibrary.org/obo/CHEBI_84039	 # FOBI:030601	dihydroresveratrol 3-glucuronide
-http://purl.obolibrary.org/obo/CHEBI_84040	 # FOBI:030596	trans-resveratrol 3-sulfate
-http://purl.obolibrary.org/obo/CHEBI_90	 # FOBI:030461	epicatechin
-http://purl.obolibrary.org/obo/CHEBI_9008	 # FOBI:08827	2-hydroxyhippuric acid
-http://purl.obolibrary.org/obo/CHEBI_9629	 # FOBI:030717	tomatidine
+http://purl.obolibrary.org/obo/CHEBI_10219	 # FOBI_030714	α-chaconine
+http://purl.obolibrary.org/obo/CHEBI_10362	 # FOBI_030754	β-cryptoxanthin
+http://purl.obolibrary.org/obo/CHEBI_11060	 # FOBI_030706	l-carnitine
+http://purl.obolibrary.org/obo/CHEBI_1427	 # FOBI_030415	3-(3-hydroxyphenyl)propionic acid
+http://purl.obolibrary.org/obo/CHEBI_15600	 # FOBI_030460	catechin
+http://purl.obolibrary.org/obo/CHEBI_15671	 # FOBI_030630	tartaric acid
+http://purl.obolibrary.org/obo/CHEBI_77131	 # FOBI_030412	sinapic acid
+http://purl.obolibrary.org/obo/CHEBI_15724	 # FOBI_030711	trimethylamine n-oxide
+http://purl.obolibrary.org/obo/CHEBI_15727	 # FOBI_030687	carnosine
+http://purl.obolibrary.org/obo/CHEBI_15761	 # FOBI_030713	n-methylpyridinium
+http://purl.obolibrary.org/obo/CHEBI_15864	 # FOBI_030555	luteolin
+http://purl.obolibrary.org/obo/CHEBI_15891	 # FOBI_030709	taurine
+http://purl.obolibrary.org/obo/CHEBI_15948	 # FOBI_030748	lycopene
+http://purl.obolibrary.org/obo/CHEBI_15964	 # FOBI_030625	cyclamate
+http://purl.obolibrary.org/obo/CHEBI_16112	 # FOBI_030397	3-caffeoylquinic acid
+http://purl.obolibrary.org/obo/CHEBI_16164	 # FOBI_030432	pyrogallol
+http://purl.obolibrary.org/obo/CHEBI_16196	 # FOBI_030741	oleic acid
+http://purl.obolibrary.org/obo/CHEBI_16207	 # FOBI_030453	3-hydroxybenzaldehyde
+http://purl.obolibrary.org/obo/CHEBI_16243	 # FOBI_030558	quercetin
+http://purl.obolibrary.org/obo/CHEBI_16285	 # FOBI_08823	phytanic acid
+http://purl.obolibrary.org/obo/CHEBI_31967	 # FOBI_030636	pelargonidin 3-glucoside
+http://purl.obolibrary.org/obo/CHEBI_16384	 # FOBI_030399	5-caffeoylquinic acid
+http://purl.obolibrary.org/obo/CHEBI_16411	 # FOBI_030704	indole-3-acetic acid
+http://purl.obolibrary.org/obo/CHEBI_16603	 # FOBI_030737	2-β-d-glucopyranosyloxy-4-hydroxy-7-methoxy-1,4-benzoxazin-3-one
+http://purl.obolibrary.org/obo/CHEBI_16737	 # FOBI_030708	creatinine
+http://purl.obolibrary.org/obo/CHEBI_16828	 # FOBI_030701	l-tryptophan
+http://purl.obolibrary.org/obo/CHEBI_16914	 # FOBI_030318	2-hydroxybenzoic acid
+http://purl.obolibrary.org/obo/CHEBI_16958	 # FOBI_030691	β-alanine
+http://purl.obolibrary.org/obo/CHEBI_17254	 # FOBI_030447	4-methylcatechol
+http://purl.obolibrary.org/obo/CHEBI_17276	 # FOBI_030568	phloretin
+http://purl.obolibrary.org/obo/CHEBI_17295	 # FOBI_030692	l-phenylalanine
+http://purl.obolibrary.org/obo/CHEBI_17377	 # FOBI_030523	bergaptol
+http://purl.obolibrary.org/obo/CHEBI_17385	 # FOBI_030694	p-hydroxyphenyllactic acid
+http://purl.obolibrary.org/obo/CHEBI_17395	 # FOBI_030392	caffeic acid
+http://purl.obolibrary.org/obo/CHEBI_17439	 # FOBI_030744	cyanocobalamin
+http://purl.obolibrary.org/obo/CHEBI_17445	 # FOBI_030369	3-hydroxyphenylacetic acid
+http://purl.obolibrary.org/obo/CHEBI_17574	 # FOBI_030547	biochanin a
+http://purl.obolibrary.org/obo/CHEBI_17579	 # FOBI_030747	β-carotene
+http://purl.obolibrary.org/obo/CHEBI_17597	 # FOBI_030454	4-hydroxybenzaldehyde
+http://purl.obolibrary.org/obo/CHEBI_17620	 # FOBI_030406	ferulic acid
+http://purl.obolibrary.org/obo/CHEBI_17691	 # FOBI_030674	feruloylglycine
+http://purl.obolibrary.org/obo/CHEBI_17846	 # FOBI_030514	naringenin
+http://purl.obolibrary.org/obo/CHEBI_17847	 # FOBI_030698	p-cresol
+http://purl.obolibrary.org/obo/CHEBI_17884	 # FOBI_030696	phenylacetylglutamine
+http://purl.obolibrary.org/obo/CHEBI_17895	 # FOBI_030697	l-tyrosine
+http://purl.obolibrary.org/obo/CHEBI_17992	 # FOBI_030757	sucrose
+http://purl.obolibrary.org/obo/CHEBI_18048	 # FOBI_030736	2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one
+http://purl.obolibrary.org/obo/CHEBI_18088	 # FOBI_030550	formononetin
+http://purl.obolibrary.org/obo/CHEBI_18089	 # FOBI_030340	hippuric acid
+http://purl.obolibrary.org/obo/CHEBI_18095	 # FOBI_08828	4-hydroxyproline
+http://purl.obolibrary.org/obo/CHEBI_18101	 # FOBI_030370	4-hydroxyphenylacetic acid
+http://purl.obolibrary.org/obo/CHEBI_18112	 # FOBI_030671	2-aminophenol
+http://purl.obolibrary.org/obo/CHEBI_18123	 # FOBI_030712	trigonelline
+http://purl.obolibrary.org/obo/CHEBI_18125	 # FOBI_030383	o-coumaric acid
+http://purl.obolibrary.org/obo/CHEBI_18135	 # FOBI_030444	catechol
+http://purl.obolibrary.org/obo/CHEBI_18323	 # FOBI_030688	anserine
+http://purl.obolibrary.org/obo/CHEBI_18346	 # FOBI_030457	vanillin
+http://purl.obolibrary.org/obo/CHEBI_18388	 # FOBI_030553	apigenin
+http://purl.obolibrary.org/obo/CHEBI_1879	 # FOBI_030579	tyrosol
+http://purl.obolibrary.org/obo/CHEBI_1904	 # FOBI_030528	4-methylumbelliferone glucuronide
+http://purl.obolibrary.org/obo/CHEBI_1905	 # FOBI_030529	4-methylumbelliferone sulfate
+http://purl.obolibrary.org/obo/CHEBI_2120	 # FOBI_030718	5-n-pentadecylresorcinol
+http://purl.obolibrary.org/obo/CHEBI_25858	 # FOBI_030655	paraxanthine
+http://purl.obolibrary.org/obo/CHEBI_25998	 # FOBI_030693	phenyllactic acid
+http://purl.obolibrary.org/obo/CHEBI_27432	 # FOBI_030740	α-linolenic acid
+http://purl.obolibrary.org/obo/CHEBI_27480	 # FOBI_030695	phenylacetylglycine
+http://purl.obolibrary.org/obo/CHEBI_27547	 # FOBI_030750	zeaxanthin
+http://purl.obolibrary.org/obo/CHEBI_27596	 # FOBI_030690	3-methylhistidine
+http://purl.obolibrary.org/obo/CHEBI_27732	 # FOBI_030658	caffeine
+http://purl.obolibrary.org/obo/CHEBI_27794	 # FOBI_030407	isoferulic acid
+http://purl.obolibrary.org/obo/CHEBI_27823	 # FOBI_030705	5-hydroxyindole-3-acetic acid
+http://purl.obolibrary.org/obo/CHEBI_27881	 # FOBI_030590	trans-resveratrol
+http://purl.obolibrary.org/obo/CHEBI_27997	 # FOBI_08824	elaidic acid
+http://purl.obolibrary.org/obo/CHEBI_28088	 # FOBI_030537	genistein
+http://purl.obolibrary.org/obo/CHEBI_28125	 # FOBI_030743	docosahexaenoic acid
+http://purl.obolibrary.org/obo/CHEBI_28177	 # FOBI_030656	theophylline
+http://purl.obolibrary.org/obo/CHEBI_28197	 # FOBI_030530	daidzein
+http://purl.obolibrary.org/obo/CHEBI_28364	 # FOBI_030742	eicosapentaenoic acid
+http://purl.obolibrary.org/obo/CHEBI_28374	 # FOBI_030716	solanidine
+http://purl.obolibrary.org/obo/CHEBI_28478	 # FOBI_030368	2-hydroxyphenylacetic acid
+http://purl.obolibrary.org/obo/CHEBI_28499	 # FOBI_030565	kaempferol
+http://purl.obolibrary.org/obo/CHEBI_28591	 # FOBI_030452	guaiacol
+http://purl.obolibrary.org/obo/CHEBI_28757	 # FOBI_030759	fructose
+http://purl.obolibrary.org/obo/CHEBI_28647	 # FOBI_030358	3-methylgallic acid
+http://purl.obolibrary.org/obo/CHEBI_36023	 # FOBI_08825	vaccenic acid
+http://purl.obolibrary.org/obo/CHEBI_28946	 # FOBI_030657	theobromine
+http://purl.obolibrary.org/obo/CHEBI_30763	 # FOBI_030320	4-hydroxybenzoic acid
+http://purl.obolibrary.org/obo/CHEBI_30764	 # FOBI_030319	3-hydroxybenzoic acid
+http://purl.obolibrary.org/obo/CHEBI_30769	 # FOBI_030631	citric acid
+http://purl.obolibrary.org/obo/CHEBI_30778	 # FOBI_030352	gallic acid
+http://purl.obolibrary.org/obo/CHEBI_30816	 # FOBI_030343	vanillic acid
+http://purl.obolibrary.org/obo/CHEBI_31463	 # FOBI_030634	delphinidin 3-glucoside
+http://purl.obolibrary.org/obo/CHEBI_31799	 # FOBI_030635	malvidin 3-glucoside
+http://purl.obolibrary.org/obo/CHEBI_32111	 # FOBI_030626	saccharin
+http://purl.obolibrary.org/obo/CHEBI_32159	 # FOBI_030627	sucralose
+http://purl.obolibrary.org/obo/CHEBI_32357	 # FOBI_030384	m-coumaric acid
+http://purl.obolibrary.org/obo/CHEBI_32365	 # FOBI_030739	heptadecanoic acid
+http://purl.obolibrary.org/obo/CHEBI_32374	 # FOBI_030385	p-coumaric acid
+http://purl.obolibrary.org/obo/CHEBI_32643	 # FOBI_030667	5-acetylamino-6-formylamino-3-methyluracil
+http://purl.obolibrary.org/obo/CHEBI_32798	 # FOBI_08826	rumenic acid
+http://purl.obolibrary.org/obo/CHEBI_32980	 # FOBI_030416	3-(4-hydroxyphenyl)propionic acid
+http://purl.obolibrary.org/obo/CHEBI_34741	 # FOBI_030544	equol
+http://purl.obolibrary.org/obo/CHEBI_35147	 # FOBI_030746	α-carotene
+http://purl.obolibrary.org/obo/CHEBI_35280	 # FOBI_030685	proline betaine
+http://purl.obolibrary.org/obo/CHEBI_36002	 # FOBI_030591	cis-resveratrol
+http://purl.obolibrary.org/obo/CHEBI_39912	 # FOBI_030330	3,5-dihydroxybenzoic acid
+http://purl.obolibrary.org/obo/CHEBI_41254	 # FOBI_030651	3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid
+http://purl.obolibrary.org/obo/CHEBI_43355	 # FOBI_030702	indoxyl sulfate
+http://purl.obolibrary.org/obo/CHEBI_45530	 # FOBI_030756	rhamnitol
+http://purl.obolibrary.org/obo/CHEBI_45658	 # FOBI_030678	s-methylcysteine
+http://purl.obolibrary.org/obo/CHEBI_4582	 # FOBI_030600	dihydroresveratrol
+http://purl.obolibrary.org/obo/CHEBI_4806	 # FOBI_030489	epigallocatechin-3-gallate
+http://purl.obolibrary.org/obo/CHEBI_4828	 # FOBI_030684	ergothioneine
+http://purl.obolibrary.org/obo/CHEBI_48400	 # FOBI_030422	dihydrocaffeic acid
+http://purl.obolibrary.org/obo/CHEBI_48991	 # FOBI_030654	7-methylxanthine
+http://purl.obolibrary.org/obo/CHEBI_50205	 # FOBI_030455	3,4-dihydroxybenzaldehyde
+http://purl.obolibrary.org/obo/CHEBI_6650	 # FOBI_030632	malic acid
+http://purl.obolibrary.org/obo/CHEBI_50599	 # FOBI_030689	1-methylhistidine
+http://purl.obolibrary.org/obo/CHEBI_545959	 # FOBI_030380	homovanillic acid
+http://purl.obolibrary.org/obo/CHEBI_57589	 # FOBI_030707	acetyl-l-carnitine
+http://purl.obolibrary.org/obo/CHEBI_5995	 # FOBI_030400	3,4-dicaffeoylquinic acid
+http://purl.obolibrary.org/obo/CHEBI_6052	 # FOBI_030562	isorhamnetin
+http://purl.obolibrary.org/obo/CHEBI_62207	 # FOBI_030653	3-methylxanthine
+http://purl.obolibrary.org/obo/CHEBI_63558	 # FOBI_030732	2,4-dihydroxy-1,4-benzoxazin-3-one
+http://purl.obolibrary.org/obo/CHEBI_63559	 # FOBI_030726	2-hydroxy-1,4-benzoxazin-3-one
+http://purl.obolibrary.org/obo/CHEBI_63798	 # FOBI_030346	isovanillic acid
+http://purl.obolibrary.org/obo/CHEBI_64414	 # FOBI_08681	3-(3-hydroxyphenyl)propionic acid sulfate
+http://purl.obolibrary.org/obo/CHEBI_66682	 # FOBI_030753	maslinic acid
+http://purl.obolibrary.org/obo/CHEBI_68329	 # FOBI_030349	syringic acid
+http://purl.obolibrary.org/obo/CHEBI_68441	 # FOBI_030659	1-methyluric acid
+http://purl.obolibrary.org/obo/CHEBI_68444	 # FOBI_030652	1-methylxanthine
+http://purl.obolibrary.org/obo/CHEBI_68447	 # FOBI_030662	1,3-dimethyluric acid
+http://purl.obolibrary.org/obo/CHEBI_68449	 # FOBI_030663	1,7-dimethyluric acid
+http://purl.obolibrary.org/obo/CHEBI_68465	 # FOBI_030328	2,6-dihydroxybenzoic acid
+http://purl.obolibrary.org/obo/CHEBI_68505	 # FOBI_030446	catechol sulfate
+http://purl.obolibrary.org/obo/CHEBI_68531	 # FOBI_030664	3,7-dimethyluric acid
+http://purl.obolibrary.org/obo/CHEBI_68889	 # FOBI_030582	hydroxytyrosol
+http://purl.obolibrary.org/obo/CHEBI_691622	 # FOBI_030665	1,3,7-trimethyluric acid
+http://purl.obolibrary.org/obo/CHEBI_69439	 # FOBI_030669	cyclo(l-prolyl-l-valyl)
+http://purl.obolibrary.org/obo/CHEBI_70824	 # FOBI_030342	3-hydroxyhippuric acid
+http://purl.obolibrary.org/obo/CHEBI_71018	 # FOBI_030341	4-hydroxyhippuric acid
+http://purl.obolibrary.org/obo/CHEBI_73961	 # FOBI_030321	2-hydroxybenzoic acid glucuronide
+http://purl.obolibrary.org/obo/CHEBI_74077	 # FOBI_030676	s-allylcysteine
+http://purl.obolibrary.org/obo/CHEBI_75632	 # FOBI_030490	procyanidin b2
+http://purl.obolibrary.org/obo/CHEBI_75721	 # FOBI_030566	kaempferol 3-glucuronide
+http://purl.obolibrary.org/obo/CHEBI_75726	 # FOBI_030556	luteolin 3'-glucuronide
+http://purl.obolibrary.org/obo/CHEBI_76126	 # FOBI_030485	epicatechin-3-gallate
+http://purl.obolibrary.org/obo/CHEBI_80091	 # FOBI_030733	2-β-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one
+http://purl.obolibrary.org/obo/CHEBI_85533	 # FOBI_030686	4-hydroxyproline betaine
+http://purl.obolibrary.org/obo/CHEBI_81556	 # FOBI_030615	enterodiol
+http://purl.obolibrary.org/obo/CHEBI_8198	 # FOBI_030605	trans-piceid
+http://purl.obolibrary.org/obo/CHEBI_82392	 # FOBI_030710	arsenobetaine
+http://purl.obolibrary.org/obo/CHEBI_82912	 # FOBI_030649	n-(2-furoyl)glycine
+http://purl.obolibrary.org/obo/CHEBI_82914	 # FOBI_030699	p-cresol sulfate
+http://purl.obolibrary.org/obo/CHEBI_84038	 # FOBI_030603	dihydroresveratrol 3-sulfate
+http://purl.obolibrary.org/obo/CHEBI_84039	 # FOBI_030601	dihydroresveratrol 3-glucuronide
+http://purl.obolibrary.org/obo/CHEBI_84040	 # FOBI_030596	trans-resveratrol 3-sulfate
+http://purl.obolibrary.org/obo/CHEBI_90	 # FOBI_030461	epicatechin
+http://purl.obolibrary.org/obo/CHEBI_9008	 # FOBI_08827	2-hydroxyhippuric acid
+http://purl.obolibrary.org/obo/CHEBI_9629	 # FOBI_030717	tomatidine
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/CHEBI_50906	 # role 
@@ -185,12 +174,11 @@ http://purl.obolibrary.org/obo/CHEBI_50906	 # role
 includeAllIntermediates
 
 [Source annotation URIs]
-includeAllAnnotationProperties
-# http://www.w3.org/2000/01/rdf-schema#label
-# http://purl.obolibrary.org/obo/IAO_0000115 
-# http://purl.obolibrary.org/obo/IAO_0000111
-# http://purl.obolibrary.org/obo/IAO_0000114
-# http://purl.obolibrary.org/obo/IAO_0000119
-# http://purl.obolibrary.org/obo/OBI_0001886
+#includeAllAnnotationProperties
+http://www.w3.org/2000/01/rdf-schema#label
+http://purl.obolibrary.org/obo/IAO_0000115 
+# http://purl.obolibrary.org/obo/IAO_0000111 # editor preferred term
+http://purl.obolibrary.org/obo/IAO_0000114 # curation satus
+http://purl.obolibrary.org/obo/IAO_0000119 # definition source
 
 [Source annotation URIs to be excluded]
