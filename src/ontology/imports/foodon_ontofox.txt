@@ -1,0 +1,922 @@
+absinthe "absinthe:FOODON_00003229"
+absinthe (FOBI:07580)
+
+alcohols "plant based alcoholic beverage:FOODON_00002123"
+Alcohols (FOBI:0015)
+
+ale "ale:FOODON_03302111"
+ale (FOBI:07517)
+almond milk "almond milk:FOODON_00003157"
+almond milk (FOBI:07521)
+almonds "almond (whole, raw):FOODON_03301355"
+almonds (FOBI:07520)
+anchovy "anchovy:FOODON_03411854"
+anchovy (FOBI:0176)
+apple "apple (whole):FOODON_00002473"
+apple (FOBI:0076)
+apple juice "apple juice:FOODON_00001059"
+apple juice (FOBI:07542)
+apple pie "apple pie:FOODON_00002475"
+apple pie (FOBI:08719)
+apricot "apricot (whole, raw):FOODON_03301701"
+apricot (FOBI:0067)
+artichoke "artichoke (whole, raw):FOODON_03301773"
+artichoke (FOBI:0131)
+asparagus "asparagus (whole, raw):FOODON_03311349"
+asparagus (FOBI:0129)
+avocado "avocado (whole, raw):FOODON_03305236"
+avocado (FOBI:0100)
+bacon "bacon food product:FOODON_00001061"
+bacon (FOBI:0207)
+Bakery products "bakery product:FOODON_03310635"
+Bakery products (FOBI:07556)
+
+banana "banana (whole, ripe):FOODON_03311513"
+banana (FOBI:0079)
+barley "barley grain (whole, raw):FOODON_00003108"
+barley (FOBI:008143)
+Beans "bean (whole):FOODON_00002753"
+Beans (FOBI:0158)
+
+bechamel "Béchamel sauce:FOODON_00003259
+bechamel (FOBI:007934)
+
+beef "beef food product:FOODON_00001041"
+beef (FOBI:0197)
+beer "beer:FOODON_03301619"
+beer (FOBI:0022)
+beetroot "beetroot:FOODON_03317254"
+beetroot (FOBI:0093)
+Berries "berry (whole, raw):FOODON_03306893"
+Berries (FOBI:0051)
+Beverages "beverage:FOODON_03301977"
+Beverages (FOBI:0011)
+
+biscuit "scone:FOODON_00002465"
+biscuit (FOBI:07587) # BUT EUROPEAN/ENGLISH OR NORTH AMERICAN SENSE?
+
+black bean "black turtle bean (whole):FOODON_00002889"
+black bean (FOBI:07565)
+black coffee "coffee (liquid drink):FOODON_03301036"
+black coffee (FOBI:07544)
+black pepper "black pepper food product:FOODON_00001650"
+black pepper (FOBI:0275)
+
+black tea "black tea leaf (dry):FOODON_03304640"
+black tea (FOBI:0029)
+
+blackberry "blackberry (whole, raw):FOODON_03301236"
+blackberry (FOBI:0052)
+blackcurrant "black currant (whole, raw):FOODON_03311604"
+blackcurrant (FOBI:0053)
+
+Blue fish "bluefish:FOODON_03411512"
+Blue fish (FOBI:0175)
+
+blueberry "blueberry (whole, raw):FOODON_03302045"
+blueberry (FOBI:0054)
+Boar "boar:FOODON_03412248"
+Boar (FOBI:0194)
+
+bolognese "bolognese sauce:FOODON_00003232"
+bolognese (FOBI:007935)
+
+bourguignon "beef bourguignon:FOODON_00003233"
+bourguignon (FOBI:007937)
+
+brandy "brandy:FOODON_03301632"
+brandy (FOBI:07579)
+bread "bread food product:FOODON_00001183"
+bread (FOBI:0270)
+broccoli "broccoli floret (whole, raw):FOODON_03301713"
+broccoli (FOBI:0087)
+
+brochette "meat brochette:http://purl.obolibrary.org/obo/FOODON_00003235"
+brochette (FOBI:007938)
+
+broth "broth:FOODON_03309462"
+broth (FOBI:007939)
+brown bread "brown bread:FOODON_03315751"
+brown bread (FOBI:07525)
+brown rice "brown rice food product:FOODON_03301136"
+brown rice (FOBI:07545)
+brown sugar "brown sugar:FOODON_03420156"
+brown sugar (FOBI:0167)
+brownie "chocolate brownie:FOODON_00002562"
+brownie (FOBI:07568)
+butter "butter:FOODON_03310351"
+butter (FOBI:0013)
+cabbage "cabbage (whole, raw):FOODON_03301326"
+cabbage (FOBI:0088)
+cake "cake food product:FOODON_00001278"
+cake (FOBI:07553)
+
+carbonara "carbonara sauce:FOODON_00003236"
+carbonara (FOBI:007940)
+
+Carbonated soft drinks "soft drink:FOODON_03310815"
+Carbonated soft drinks (FOBI:00538)
+carrot "carrot root (whole, raw):FOODON_03301570"
+carrot (FOBI:0094)
+cauliflower "cauliflower (whole, raw):FOODON_03302732"
+cauliflower (FOBI:0089)
+celery "celery stalk (raw):FOODON_03301727"
+celery (FOBI:0108)
+cereal "cereal food product:FOODON_00001709"
+cereal (FOBI:0142)
+Cereal products "cereal food product:FOODON_00001709"
+Cereal products (FOBI:0140)
+cheddar "cheddar cheese:FOODON_03302458"
+cheddar (FOBI:07549)
+cheese "cheese food product:FOODON_00001013"
+cheese (FOBI:0010)
+cheese sandwich "cheese sandwich:FOODON_03312036"
+cheese sandwich (FOBI:007966)
+cheesecake "cheesecake:FOODON_03301729"
+cheesecake (FOBI:07583)
+cherry "cherry (whole, raw):FOODON_03301240"
+cherry (FOBI:0068)
+chicken "chicken:FOODON_03411457"
+chicken (FOBI:0188)
+chicken curry "chicken curry:FOODON_00003260"
+chicken curry (FOBI:07539)
+Chicken eggs "hen egg (whole):FOODON_03316061"
+Chicken eggs (FOBI:0034)
+chickpeas "chickpea (whole):FOODON_03306811"
+chickpeas (FOBI:0161)
+chicory "chicory (whole, raw):FOODON_03302727"
+chicory (FOBI:0109)
+
+chips "potato chip:FOODON_03301833"
+chips (FOBI:0116)
+
+chocolate "chocolate:FOODON_03307240"
+chocolate (FOBI:0003)
+chocolate cake "chocolate cake:FOODON_03305417"
+chocolate cake (FOBI:07554)
+cinnamon "cinnamon:FOODON_03301175"
+cinnamon (FOBI:07548)
+
+Citrus "citrus fruit food product:FOODON_00001151"
+Citrus (FOBI:0060)
+
+
+Cocoa and cocoa products "cacao food product:FOODON_00001215"
+Cocoa and cocoa products (FOBI:0002)
+cocoa powder "cocoa:FOODON_03301072"
+cocoa powder (FOBI:07552)
+coconut "coconut (whole, raw):FOODON_03303085"
+coconut (FOBI:0080)
+cod "cod:FOODON_03411423"
+cod (FOBI:0182)
+coffee "coffee (liquid drink):FOODON_03301036"
+coffee (FOBI:040230)
+Coffee products "coffee (liquid drink):FOODON_03301036"
+Coffee products (FOBI:0027)
+
+Cold sauces "condiment food product:FOODON_00001133"
+Cold sauces (FOBI:040225)
+
+coleslaw "coleslaw (food product):FOODON_03304707"
+coleslaw (FOBI:07526)
+Confectioneries "confectionery food product:FOODON_00001149"
+Confectioneries (FOBI:0168)
+cookie "cookie:FOODON_03301585"
+cookie (FOBI:07588)
+cordon bleu (FOBI:007929)
+corn "corn (vegetable) food product:FOODON_00001765"
+corn (FOBI:0273)
+corn oil "corn oil:FOODON_03301474"
+corn oil (FOBI:0042)
+courgette "zucchini plant:FOODON_03411462"
+courgette (FOBI:0102)
+couscous "couscous:FOODON_03303207"
+couscous (FOBI:07546)
+Cow "cattle:FOODON_03411161"
+Cow (FOBI:0196)
+crab "crab:FOODON_03411335"
+crab (FOBI:0221)
+cracker "cracker:FOODON_00002711"
+cracker (FOBI:07589)
+cream cheese "cream cheese:FOODON_03301889"
+cream cheese (FOBI:07591)
+
+
+croc monsieur: "Croque monsieur:FOODON_00003269"
+croc monsieur (FOBI:007930)
+
+croziflette "croziflette:FOODON_00003268"
+croziflette (FOBI:007941)
+
+Cruciferous "cruciferous food product:FOODON_00001169"
+Cruciferous (FOBI:0086)
+Crustaceans "crustacean:FOODON_03411374"
+Crustaceans (FOBI:0216)
+cucumber "cucumber (whole, raw):FOODON_03301545"
+cucumber (FOBI:0103)
+cumin "cumin seed (whole, dried):FOODON_00003024"
+cumin (FOBI:07567)
+
+curcuma "turmeric food product:FOODON_00002323"
+curcuma (FOBI:008139)
+
+Dairy products "dairy food product:FOODON_00001256"
+Dairy products (FOBI:0005)
+
+Diet carbonated soft drinks "soft drink:FOODON_03310815"
+Diet carbonated soft drinks (FOBI:00539)
+
+Dishes "food (ready-to-serve):FOODON_03316636"
+Dishes (FOBI:040220)
+
+Distilled alcohols "beverage (alcoholic, distilled):FOODON_03317365"
+Distilled alcohols (FOBI:07576)
+
+Dried fruits "fruit (dried):FOODON_03305656"
+Dried fruits (FOBI:0058)
+
+Drupes "stone fruit food product:FOODON_00002277"
+Drupes (FOBI:0065)
+
+
+dry corn "field corn food product:FOODON_00001845"
+dry corn (FOBI:0279)
+
+duck "duck:FOODON_03411316"
+duck (FOBI:0189)
+egg "hen egg (whole):FOODON_03316061"
+egg (FOBI:0035)
+
+egg sandwich "egg salad sandwich:FOODON_03307770"
+egg sandwich (FOBI:007967)
+
+eggplant "eggplant (whole, raw):FOODON_03309709"
+eggplant (FOBI:0104)
+
+Eggs "hen egg (whole):FOODON_03316061"
+Eggs (FOBI:0033)
+
+endive "endive:FOODON_00002439"
+endive (FOBI:0110)
+
+fajitas (FOBI:007942)
+
+falafel "falafel (whole, cooked):FOODON_03310709"
+falafel (FOBI:007944)
+
+Fats "fat:FOODON_00003265"
+Fats (FOBI:0037)
+
+Fats and oils "lipid food product:FOODON_00002664"
+Fats and oils (FOBI:0036)
+Fermented alcohols "alcohol:chebi_30879"
+Fermented alcohols (FOBI:0021)
+Fermented milk products "milk product (fermented):FOODON_03315513"
+Fermented milk products (FOBI:0017)
+figs "fig (whole):FOODON_00003266"
+figs (FOBI:0074)
+
+Fish "fish:FOODON_03411222"
+Fish (FOBI:0174)
+
+flavored water "beverage (water-based, flavored, nonalcoholic):FOODON_03316114"
+flavored water (FOBI:07516)
+
+Flavoring agents "flavouring additive:FOODON_00003267"
+Flavoring agents (FOBI:07560)
+
+flour "flour:FOODON_03301116"
+flour (FOBI:0269)
+
+fondue bourguignonne "Burgundy fondue:FOODON_00003264"
+fondue bourguignonne (FOBI:007931)
+
+fondue savoyarde "fondue savoyarde:FOODON_00003263"
+fondue savoyarde (FOBI:007932)
+
+fruit cake "fruitcake:FOODON_03301635"
+fruit cake (FOBI:07555)
+
+Fruits "plant fruit food product:FOODON_00001057"
+Fruits (FOBI:0049)
+
+garlic "garlic (whole, raw):FOODON_03305208"
+garlic (FOBI:0124)
+garlic bread "garlic bread:FOODON_03302379"
+garlic bread (FOBI:07540)
+gin "gin:FOODON_03309491"
+gin (FOBI:07582)
+ginger "ginger root:FOODON_00002718"
+ginger (FOBI:0150)
+gnocchi "gnocchi:FOODON_03317446"
+gnocchi (FOBI:007946)
+Goat "goat:FOODON_03411328"
+Goat (FOBI:0202)
+Gourds "gourd vegetable food product:FOODON_00001915"
+Gourds (FOBI:0071)
+Grains "grain plant (food source):FOODON_03411324"
+Grains (FOBI:0139)
+grapefruit "grapefruit (whole, raw):FOODON_03301702"
+grapefruit (FOBI:0061)
+Grapes "grape (whole, raw):FOODON_03301123"
+Grapes (FOBI:008103)
+gravy "gravy:FOODON_03310820"
+gravy (FOBI:07529)
+
+greek yogurt "strained yogurt:FOODON_00003258"
+greek yogurt (FOBI:07537)
+
+green tea "green tea leaf (dry):FOODON_03304639"
+green tea (FOBI:0030)
+
+guava "guava (whole, raw):FOODON_03305317"
+guava (FOBI:0081)
+
+hachis parmentier "hachis parmentier:FOODON_00003261"
+hachis parmentier (FOBI:007933)
+
+hake "hake:FOODON_03413878"
+hake (FOBI:0183)
+ham "ham food product:FOODON_00002502"
+ham (FOBI:0208)
+hamburger "beef hamburger (dish):FOODON_00002737"
+hamburger (FOBI:0198)
+hazelnut "hazelnut:FOODON_00002933"
+hazelnut (FOBI:040226)
+Herbs "herb:FOODON_00003042"
+Herbs (FOBI:0122)
+Herbs and spices "spice or herb:FOODON_00001242"
+Herbs and spices (FOBI:0121)
+honey "honey:uberon_0036016"
+honey (FOBI:0169)
+Hot sauces "hot sauce:FOODON_03304006"
+Hot sauces (FOBI:040224)
+hummus "hummus:FOODON_00003049"
+hummus (FOBI:007947)
+
+ipa "india pale ale:FOODON_00003257"
+ipa (FOBI:07519)
+
+kale "kale leaf (raw):FOODON_03304859"
+kale (FOBI:07564)
+kebab "shish kebab:FOODON_00002528"
+kebab (FOBI:007948)
+kefir "kefir:FOODON_03310290"
+kefir (FOBI:07570)
+ketchup "tomato catsup:FOODON_03301460"
+ketchup (FOBI:07559)
+kiwi "kiwi:FOODON_03414363"
+kiwi (FOBI:0062)
+Lamb "lamb:FOODON_03411669"
+Lamb (FOBI:0204)
+lasagne "lasagne food product:FOODON_00001302"
+lasagne (FOBI:007949)
+Leafy vegetables "leafy vegetable:FOODON_03411566"
+Leafy vegetables (FOBI:0107)
+Lean meat "meat food product:FOODON_00001006"
+Lean meat (FOBI:0185)
+leek "leek (whole, raw):FOODON_03311757"
+leek (FOBI:0126)
+Legumes "pod or seed vegetable plant:FOODON_03411156"
+Legumes (FOBI:0136)
+lemon "lemon (whole, raw):FOODON_03301441"
+lemon (FOBI:0063)
+Lentils "lentil (whole):FOODON_03310641"
+Lentils (FOBI:0156)
+lettuce "lettuce vegetable food product:FOODON_00001998"
+lettuce (FOBI:0111)
+mackerel "mackerel:FOODON_03411043"
+mackerel (FOBI:0184)
+mango "mango (whole, raw):FOODON_03301813"
+mango (FOBI:0082)
+margarine "margarine:FOODON_03301672"
+margarine (FOBI:0039)
+
+mascarpone "mascarpone:FOODON:00003255"
+mascarpone (FOBI:08721)
+
+mayonnaise "mayonnaise:FOODON_03301440"
+mayonnaise (FOBI:07558)
+
+
+Meats "meat food product:FOODON_00001006"
+Meats (FOBI:0172)
+melon "melon (raw):FOODON_03301593"
+melon (FOBI:0072)
+
+milk "cow milk (fluid):FOODON_03302116"
+milk (FOBI:0007)
+
+Milk products "milk or milk based food product:FOODON_00001257"
+Milk products (FOBI:0020)
+
+millefeuille "mille-feuille pastry:FOODON_00003254"
+millefeuille (FOBI:007951)
+
+Molluscs "molluscs:FOODON_03412112"
+Molluscs (FOBI:0218)
+
+moussaka "moussaka:FOODON_00003253"
+moussaka (FOBI:007952)
+
+muesli "muesli:FOODON_00003230"
+muesli (FOBI:07536)
+mushroom "mushroom:FOODON_00001287"
+mushroom (FOBI:0133)
+
+Mushrooms "mushroom food product:FOODON_00002434"
+Mushrooms (FOBI:0132)
+natural yogurt "yogurt food product:FOODON_00001014"
+natural yogurt (FOBI:07538)
+nectarine "nectarine (whole, raw):FOODON_03301107"
+nectarine (FOBI:07530)
+
+noodles "noodle:FOODON_03306944"
+noodles (FOBI:0276)
+
+Nuts "nut (whole or part):FOODON_03306632"
+Nuts (FOBI:0151)
+
+oat "whole oats (raw):FOODON_03309855"
+oat (FOBI:0146)
+octopus "octopus:FOODON_03411514"
+octopus (FOBI:0219)
+Oils "oil:FOODON_03310387"
+Oils (FOBI:0040)
+olive "olive (whole, ripe):FOODON_03315145"
+olive (FOBI:0047)
+olive oil "olive oil:FOODON_03301826"
+olive oil (FOBI:0046)
+
+omelette "omelette:FOODON:00003252"
+omelette (FOBI:007985)
+
+onion "onion (whole, raw):FOODON_03301704"
+onion (FOBI:0127)
+
+orange "orange (whole, raw):FOODON_03309832"
+orange (FOBI:0064)
+orange juice "orange juice:FOODON_03301103"
+orange juice (FOBI:07532)
+oregano "oregano (ground):FOODON_03301482"
+oregano (FOBI:07571)
+Other prepared foods "prepared food product:FOODON_00001180"
+Other prepared foods (FOBI:040229)
+
+Ox "ox:FOODON_00003251"
+Ox (FOBI:0271)
+
+paella "paella:FOODON:00003250
+paella (FOBI:007953)
+
+palm oil "palm oil:FOODON_03310232"
+palm oil (FOBI:0043)
+pancake "pancake:FOODON_03315258"
+pancake (FOBI:07563)
+
+pancetta "pancetta:FOODON_00003249"
+pancetta (FOBI:0209)
+
+panini "panini:FOODON_00003248"
+panini (FOBI:007954)
+
+papaya "papaya (whole, raw):FOODON_03301830"
+papaya (FOBI:0083)
+paprika "paprika:FOODON_03301105"
+paprika (FOBI:07566)
+
+parmesan "parmesan cheese:FOODON_00003247"
+parmesan (FOBI:07574)
+
+Pasta "pasta:FOODON_03306347"
+Pasta (FOBI:0143)
+peach "peach (whole, raw):FOODON_03301719"
+peach (FOBI:0069)
+peanut butter "peanut butter:FOODON_03306867"
+peanut butter (FOBI:07535)
+peanuts "peanut (whole, raw):FOODON_03301299"
+peanuts (FOBI:07534)
+pear "pear (whole, raw):FOODON_03301724"
+pear (FOBI:0077)
+Peas "pea (whole):FOODON_03301300"
+Peas (FOBI:0160)
+
+pepper "bell pepper:FOODON:00003013"
+pepper (FOBI:0095)
+
+philadelphia "cream cheese:FOODON_03301889"
+philadelphia (FOBI:07550)
+
+pineapple "pineapple (whole, raw):FOODON_03301831"
+pineapple (FOBI:0084)
+
+pizza "pizza food product:FOODON_03310775"
+pizza (FOBI:007955)
+plum "plum (whole, raw):FOODON_03301580"
+plum (FOBI:0070)
+polenta "polenta (food product):FOODON_03317508"
+polenta (FOBI:0280)
+pomegranate "pomegranate (whole, raw):FOODON_00003066"
+pomegranate (FOBI:0085)
+Pomes "pomaceous fruit food product:FOODON_00001158"
+Pomes (FOBI:0075)
+Pork "swine:FOODON_03411136"
+Pork (FOBI:0206)
+porridge "porridge:FOODON_03311555"
+porridge (FOBI:007982)
+potato "potato (whole, raw):FOODON_03301449"
+potato (FOBI:0115)
+Poultry "poultry meat food product:FOODON_00001131"
+Poultry (FOBI:0186)
+Prepared foods "prepared food product:FOODON_00001180"
+Prepared foods (FOBI:07508)
+
+proscuitto "proscuitto:FOODON_00003246"
+proscuitto (FOBI:0211)
+
+prune "prune food product:FOODON_00002176"
+prune (FOBI:0066)
+pudding "pudding:FOODON_03301660"
+pudding (FOBI:007957)
+Pulses "pulse food product:FOODON_00001209"
+Pulses (FOBI:0137)
+pumpkin "pumpkin (whole, raw):FOODON_03301697"
+pumpkin (FOBI:0096)
+
+quenelle "quenelle:FOODON_00003245"
+quenelle (FOBI:007958)
+
+quiche "quiche:FOODON_03307177"
+quiche (FOBI:007959)
+quinoa "quinoa seed (dried):FOODON_03310193"
+quinoa (FOBI:0147)
+rabbit "rabbit:FOODON_03411323"
+rabbit (FOBI:0191)
+raclette "semihard cheese:FOODON_03316148"
+raclette (FOBI:007961)
+radish "radish (whole, raw):FOODON_03304656"
+radish (FOBI:0090)
+raisins "raisin (whole):FOODON_03301283"
+raisins (FOBI:0059)
+
+
+raspberry "raspberry (whole, raw):FOODON_03307119"
+raspberry (FOBI:0056)
+
+ratatouille "ratatouille:FOODON_00003239"
+ratatouille (FOBI:007962)
+
+ravioli "ravioli pasta:FOODON_03304595"
+ravioli (FOBI:0278)
+Red meat "meat food product:FOODON_00001006"
+Red meat (FOBI:0193)
+red pepper "hot pepper vegetable food product:FOODON_00001956"
+red pepper (FOBI:0097)
+red tea "tea food product:FOODON_03315081"
+red tea (FOBI:0031)
+
+red velvet "sweet potato (red velvet variety, raw):FOODON_03307126"
+red velvet (FOBI:07590)
+
+red wine "red wine:FOODON_03310272"
+red wine (FOBI:07541)
+Refined grain cereal products "cereal grain:FOODON_03301941, grain product:FOODON_03311095"
+Refined grain cereal products (FOBI:0141)
+rhubarb "rhubarb stalk (whole, raw):FOODON_03309858"
+rhubarb (FOBI:0112)
+ribs "rib:uberon_0002228"
+ribs (FOBI:0212)
+rice "rice grain food product:FOODON_03301641"
+rice (FOBI:0144)
+rice cake "rice cake (food product):FOODON_03309985"
+rice cake (FOBI:07547)
+ricotta "ricotta cheese:FOODON_03302908"
+ricotta (FOBI:07586)
+
+risotto "risotto:FOODON_00003238"
+risotto (FOBI:007963)
+
+rocket "rocket (raw):FOODON_03310858"
+rocket (FOBI:0091)
+
+roquefort "roquefort cheese:FOODON_00002424"
+roquefort (FOBI:07573)
+
+rye "rye food product:FOODON_00001190"
+rye (FOBI:008142)
+salad "salad:FOODON_03316042"
+salad (FOBI:007964)
+salami "salami:FOODON_03312067"
+salami (FOBI:0213)
+salmon "salmon food product:FOODON_00002220"
+salmon (FOBI:0177)
+
+salt "table salt:FOODON_03309954"
+salt (FOBI:07561)
+
+sandwich "sandwich:FOODON_03301906"
+sandwich (FOBI:007965)
+Sandwiches "sandwich:FOODON_03301906"
+Sandwiches (FOBI:040228)
+sardines "sardine:FOODON_03411558"
+sardines (FOBI:0178)
+Sauces "sauce:FOODON_03311146"
+Sauces (FOBI:07557)
+sauerkraut "sauerkraut:FOODON_03301397"
+sauerkraut (FOBI:0281)
+sausages "sausage (formed):FOODON_03315904"
+sausages (FOBI:0214)
+Seafood "seafood product:FOODON_00001046"
+Seafood (FOBI:0215)
+semi skimmed milk "cow milk (semi-skimmed):FOODON_03307458
+semi skimmed milk (FOBI:0008)
+shallot "shallot (whole, raw):FOODON_00003019"
+shallot (FOBI:0134)
+
+Shoot vegetables "stem or spear vegetable:FOODON_03411005"
+Shoot vegetables (FOBI:0128)
+
+shrimp "shrimp:FOODON_03411237"
+shrimp (FOBI:0217)
+sirloin "sirloin:FOODON_03530027"
+sirloin (FOBI:0199)
+
+skimmed milk "lowfat cow milk:FOODON_03301483"
+skimmed milk (FOBI:0009)
+
+souffle "souffle:FOODON_00003244"
+souffle (FOBI:007968)
+
+soup "soup food product:FOODON_00002257"
+soup (FOBI:007969)
+Soups "soup food product:FOODON_00002257"
+Soups (FOBI:040227)
+
+Soy "soybean (whole):FOODON_03301415"
+Soy (FOBI:00898)
+
+
+soy oil "oil:FOODON_03310387"
+soy oil (FOBI:0044)
+
+spaghetti "spaghetti macaroni:FOODON_03301005"
+spaghetti (FOBI:0277)
+
+sparkling water "mineral water (carbonated):FOODON_03307294"
+sparkling water (FOBI:07515)
+
+Spices "spice:FOODON_03303380"
+Spices (FOBI:0123)
+spinach "spinach (whole, raw):FOODON_03301716"
+spinach (FOBI:0113)
+squash "squash (whole, raw):FOODON_03301577"
+squash (FOBI:07533)
+squid "squid:FOODON_03411205"
+squid (FOBI:0220)
+steak "beef steak (raw):FOODON_03311663"
+steak (FOBI:0200)
+stew "stew:FOODON_00003140"
+stew (FOBI:007970)
+strawberry "strawberry (whole, raw):FOODON_03301722"
+strawberry (FOBI:0057)
+Sugars "sugar:FOODON_03420108"
+Sugars (FOBI:0163)
+sunflower oil "sunflower seed oil:FOODON_03310357"
+sunflower oil (FOBI:0045)
+
+sushi "sushi:FOODON_00003243"
+sushi (FOBI:007971)
+
+sweet potato "morning-glory family:FOODON_03414741"
+sweet potato (FOBI:07531)
+
+tabbouleh "tabbouleh:FOODON_00003242"
+tabbouleh (FOBI:007972)
+
+taco "taco:FOODON_03307744"
+taco (FOBI:007973)
+tagine "tagine:FOODON_00003241"
+tagine (FOBI:007975)
+
+tartiflette "tartiflette:FOODON_00003240"
+tartiflette (FOBI:007976)
+
+tea "tea food product:FOODON_03315081"
+tea (FOBI:040231)
+
+Tea products "tea based beverage product:FOODON_00001138"
+Tea products (FOBI:0028)
+
+tiramisu "dessert food:FOODON_03303220"
+tiramisu (FOBI:08720)
+toast "toast:FOODON_03306255"
+toast (FOBI:07509)
+tomato "tomato (whole, raw):FOODON_03309927"
+tomato (FOBI:0105)
+tomato sauce "tomato sauce:FOODON_03301217"
+tomato sauce (FOBI:07562)
+tropezienne "tropezienne:FOODON_00003231"
+tropezienne (FOBI:007977)
+Tropical fruits "tropical fruit (whole, raw):FOODON_03305237"
+Tropical fruits (FOBI:0078)
+trout "trout:FOODON_03411258"
+trout (FOBI:0179)
+Tubers "tuber:po_0025522"
+Tubers (FOBI:0130)
+tuna "tuna:FOODON_03411269"
+tuna (FOBI:0180)
+turkey "turkey:gaz_00000558"
+turkey (FOBI:0190)
+turnip "turnip (whole, raw):FOODON_03307633"
+turnip (FOBI:0098)
+
+veal "veal:FOODON_00003083"
+veal (FOBI:0201)
+Vegetable fats "vegetable fat food product:FOODON_03316694"
+Vegetable fats (FOBI:0038)
+Vegetable oils "vegetable oil:FOODON_03305263"
+Vegetable oils (FOBI:0041)
+Vegetables "vegetable food product:FOODON_00001261"
+Vegetables (FOBI:0050)
+
+
+
+vinegar "vinegar:FOODON_03301705"
+vinegar (FOBI:07569)
+vodka "vodka:FOODON_03305518"
+vodka (FOBI:07578)
+watermelon "watermelon (whole, raw):FOODON_03301040"
+watermelon (FOBI:0073)
+
+Waters "water food product:FOODON_00002340"
+Waters (FOBI:07513)
+
+
+wheat "wheat:FOODON_03315184"
+wheat (FOBI:008141)
+whiskey "whiskey:FOODON_03302775"
+whiskey (FOBI:07577)
+white bread "white bread:FOODON_03301055"
+white bread (FOBI:07523)
+White fish "fat content <=3%:FOODON_03530264"
+White fish (FOBI:0181)
+white sugar "white sugar:FOODON_03420157"
+white sugar (FOBI:0170)
+white wine "white wine:FOODON_03310273"
+white wine (FOBI:07575)
+
+
+whole milk "cow whole milk (pasteurized):FOODON_03306581"
+whole milk (FOBI:07543) # was whole milk "milk:uberon_0001913, whole:FOODON_03430131"
+
+
+wine "wine (food product):FOODON_03303222"
+wine (FOBI:0023)
+yellow pepper "yellow bell pepper (whole, raw):FOODON_00003012"
+yellow pepper (FOBI:0274)
+yogurt "yogurt food product:FOODON_00001014"
+yogurt (FOBI:0012)
+
+zucchini "zucchini squash (whole):FOODON_03310943"
+zucchini (FOBI:0106)
+
+
+
+
+
+
+# OPTIONAL TOP-LEVEL CLASS
+Foods "foodon product type:FOODON_00001002"
+Foods (FOBI:0001)
+
+# double match to potato "chip"???
+crisp (FOBI:07522)
+
+# NO MATCH currently
+Dark yellow vegetables (FOBI:0092)
+
+# NO MATCH to avocado / olive category
+Fat vegetables (FOBI:0099)
+
+# ***** NO MATCH 
+diet coke (FOBI:07527)
+
+# NO MATCH
+filled (FOBI:007945)
+
+# No precise match currently; comming soon.
+Fruity vegetables "vegetable food product:FOODON_00001261"
+Fruity vegetables (FOBI:0101)
+
+# No precise match
+Fruits and vegetables "fruit:po_0009001, vegetable food product:FOODON_00001261"
+Fruits and vegetables (FOBI:0048)
+
+# no precise match - plant beverage minus juice, alchoholic stuff
+Infusions (FOBI:0024)
+
+meat wrap "flatbread wrap:FOODON_00002941, meat food product:FOODON_00001006"
+meat wrap (FOBI:007978)
+
+# ORGANIZING CATEGORY
+Nuts and legumes "legume food product:FOODON_00001264, nut (whole):FOODON_03303171"
+Nuts and legumes (FOBI:0135)
+
+# No match  - it is specific to sugars actually
+Baking goods (FOBI:0166)
+
+# ISSUE: no foodon onion grouping
+Onion family vegetables "family:ncbitaxon_family, onion (whole, raw):FOODON_03301704"
+Onion family vegetables (FOBI:0125)
+
+Pepsi (FOBI:07505)
+Pepsi Max (FOBI:07503)
+
+
+
+# ***** problem:
+# pint "pint:uo_0010028"
+pint (FOBI:07518)
+
+
+# ****** PROBLEM: Whole wheat bread????
+whole bread "bread food product:FOODON_00001183, whole:FOODON_03430131"
+whole bread (FOBI:07510)
+
+
+# ***** NO MATCH 
+weetabix (FOBI:07528)
+
+whole toast "toast:FOODON_03306255, whole:FOODON_03430131"
+whole toast (FOBI:07511)
+
+wholegrain (FOBI:0148)
+
+wholemeal (FOBI:07572)
+
+wholemeal bread "whole wheat bread:FOODON_03301119"
+wholemeal bread (FOBI:07524)
+
+
+# ****** breakfast cereal (whole grain) ??? ****
+Whole grain cereal products "cereal grain:FOODON_03301941, grain product:FOODON_03311095, seed, skin present, germ present:FOODON_03420133"
+Whole grain cereal products (FOBI:0145)
+
+# likely: https://fr.wikipedia.org/wiki/Blanquette_de_veau but can be other meats.
+blanquette (FOBI:007928)
+# NO MATCH
+Coca Cola (FOBI:07504)
+
+# NO MATCH
+Coca Cola Light (FOBI:07502)
+
+# NO MATCH
+Coca Cola Zero (FOBI:07501)
+
+# ***** NO MATCH 
+zero coke (FOBI:07584)
+
+# ***** NO MATCH 
+coke (FOBI:07585)
+
+
+Fanta (FOBI:07506)
+
+
+# ISSUE: Any pome fruit, or just apple?
+Pomes (FOBI:0075)
+
+raki (FOBI:07581)
+
+Unfermented milk products "dairy food product:FOODON_00001256"
+Unfermented milk products (FOBI:0018)
+
+
+Non vegetarian dishes "food (ready-to-serve):FOODON_03316636, vegetarian:genepio_0001040"
+Non vegetarian dishes (FOBI:040223)
+
+vegetarian bolognese "vegetarian:genepio_0001040"
+vegetarian bolognese (FOBI:007936)
+
+vegetarian chilli "chili con carne with beans (dish, vegetarian):FOODON_03317304"
+vegetarian chilli (FOBI:007981)
+vegetarian curry "curry (dish):FOODON_03306648, vegetarian:genepio_0001040"
+vegetarian curry (FOBI:007984)
+
+Vegetarian dishes "food (ready-to-serve):FOODON_03316636, vegetarian:genepio_0001040"
+Vegetarian dishes (FOBI:040222)
+
+vegetarian fajitas "vegetarian:genepio_0001040"
+vegetarian fajitas (FOBI:007943)
+vegetarian lasagne "lasagne food product:FOODON_00001302, vegetarian:genepio_0001040"
+vegetarian lasagne (FOBI:007950)
+vegetarian omelette "vegetarian:genepio_0001040"
+vegetarian omelette (FOBI:007986)
+vegetarian pizza "pizza food product:FOODON_03310775, vegetarian:genepio_0001040"
+vegetarian pizza (FOBI:007956)
+vegetarian quiche "quiche:FOODON_03307177, vegetarian:genepio_0001040"
+vegetarian quiche (FOBI:007960)
+vegetarian taco "taco:FOODON_03307744, vegetarian:genepio_0001040"
+vegetarian taco (FOBI:007974)
+vegetarian wrap "flatbread wrap:FOODON_00002941, vegetarian:genepio_0001040"
+vegetarian wrap (FOBI:007979)
