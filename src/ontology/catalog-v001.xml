@@ -2,9 +2,9 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1572482006574" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="fobi-edit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1572482006574" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="test.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1572482006574" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1572482006574" name="http://www.food_biomarker_ontology/FOBI" uri="FOBI.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1572839986060" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="fobi-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1572839986060" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="test.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1572839986060" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1572839986060" name="http://www.food_biomarker_ontology/FOBI" uri="FOBI.owl"/>
     </group>
 </catalog>

@@ -1,0 +1,144 @@
+
+# SEARCH ^(?<term>[^"]+)(?<foodon>"([^"]+):(FOODON_\d+)")\n(\1)\((?<fobi>FOBI:\d+)\)(.*)
+# REPLACE http://purl.obofoundry.org/obo/\4 # \6 \1 --> \3 \7
+
+
+# OPTIONAL TOP-LEVEL CLASS
+Foods "foodon product type:FOODON_00001002"
+Foods (FOBI:0001)
+
+# double match to potato "chip"???
+crisp (FOBI:07522)
+
+# NO MATCH currently
+Dark yellow vegetables (FOBI:0092)
+
+# CHEBI Doesn't imply food grade.
+Fermented alcohols "alcohol:chebi_30879"
+Fermented alcohols (FOBI:0021)
+
+# NO MATCH to avocado / olive category
+Fat vegetables (FOBI:0099)
+
+# ***** NO MATCH 
+diet coke (FOBI:07527)
+
+# NO MATCH
+filled (FOBI:007945)
+
+# No precise match currently; comming soon.
+Fruity vegetables "vegetable food product:FOODON_00001261"
+Fruity vegetables (FOBI:0101)
+
+# No precise match
+Fruits and vegetables "fruit:po_0009001, vegetable food product:FOODON_00001261"
+Fruits and vegetables (FOBI:0048)
+
+# no precise match - plant beverage minus juice, alchoholic stuff
+Infusions (FOBI:0024)
+
+meat wrap "flatbread wrap:FOODON_00002941, meat food product:FOODON_00001006"
+meat wrap (FOBI:007978)
+
+# ORGANIZING CATEGORY
+Nuts and legumes "legume food product:FOODON_00001264, nut (whole):FOODON_03303171"
+Nuts and legumes (FOBI:0135)
+
+# No match  - it is specific to sugars actually
+Baking goods (FOBI:0166)
+
+# ISSUE: no foodon onion grouping
+Onion family vegetables "family:ncbitaxon_family, onion (whole, raw):FOODON_03301704"
+Onion family vegetables (FOBI:0125)
+
+Pepsi (FOBI:07505)
+Pepsi Max (FOBI:07503)
+
+
+
+# ***** problem:
+# pint "pint:uo_0010028"
+pint (FOBI:07518)
+
+
+# ****** PROBLEM: Whole wheat bread????
+whole bread "bread food product:FOODON_00001183, whole:FOODON_03430131"
+whole bread (FOBI:07510)
+
+
+# ***** NO MATCH 
+weetabix (FOBI:07528)
+
+whole toast "toast:FOODON_03306255, whole:FOODON_03430131"
+whole toast (FOBI:07511)
+
+wholegrain (FOBI:0148)
+
+wholemeal (FOBI:07572)
+
+wholemeal bread "whole wheat bread:FOODON_03301119"
+wholemeal bread (FOBI:07524)
+
+
+# ****** breakfast cereal (whole grain) ??? ****
+Whole grain cereal products "cereal grain:FOODON_03301941, grain product:FOODON_03311095, seed, skin present, germ present:FOODON_03420133"
+Whole grain cereal products (FOBI:0145)
+
+# likely: https://fr.wikipedia.org/wiki/Blanquette_de_veau but can be other meats.
+blanquette (FOBI:007928)
+# NO MATCH
+Coca Cola (FOBI:07504)
+
+# NO MATCH
+Coca Cola Light (FOBI:07502)
+
+# NO MATCH
+Coca Cola Zero (FOBI:07501)
+
+# ***** NO MATCH 
+zero coke (FOBI:07584)
+
+# ***** NO MATCH 
+coke (FOBI:07585)
+
+
+Fanta (FOBI:07506)
+
+
+# ISSUE: Any pome fruit, or just apple?
+Pomes (FOBI:0075)
+
+raki (FOBI:07581)
+
+Unfermented milk products "dairy food product:FOODON_00001256"
+Unfermented milk products (FOBI:0018)
+
+
+Non vegetarian dishes "food (ready-to-serve):FOODON_03316636, vegetarian:genepio_0001040"
+Non vegetarian dishes (FOBI:040223)
+
+vegetarian bolognese "vegetarian:genepio_0001040"
+vegetarian bolognese (FOBI:007936)
+
+vegetarian chilli "chili con carne with beans (dish, vegetarian):FOODON_03317304"
+vegetarian chilli (FOBI:007981)
+vegetarian curry "curry (dish):FOODON_03306648, vegetarian:genepio_0001040"
+vegetarian curry (FOBI:007984)
+
+Vegetarian dishes "food (ready-to-serve):FOODON_03316636, vegetarian:genepio_0001040"
+Vegetarian dishes (FOBI:040222)
+
+vegetarian fajitas "vegetarian:genepio_0001040"
+vegetarian fajitas (FOBI:007943)
+vegetarian lasagne "lasagne food product:FOODON_00001302, vegetarian:genepio_0001040"
+vegetarian lasagne (FOBI:007950)
+vegetarian omelette "vegetarian:genepio_0001040"
+vegetarian omelette (FOBI:007986)
+vegetarian pizza "pizza food product:FOODON_03310775, vegetarian:genepio_0001040"
+vegetarian pizza (FOBI:007956)
+vegetarian quiche "quiche:FOODON_03307177, vegetarian:genepio_0001040"
+vegetarian quiche (FOBI:007960)
+vegetarian taco "taco:FOODON_03307744, vegetarian:genepio_0001040"
+vegetarian taco (FOBI:007974)
+vegetarian wrap "flatbread wrap:FOODON_00002941, vegetarian:genepio_0001040"
+vegetarian wrap (FOBI:007979)
