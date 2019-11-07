@@ -60,10 +60,10 @@
         <Class IRI="#FOBI:030606"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030739"/>
+        <Class IRI="#FOBI:07519"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07519"/>
+        <Class IRI="#FOBI:030739"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040014"/>
@@ -96,10 +96,10 @@
         <Class IRI="#FOBI:040011"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07518"/>
+        <Class IRI="#FOBI:0109"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0109"/>
+        <Class IRI="#FOBI:07518"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0218"/>
@@ -129,10 +129,10 @@
         <Class IRI="#FOBI:030491"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030608"/>
+        <Class IRI="#FOBI:0217"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0217"/>
+        <Class IRI="#FOBI:030608"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07517"/>
@@ -144,10 +144,10 @@
         <Class IRI="#FOBI:040230"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0108"/>
+        <Class IRI="#FOBI:030717"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030717"/>
+        <Class IRI="#FOBI:0108"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040036"/>
@@ -237,10 +237,10 @@
         <AnnotationProperty IRI="#FOBI:043480"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0190"/>
+        <Class IRI="#FOBI:0081"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0081"/>
+        <Class IRI="#FOBI:0190"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030383"/>
@@ -273,10 +273,10 @@
         <Class IRI="#FOBI:08821"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030471"/>
+        <Class IRI="#FOBI:030386"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030386"/>
+        <Class IRI="#FOBI:030471"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030495"/>
@@ -330,10 +330,10 @@
         <Class IRI="#FOBI:030623"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030405"/>
+        <Class IRI="#FOBI:030756"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030756"/>
+        <Class IRI="#FOBI:030405"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030647"/>
@@ -360,10 +360,10 @@
         <Class IRI="#FOBI:040106"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0103"/>
+        <Class IRI="#FOBI:040215"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040215"/>
+        <Class IRI="#FOBI:0103"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0212"/>
@@ -384,10 +384,10 @@
         <Class IRI="#FOBI:030755"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030646"/>
+        <Class IRI="#FOBI:030537"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030537"/>
+        <Class IRI="#FOBI:030646"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030404"/>
@@ -402,10 +402,10 @@
         <Class IRI="#FOBI:08692"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030428"/>
+        <Class IRI="#FOBI:0017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0017"/>
+        <Class IRI="#FOBI:030428"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030319"/>
@@ -477,10 +477,10 @@
         <Class IRI="#FOBI:030733"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030515"/>
+        <Class IRI="#FOBI:08809"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08809"/>
+        <Class IRI="#FOBI:030515"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030624"/>
@@ -498,10 +498,10 @@
         <Class IRI="#FOBI:030648"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030406"/>
+        <Class IRI="#FOBI:0039"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0039"/>
+        <Class IRI="#FOBI:030406"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08690"/>
@@ -510,13 +510,13 @@
         <Class IRI="#FOBI:0015"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:040214"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:0124"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040129"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:040214"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040105"/>
@@ -684,16 +684,16 @@
         <Class IRI="#FOBI:030737"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030519"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:030628"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040125"/>
+        <Class IRI="#FOBI:030519"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040210"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:040125"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="#FOBI:040238"/>
@@ -723,16 +723,16 @@
         <Class IRI="#FOBI:030699"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07564"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:030457"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030348"/>
+        <Class IRI="#FOBI:07564"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07540"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030348"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030651"/>
@@ -759,13 +759,13 @@
         <Class IRI="#FOBI:040093"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:0143"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:08653"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0034"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:0143"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0058"/>
@@ -774,13 +774,13 @@
         <Class IRI="#FOBI:08568"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0010"/>
+        <Class IRI="#FOBI:08677"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0167"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08677"/>
+        <Class IRI="#FOBI:0010"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0276"/>
@@ -795,10 +795,10 @@
         <Class IRI="#FOBI:030347"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030323"/>
+        <Class IRI="#FOBI:030432"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030432"/>
+        <Class IRI="#FOBI:030323"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030674"/>
@@ -819,10 +819,10 @@
         <Class IRI="#FOBI:030698"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007982"/>
+        <Class IRI="#FOBI:040094"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040094"/>
+        <Class IRI="#FOBI:007982"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040070"/>
@@ -831,10 +831,10 @@
         <Class IRI="#FOBI:0275"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08652"/>
+        <Class IRI="#FOBI:0142"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0142"/>
+        <Class IRI="#FOBI:08652"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0057"/>
@@ -843,13 +843,13 @@
         <Class IRI="#FOBI:08567"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0166"/>
+        <Class IRI="#FOBI:08676"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0033"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08676"/>
+        <Class IRI="#FOBI:0166"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030650"/>
@@ -861,19 +861,19 @@
         <Class IRI="#FOBI:030568"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030435"/>
+        <Class IRI="#FOBI:07586"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07586"/>
+        <Class IRI="#FOBI:030435"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030326"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07562"/>
+        <Class IRI="#FOBI:030459"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030459"/>
+        <Class IRI="#FOBI:07562"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030520"/>
@@ -903,10 +903,10 @@
         <Class IRI="#FOBI:0274"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08651"/>
+        <Class IRI="#FOBI:0141"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0141"/>
+        <Class IRI="#FOBI:08651"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08699"/>
@@ -921,13 +921,13 @@
         <Class IRI="#FOBI:040209"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07585"/>
+        <Class IRI="#FOBI:030458"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030349"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030458"/>
+        <Class IRI="#FOBI:07585"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030567"/>
@@ -957,19 +957,19 @@
         <Class IRI="#FOBI:040092"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0079"/>
+        <Class IRI="#FOBI:08674"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08674"/>
+        <Class IRI="#FOBI:0079"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0273"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08650"/>
+        <Class IRI="#FOBI:0140"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0140"/>
+        <Class IRI="#FOBI:08650"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0031"/>
@@ -981,10 +981,10 @@
         <Class IRI="#FOBI:0188"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030655"/>
+        <Class IRI="#FOBI:030546"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030546"/>
+        <Class IRI="#FOBI:030655"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030413"/>
@@ -996,16 +996,16 @@
         <Class IRI="#FOBI:030679"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030437"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:07584"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030740"/>
+        <Class IRI="#FOBI:030437"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007963"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030740"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030631"/>
@@ -1038,10 +1038,10 @@
         <Class IRI="#FOBI:030436"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030545"/>
+        <Class IRI="#FOBI:030678"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030678"/>
+        <Class IRI="#FOBI:030545"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07583"/>
@@ -1050,10 +1050,10 @@
         <Class IRI="#FOBI:030569"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007986"/>
+        <Class IRI="#FOBI:040090"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040090"/>
+        <Class IRI="#FOBI:007986"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030630"/>
@@ -1071,10 +1071,10 @@
         <Class IRI="#FOBI:030521"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0013"/>
+        <Class IRI="#FOBI:08696"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08696"/>
+        <Class IRI="#FOBI:0013"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0037"/>
@@ -1095,10 +1095,10 @@
         <Class IRI="#FOBI:040208"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030524"/>
+        <Class IRI="#FOBI:030633"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030633"/>
+        <Class IRI="#FOBI:030524"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030657"/>
@@ -1116,19 +1116,19 @@
         <Class IRI="#FOBI:030500"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030742"/>
+        <Class IRI="#FOBI:007961"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007961"/>
+        <Class IRI="#FOBI:030742"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08671"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0012"/>
+        <Class IRI="#FOBI:0121"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0121"/>
+        <Class IRI="#FOBI:0012"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08695"/>
@@ -1170,10 +1170,10 @@
         <Class IRI="#FOBI:030547"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007984"/>
+        <Class IRI="#FOBI:030741"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030741"/>
+        <Class IRI="#FOBI:007984"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030632"/>
@@ -1200,16 +1200,16 @@
         <Class IRI="#FOBI:0168"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0277"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:040206"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0011"/>
+        <Class IRI="#FOBI:0277"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0144"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:0011"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07581"/>
@@ -1275,10 +1275,10 @@
         <Class IRI="#FOBI:007966"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07523"/>
+        <Class IRI="#FOBI:007942"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007942"/>
+        <Class IRI="#FOBI:07523"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030387"/>
@@ -1332,19 +1332,19 @@
         <Class IRI="#FOBI:007965"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07546"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:007941"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030499"/>
+        <Class IRI="#FOBI:07546"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030366"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07522"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030499"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040160"/>
@@ -1374,7 +1374,7 @@
         <Class IRI="#FOBI:030342"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030693"/>
+        <Class IRI="#FOBI:030584"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08659"/>
@@ -1383,7 +1383,7 @@
         <Class IRI="#FOBI:0072"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030584"/>
+        <Class IRI="#FOBI:030693"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030451"/>
@@ -1392,25 +1392,25 @@
         <Class IRI="#FOBI:0181"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:007964"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030389"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:030498"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07545"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030389"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:007964"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:030365"/>
+        <Class IRI="#FOBI:007940"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07521"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007940"/>
+        <Class IRI="#FOBI:030365"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040161"/>
@@ -1428,25 +1428,25 @@
         <Class IRI="#FOBI:040185"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:030341"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:030450"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030341"/>
+        <Class IRI="#FOBI:0071"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030692"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0071"/>
+        <Class IRI="#FOBI:030583"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08658"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0095"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:030583"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0180"/>
@@ -1461,19 +1461,19 @@
         <Class IRI="#FOBI:030695"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030453"/>
+        <Class IRI="#FOBI:030368"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030368"/>
+        <Class IRI="#FOBI:030453"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07568"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07544"/>
+        <Class IRI="#FOBI:030344"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030344"/>
+        <Class IRI="#FOBI:07544"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040182"/>
@@ -1491,10 +1491,10 @@
         <Class IRI="#FOBI:0163"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08657"/>
+        <Class IRI="#FOBI:0030"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0030"/>
+        <Class IRI="#FOBI:08657"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0054"/>
@@ -1503,10 +1503,10 @@
         <Class IRI="#FOBI:030320"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030562"/>
+        <Class IRI="#FOBI:030671"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030671"/>
+        <Class IRI="#FOBI:030562"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007947"/>
@@ -1515,19 +1515,19 @@
         <Class IRI="#FOBI:007946"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030367"/>
+        <Class IRI="#FOBI:07567"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07567"/>
+        <Class IRI="#FOBI:030367"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030585"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030343"/>
+        <Class IRI="#FOBI:07543"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07543"/>
+        <Class IRI="#FOBI:030343"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040050"/>
@@ -1587,19 +1587,19 @@
         <Class IRI="#FOBI:030346"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030588"/>
+        <Class IRI="#FOBI:030697"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030697"/>
+        <Class IRI="#FOBI:030588"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030322"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07566"/>
+        <Class IRI="#FOBI:030455"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030455"/>
+        <Class IRI="#FOBI:07566"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040095"/>
@@ -1620,10 +1620,10 @@
         <Class IRI="#FOBI:08679"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08655"/>
+        <Class IRI="#FOBI:0076"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0076"/>
+        <Class IRI="#FOBI:08655"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030540"/>
@@ -1644,19 +1644,19 @@
         <Class IRI="#FOBI:007968"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030369"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:007944"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030345"/>
+        <Class IRI="#FOBI:030369"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030454"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07589"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030454"/>
+        <Class IRI="#FOBI:030345"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030563"/>
@@ -1692,16 +1692,16 @@
         <Class IRI="#FOBI:08569"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0075"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:08678"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08654"/>
+        <Class IRI="#FOBI:0075"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0099"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:08654"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030430"/>
@@ -1719,19 +1719,19 @@
         <Class IRI="#FOBI:030619"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040110"/>
+        <Class IRI="#FOBI:030704"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030704"/>
+        <Class IRI="#FOBI:040110"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0208"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030728"/>
+        <Class IRI="#FOBI:07508"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07508"/>
+        <Class IRI="#FOBI:030728"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040025"/>
@@ -1773,10 +1773,10 @@
         <Class IRI="#FOBI:040220"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030618"/>
+        <Class IRI="#FOBI:0207"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0207"/>
+        <Class IRI="#FOBI:030618"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040135"/>
@@ -1899,10 +1899,10 @@
         <Class IRI="#FOBI:040154"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:008139"/>
+        <Class IRI="#FOBI:040130"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040130"/>
+        <Class IRI="#FOBI:008139"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040069"/>
@@ -1917,16 +1917,16 @@
         <Class IRI="#FOBI:08811"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030396"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:0070"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030372"/>
+        <Class IRI="#FOBI:030396"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0094"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030372"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08702"/>
@@ -2001,10 +2001,10 @@
         <Class IRI="#FOBI:08700"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030374"/>
+        <Class IRI="#FOBI:0092"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0092"/>
+        <Class IRI="#FOBI:030374"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030592"/>
@@ -2031,10 +2031,10 @@
         <Class IRI="#FOBI:040153"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0209"/>
+        <Class IRI="#FOBI:040044"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040044"/>
+        <Class IRI="#FOBI:0209"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040020"/>
@@ -2061,10 +2061,10 @@
         <Class IRI="#FOBI:0091"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030611"/>
+        <Class IRI="#FOBI:030502"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030502"/>
+        <Class IRI="#FOBI:030611"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030744"/>
@@ -2091,10 +2091,10 @@
         <Class IRI="#FOBI:08681"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040118"/>
+        <Class IRI="#FOBI:040203"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040203"/>
+        <Class IRI="#FOBI:040118"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0200"/>
@@ -2118,10 +2118,10 @@
         <Class IRI="#FOBI:030416"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030525"/>
+        <Class IRI="#FOBI:030658"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030658"/>
+        <Class IRI="#FOBI:030525"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030610"/>
@@ -2154,10 +2154,10 @@
         <Class IRI="#FOBI:030722"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030613"/>
+        <Class IRI="#FOBI:030504"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030504"/>
+        <Class IRI="#FOBI:030613"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030746"/>
@@ -2166,10 +2166,10 @@
         <Class IRI="#FOBI:0137"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030528"/>
+        <Class IRI="#FOBI:030637"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030637"/>
+        <Class IRI="#FOBI:030528"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0028"/>
@@ -2184,10 +2184,10 @@
         <Class IRI="#FOBI:040007"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0113"/>
+        <Class IRI="#FOBI:040225"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040225"/>
+        <Class IRI="#FOBI:0113"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040116"/>
@@ -2205,10 +2205,10 @@
         <Class IRI="#FOBI:030745"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030636"/>
+        <Class IRI="#FOBI:030503"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030503"/>
+        <Class IRI="#FOBI:030636"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0269"/>
@@ -2220,19 +2220,19 @@
         <Class IRI="#FOBI:030527"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040202"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:0003"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040117"/>
+        <Class IRI="#FOBI:040202"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040226"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0136"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:040117"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040008"/>
@@ -2253,10 +2253,10 @@
         <Class IRI="#FOBI:0204"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030615"/>
+        <Class IRI="#FOBI:030506"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030506"/>
+        <Class IRI="#FOBI:030615"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030748"/>
@@ -2295,10 +2295,10 @@
         <Class IRI="#FOBI:030747"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030638"/>
+        <Class IRI="#FOBI:030505"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030505"/>
+        <Class IRI="#FOBI:030638"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030529"/>
@@ -2343,10 +2343,10 @@
         <Class IRI="#FOBI:040003"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040136"/>
+        <Class IRI="#FOBI:040221"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040221"/>
+        <Class IRI="#FOBI:040136"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040112"/>
@@ -2373,10 +2373,10 @@
         <Class IRI="#FOBI:0116"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030725"/>
+        <Class IRI="#FOBI:07509"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07509"/>
+        <Class IRI="#FOBI:030725"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030616"/>
@@ -2409,10 +2409,10 @@
         <Class IRI="#FOBI:040028"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08707"/>
+        <Class IRI="#FOBI:08816"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08816"/>
+        <Class IRI="#FOBI:08707"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07552"/>
@@ -2433,10 +2433,10 @@
         <Class IRI="#FOBI:030530"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:040190"/>
+        <Class IRI="#FOBI:030663"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030663"/>
+        <Class IRI="#FOBI:040190"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030445"/>
@@ -2463,10 +2463,10 @@
         <Class IRI="#FOBI:0046"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08689"/>
+        <Class IRI="#FOBI:0179"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0179"/>
+        <Class IRI="#FOBI:08689"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08665"/>
@@ -2508,25 +2508,25 @@
         <Class IRI="#FOBI:040082"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:08664"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:0045"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08664"/>
+        <Class IRI="#FOBI:0069"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0130"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0069"/>
+        <Class IRI="#FOBI:0178"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08688"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0021"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:0178"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030447"/>
@@ -2538,10 +2538,10 @@
         <Class IRI="#FOBI:07574"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030556"/>
+        <Class IRI="#FOBI:030689"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030689"/>
+        <Class IRI="#FOBI:030556"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07550"/>
@@ -2562,52 +2562,52 @@
         <Class IRI="#FOBI:030665"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0068"/>
+        <Class IRI="#FOBI:08663"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08663"/>
+        <Class IRI="#FOBI:0068"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0020"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08687"/>
+        <Class IRI="#FOBI:0177"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0177"/>
+        <Class IRI="#FOBI:08687"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0044"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030688"/>
+        <Class IRI="#FOBI:030579"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030579"/>
+        <Class IRI="#FOBI:030688"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030446"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07573"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:030337"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030531"/>
+        <Class IRI="#FOBI:07573"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030640"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:030531"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:040080"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030555"/>
+        <Class IRI="#FOBI:030664"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030664"/>
+        <Class IRI="#FOBI:030555"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030422"/>
@@ -2637,10 +2637,10 @@
         <Class IRI="#FOBI:030667"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07572"/>
+        <Class IRI="#FOBI:030449"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030449"/>
+        <Class IRI="#FOBI:07572"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030558"/>
@@ -2649,19 +2649,19 @@
         <Class IRI="#FOBI:007975"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030401"/>
+        <Class IRI="#FOBI:030752"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007951"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030752"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:030643"/>
+        <Class IRI="#FOBI:030401"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030510"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030643"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0220"/>
@@ -2697,22 +2697,22 @@
         <Class IRI="#FOBI:030448"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030751"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:007974"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030533"/>
+        <Class IRI="#FOBI:030751"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030642"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030400"/>
+        <Class IRI="#FOBI:030533"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007950"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030400"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08660"/>
@@ -2721,10 +2721,10 @@
         <Class IRI="#FOBI:0049"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0110"/>
+        <Class IRI="#FOBI:0001"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0001"/>
+        <Class IRI="#FOBI:0110"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08684"/>
@@ -2739,16 +2739,16 @@
         <Class IRI="#FOBI:07571"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030403"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:030754"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030645"/>
+        <Class IRI="#FOBI:030403"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030512"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030645"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030427"/>
@@ -2775,10 +2775,10 @@
         <Class IRI="#FOBI:0024"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08683"/>
+        <Class IRI="#FOBI:0048"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0048"/>
+        <Class IRI="#FOBI:08683"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040217"/>
@@ -2799,10 +2799,10 @@
         <Class IRI="#FOBI:030402"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030559"/>
+        <Class IRI="#FOBI:030668"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030668"/>
+        <Class IRI="#FOBI:030559"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030426"/>
@@ -2814,19 +2814,19 @@
         <Class IRI="#FOBI:030511"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030753"/>
+        <Class IRI="#FOBI:007972"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007972"/>
+        <Class IRI="#FOBI:030753"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08682"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0132"/>
+        <Class IRI="#FOBI:0023"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0023"/>
+        <Class IRI="#FOBI:0132"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0047"/>
@@ -2895,10 +2895,10 @@
         <Class IRI="#FOBI:030485"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030594"/>
+        <Class IRI="#FOBI:0062"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0062"/>
+        <Class IRI="#FOBI:030594"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0280"/>
@@ -2916,10 +2916,10 @@
         <Class IRI="#FOBI:07535"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030399"/>
+        <Class IRI="#FOBI:07511"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07511"/>
+        <Class IRI="#FOBI:030399"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07559"/>
@@ -2952,10 +2952,10 @@
         <Class IRI="#FOBI:030460"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0061"/>
+        <Class IRI="#FOBI:08648"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08648"/>
+        <Class IRI="#FOBI:0061"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030351"/>
@@ -2982,10 +2982,10 @@
         <Class IRI="#FOBI:030596"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030354"/>
+        <Class IRI="#FOBI:07510"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07510"/>
+        <Class IRI="#FOBI:030354"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040172"/>
@@ -3009,10 +3009,10 @@
         <Class IRI="#FOBI:030330"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030681"/>
+        <Class IRI="#FOBI:0060"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0060"/>
+        <Class IRI="#FOBI:030681"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030463"/>
@@ -3030,13 +3030,13 @@
         <Class IRI="#FOBI:007976"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:07557"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:030486"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007952"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:07557"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030377"/>
@@ -3072,10 +3072,10 @@
         <Class IRI="#FOBI:030353"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0083"/>
+        <Class IRI="#FOBI:030595"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030595"/>
+        <Class IRI="#FOBI:0083"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030462"/>
@@ -3084,10 +3084,10 @@
         <Class IRI="#FOBI:007935"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030356"/>
+        <Class IRI="#FOBI:07556"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07556"/>
+        <Class IRI="#FOBI:030356"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030465"/>
@@ -3096,13 +3096,13 @@
         <Class IRI="#FOBI:030574"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:030332"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:030489"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:008143"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FOBI:030332"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:07532"/>
@@ -3129,25 +3129,25 @@
         <Class IRI="#FOBI:0151"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0042"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:08645"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0199"/>
+        <Class IRI="#FOBI:0042"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0066"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FOBI:0199"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#FOBI:01501"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030683"/>
+        <Class IRI="#FOBI:030550"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030550"/>
+        <Class IRI="#FOBI:030683"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08669"/>
@@ -3156,10 +3156,10 @@
         <Class IRI="#FOBI:007959"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07531"/>
+        <Class IRI="#FOBI:007934"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007934"/>
+        <Class IRI="#FOBI:07531"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030597"/>
@@ -3171,16 +3171,16 @@
         <Class IRI="#FOBI:030464"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030355"/>
+        <Class IRI="#FOBI:008142"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030488"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:008142"/>
+        <Class IRI="#FOBI:07555"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07555"/>
+        <Class IRI="#FOBI:030355"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:040171"/>
@@ -3195,10 +3195,10 @@
         <Class IRI="#FOBI:040086"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0089"/>
+        <Class IRI="#FOBI:0198"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0198"/>
+        <Class IRI="#FOBI:0089"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0174"/>
@@ -3210,10 +3210,10 @@
         <Class IRI="#FOBI:08668"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0065"/>
+        <Class IRI="#FOBI:08644"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08644"/>
+        <Class IRI="#FOBI:0065"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030331"/>
@@ -3231,10 +3231,10 @@
         <Class IRI="#FOBI:007958"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07530"/>
+        <Class IRI="#FOBI:007957"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:007957"/>
+        <Class IRI="#FOBI:07530"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030358"/>
@@ -3243,22 +3243,22 @@
         <Class IRI="#FOBI:007933"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:008141"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:07578"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030685"/>
+        <Class IRI="#FOBI:008141"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030552"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:07554"/>
+        <Class IRI="#FOBI:030685"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030467"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:07554"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030576"/>
@@ -3276,22 +3276,22 @@
         <Class IRI="#FOBI:0197"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:08667"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#FOBI:0064"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:0088"/>
+        <Class IRI="#FOBI:08667"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:08643"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030661"/>
+        <Class IRI="#FOBI:0088"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:0040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FOBI:030661"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:007956"/>
@@ -3303,10 +3303,10 @@
         <Class IRI="#FOBI:007932"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030684"/>
+        <Class IRI="#FOBI:030575"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FOBI:030575"/>
+        <Class IRI="#FOBI:030684"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FOBI:030357"/>
@@ -34021,7 +34021,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030318</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16914</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16914</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34066,7 +34066,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030319</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:30764</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:30764</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34111,7 +34111,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030320</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:30763 | CHEBI:79323</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:30763</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34156,7 +34156,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030321</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:73961</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:73961</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34341,7 +34341,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030328</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68465</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68465</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34416,7 +34416,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030330</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:39912</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:39912</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34591,7 +34591,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030340</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18089</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18089</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34631,7 +34631,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030341</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:71018</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:71018</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34666,7 +34666,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030342</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:70824</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:70824</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34706,7 +34706,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030343</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:30816</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:30816</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34786,7 +34786,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030346</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:63798</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:63798</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -34861,7 +34861,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030349</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68329</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68329</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -34946,7 +34946,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030352</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:30778</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:30778</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35096,7 +35096,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030358</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28647</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28647</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35206,7 +35206,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030368</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28478</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28478</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35251,7 +35251,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030369</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17445</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17445</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35296,7 +35296,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030370</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18101</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18101</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35496,7 +35496,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030380</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:545959</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:545959</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35591,7 +35591,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030383</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18125 | CHEBI:18176</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18125</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35636,7 +35636,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030384</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32357 | CHEBI:47925</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32357</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35681,7 +35681,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030385</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32374 | CHEBI:36090</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32374</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -35876,7 +35876,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030392</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17395</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17395</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -36016,7 +36016,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030397</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16112</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16112</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36081,7 +36081,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030399</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16384</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16384</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36121,7 +36121,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030400</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:5995</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:5995</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36311,7 +36311,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030406</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17620</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17620</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36356,7 +36356,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030407</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27794</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27794</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36506,7 +36506,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030412</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15714 | CHEBI:60935 | CHEBI:77131</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:77131</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36591,7 +36591,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030415</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:1427</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:1427</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36631,7 +36631,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030416</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32980</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32980</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -36741,7 +36741,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030422</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:48400</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:48400</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37021,7 +37021,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030432</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16164</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16164</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37206,7 +37206,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030444</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18135</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18135</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37271,7 +37271,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030446</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68505</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68505</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -37311,7 +37311,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030447</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17254</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17254</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37446,7 +37446,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030452</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28591</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28591</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37481,7 +37481,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030453</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16207</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16207</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37526,7 +37526,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030454</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17597</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17597</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37561,7 +37561,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030455</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:50205</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:50205</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37636,7 +37636,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030457</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18346</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18346</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37721,7 +37721,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030460</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15600</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15600</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -37766,7 +37766,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030461</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:90</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:90</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -38001,7 +38001,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030485</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:76126</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:76126</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -38121,7 +38121,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030489</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:4806</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:4806</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -38156,7 +38156,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030490</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:75632</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:75632</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -38721,7 +38721,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030514</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17846</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17846</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -38896,7 +38896,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030523</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17377 | CHEBI:52058</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17377</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39021,7 +39021,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030528</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:1904</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:1904</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39061,7 +39061,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030529</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:1905</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:1905</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39106,7 +39106,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030530</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28197</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28197</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39296,7 +39296,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030537</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28088</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28088</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39486,7 +39486,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030544</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:34741</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:34741</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39576,7 +39576,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030547</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17574</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17574</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39661,7 +39661,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030550</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18088</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18088</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39746,7 +39746,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030553</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18388</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18388</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39821,7 +39821,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030555</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15864</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15864</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -39861,7 +39861,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030556</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:75726</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:75726</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -39936,7 +39936,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030558</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16243</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16243</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40061,7 +40061,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030562</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:6052</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:6052</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40161,7 +40161,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030565</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28499</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28499</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40201,7 +40201,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030566</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:75721</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:75721</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -40261,7 +40261,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030568</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17276</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17276</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40501,7 +40501,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030579</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:1879</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:1879</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40586,7 +40586,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030582</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68889</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68889</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -40781,7 +40781,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030590</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27881</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27881</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -40821,7 +40821,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030591</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:36002</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:36002</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -40961,7 +40961,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030596</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:84040</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:84040</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -41066,7 +41066,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030600</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:4582</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:4582</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41101,7 +41101,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030601</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:84039</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:84039</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -41151,7 +41151,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030603</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:84038</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:84038</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -41206,7 +41206,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030605</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:8198</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:8198</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41441,7 +41441,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030615</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:81556</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:81556</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41691,7 +41691,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030625</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15964</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15964</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41731,7 +41731,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030626</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32111</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32111</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41771,7 +41771,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030627</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32159</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32159</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41876,7 +41876,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030630</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15671</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15671</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41921,7 +41921,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030631</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:30769</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:30769</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -41966,7 +41966,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030632</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:50263 | CHEBI:6650</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:6650</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42031,7 +42031,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030634</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:31463</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:31463</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42071,7 +42071,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030635</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:31799</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:31799</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42111,7 +42111,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030636</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16307 | CHEBI:31967</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:31967</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42451,7 +42451,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030649</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:82912</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:82912</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -42511,7 +42511,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030651</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:41254</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:41254</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -42551,7 +42551,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030652</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68444</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68444</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42596,7 +42596,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030653</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:62207 | CHEBI:62208</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:62207</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42641,7 +42641,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030654</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:48991</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:48991</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42681,7 +42681,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030655</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:25858</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:25858</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42721,7 +42721,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030656</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28177</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28177</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42766,7 +42766,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030657</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28946</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28946</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42806,7 +42806,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030658</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27732</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27732</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42851,7 +42851,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030659</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68441</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68441</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -42966,7 +42966,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030662</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68447</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68447</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -43006,7 +43006,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030663</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68449</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68449</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43051,7 +43051,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030664</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:68531</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:68531</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43096,7 +43096,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030665</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:691622</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:691622</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43171,7 +43171,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030667</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32643</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32643</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43241,7 +43241,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030669</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:69439</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:69439</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -43296,7 +43296,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030671</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18112</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18112</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43391,7 +43391,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030674</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17691</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17691</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43456,7 +43456,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030676</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:74077</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:74077</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43526,7 +43526,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030678</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:45658</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:45658</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -43696,7 +43696,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030684</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:4828 | CHEBI:82707</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:4828</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -43731,7 +43731,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030685</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:35280</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:35280</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43771,7 +43771,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030686</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:81 | CHEBI:85533</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:85533</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43816,7 +43816,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030687</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15727 | CHEBI:57485</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15727</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43856,7 +43856,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030688</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18323 | CHEBI:58445</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18323</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43901,7 +43901,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030689</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:50599</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:50599</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -43941,7 +43941,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030690</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27596</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27596</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -43986,7 +43986,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030691</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16958 | CHEBI:57966</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16958</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44026,7 +44026,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030692</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17295 | CHEBI:58095</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17295</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44066,7 +44066,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030693</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:25998</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:25998</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -44101,7 +44101,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030694</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17385</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17385</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44146,7 +44146,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030695</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27480</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27480</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44191,7 +44191,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030696</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17884</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17884</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44231,7 +44231,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030697</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17895 | CHEBI:58315</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17895</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44276,7 +44276,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030698</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17847</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17847</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44316,7 +44316,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030699</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:82914</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:82914</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -44386,7 +44386,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030701</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16828 | CHEBI:57912</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16828</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44426,7 +44426,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030702</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:43355</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:43355</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -44501,7 +44501,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030704</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16411</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16411</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44541,7 +44541,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030705</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27823</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27823</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44586,7 +44586,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030706</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:11060</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:11060</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44626,7 +44626,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030707</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:57589</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:57589</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -44666,7 +44666,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030708</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16737</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16737</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44711,7 +44711,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030709</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15891 | CHEBI:507393</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15891</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44751,7 +44751,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030710</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:82392</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:82392</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44796,7 +44796,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030711</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15724</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15724</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44836,7 +44836,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030712</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18123</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18123</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44876,7 +44876,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030713</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15761</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15761</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44916,7 +44916,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030714</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:10219</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:10219</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -44991,7 +44991,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030716</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28374</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28374</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45031,7 +45031,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030717</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:9629</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:9629</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45071,7 +45071,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030718</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:2120</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:2120</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45306,7 +45306,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030726</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:63559</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:63559</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45466,7 +45466,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030732</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:63558</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:63558</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45506,7 +45506,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030733</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:80091</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:80091</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45581,7 +45581,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030736</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18048</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18048</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45621,7 +45621,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030737</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16603</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16603</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45696,7 +45696,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030739</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32365</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32365</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -45736,7 +45736,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030740</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27432</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27432</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45776,7 +45776,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030741</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16196</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16196</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45816,7 +45816,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030742</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28364</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28364</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45856,7 +45856,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030743</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28125</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28125</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45896,7 +45896,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030744</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17439</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17439</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -45966,7 +45966,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030746</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:35147</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:35147</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -46006,7 +46006,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030747</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17579</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17579</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46051,7 +46051,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030748</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:15948</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:15948</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46131,7 +46131,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030750</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27547</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27547</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46241,7 +46241,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030753</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:66682</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:66682</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46281,7 +46281,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030754</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:10362</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:10362</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46351,7 +46351,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030756</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:45530</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:45530</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -46386,7 +46386,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030757</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:17992 | CHEBI:65313</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:17992</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -46471,7 +46471,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:030759</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28645 | CHEBI:29084</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:28757</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -48946,7 +48946,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:040234</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI</Literal>
+        <Literal xml:lang="es" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -50097,11 +50097,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:07560</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">flavoring agent</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="#FOBI:040234"/>
-        <IRI>#FOBI:07561</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">﻿CHEBI:24866</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:043480"/>
@@ -51576,7 +51571,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08681</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:64414</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:64414</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040236"/>
@@ -52776,7 +52771,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08823</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:16285</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:16285</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -52816,7 +52811,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08824</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:27997</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:27997</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -52856,7 +52851,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08825</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:28727 | CHEBI:36023</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:36023</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -52901,7 +52896,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08826</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:32798</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:32798</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -52941,7 +52936,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08827</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:9008</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:9008</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>
@@ -52981,7 +52976,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040234"/>
         <IRI>#FOBI:08828</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CHEBI:18095 | CHEBI:58375</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CHEBI:18095</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:040235"/>

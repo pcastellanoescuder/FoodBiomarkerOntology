@@ -2306,7 +2306,7 @@ relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "10732368 | 132 | 15957696" xsd:string
 property_value: FOBI:040233 "HMDB00500" xsd:string
-property_value: FOBI:040234 "CHEBI:30763 | CHEBI:79323" xsd:string
+property_value: FOBI:040234 CHEBI:30763 xsd:string
 property_value: FOBI:040235 "C00156" xsd:string
 property_value: FOBI:040236 "135 | 3702506" xsd:string
 property_value: FOBI:040237 "FJKROLUGYXJWQN-UHFFFAOYSA-N" xsd:string
@@ -3330,7 +3330,7 @@ relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "553146" xsd:string
 property_value: FOBI:040233 "HMDB02641" xsd:string
-property_value: FOBI:040234 "CHEBI:18125 | CHEBI:18176" xsd:string
+property_value: FOBI:040234 CHEBI:18125 xsd:string
 property_value: FOBI:040235 "C01772" xsd:string
 property_value: FOBI:040236 "637540" xsd:string
 property_value: FOBI:040237 "PMOWTIHVNWZYFI-AATRIKPKSA-N" xsd:string
@@ -3353,7 +3353,7 @@ relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "553147" xsd:string
 property_value: FOBI:040233 "HMDB01713" xsd:string
-property_value: FOBI:040234 "CHEBI:32357 | CHEBI:47925" xsd:string
+property_value: FOBI:040234 CHEBI:32357 xsd:string
 property_value: FOBI:040235 "C12621" xsd:string
 property_value: FOBI:040236 "637541" xsd:string
 property_value: FOBI:040237 "KKSDGJDHHZEWEP-SNAWJCMRSA-N" xsd:string
@@ -3376,7 +3376,7 @@ relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "553148" xsd:string
 property_value: FOBI:040233 "HMDB02035" xsd:string
-property_value: FOBI:040234 "CHEBI:32374 | CHEBI:36090" xsd:string
+property_value: FOBI:040234 CHEBI:32374 xsd:string
 property_value: FOBI:040235 "C00811" xsd:string
 property_value: FOBI:040236 "637542" xsd:string
 property_value: FOBI:040237 "NGSWKAQJJWESNS-ZZXKWVIFSA-N" xsd:string
@@ -3865,7 +3865,7 @@ relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf whole grain cereal product
 relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "553361" xsd:string
-property_value: FOBI:040234 "CHEBI:15714 | CHEBI:60935 | CHEBI:77131" xsd:string
+property_value: FOBI:040234 CHEBI:77131 xsd:string
 property_value: FOBI:040235 "C00482" xsd:string
 property_value: FOBI:040236 "637775" xsd:string
 property_value: FOBI:040237 "PCMORTLOPMLEFB-ONEGZZNKSA-N" xsd:string
@@ -5375,7 +5375,7 @@ name: bergaptol
 is_a: FOBI:040208 ! 5-hydroxypsoralens
 relationship: FOBI:00422 FOBI:0061 ! BiomarkerOf grapefruit
 property_value: FOBI:040232 "4444066" xsd:string
-property_value: FOBI:040234 "CHEBI:17377 | CHEBI:52058" xsd:string
+property_value: FOBI:040234 CHEBI:17377 xsd:string
 property_value: FOBI:040235 "C00758" xsd:string
 property_value: FOBI:040236 "5280371" xsd:string
 property_value: FOBI:040237 "GIJHDGJRTUSBJR-UHFFFAOYSA-N" xsd:string
@@ -6776,7 +6776,7 @@ is_a: FOBI:040063 ! beta hydroxy acids and derivatives
 relationship: FOBI:00422 FOBI:0076 ! BiomarkerOf apple
 property_value: FOBI:040232 "14080972 | 510" xsd:string
 property_value: FOBI:040233 "HMDB00744" xsd:string
-property_value: FOBI:040234 "CHEBI:50263 | CHEBI:6650" xsd:string
+property_value: FOBI:040234 CHEBI:6650 xsd:string
 property_value: FOBI:040235 "C00711 | C03668 | D04843" xsd:string
 property_value: FOBI:040236 "20130941 | 525" xsd:string
 property_value: FOBI:040237 "BJEPYKJPYRNKOW-UHFFFAOYSA-N" xsd:string
@@ -6829,7 +6829,7 @@ is_a: FOBI:040198 ! anthocyanidin-3-o-glycosides
 relationship: FOBI:00422 FOBI:0051 ! BiomarkerOf berry
 relationship: FOBI:00422 FOBI:07541 ! BiomarkerOf red wine
 property_value: FOBI:040232 "391782" xsd:string
-property_value: FOBI:040234 "CHEBI:16307 | CHEBI:31967" xsd:string
+property_value: FOBI:040234 CHEBI:31967 xsd:string
 property_value: FOBI:040235 "C12137" xsd:string
 property_value: FOBI:040236 "443648" xsd:string
 property_value: FOBI:040237 "ABVCUBUIXWJYSE-GQUPQBGVSA-O" xsd:string
@@ -7021,7 +7021,7 @@ relationship: FOBI:00422 FOBI:0027 ! BiomarkerOf coffee product
 relationship: FOBI:00422 FOBI:0028 ! BiomarkerOf tea product
 property_value: FOBI:040232 "11181189 | 63805" xsd:string
 property_value: FOBI:040233 "HMDB01886" xsd:string
-property_value: FOBI:040234 "CHEBI:62207 | CHEBI:62208" xsd:string
+property_value: FOBI:040234 CHEBI:62207 xsd:string
 property_value: FOBI:040235 "C16357" xsd:string
 property_value: FOBI:040236 "70639" xsd:string
 property_value: FOBI:040237 "GMSNIKWWOQHZGF-UHFFFAOYSA-N" xsd:string
@@ -7452,7 +7452,7 @@ is_a: FOBI:040201 ! histidine and derivatives
 relationship: FOBI:00422 FOBI:0132 ! BiomarkerOf mushroom
 property_value: FOBI:040232 "4508619" xsd:string
 property_value: FOBI:040233 "HMDB03045" xsd:string
-property_value: FOBI:040234 "CHEBI:4828 | CHEBI:82707" xsd:string
+property_value: FOBI:040234 CHEBI:4828 xsd:string
 property_value: FOBI:040236 "5351619 | 57509571" xsd:string
 property_value: FOBI:040237 "SSISHJJTAXXQAX-ZETCQYMHSA-N" xsd:string
 property_value: FOBI:040238 "InChI=1S/C9H15N3O2S/c1-12(2,3)7(8(13)14)4-6-5-10-9(15)11-6/h5,7H,4H2,1-3H3,(H2-,10,11,13,14,15)/t7-/m0/s1" xsd:string
@@ -7477,7 +7477,7 @@ name: 4-hydroxyproline betaine
 is_a: FOBI:040204 ! proline and derivatives
 relationship: FOBI:00422 FOBI:0060 ! BiomarkerOf citrus
 property_value: FOBI:040232 "144333" xsd:string
-property_value: FOBI:040234 "CHEBI:81 | CHEBI:85533" xsd:string
+property_value: FOBI:040234 CHEBI:85533 xsd:string
 property_value: FOBI:040235 "C08269" xsd:string
 property_value: FOBI:040236 "164642" xsd:string
 property_value: FOBI:040237 "MUNWAHDYFVYIKH-RITPCOANSA-N" xsd:string
@@ -7492,7 +7492,7 @@ relationship: FOBI:00422 FOBI:0185 ! BiomarkerOf lean meat
 relationship: FOBI:00422 FOBI:0193 ! BiomarkerOf red meat
 property_value: FOBI:040232 "388363" xsd:string
 property_value: FOBI:040233 "HMDB00033" xsd:string
-property_value: FOBI:040234 "CHEBI:15727 | CHEBI:57485" xsd:string
+property_value: FOBI:040234 CHEBI:15727 xsd:string
 property_value: FOBI:040235 "C00386" xsd:string
 property_value: FOBI:040236 "439224 | 6992100" xsd:string
 property_value: FOBI:040237 "CQOVPNPJLQNMDC-ZETCQYMHSA-N" xsd:string
@@ -7506,7 +7506,7 @@ is_a: FOBI:040073 ! hybrid peptides
 relationship: FOBI:00422 FOBI:0174 ! BiomarkerOf fish
 relationship: FOBI:00422 FOBI:0185 ! BiomarkerOf lean meat
 property_value: FOBI:040233 "HMDB00194" xsd:string
-property_value: FOBI:040234 "CHEBI:18323 | CHEBI:58445" xsd:string
+property_value: FOBI:040234 CHEBI:18323 xsd:string
 property_value: FOBI:040235 "C01262" xsd:string
 property_value: FOBI:040236 "112072 | 6992114" xsd:string
 property_value: FOBI:040237 "MYYIAHXIVFADCU-QMMMGPOBSA-N" xsd:string
@@ -7549,7 +7549,7 @@ is_a: FOBI:040194 ! beta amino acids and derivatives
 relationship: FOBI:00422 FOBI:0193 ! BiomarkerOf red meat
 property_value: FOBI:040232 "16382018 | 234" xsd:string
 property_value: FOBI:040233 "HMDB00056" xsd:string
-property_value: FOBI:040234 "CHEBI:16958 | CHEBI:57966" xsd:string
+property_value: FOBI:040234 CHEBI:16958 xsd:string
 property_value: FOBI:040235 "C00099 | D07561" xsd:string
 property_value: FOBI:040236 "239 | 4755801" xsd:string
 property_value: FOBI:040237 "UCMIRNVEIXFBKS-UHFFFAOYSA-N" xsd:string
@@ -7568,7 +7568,7 @@ relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf whole grain cereal product
 relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:0172 ! BiomarkerOf meat
 property_value: FOBI:040233 "HMDB00159" xsd:string
-property_value: FOBI:040234 "CHEBI:17295 | CHEBI:58095" xsd:string
+property_value: FOBI:040234 CHEBI:17295 xsd:string
 property_value: FOBI:040235 "C00079 | D00021" xsd:string
 property_value: FOBI:040236 "6140 | 6925665" xsd:string
 property_value: FOBI:040237 "COLNVLDHVKWLRT-QMMMGPOBSA-N" xsd:string
@@ -7664,7 +7664,7 @@ relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf whole grain cereal product
 relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:0172 ! BiomarkerOf meat
 property_value: FOBI:040233 "HMDB00158" xsd:string
-property_value: FOBI:040234 "CHEBI:17895 | CHEBI:58315" xsd:string
+property_value: FOBI:040234 CHEBI:17895 xsd:string
 property_value: FOBI:040235 "C00082 | D00022" xsd:string
 property_value: FOBI:040236 "6057 | 6942100" xsd:string
 property_value: FOBI:040237 "OUYCCCASQSFEME-QMMMGPOBSA-N" xsd:string
@@ -7739,7 +7739,7 @@ relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf whole grain cereal product
 relationship: FOBI:00422 FOBI:0151 ! BiomarkerOf nut
 relationship: FOBI:00422 FOBI:0172 ! BiomarkerOf meat
 property_value: FOBI:040233 "HMDB00929" xsd:string
-property_value: FOBI:040234 "CHEBI:16828 | CHEBI:57912" xsd:string
+property_value: FOBI:040234 CHEBI:16828 xsd:string
 property_value: FOBI:040235 "C00078 | D00020" xsd:string
 property_value: FOBI:040236 "6305 | 6923516" xsd:string
 property_value: FOBI:040237 "QIVBCDIJIAJPQS-VIFPVBQESA-N" xsd:string
@@ -7872,7 +7872,7 @@ relationship: FOBI:00422 FOBI:0185 ! BiomarkerOf lean meat
 relationship: FOBI:00422 FOBI:0193 ! BiomarkerOf red meat
 property_value: FOBI:040232 "10675782 | 1091" xsd:string
 property_value: FOBI:040233 "HMDB00251" xsd:string
-property_value: FOBI:040234 "CHEBI:15891 | CHEBI:507393" xsd:string
+property_value: FOBI:040234 CHEBI:15891 xsd:string
 property_value: FOBI:040235 "C00245 | D00047" xsd:string
 property_value: FOBI:040236 "1123 | 4068592" xsd:string
 property_value: FOBI:040237 "XOAAWQZATWQOTB-UHFFFAOYSA-N" xsd:string
@@ -8461,7 +8461,7 @@ relationship: FOBI:00422 FOBI:0049 ! BiomarkerOf fruit
 relationship: FOBI:00422 FOBI:00538 ! BiomarkerOf carbonated soft drink
 relationship: FOBI:00422 FOBI:0163 ! BiomarkerOf sugar
 property_value: FOBI:040233 "HMDB00258" xsd:string
-property_value: FOBI:040234 "CHEBI:17992 | CHEBI:65313" xsd:string
+property_value: FOBI:040234 CHEBI:17992 xsd:string
 property_value: FOBI:040235 "C00089 | D00025" xsd:string
 property_value: FOBI:040236 "5988" xsd:string
 property_value: FOBI:040237 "CZMRCDWAGMRECN-UGDNZRGBSA-N" xsd:string
@@ -8492,7 +8492,7 @@ relationship: FOBI:00422 FOBI:00538 ! BiomarkerOf carbonated soft drink
 relationship: FOBI:00422 FOBI:0163 ! BiomarkerOf sugar
 property_value: FOBI:040232 "388775" xsd:string
 property_value: FOBI:040233 "HMDB00660" xsd:string
-property_value: FOBI:040234 "CHEBI:28645 | CHEBI:29084" xsd:string
+property_value: FOBI:040234 CHEBI:28757 xsd:string
 property_value: FOBI:040235 "C02336" xsd:string
 property_value: FOBI:040236 "439709" xsd:string
 property_value: FOBI:040237 "RFSUNEUAIZKAJO-ARQDHWQXSA-N" xsd:string
@@ -10447,7 +10447,6 @@ property_value: FOBI:043482 "food" xsd:string
 id: FOBI:07561
 name: salt
 is_a: FOBI:07560 ! flavoring agent
-property_value: FOBI:040234 ﻿CHEBI:24866 xsd:string
 property_value: FOBI:043480 FOBI:07561 xsd:string
 property_value: FOBI:043482 "environmental, clinical/research" xsd:string
 
@@ -12147,7 +12146,7 @@ is_a: FOBI:040145 ! long-chain fatty acids
 relationship: FOBI:00422 FOBI:0005 ! BiomarkerOf dairy product
 relationship: FOBI:00422 FOBI:0193 ! BiomarkerOf red meat
 property_value: FOBI:040232 "4444571" xsd:string
-property_value: FOBI:040234 "CHEBI:28727 | CHEBI:36023" xsd:string
+property_value: FOBI:040234 CHEBI:36023 xsd:string
 property_value: FOBI:040235 "C08367" xsd:string
 property_value: FOBI:040236 "5281127" xsd:string
 property_value: FOBI:040237 "UWHZIFQPPBDJPM-BQYQJAHWSA-N" xsd:string
@@ -12197,7 +12196,7 @@ name: 4-hydroxyproline
 is_a: FOBI:040204 ! proline and derivatives
 relationship: FOBI:00422 FOBI:0172 ! BiomarkerOf meat
 property_value: FOBI:040233 "HMDB00725" xsd:string
-property_value: FOBI:040234 "CHEBI:18095 | CHEBI:58375" xsd:string
+property_value: FOBI:040234 CHEBI:18095 xsd:string
 property_value: FOBI:040235 "C01157" xsd:string
 property_value: FOBI:040236 "5810 | 6971053" xsd:string
 property_value: FOBI:040237 "PMMYEEVYMWASQN-DMTCNVIQSA-N" xsd:string
