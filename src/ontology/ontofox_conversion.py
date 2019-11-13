@@ -1,7 +1,18 @@
 #!/usr/bin/python
 #
-
+# A script to replace in a given owl file any term ids that are mentioned in
+# a specially marked-up ontofox configuration file. Idea is to enable MIEROT 
+# importation of term ids, labels and definitions into a main ontology file,
+# replacing the ontology's native ids.  No other structure is modified in main
+# ontology.  The specially marked up ontofox import file has lines like:
+#
+# http://purl.obolibrary.org/obo/FOODON_03316636 # FOBI_1234
+#
+# Which causes all instances of FOBI_1234 in ontology file to be replaced with 
+# FOODON_03316636 .  Currently hardcoded for OBOFoundry purls.
+#
 # Run like:
+#
 # >python ontofox_conversion.py fobi-edit.owl imports/chebi_ontofox.txt
 #
 
@@ -65,9 +76,6 @@ class OntofoxConvert(object):
 
 				if line == '[Top level source term URIs and target direct superclass URIs]\n':
 					break
-
-
-
 
 		with (open('./test.owl', 'w')) as output_handle:
 			output_handle.write(ontology)
