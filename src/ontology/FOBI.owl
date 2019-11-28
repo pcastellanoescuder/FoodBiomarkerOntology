@@ -7692,7 +7692,6 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOBI_01501">
         <obo:FOBI_043480>FOBI:01501</obo:FOBI_043480>
-        <rdfs:comment>test</rdfs:comment>
         <rdfs:label>Biomarkers</rdfs:label>
     </owl:Class>
     

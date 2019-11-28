@@ -2687,7 +2687,6 @@ property_value: FOBI:043480 FOBI:0148 xsd:string
 [Term]
 id: FOBI:01501
 name: Biomarkers
-comment: test
 property_value: FOBI:043480 FOBI:01501 xsd:string
 
 [Term]
