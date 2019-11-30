@@ -1,0 +1,318 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl     #FoodOn Food Ontology
+
+[Source ontology]
+FOODON
+
+[Low level source term URIs]
+
+http://purl.obolibrary.org/obo/FOODON_00003229 # FOBI:07580 absinthe  --> absinthe 
+http://purl.obolibrary.org/obo/FOODON_00002123 # FOBI:0015 alcohols  --> plant based alcoholic beverage 
+http://purl.obolibrary.org/obo/FOODON_03302111 # FOBI:07517 ale  --> ale 
+http://purl.obolibrary.org/obo/FOODON_00003157 # FOBI:07521 almond milk  --> almond milk 
+http://purl.obolibrary.org/obo/FOODON_03301355 # FOBI:07520 almonds  --> almond (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411854 # FOBI:0176 anchovy  --> anchovy 
+http://purl.obolibrary.org/obo/FOODON_00002473 # FOBI:0076 apple  --> apple (whole) 
+http://purl.obolibrary.org/obo/FOODON_00001059 # FOBI:07542 apple juice  --> apple juice 
+http://purl.obolibrary.org/obo/FOODON_00002475 # FOBI:08719 apple pie  --> apple pie 
+http://purl.obolibrary.org/obo/FOODON_03301701 # FOBI:0067 apricot  --> apricot (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301773 # FOBI:0131 artichoke  --> artichoke (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03311349 # FOBI:0129 asparagus  --> asparagus (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03305236 # FOBI:0100 avocado  --> avocado (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001061 # FOBI:0207 bacon  --> bacon food product 
+http://purl.obolibrary.org/obo/FOODON_03310635 # FOBI:07556 Bakery products  --> bakery product 
+http://purl.obolibrary.org/obo/FOODON_03311513 # FOBI:0079 banana  --> banana (whole, ripe) 
+http://purl.obolibrary.org/obo/FOODON_00003108 # FOBI:008143 barley  --> barley grain (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00002753 # FOBI:0158 Beans  --> bean (whole) 
+http://purl.obolibrary.org/obo/FOODON_00003259 # FOBI:007934 bechamel  --> Béchamel sauce 
+http://purl.obolibrary.org/obo/FOODON_00001041 # FOBI:0197 beef  --> beef food product 
+http://purl.obolibrary.org/obo/FOODON_03301619 # FOBI:0022 beer  --> beer 
+http://purl.obolibrary.org/obo/FOODON_03317254 # FOBI:0093 beetroot  --> beetroot 
+http://purl.obolibrary.org/obo/FOODON_03306893 # FOBI:0051 Berries  --> berry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301977 # FOBI:0011 Beverages  --> beverage 
+http://purl.obolibrary.org/obo/FOODON_00002889 # FOBI:07565 black bean  --> black turtle bean (whole) 
+http://purl.obolibrary.org/obo/FOODON_00001650 # FOBI:0275 black pepper  --> black pepper food product 
+http://purl.obolibrary.org/obo/FOODON_03304640 # FOBI:0029 black tea  --> black tea leaf (dry) 
+http://purl.obolibrary.org/obo/FOODON_03301236 # FOBI:0052 blackberry  --> blackberry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03311604 # FOBI:0053 blackcurrant  --> black currant (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411512 # FOBI:0175 Blue fish  --> bluefish 
+http://purl.obolibrary.org/obo/FOODON_03302045 # FOBI:0054 blueberry  --> blueberry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03412248 # FOBI:0194 Boar  --> boar 
+http://purl.obolibrary.org/obo/FOODON_00003232 # FOBI:007935 bolognese  --> bolognese sauce 
+http://purl.obolibrary.org/obo/FOODON_00003233 # FOBI:007937 bourguignon  --> beef bourguignon 
+http://purl.obolibrary.org/obo/FOODON_03301632 # FOBI:07579 brandy  --> brandy 
+http://purl.obolibrary.org/obo/FOODON_00001183 # FOBI:0270 bread  --> bread food product 
+http://purl.obolibrary.org/obo/FOODON_03301713 # FOBI:0087 broccoli  --> broccoli floret (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03309462 # FOBI:007939 broth  --> broth 
+http://purl.obolibrary.org/obo/FOODON_03315751 # FOBI:07525 brown bread  --> brown bread 
+http://purl.obolibrary.org/obo/FOODON_03301136 # FOBI:07545 brown rice  --> brown rice food product 
+http://purl.obolibrary.org/obo/FOODON_03420156 # FOBI:0167 brown sugar  --> brown sugar 
+http://purl.obolibrary.org/obo/FOODON_00002562 # FOBI:07568 brownie  --> chocolate brownie 
+http://purl.obolibrary.org/obo/FOODON_03310351 # FOBI:0013 butter  --> butter 
+http://purl.obolibrary.org/obo/FOODON_03301326 # FOBI:0088 cabbage  --> cabbage (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001278 # FOBI:07553 cake  --> cake food product 
+http://purl.obolibrary.org/obo/FOODON_00003236 # FOBI:007940 carbonara  --> carbonara sauce 
+http://purl.obolibrary.org/obo/FOODON_03301570 # FOBI:0094 carrot  --> carrot root (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03302732 # FOBI:0089 cauliflower  --> cauliflower (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301727 # FOBI:0108 celery  --> celery stalk (raw) 
+http://purl.obolibrary.org/obo/FOODON_03302458 # FOBI:07549 cheddar  --> cheddar cheese 
+http://purl.obolibrary.org/obo/FOODON_00001013 # FOBI:0010 cheese  --> cheese food product 
+http://purl.obolibrary.org/obo/FOODON_03312036 # FOBI:007966 cheese sandwich  --> cheese sandwich 
+http://purl.obolibrary.org/obo/FOODON_03301729 # FOBI:07583 cheesecake  --> cheesecake 
+http://purl.obolibrary.org/obo/FOODON_03301240 # FOBI:0068 cherry  --> cherry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411457 # FOBI:0188 chicken  --> chicken 
+http://purl.obolibrary.org/obo/FOODON_00003260 # FOBI:07539 chicken curry  --> chicken curry 
+http://purl.obolibrary.org/obo/FOODON_03306811 # FOBI:0161 chickpeas  --> chickpea (whole) 
+http://purl.obolibrary.org/obo/FOODON_03302727 # FOBI:0109 chicory  --> chicory (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301833 # FOBI:0116 chips  --> potato chip 
+http://purl.obolibrary.org/obo/FOODON_03307240 # FOBI:0003 chocolate  --> chocolate 
+http://purl.obolibrary.org/obo/FOODON_03305417 # FOBI:07554 chocolate cake  --> chocolate cake 
+http://purl.obolibrary.org/obo/FOODON_03301175 # FOBI:07548 cinnamon  --> cinnamon 
+http://purl.obolibrary.org/obo/FOODON_00001151 # FOBI:0060 Citrus  --> citrus fruit food product 
+http://purl.obolibrary.org/obo/FOODON_00001215 # FOBI:0002 Cocoa and cocoa products  --> cacao food product 
+http://purl.obolibrary.org/obo/FOODON_03301072 # FOBI:07552 cocoa powder  --> cocoa 
+http://purl.obolibrary.org/obo/FOODON_03303085 # FOBI:0080 coconut  --> coconut (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411423 # FOBI:0182 cod  --> cod 
+http://purl.obolibrary.org/obo/FOODON_03304707 # FOBI:07526 coleslaw  --> coleslaw (food product) 
+http://purl.obolibrary.org/obo/FOODON_00001149 # FOBI:0168 Confectioneries  --> confectionery food product 
+http://purl.obolibrary.org/obo/FOODON_03301585 # FOBI:07588 cookie  --> cookie 
+http://purl.obolibrary.org/obo/FOODON_00003272 # FOBI:007929 cordon bleu --> cordon bleu (dish)
+http://purl.obolibrary.org/obo/FOODON_00001765 # FOBI:0273 corn  --> corn (vegetable) food product 
+http://purl.obolibrary.org/obo/FOODON_03301474 # FOBI:0042 corn oil  --> corn oil 
+http://purl.obolibrary.org/obo/FOODON_03411462 # FOBI:0102 courgette  --> zucchini plant 
+http://purl.obolibrary.org/obo/FOODON_03303207 # FOBI:07546 couscous  --> couscous 
+http://purl.obolibrary.org/obo/FOODON_03411161 # FOBI:0196 Cow  --> cattle 
+http://purl.obolibrary.org/obo/FOODON_03411335 # FOBI:0221 crab  --> crab 
+http://purl.obolibrary.org/obo/FOODON_00002711 # FOBI:07589 cracker  --> cracker 
+http://purl.obolibrary.org/obo/FOODON_03301889 # FOBI:07591 cream cheese  --> cream cheese 
+http://purl.obolibrary.org/obo/FOODON_00003268 # FOBI:007941 croziflette  --> croziflette 
+http://purl.obolibrary.org/obo/FOODON_00001169 # FOBI:0086 Cruciferous  --> cruciferous food product 
+http://purl.obolibrary.org/obo/FOODON_03411374 # FOBI:0216 Crustaceans  --> crustacean 
+http://purl.obolibrary.org/obo/FOODON_03301545 # FOBI:0103 cucumber  --> cucumber (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003024 # FOBI:07567 cumin  --> cumin seed (whole, dried) 
+http://purl.obolibrary.org/obo/FOODON_00001256 # FOBI:0005 Dairy products  --> dairy food product 
+http://purl.obolibrary.org/obo/FOODON_03317365 # FOBI:07576 Distilled alcohols  --> beverage (alcoholic, distilled) 
+http://purl.obolibrary.org/obo/FOODON_03305656 # FOBI:0058 Dried fruits  --> fruit (dried) 
+http://purl.obolibrary.org/obo/FOODON_00002277 # FOBI:0065 Drupes  --> stone fruit food product 
+http://purl.obolibrary.org/obo/FOODON_00001845 # FOBI:0279 dry corn  --> field corn food product 
+http://purl.obolibrary.org/obo/FOODON_03411316 # FOBI:0189 duck  --> duck
+http://purl.obolibrary.org/obo/FOODON_03307770 # FOBI:007967 egg sandwich  --> egg salad sandwich 
+http://purl.obolibrary.org/obo/FOODON_03309709 # FOBI:0104 eggplant  --> eggplant (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00002439 # FOBI:0110 endive  --> endive 
+http://purl.obolibrary.org/obo/FOODON_00003271 # FOBI:007942 fajitas --> fajita
+http://purl.obolibrary.org/obo/FOODON_03310709 # FOBI:007944 falafel  --> falafel (whole, cooked) 
+http://purl.obolibrary.org/obo/FOODON_00003265 # FOBI:0037 Fats  --> fat 
+http://purl.obolibrary.org/obo/FOODON_00002664 # FOBI:0036 Fats and oils  --> lipid food product 
+http://purl.obolibrary.org/obo/FOODON_03315513 # FOBI:0017 Fermented milk products  --> milk product (fermented) 
+http://purl.obolibrary.org/obo/FOODON_00003266 # FOBI:0074 figs  --> fig (whole) 
+http://purl.obolibrary.org/obo/FOODON_03411222 # FOBI:0174 Fish  --> fish 
+http://purl.obolibrary.org/obo/FOODON_03316114 # FOBI:07516 flavored water  --> beverage (water-based, flavored, nonalcoholic) 
+http://purl.obolibrary.org/obo/FOODON_00003267 # FOBI:07560 Flavoring agents  --> flavouring additive 
+http://purl.obolibrary.org/obo/FOODON_03301116 # FOBI:0269 flour  --> flour 
+http://purl.obolibrary.org/obo/FOODON_00003264 # FOBI:007931 fondue bourguignonne  --> Burgundy fondue 
+http://purl.obolibrary.org/obo/FOODON_00003263 # FOBI:007932 fondue savoyarde  --> fondue savoyarde 
+http://purl.obolibrary.org/obo/FOODON_03301635 # FOBI:07555 fruit cake  --> fruitcake 
+http://purl.obolibrary.org/obo/FOODON_00001057 # FOBI:0049 Fruits  --> plant fruit food product 
+http://purl.obolibrary.org/obo/FOODON_03305208 # FOBI:0124 garlic  --> garlic (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03302379 # FOBI:07540 garlic bread  --> garlic bread 
+http://purl.obolibrary.org/obo/FOODON_03309491 # FOBI:07582 gin  --> gin 
+http://purl.obolibrary.org/obo/FOODON_00002718 # FOBI:0150 ginger  --> ginger root 
+http://purl.obolibrary.org/obo/FOODON_03317446 # FOBI:007946 gnocchi  --> gnocchi 
+http://purl.obolibrary.org/obo/FOODON_03411328 # FOBI:0202 Goat  --> goat 
+http://purl.obolibrary.org/obo/FOODON_00001915 # FOBI:0071 Gourds  --> gourd vegetable food product 
+http://purl.obolibrary.org/obo/FOODON_03411324 # FOBI:0139 Grains  --> grain plant (food source) 
+http://purl.obolibrary.org/obo/FOODON_03301702 # FOBI:0061 grapefruit  --> grapefruit (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301123 # FOBI:008103 Grapes  --> grape (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03310820 # FOBI:07529 gravy  --> gravy 
+http://purl.obolibrary.org/obo/FOODON_00003258 # FOBI:07537 greek yogurt  --> strained yogurt 
+http://purl.obolibrary.org/obo/FOODON_03304639 # FOBI:0030 green tea  --> green tea leaf (dry) 
+http://purl.obolibrary.org/obo/FOODON_03305317 # FOBI:0081 guava  --> guava (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003261 # FOBI:007933 hachis parmentier  --> hachis parmentier 
+http://purl.obolibrary.org/obo/FOODON_03413878 # FOBI:0183 hake  --> hake 
+http://purl.obolibrary.org/obo/FOODON_00002502 # FOBI:0208 ham  --> ham food product 
+http://purl.obolibrary.org/obo/FOODON_00002737 # FOBI:0198 hamburger  --> beef hamburger (dish) 
+http://purl.obolibrary.org/obo/FOODON_00002933 # FOBI:040226 hazelnut  --> hazelnut 
+http://purl.obolibrary.org/obo/FOODON_00003042 # FOBI:0122 Herbs  --> herb 
+http://purl.obolibrary.org/obo/FOODON_00001242 # FOBI:0121 Herbs and spices  --> spice or herb 
+http://purl.obolibrary.org/obo/UBERON_0036016 # FOBI:0169 honey
+http://purl.obolibrary.org/obo/FOODON_03304006 # FOBI:040224 Hot sauces  --> hot sauce 
+http://purl.obolibrary.org/obo/FOODON_00003049 # FOBI:007947 hummus  --> hummus 
+http://purl.obolibrary.org/obo/FOODON_00003257 # FOBI:07519 ipa  --> india pale ale 
+http://purl.obolibrary.org/obo/FOODON_03304859 # FOBI:07564 kale  --> kale leaf (raw) 
+http://purl.obolibrary.org/obo/FOODON_00002528 # FOBI:007948 kebab  --> shish kebab 
+http://purl.obolibrary.org/obo/FOODON_03310290 # FOBI:07570 kefir  --> kefir 
+http://purl.obolibrary.org/obo/FOODON_03301460 # FOBI:07559 ketchup  --> tomato catsup 
+http://purl.obolibrary.org/obo/FOODON_03414363 # FOBI:0062 kiwi  --> kiwi 
+http://purl.obolibrary.org/obo/FOODON_03411669 # FOBI:0204 Lamb  --> lamb 
+http://purl.obolibrary.org/obo/FOODON_00001302 # FOBI:007949 lasagne  --> lasagne food product 
+http://purl.obolibrary.org/obo/FOODON_03411566 # FOBI:0107 Leafy vegetables  --> leafy vegetable 
+http://purl.obolibrary.org/obo/FOODON_03311757 # FOBI:0126 leek  --> leek (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001264 # FOBI:0136 Legumes  --> legume food product
+http://purl.obolibrary.org/obo/FOODON_03301441 # FOBI:0063 lemon  --> lemon (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03310641 # FOBI:0156 Lentils  --> lentil (whole) 
+http://purl.obolibrary.org/obo/FOODON_00001998 # FOBI:0111 lettuce  --> lettuce vegetable food product 
+http://purl.obolibrary.org/obo/FOODON_03411043 # FOBI:0184 mackerel  --> mackerel 
+http://purl.obolibrary.org/obo/FOODON_03301813 # FOBI:0082 mango  --> mango (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301672 # FOBI:0039 margarine  --> margarine 
+http://purl.obolibrary.org/obo/FOODON_00003255 # FOBI:08721 mascarpone  --> mascarpone 
+http://purl.obolibrary.org/obo/FOODON_03301440 # FOBI:07558 mayonnaise  --> mayonnaise 
+http://purl.obolibrary.org/obo/FOODON_00001006 # FOBI:0172 Meats  --> meat food product 
+http://purl.obolibrary.org/obo/FOODON_03301593 # FOBI:0072 melon  --> melon (raw) 
+http://purl.obolibrary.org/obo/FOODON_03302116 # FOBI:0007 milk  --> cow milk (fluid) 
+http://purl.obolibrary.org/obo/FOODON_00001257 # FOBI:0020 Milk products  --> milk or milk based food product 
+http://purl.obolibrary.org/obo/FOODON_00003254 # FOBI:007951 millefeuille  --> mille-feuille pastry 
+http://purl.obolibrary.org/obo/FOODON_03412112 # FOBI:0218 Molluscs  --> molluscs 
+http://purl.obolibrary.org/obo/FOODON_00003253 # FOBI:007952 moussaka  --> moussaka 
+http://purl.obolibrary.org/obo/FOODON_00003230 # FOBI:07536 muesli  --> muesli 
+http://purl.obolibrary.org/obo/FOODON_00001287 # FOBI:0133 mushroom  --> mushroom 
+http://purl.obolibrary.org/obo/FOODON_00002434 # FOBI:0132 Mushrooms  --> mushroom food product 
+http://purl.obolibrary.org/obo/FOODON_00001014 # FOBI:07538 natural yogurt  --> yogurt food product 
+http://purl.obolibrary.org/obo/FOODON_03301107 # FOBI:07530 nectarine  --> nectarine (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03306944 # FOBI:0276 noodles  --> noodle 
+http://purl.obolibrary.org/obo/FOODON_03306632 # FOBI:0151 Nuts  --> nut (whole or part) 
+http://purl.obolibrary.org/obo/FOODON_03309855 # FOBI:0146 oat  --> whole oats (raw) 
+http://purl.obolibrary.org/obo/FOODON_03411514 # FOBI:0219 octopus  --> octopus 
+http://purl.obolibrary.org/obo/FOODON_03310387 # FOBI:0040 Oils  --> oil 
+http://purl.obolibrary.org/obo/FOODON_03315145 # FOBI:0047 olive  --> olive (whole, ripe) 
+http://purl.obolibrary.org/obo/FOODON_03301826 # FOBI:0046 olive oil  --> olive oil 
+http://purl.obolibrary.org/obo/FOODON_00003252 # FOBI:007985 omelette  --> omelette 
+http://purl.obolibrary.org/obo/FOODON_03301704 # FOBI:0127 onion  --> onion (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03309832 # FOBI:0064 orange  --> orange (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301103 # FOBI:07532 orange juice  --> orange juice 
+http://purl.obolibrary.org/obo/FOODON_03301482 # FOBI:07571 oregano  --> oregano (ground) 
+http://purl.obolibrary.org/obo/FOODON_00003251 # FOBI:0271 Ox  --> ox 
+http://purl.obolibrary.org/obo/FOODON_00003250 # FOBI:007953 paella  --> paella 
+http://purl.obolibrary.org/obo/FOODON_03310232 # FOBI:0043 palm oil  --> palm oil 
+http://purl.obolibrary.org/obo/FOODON_03315258 # FOBI:07563 pancake  --> pancake 
+http://purl.obolibrary.org/obo/FOODON_00003249 # FOBI:0209 pancetta  --> pancetta 
+http://purl.obolibrary.org/obo/FOODON_00003248 # FOBI:007954 panini  --> panini 
+http://purl.obolibrary.org/obo/FOODON_03301830 # FOBI:0083 papaya  --> papaya (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301105 # FOBI:07566 paprika  --> paprika 
+http://purl.obolibrary.org/obo/FOODON_00003247 # FOBI:07574 parmesan  --> parmesan cheese 
+http://purl.obolibrary.org/obo/FOODON_03306347 # FOBI:0143 Pasta  --> pasta 
+http://purl.obolibrary.org/obo/FOODON_03301719 # FOBI:0069 peach  --> peach (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03306867 # FOBI:07535 peanut butter  --> peanut butter 
+http://purl.obolibrary.org/obo/FOODON_03301299 # FOBI:07534 peanuts  --> peanut (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301724 # FOBI:0077 pear  --> pear (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301300 # FOBI:0160 Peas  --> pea (whole) 
+http://purl.obolibrary.org/obo/FOODON_00003013 # FOBI:0095 pepper  --> bell pepper 
+http://purl.obolibrary.org/obo/FOODON_03301889 # FOBI:07550 philadelphia  --> cream cheese 
+http://purl.obolibrary.org/obo/FOODON_03301831 # FOBI:0084 pineapple  --> pineapple (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03310775 # FOBI:007955 pizza  --> pizza food product 
+http://purl.obolibrary.org/obo/FOODON_03301580 # FOBI:0070 plum  --> plum (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03317508 # FOBI:0280 polenta  --> polenta (food product) 
+http://purl.obolibrary.org/obo/FOODON_00003066 # FOBI:0085 pomegranate  --> pomegranate (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001158 # FOBI:0075 Pomes  --> pomaceous fruit food product 
+http://purl.obolibrary.org/obo/FOODON_03411136 # FOBI:0206 Pork  --> swine 
+http://purl.obolibrary.org/obo/FOODON_03311555 # FOBI:007982 porridge  --> porridge 
+http://purl.obolibrary.org/obo/FOODON_03301449 # FOBI:0115 potato  --> potato (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001131 # FOBI:0186 Poultry  --> poultry meat food product 
+http://purl.obolibrary.org/obo/FOODON_00001180 # FOBI:07508 Prepared foods  --> prepared food product 
+http://purl.obolibrary.org/obo/FOODON_00003246 # FOBI:0211 proscuitto  --> proscuitto 
+http://purl.obolibrary.org/obo/FOODON_00002176 # FOBI:0066 prune  --> prune food product 
+http://purl.obolibrary.org/obo/FOODON_03301660 # FOBI:007957 pudding  --> pudding 
+http://purl.obolibrary.org/obo/FOODON_00001209 # FOBI:0137 Pulses  --> pulse food product 
+http://purl.obolibrary.org/obo/FOODON_03301697 # FOBI:0096 pumpkin  --> pumpkin (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003245 # FOBI:007958 quenelle  --> quenelle 
+http://purl.obolibrary.org/obo/FOODON_03307177 # FOBI:007959 quiche  --> quiche 
+http://purl.obolibrary.org/obo/FOODON_03310193 # FOBI:0147 quinoa  --> quinoa seed (dried) 
+http://purl.obolibrary.org/obo/FOODON_03411323 # FOBI:0191 rabbit  --> rabbit 
+http://purl.obolibrary.org/obo/FOODON_03304656 # FOBI:0090 radish  --> radish (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301283 # FOBI:0059 raisins  --> raisin (whole) 
+http://purl.obolibrary.org/obo/FOODON_03307119 # FOBI:0056 raspberry  --> raspberry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003239 # FOBI:007962 ratatouille  --> ratatouille 
+http://purl.obolibrary.org/obo/FOODON_03304595 # FOBI:0278 ravioli  --> ravioli pasta 
+http://purl.obolibrary.org/obo/FOODON_00001956 # FOBI:0097 red pepper  --> hot pepper vegetable food product 
+http://purl.obolibrary.org/obo/FOODON_03310272 # FOBI:07541 red wine  --> red wine 
+http://purl.obolibrary.org/obo/FOODON_03309858 # FOBI:0112 rhubarb  --> rhubarb stalk (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003270 # FOBI:0212 ribs --> pork ribs
+http://purl.obolibrary.org/obo/FOODON_03301641 # FOBI:0144 rice  --> rice grain food product 
+http://purl.obolibrary.org/obo/FOODON_03309985 # FOBI:07547 rice cake  --> rice cake (food product) 
+http://purl.obolibrary.org/obo/FOODON_03302908 # FOBI:07586 ricotta  --> ricotta cheese 
+http://purl.obolibrary.org/obo/FOODON_00003238 # FOBI:007963 risotto  --> risotto 
+http://purl.obolibrary.org/obo/FOODON_03310858 # FOBI:0091 rocket  --> rocket (raw) 
+http://purl.obolibrary.org/obo/FOODON_00002424 # FOBI:07573 roquefort  --> roquefort cheese 
+http://purl.obolibrary.org/obo/FOODON_00001190 # FOBI:008142 rye  --> rye food product 
+http://purl.obolibrary.org/obo/FOODON_03316042 # FOBI:007964 salad  --> salad 
+http://purl.obolibrary.org/obo/FOODON_03312067 # FOBI:0213 salami  --> salami 
+http://purl.obolibrary.org/obo/FOODON_00002220 # FOBI:0177 salmon  --> salmon food product 
+http://purl.obolibrary.org/obo/FOODON_03309954 # FOBI:07561 salt  --> table salt 
+http://purl.obolibrary.org/obo/FOODON_03411558 # FOBI:0178 sardines  --> sardine 
+http://purl.obolibrary.org/obo/FOODON_03311146 # FOBI:07557 Sauces  --> sauce 
+http://purl.obolibrary.org/obo/FOODON_03301397 # FOBI:0281 sauerkraut  --> sauerkraut 
+http://purl.obolibrary.org/obo/FOODON_03315904 # FOBI:0214 sausages  --> sausage (formed) 
+http://purl.obolibrary.org/obo/FOODON_00001046 # FOBI:0215 Seafood  --> seafood product 
+http://purl.obolibrary.org/obo/FOODON_03307458 # FOBI:0008 semi skimmed milk --> cow milk (semi-skimmed)
+http://purl.obolibrary.org/obo/FOODON_00003019 # FOBI:0134 shallot  --> shallot (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411005 # FOBI:0128 Shoot vegetables  --> stem or spear vegetable 
+http://purl.obolibrary.org/obo/FOODON_03411237 # FOBI:0217 shrimp  --> shrimp 
+http://purl.obolibrary.org/obo/FOODON_03530027 # FOBI:0199 sirloin  --> sirloin 
+http://purl.obolibrary.org/obo/FOODON_03301483 # FOBI:0009 skimmed milk  --> lowfat cow milk 
+http://purl.obolibrary.org/obo/FOODON_00003244 # FOBI:007968 souffle  --> souffle 
+http://purl.obolibrary.org/obo/FOODON_03301415 # FOBI:00898 Soy  --> soybean (whole) 
+http://purl.obolibrary.org/obo/FOODON_03301005 # FOBI:0277 spaghetti  --> spaghetti macaroni 
+http://purl.obolibrary.org/obo/FOODON_03307294 # FOBI:07515 sparkling water  --> mineral water (carbonated) 
+http://purl.obolibrary.org/obo/FOODON_03303380 # FOBI:0123 Spices  --> spice 
+http://purl.obolibrary.org/obo/FOODON_03301716 # FOBI:0113 spinach  --> spinach (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301577 # FOBI:07533 squash  --> squash (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411205 # FOBI:0220 squid  --> squid 
+http://purl.obolibrary.org/obo/FOODON_03311663 # FOBI:0200 steak  --> beef steak (raw) 
+http://purl.obolibrary.org/obo/FOODON_00003140 # FOBI:007970 stew  --> stew 
+http://purl.obolibrary.org/obo/FOODON_03301722 # FOBI:0057 strawberry  --> strawberry (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03420108 # FOBI:0163 Sugars  --> sugar 
+http://purl.obolibrary.org/obo/FOODON_03310357 # FOBI:0045 sunflower oil  --> sunflower seed oil 
+http://purl.obolibrary.org/obo/FOODON_00003243 # FOBI:007971 sushi  --> sushi 
+http://purl.obolibrary.org/obo/FOODON_00003242 # FOBI:007972 tabbouleh  --> tabbouleh 
+http://purl.obolibrary.org/obo/FOODON_03307744 # FOBI:007973 taco  --> taco 
+http://purl.obolibrary.org/obo/FOODON_00003241 # FOBI:007975 tagine  --> tagine 
+http://purl.obolibrary.org/obo/FOODON_00003240 # FOBI:007976 tartiflette  --> tartiflette 
+http://purl.obolibrary.org/obo/FOODON_03315081 # FOBI:040231 tea  --> tea food product 
+http://purl.obolibrary.org/obo/FOODON_00001138 # FOBI:0028 Tea products  --> tea based beverage product 
+http://purl.obolibrary.org/obo/FOODON_03306255 # FOBI:07509 toast  --> toast 
+http://purl.obolibrary.org/obo/FOODON_03309927 # FOBI:0105 tomato  --> tomato (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03301217 # FOBI:07562 tomato sauce  --> tomato sauce 
+http://purl.obolibrary.org/obo/FOODON_00003231 # FOBI:007977 tropezienne  --> tropezienne 
+http://purl.obolibrary.org/obo/FOODON_03305237 # FOBI:0078 Tropical fruits  --> tropical fruit (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_03411258 # FOBI:0179 trout  --> trout 
+http://purl.obolibrary.org/obo/FOODON_00001146 # FOBI:0130 Tubers --> solanaceous root food product
+http://purl.obolibrary.org/obo/FOODON_03411269 # FOBI:0180 tuna  --> tuna 
+http://purl.obolibrary.org/obo/FOODON_03411236 # FOBI:0190 turkey --> turkey (bird)
+http://purl.obolibrary.org/obo/FOODON_03307633 # FOBI:0098 turnip  --> turnip (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00003083 # FOBI:0201 veal  --> veal 
+http://purl.obolibrary.org/obo/FOODON_03316694 # FOBI:0038 Vegetable fats  --> vegetable fat food product 
+http://purl.obolibrary.org/obo/FOODON_03305263 # FOBI:0041 Vegetable oils  --> vegetable oil 
+http://purl.obolibrary.org/obo/FOODON_00001261 # FOBI:0050 Vegetables  --> vegetable food product 
+http://purl.obolibrary.org/obo/FOODON_03301705 # FOBI:07569 vinegar  --> vinegar 
+http://purl.obolibrary.org/obo/FOODON_03305518 # FOBI:07578 vodka  --> vodka 
+http://purl.obolibrary.org/obo/FOODON_03301040 # FOBI:0073 watermelon  --> watermelon (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00002340 # FOBI:07513 Waters  --> water food product 
+http://purl.obolibrary.org/obo/FOODON_03315184 # FOBI:008141 wheat  --> wheat 
+http://purl.obolibrary.org/obo/FOODON_03302775 # FOBI:07577 whiskey  --> whiskey 
+http://purl.obolibrary.org/obo/FOODON_03301055 # FOBI:07523 white bread  --> white bread 
+http://purl.obolibrary.org/obo/FOODON_03420157 # FOBI:0170 white sugar  --> white sugar 
+http://purl.obolibrary.org/obo/FOODON_03310273 # FOBI:07575 white wine  --> white wine 
+http://purl.obolibrary.org/obo/FOODON_03306581 # FOBI:07543 whole milk  --> cow whole milk (pasteurized) ; was whole milk "milk:uberon_0001913, whole:FOODON_03430131"
+http://purl.obolibrary.org/obo/FOODON_03303222 # FOBI:0023 wine  --> wine (food product)
+http://purl.obolibrary.org/obo/FOODON_00003012 # FOBI:0274 yellow pepper  --> yellow bell pepper (whole, raw) 
+http://purl.obolibrary.org/obo/FOODON_00001014 # FOBI:0012 yogurt  --> yogurt food product 
+http://purl.obolibrary.org/obo/FOODON_03310943 # FOBI:0106 zucchini  --> zucchini squash (whole) 
+
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/CHEBI_50906   # role 
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+#includeAllAnnotationProperties
+http://www.w3.org/2000/01/rdf-schema#label
+http://purl.obolibrary.org/obo/IAO_0000115 
+# http://purl.obolibrary.org/obo/IAO_0000111 # editor preferred term
+http://purl.obolibrary.org/obo/IAO_0000114 # curation satus
+http://purl.obolibrary.org/obo/IAO_0000119 # definition source
+
+[Source annotation URIs to be excluded]
+
+
+

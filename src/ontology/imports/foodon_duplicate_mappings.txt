@@ -1,0 +1,30 @@
+http://purl.obolibrary.org/obo/FOODON_00001006 # FOBI:0185 Lean meat  --> meat food product 
+http://purl.obolibrary.org/obo/FOODON_00001006 # FOBI:0193 Red meat  --> meat food product 
+
+http://purl.obolibrary.org/obo/FOODON_00001014 # FOBI:0012 yogurt  --> yogurt food product 
+http://purl.obolibrary.org/obo/FOODON_00001014 # FOBI:07538 natural yogurt  --> yogurt food product 
+# Natural Yogurt has no additives or sweeteners
+
+
+http://purl.obolibrary.org/obo/FOODON_00001180 # FOBI:040229 Other prepared foods  --> prepared food product 
+http://purl.obolibrary.org/obo/FOODON_00001180 # FOBI:07508 Prepared foods  --> prepared food product 
+
+http://purl.obolibrary.org/obo/FOODON_00001709 # FOBI:0140 Cereal products  --> cereal food product 
+http://purl.obolibrary.org/obo/FOODON_00001709 # FOBI:0142 cereal  --> cereal food product 
+
+http://purl.obolibrary.org/obo/FOODON_00002257 # FOBI:007969 soup  --> soup food product 
+http://purl.obolibrary.org/obo/FOODON_00002257 # FOBI:040227 Soups  --> soup food product 
+
+http://purl.obolibrary.org/obo/FOODON_03301036 # FOBI:0027 Coffee products  --> coffee (liquid drink)  
+http://purl.obolibrary.org/obo/FOODON_03301036 # FOBI:040230 coffee  --> coffee (liquid drink)  
+
+http://purl.obolibrary.org/obo/FOODON_03301889 # FOBI:07550 philadelphia  --> cream cheese 
+http://purl.obolibrary.org/obo/FOODON_03301889 # FOBI:07591 cream cheese  --> cream cheese 
+
+http://purl.obolibrary.org/obo/FOODON_03301906 # FOBI:007965 sandwich  --> sandwich 
+http://purl.obolibrary.org/obo/FOODON_03301906 # FOBI:040228 Sandwiches  --> sandwich 
+
+
+http://purl.obolibrary.org/obo/FOODON_03315081 # FOBI:0031 red tea  --> tea food product 
+http://purl.obolibrary.org/obo/FOODON_03315081 # FOBI:040231 tea  --> tea food product 
+

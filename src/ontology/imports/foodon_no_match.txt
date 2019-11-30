@@ -20,9 +20,6 @@ Fermented alcohols (FOBI:0021)
 # NO MATCH to avocado / olive category
 Fat vegetables (FOBI:0099)
 
-# ***** NO MATCH 
-diet coke (FOBI:07527)
-
 # NO MATCH
 filled (FOBI:007945)
 
@@ -101,6 +98,8 @@ zero coke (FOBI:07584)
 # ***** NO MATCH 
 coke (FOBI:07585)
 
+# ***** NO MATCH 
+diet coke (FOBI:07527)
 
 Fanta (FOBI:07506)
 

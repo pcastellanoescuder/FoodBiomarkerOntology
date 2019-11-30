@@ -97,16 +97,6 @@ class OntologyUpdate(object):
 	############################## UTILITIES ###########################
 
 
-	def expandId(self, URI):
-		# If a URI has a recognized prefix, create full version
-		if ':' in URI: 
-			(prefix, myid) = URI.rsplit(':',1)
-			for key, value in self.struct['@context'].iteritems():
-				if key == prefix: return value+myid
-			
-		return URI 
-
-
 	def doQueryUpdate(self, query_name, initBinds = {}):
 		"""
 		Given a sparql 1.1 update query, perform it. 
