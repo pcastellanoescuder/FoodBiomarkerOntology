@@ -1,0 +1,3304 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl#"
+     xml:base="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000114 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114">
+        <obo:IAO_0000119 xml:lang="en">OBI_0000281</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">has curation status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+        <rdfs:label>textual definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">definition source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <rdfs:label xml:lang="en">rdfs:label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001006 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001006">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A food product made of meat, the skeletal muscle and associated fat, and other edible tissues such as organs, livers, skin, brains, bone marrow, kidneys, or lungs, of mammals.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">meat food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001013 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001013">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheese is a food derived from milk that is produced in a wide range of flavors, textures, and forms by coagulation of the milk protein casein.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cheese food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001014 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001014">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dairy product produced by bacterial fermentation of milk.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Yogurt is a food produced by bacterial fermentation of milk. The bacteria used to make yogurt are known as yogurt cultures. The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Yogurt</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">yogurt food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001041 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001041">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meat from bovines, especially domestic cattle (cows).</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beef food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001046 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001046">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A seafood product is a vertebrate or invertibrate organism from anaquatic environment.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">seafood product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001057 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001057">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">plant fruit food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001059 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001059">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Apple juice is a fruit juice made by the maceration and pressing of an apple.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Apple_juice</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">apple juice</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001061">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Any of certain cuts of meat taken from the sides, belly or back of a pig that may be cured and/or smoked.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Bacon</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bacon food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001131 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001131">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">poultry meat food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001138 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001138">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A beverage product derived from leaves of the tea plant (Camellia sinensis).</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tea"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tea based beverage product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001139 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001139">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">coffee based beverage product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001146">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">solanaceous root food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001151 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001151">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A citrus fruit is botanically classified as a type of berry called a hesperidium that has a thick, leathery rind, with numerous oil glands, and a large flesh portion composed of several wedge-shaped sections. Unlike pome fruit, such as the apple, the citrus fruit is derived from a superior ovary, an ovary completely separate from the calyx.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hesperidium</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">citrus fruit food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001158 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001158">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pomaceous fruit food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001169 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001169">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cruciferous food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001183 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001183">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bread food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001190 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001190">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rye food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001209">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="de">PULSES are annual leguminous crops yielding from one to 12 grains or seeds of variable size, shape and colour within a pod. They are used for both food and feed. The term &quot;pulses&quot; is limited to crops harvested solely for dry grain, thereby excludingcrops harvested green for food (green peas, green beans, etc.) which are classified as vegetable crops. Also excluded are those crops used mainly for oil extraction (e.g.soybeand and groundnuts) and leguminous crops (e.g. seeds of clover and alfalfa) that are used exclusively for sowing purposes.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.fao.org/WAICENT/faoinfo/economic/faodef/fdef04e.htm#4.02</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pulse food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001215 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001215">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A food product derived from Theobroma cacao.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cacao food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001242">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A vegetable product such as leaves, flowers, seeds and roots that is rich in essential oils and aromatic principles. Used mainly a a condiment.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.fao.org/WAICENT/faoinfo/economic/faodef/fdef10e.htm#1.01</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">spice or herb</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001256 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001256">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dairy food product has mammilian milk or a milk component as an ingredient.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">dairy food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001257 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001257">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">milk or milk based food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001261 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001261">
+        <obo:IAO_0000115 xml:lang="en">Any plant food product which, typically, is constituted by intact parts from one or more annual plants cultivated as field and garden crops in the open and under glass, and used almost exclusively for food.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">vegetable food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001264 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001264">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A one-celled fruit (pod) usually dehiscing down both sutures, and having the seed attached along a ventral suture. (Roubik 1995)</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.fao.org/pollination/resources/glossary/en/</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">legume food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001274 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001274">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A food consisting of a round or oval body laid by the female of many animals, consisting of an ovum surrounded by layers of membranes and an outer casing, which acts to nourish and protect a developing embryo and its nutrient reserves.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">egg food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001275 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001275">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A hen egg food product is any food product consisting mainly of hen eggs or derivatives.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Egg_as_food</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hen egg food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001278 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001278">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A food that is usually sweet and often baked. Cakes normally combine some kind of flour, a sweetening agent (commonly sugar), a binding agent (generally egg, though gluten  or starch  are often used by lacto-vegetarians and vegans), fats (usually butter, shortening, or margarine, although a fruit puree such as applesauce is sometimes substituted to avoid using fat), a liquid (milk, water or fruit juice), flavors and some form of leavening agent (such as yeast or baking powder), though many cakes lack these ingredients and instead rely on air bubbles in the dough to expand and cause the cake to rise. Cake is often frosted with buttercream  or marzipan, and finished with piped borders and crystallized fruit.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cake food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001287 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001287">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A mushroom (or toadstool) is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or on its food source.</obo:IAO_0000115>
+        <obo:IAO_0000119>WIKIPEDIA:Mushroom</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mushroom</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001302 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001302">
+        <obo:IAO_0000115 xml:lang="en">Lasagne, or the singular lasagna, commonly refers to a culinary dish made with stacked layers of pasta alternated with sauces and ingredients such as meats, vegetables and cheese, and sometimes topped with melted grated cheese.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Lasagne"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lasagne food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001650 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001650">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">black pepper food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001709 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001709">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A cereal is any grass cultivated for the edible components of its grain composed of the endosperm, germ, and bran</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cereal food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001765 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001765">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">corn (vegetable) food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001845 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001845">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A product made from the North American term for maize (Zea mays) grown for livestock fodder (silage), ethanol, cereal and processed food products. The principal field corn varieties are dent corn, flint corn, flour corn (also known as soft corn) which includes blue corn (Zea mays amylacea), and waxy corn.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Field_corn"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">field corn food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001915 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001915">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">gourd vegetable food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001956 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001956">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hot pepper vegetable food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00001998 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00001998">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A lettuce vegetable food product is the head, stem or leaf portion of a lettuce plant.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lettuce vegetable food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002123 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002123">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">plant based alcoholic beverage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002176 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002176">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">prune food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002220 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002220">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">salmon food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002222">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A sandwich food product is a food product used to create a sandwich.  This includes bread as a container, and sandwich ingredients and spreads.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sandwich food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002257 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002257">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soup food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002277 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002277">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">stone fruit food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002297 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002297">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sweet potato vegetable food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002340 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002340">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A water food product is a food product derived from H20 (water) in its liquid form.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Water</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">water food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002424 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002424">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Roquefort is a sheep milk blue cheese from the south of France.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Roquefort"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">roquefort cheese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002434 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002434">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mushroom food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002439 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002439">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A leaf or head portion of an endive plant</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">endive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002466 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002466">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">In Commonwealth nations and Ireland, a biscuit is a small baked product that would be called either a &quot;cookie&quot; or a &quot;cracker&quot; in the United States and most of English-speaking Canada. Biscuits in the United Kingdom, the Isle of Man and Ireland are hard and may be savoury or sweet, such as chocolate biscuits, digestives, hobnobs, ginger nuts, rich tea, bourbons, and custard creams</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">biscuit (hard) food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002473 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002473">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A whole apple is an apple harvested from an apple tree. It may include a stem.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">apple (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002475 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002475">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">apple pie</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002501 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002501">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">multi-component food</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002502 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002502">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Ham is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking.  As a processed meat, the term &quot;ham&quot; includes both whole cuts of meat and ones that have been mechanically formed.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Ham</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ham food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002528 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002528">
+        <obo:IAO_0000115 xml:lang="en">Shish kebab is a popular meal of skewered and grilled cubes of meat.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Shish_kebab</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">shish kebab</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002562 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002562">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A chocolate brownie (commonly referred to as simply brownie) is a square, baked, chocolate dessert.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Chocolate_brownie</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chocolate brownie</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002664 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002664">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A lipid food product is a food product made primarily of plant or animal fat or oil</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lipid food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002711 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002711">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A cracker is a flat, dry baked food typically made with flour. In UK English, crackers are sometimes called water biscuits, savoury biscuits or biscuits.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Cracker_(food)</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cracker</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002718 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002718">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ginger root</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002737 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002737">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, or flame broiled.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Hamburger</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beef hamburger (dish)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002753 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002753">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A whole bean is a bean having an intact seed shape and composition.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bean (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002889 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002889">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">black turtle bean (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00002933 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00002933">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The hazelnut is the nut of the hazel and therefore includes any of the nuts deriving from species of the genus Corylus, especially the nuts of the species Corylus avellana. It also is known as cobnut or filbert nut according to species.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Hazelnut"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hazelnut</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003012 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003012">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">yellow bell pepper (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003013 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003013">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Bell_pepper#Varieties"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bell pepper</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003019">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A shallot is the bulb part of a shallot plant</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">shallot (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003024 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003024">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cumin seed (whole, dried)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003042 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003042">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">herb</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003049 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003049">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Hummus is a Levantine dip or spread made from cooked, mashed chickpeas or other beans, blended with tahini, olive oil, lemon juice, salt, and garlic.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hummus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003066">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pomegranate (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003083 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003083">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Veal is the meat of calves, in contrast to the beef from older cattle. Veal can be produced from a calf of either sex and any breed; however, most veal comes from young males of dairy breeds which are not used for breeding.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Veal"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">veal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003108 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003108">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Barley is a cultivated grain used as animal fodder, as a source of fermentable material for beer and certain distilled beverages, and as a component of various health foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Barley"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">barley grain (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003140 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003140">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Stew"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">stew</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003157 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003157">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Almond milk is a plant milk manufactured from almonds with a creamy texture and nutty flavor,</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Almond_milk"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">almond milk</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003229 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003229">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A distilled, highly alcoholic beverage (45–74% ABV / 90–148 U.S. proof). It is an anise-flavoured spirit derived from botanicals, including the flowers and leaves of Artemisia absinthium (&quot;grand wormwood&quot;), together with green anise, sweet fennel, and other medicinal and culinary herbs.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Absinthe"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">absinthe</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003230">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Muesli is a cold breakfast cereal dish based on rolled oats and ingredients like grains, nuts, seeds and fresh or dried fruits.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">museli</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003231">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dessert pastry consisting of a filled brioche.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tarte_trop%C3%A9zienne"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tarte tropézienne</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003232">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Bolognese sauce is a meat-based sauce in Italian cuisine, typical of the city of Bologna</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bolognese sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003233 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003233">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A beef stew braised in red wine, often red Burgundy, and beef stock, generally flavoured with carrots, onions, garlic, and a bouquet garni, and garnished with pearl onions, mushrooms, and bacon.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Beef_bourguignon"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beef bourguignon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003235 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003235">
+        <obo:IAO_0000115 xml:lang="en">A small skewer of meat</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">meat brochette</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003236">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An Italian pasta sauce from Rome made with egg, hard cheese, guanciale (or pancetta), and black pepper.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Carbonara"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">carbonara sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003238 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003238">
+        <obo:IAO_0000115 xml:lang="en">A northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, onion, white wine, and parmesan cheese.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Risotto"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">risotto</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003239 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003239">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A French Provençal stewed vegetable dish, originating in Nice, and sometimes referred to as ratatouille niçoise. Recipes and cooking times differ widely, but common ingredients include tomato, garlic, onion, zucchini, aubergine (eggplant), bell pepper, and some combination of leafy green herbs common to the region.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Ratatouille"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ratatouille</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003240 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003240">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dish from Savoy in the Alps. It is made with potatoes, reblochon cheese, lardons and onions.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tartiflette"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tartiflette</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003241 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003241">
+        <obo:IAO_0000115 xml:lang="en">A Maghrebi dish which is named after the earthenware pot in which it is cooked.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tajine"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tajine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003242">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A Levantine vegetarian salad made mostly of finely chopped parsley, with tomatoes, mint, onion, bulgur (soaked, not cooked), and seasoned with olive oil, lemon juice, salt and pepper. Some variations add garlic or lettuce, or use couscous instead of bulgur.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tabbouleh"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tabbouleh</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003243 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003243">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Sushi"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sushi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003244 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003244">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A baked egg-based dish which originated in early eighteenth-century France. It is made with egg yolks and beaten egg whites combined with various other ingredients and served as a savory main dish or sweetened as a dessert.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Souffl%C3%A9"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soufflé</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003245">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A mixture of creamed fish or meat, sometimes combined with breadcrumbs, with a light egg binding, formed into an egg-like shape, and then cooked, usually by poaching.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Quenelle"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">quenelle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003246">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An Italian dry-cured ham that is usually thinly sliced and served uncooked.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Prosciutto"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">prosciutto</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003247 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003247">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Parmigiano-Reggiano"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">parmesan cheese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003248 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003248">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A sandwich traditionally made with Italian bread (such as ciabatta, and michetta), usually served warmed by grilling or toasting.  In many English-speaking countries other types of bread such as baguettes may be used.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Panini_(sandwich)"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">panini</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003249 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003249">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A salumi made of pork belly meat that is salt cured.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Pancetta"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pancetta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003250 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003250">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A Spanish rice dish originally from Valencia, named after the wide, shallow traditional pan used to cook the dish.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">paella</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003251 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003251">
+        <obo:IAO_0000115 xml:lang="en">A castrated adult cattle male (occasionally a female or in some areas a bull) kept for draft or riding purposes.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Cattle#Terminology</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ox</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003252 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003252">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dish made from beaten eggs fried with butter or oil in a frying pan (without stirring as in scrambled egg). It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat (often ham or bacon), or some combination of the above.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Omelette"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">omelette</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003253 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003253">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An eggplant- (aubergine) or potato-based dish, often including ground meat, in the Levant, Middle East, and Balkans, with many local and regional variations.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Moussaka"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">moussaka</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003254 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003254">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A French pastry traditionally made up of three layers of puff pastry (pâte feuilletée), alternating with two layers of pastry cream (crème pâtissière). The top pastry layer is dusted with confectioner&apos;s sugar, and sometimes cocoa, pastry crumbs, or pulverized seeds (e.g. roasted almonds) or is glazed with icing or fondant in alternating white (icing) and brown (chocolate) stripes, and combed.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Mille-feuille"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mille-feuille pastry</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003255 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003255">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An Italian cream cheese recognized as a Prodotto agroalimentare tradizionale (traditional regional food product), it is coagulated by the addition of certain acidic substances such as lemon juice, vinegar or citric acid.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Mascarpone"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mascarpone</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003257 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003257">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A hoppy beer style within the broader category of pale ale.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/India_pale_ale"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">india pale ale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003258 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003258">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Yogurt that has been strained to remove most of its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt&apos;s distinctive sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made from low-fat or fat-free milk.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Strained_yogurt"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">strained yogurt</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003259 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003259">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A sauce made from a white roux (butter and flour) and milk.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">Béchamel sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003260 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003260">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 rdf:resource="https://en.wikipedia.org/wiki/Chicken_curry"/>
+        <obo:IAO_0000115 xml:lang="en">A dish originating from the Indian subcontinent, consisting of chicken stewed in an onion- and tomato-based sauce, flavoured with curry powder and or ginger, garlic, tomato puree, chilli peppers, turmeric, cumin, coriander, cinnamon, cardamom etc.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chicken curry</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003261 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003261">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dish of ground meat covered with mashed potatoes and baked, similar to the British dish shepherd&apos;s pie.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Hachis_Parmentier"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hachis parmentier</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003263 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003263">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A regional dish of Savoyard gastronomy based on processed cheese and bread. It is prepared from cheesaes such as the mountain county , Beaufort , Gruyère de Savoie , Emmental of Savoy.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://fr.wikipedia.org/wiki/Fondue_savoyarde"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fondue savoyarde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003264 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003264">
+        <obo:IAO_0000115 xml:lang="en">A dish of beef dipped in fondue, originating in Switzerland.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://fr.wikipedia.org/wiki/Fondue_bourguignonne"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">Burgundy fondue</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003265 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003265">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Fat (in the strict sense) specifically refers to lipids that are solids at room temperature.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Fat"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003266 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003266">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fig (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003267 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003267">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An additive used to modify flavour</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Flavor"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">flavouring additive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003268 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003268">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A tartiflette except that small squares of pasta, crozets de Savoie (usually made from buckwheat but sometimes durum) are used instead of potatoes.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tartiflette"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">croziflette</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003269 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003269">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A baked or fried boiled ham and cheese sandwich.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Croque_monsieur"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">Croque monsieur</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003270 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003270">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A cut of pork popular in Western and Asian cuisines. The ribcage of a domestic pig, meat and bones together, is cut into usable pieces, prepared by smoking, grilling, or baking – usually with a sauce, often barbecue – and then served.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Pork_ribs"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pork ribs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003271 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003271">
+        <obo:IAO_0000115 xml:lang="en">A Tex-Mex and Mexican cuisine dish usually served as a taco on a flour or corn tortilla, with toppings including cooked skirt steak or other cuts of beef, chicken, as well as vegetables instead of meat.  In restaurants, the meat is usually cooked with onions and bell peppers.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Fajita"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fajita</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003272 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003272">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dish of meat wrapped around cheese (or with cheese filling), then breaded and pan-fried or deep-fried.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Cordon_bleu_(dish)"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cordon bleu (dish)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301005 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301005">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">spaghetti macaroni</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301036">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">coffee (liquid drink)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301040">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">watermelon (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301055 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301055">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">white bread</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301072 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301072">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The powdered form of cocoa bean solids remaining after cocoa butter, the fat component, is extracted from chocolate liquor, roasted cocoa beans that have been ground into a liquid state.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Cocoa_solids"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cocoa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301103 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301103">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">orange juice</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301105 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301105">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">paprika</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301107 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301107">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">nectarine (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301116">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">flour</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301123 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301123">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">grape (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301136">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">brown rice food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301175 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301175">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cinnamon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301217 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301217">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tomato sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301236">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">blackberry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301240 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301240">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cherry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301283 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301283">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">raisin (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301299 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301299">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">peanut (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301300">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pea (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301326 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301326">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cabbage (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301355 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301355">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">almond (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301397 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301397">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sauerkraut</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301415 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301415">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soybean (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301440 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301440">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mayonnaise</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301441 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301441">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lemon (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301449 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301449">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">potato (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301460 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301460">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tomato catsup</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301474 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301474">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">corn oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301482 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301482">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">oregano (ground)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301483 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301483">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lowfat cow milk</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301502 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301502">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">yogurt (plain)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301545 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301545">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cucumber (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301570 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301570">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">carrot root (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301577 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301577">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">squash (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301580 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301580">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000119 xml:lang="en">A plum is the fruit of a plum plant.</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">plum (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301585 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301585">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A cookie is a baked or cooked food that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cookie</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301593 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301593">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">melon (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301619 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301619">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301632 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301632">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">brandy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301635 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301635">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fruitcake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301641 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301641">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rice grain food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301660 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301660">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pudding</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301672 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301672">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A spread used for flavoring, baking, and cooking that was first made in France in 1869.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Margarine"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">margarine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301697 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301697">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pumpkin (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301701 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301701">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">apricot (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301702 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301702">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">grapefruit (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301704 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301704">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">onion (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301705 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301705">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">vinegar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301713 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301713">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">broccoli floret (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301716 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301716">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">spinach (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301719 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301719">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">peach (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301722 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301722">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">strawberry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301724 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301724">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pear (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301727 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301727">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">celery stalk (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301729 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301729">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cheesecake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301773 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301773">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">artichoke (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301813 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301813">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mango (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301826 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301826">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">olive oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301830 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301830">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">papaya (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301831 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301831">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pineapple (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301833 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301833">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">potato chip</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301889 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301889">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cream cheese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301906 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301906">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for another food type.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Sandwich"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sandwich</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03301977 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03301977">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A liquid prepared for consumption, or a product that can be combined with water or milk to make one.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beverage food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302045 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302045">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">blueberry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302111 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302111">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste.  Historically, the term referred to a drink brewed without hops.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Ale"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302116">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cow milk (fluid)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302379 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302379">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">garlic bread</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302458 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302458">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cheddar cheese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302727 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302727">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chicory (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302732 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302732">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cauliflower (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302775 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302775">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">whiskey</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302776 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302776">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soybean oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03302908 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03302908">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ricotta cheese</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03303085 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03303085">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">coconut (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03303207 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03303207">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">couscous</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03303222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03303222">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">wine (food product)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03303380 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03303380">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">spice</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304006 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304006">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hot sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304595 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304595">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">ravioli pasta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304639 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304639">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">green tea leaf (dry)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304640 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304640">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">black tea leaf (dry)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304656 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304656">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">radish (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304707 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304707">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">coleslaw (food product)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03304859 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03304859">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">kale leaf (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305208 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305208">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">garlic (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305236">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">avocado (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305237 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305237">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tropical fruit (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305263 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305263">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">vegetable oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305317 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305317">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">guava (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305417 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305417">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chocolate cake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305518 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305518">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">vodka</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03305656 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03305656">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fruit (dried)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306255 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306255">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">toast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306347 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306347">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pasta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306581 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306581">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cow whole milk (pasteurized)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306632 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306632">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">nut (whole or part)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306811 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306811">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chickpea (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306867 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306867">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">peanut butter</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306893 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306893">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">berry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03306944 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03306944">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">noodle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307119 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307119">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">raspberry (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307177 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307177">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">quiche</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307240 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307240">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chocolate</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307294 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307294">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mineral water (carbonated)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307458 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307458">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cow milk (semi-skimmed)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307633 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307633">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">turnip (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307744 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307744">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A taco is a traditional Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Taco</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">taco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03307770 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03307770">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">egg salad sandwich</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309462 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309462">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">broth</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309491 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309491">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">gin</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309709 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309709">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">eggplant (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309832 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309832">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">orange (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309855 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309855">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">whole oats (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309858 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309858">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rhubarb stalk (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309927 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309927">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tomato (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309954 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309954">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">table salt</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03309985 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03309985">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rice cake (food product)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310193 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310193">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">quinoa seed (dried)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310232">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">palm oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310272 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310272">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Red wine is a type of wine made from dark-colored  grape varieties. The actual color of the wine can range from intense violet, typical of young wines, through to brick red for mature wines and brown for older red wines.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">red wine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310273 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310273">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">White wine is a wine whose color can be straw-yellow, yellow-green, or yellow-gold. It is produced by the alcoholic fermentation of the non-coloured pulp of grapes, which may have a skin of any colour.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">white wine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310290 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310290">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">kefir</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310351 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310351">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">butter</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310357 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310357">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sunflower seed oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310387 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310387">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">oil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310547 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310547">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soft drink (dietetic)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310635 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310635">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bakery product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310641 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310641">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lentil (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310709 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310709">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">falafel (whole, cooked)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310775 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310775">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pizza food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310815 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310815">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">soft drink</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310820 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310820">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Gravy"/>
+        <obo:IAO_0000119 xml:lang="en">Gravy is a sauce often made from the juices of meats that run naturally during cooking and thickened with wheat flour or corn starch for added texture.</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">gravy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310858 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310858">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rocket (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03310943 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03310943">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">zucchini squash (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311095 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311095">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">grain product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311146">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sauce</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311349 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311349">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">asparagus (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311513 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311513">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">banana (whole, ripe)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311555 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311555">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">porridge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311604 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311604">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">black currant (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311663 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311663">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 rdf:resource="https://en.wikipedia.org/wiki/Beefsteak"/>
+        <obo:IAO_0000115 xml:lang="en">A raw beef steak is a flat cut of beef, with parallel faces spaced to a thickness of 1 to 5 centimetres (1⁄2 to 2 in), usually cut perpendicular to the muscle fibers, with a raw mass in common restaurant service ranging from 120 to 600 grams (4 to 21 oz). Beef steaks are usually grilled, pan fried, or broiled.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beef steak (raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03311757 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03311757">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">leek (whole, raw)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03312036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03312036">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cheese sandwich</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03312067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03312067">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">salami</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315081">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">An aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub (bush) native to East Asia.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Tea"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tea food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315145 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315145">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">olive (whole, ripe)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315184 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315184">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">wheat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315258 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315258">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">pancake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315513 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315513">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">milk product (fermented)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315751 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315751">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Brown bread is a designation often given to breads made with significant amounts of whole grain flour, usually wheat, and sometimes dark-colored ingredients such as molasses or coffee. In Canada, the United Kingdom and South Africa it simply refers to wholemeal or whole wheat bread, except in the Maritimes, where it implies bread made with molasses.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Brown_bread</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">brown bread</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03315904 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03315904">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sausage (formed)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03316042 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03316042">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">salad</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03316061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03316061">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An egg produced by a female chicken.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hen egg (whole)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03316114 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03316114">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beverage (water-based, flavored, nonalcoholic)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03316636 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03316636">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Ready-to-serve (or ready-to-eat, RTE) foods are foods not requiring any further preparation before consumption, except perhaps washing/rinsing, thawing or warming.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/policies/policy-listeria-monocytogenes-ready-eat-foods-2011.html#appa</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">food (ready-to-serve)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03316694 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03316694">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">vegetable fat food product</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03317254 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03317254">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beetroot</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03317365 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03317365">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">beverage (alcoholic, distilled)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03317446 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03317446">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">gnocchi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03317508 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03317508">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A dish of boiled cornmeal that was historically made from other grains. It may be served as a hot porridge, or it may be allowed to cool and solidify into a loaf that can be baked, fried, or grilled.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Cream_cheese"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">polenta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411005 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411005">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">stem or spear vegetable</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411043 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411043">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">mackerel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411136">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Suidae is a family of artiodactyl mammals which are commonly called pigs, hogs or boars. In addition to numerous fossil species, 17 extant species are currently recognized (or 18 counting domestic pigs and wild boars separately), classified into between four and eight genera. The family includes the domestic pig, Sus scrofa domesticus or Sus domesticus, in addition to numerous species of wild pig, such as babirusas and warthogs. All suids, or swine, are native to the Old World, ranging from Asia to Europe and Africa.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">https://en.wikipedia.org/wiki/Suidae</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">swine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411161">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Cattle (colloquially cows) are the most common type of large domesticated ungulates. They are a prominent modern member of the subfamily *Bovinae*, are the most widespread species of the genus *Bos*, and are most commonly classified collectively as *Bos taurus*... with three subspecies: *Bos taurus primigenius, Bos taurus indicus, Bos taurus taurus*.</obo:IAO_0000115>
+        <obo:IAO_0000119>WIKIPEDIA:Cattle</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cattle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411205 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411205">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">squid</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411222">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Fish are the gill-bearing aquatic craniate animals that lack limbs with digits. Most fish are ectothermic (&quot;cold-blooded&quot;), allowing their body temperatures to vary as ambient temperatures change, though some of the large active swimmers like white shark and tuna can hold a higher core temperature.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Fish"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">fish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411236">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The turkey is a large bird in the genus Meleagris, which is native to the Americas. Males of both turkey species have a distinctive fleshy wattle or protuberance that hangs from the top of the beak (called a snood). They are among the largest birds in their ranges. As in many galliformes, the male is larger and much more colorful than the female.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Turkey_(bird)"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">turkey (bird)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411237 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411237">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">shrimp</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411258 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411258">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">trout</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411269 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411269">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000119 xml:lang="en">Thunnus is a genus of ocean-dwelling, ray-finned bony fish from the mackerel family, Scombridae. More specifically, Thunnus is one of five genera which make up the tribe Thunnini – a tribe that is collectively known as the tunas</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">tuna</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411316 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411316">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">duck</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411323">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">rabbit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411324 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411324">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">grain plant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411328 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411328">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">goat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411335 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411335">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Crabs are decapod crustaceans of the infraorder *Brachyura*, which typically have a very short projecting &quot;tail&quot;, usually entirely hidden under the thorax. They live in all the world&apos;s oceans, in fresh water, and on land, are generally covered with a thick exoskeleton and have a single pair of claws. Many other animals with similar names - such as hermit crabs, king crabs, porcelain crabs, horseshoe crabs, and crab lice - are not true crabs. 
+ Crabs are generally covered with a thick exoskeleton, composed primarily of highly mineralized chitin, and armed with a single pair of chelae (claws). Crabs are found in all of the world&apos;s oceans, while many crabs live in fresh water and on land, particularly in tropical regions. [https://en.wikipedia.org/wiki/Crab]</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">crab</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411374 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411374">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Crustaceans form a large, diverse arthropod taxon which includes such familiar animals as crabs, lobsters, crayfish, shrimp, krill, woodlice, and barnacles. [https://en.wikipedia.org/wiki/Crustacean]</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">crustacean</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411423 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411423">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">cod</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411457 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411457">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">chicken</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411462 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411462">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">The zucchini or courgette is a summer squash which can reach nearly a meter in length, but which is usually harvested at half that size or less. Along with certain other squashes, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color.</obo:IAO_0000115>
+        <obo:IAO_0000119>WIKIPEDIA:Zucchini</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">zucchini plant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411512 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411512">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">bluefish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411514 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411514">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">octopus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411558 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411558">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sardine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411566 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411566">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Leaf vegetables, also called leafy greens, salad greens, pot herbs, vegetable greens, or simply greens, are plant leaves eaten as a vegetable, sometimes accompanied by tender petioles and shoots.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Leaf_vegetable</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">leafy vegetable</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411669 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411669">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">In general, a sheep in its first year is called a lamb and its meat is also called lamb.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Lamb_and_mutton</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">lamb</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03411854 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03411854">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">anchovy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03412112 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03412112">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">*Mollusca* is a large phylum of invertebrate animals whose members are known as molluscs or mollusks. Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. [https://en.wikipedia.org/wiki/Mollusca]</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">molluscs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03412248 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03412248">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">boar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03413878 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03413878">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">hake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03414363 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03414363">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Kiwi are flightless birds endemic to New Zealand, in the genus *Apteryx* and family *Apterygidae*. At around the size of a domestic chicken, kiwi are by far the smallest living ratites and lay the largest egg in relation to their body size of any species of bird in the world.</obo:IAO_0000115>
+        <obo:IAO_0000119>WIKIPEDIA:Kiwi</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">kiwi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03420108 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03420108">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">A broad term that includes the nutritive sweeteners dextrose, fructose, galactose, lactose, maltose and sucrose, which are simple carbohydrates with molecules composed of one or two saccharide units. Note that on a product label or in a recipe, &apos;sugar&apos; means *SUCROSE* and should be so indexed. Use the broad term *SUGAR* only if the specific sugar used is not known or not listed in the vocabulary.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sugar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03420156 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03420156">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Soft sugar whose crystals are covered by a film of refined dark syrup that imparts color, flavor, and moisture.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">brown sugar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03420157 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03420157">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">White sugar is highly refined crystalline sugar, mostly sucrose, that appears white in color.  White sugar is commonly used in North America and Europe, made either of beet sugar or cane sugar, that has undergone a refining process which removes molasses.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/White_sugar</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">white sugar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03530027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03530027">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label xml:lang="en">sirloin</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0036016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0036016">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A sweet viscid material elaborated out of the nectar of flowers in the honey sac of various bees.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">honey</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
