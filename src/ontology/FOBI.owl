@@ -9,7 +9,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/fobi.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/fobi/releases/2019-10-30/fobi.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/fobi/fobi.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"/>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
