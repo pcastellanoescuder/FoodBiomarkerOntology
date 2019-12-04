@@ -1,8 +1,15 @@
 format-version: 1.2
 data-version: fobi.owl
+remark: Please cite FOBI project http://purl.obolibrary.org/obo/fobi where traditional citation is called for. However it is adequate that individual terms be attributed simply by use of the identifying PURL for the term, in projects that refer to them.
 import: http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl
 import: http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl
 ontology: fobi
+property_value: FOBI_050000 "English" xsd:string
+property_value: FOBI_050001 "Damion Dooley" xsd:string
+property_value: FOBI_050001 "Raúl González Domínguez" xsd:string
+property_value: FOBI_050002 "Pol Castellano Escuder" xsd:string
+property_value: FOBI_050003 "FOBI (Food-Biomarker Ontology) is composed of two interconnected sub-ontologies. One is a ”Food Ontology” consisting of raw foods and multiple-ingredient foods while the second is a ”Biomarker Ontology” containing food intake biomarkers classified by their chemical classes. These two sub-ontologies are conceptually independent but interconnected by different properties. This allows data and information regarding foods and food biomarkers to be visualized in a bidirectional way, going from metabolomics to nutritional data or vice versa. Potential applications of this ontology include the annotation of foods and biomarkers using a well-defined and consistent nomenclature, the standardized reporting of metabolomics workflows (e.g. metabolite identification, experimental design), or the application of different enrichment analysis approaches to analyze nutrimetabolomic data." xsd:string
+property_value: http://purl.org/dc/terms/license http://creativecommons.org/licenses/by/4.0/ xsd:string
 
 [Term]
 id: CHEBI:10219 ! alpha-Chaconine
