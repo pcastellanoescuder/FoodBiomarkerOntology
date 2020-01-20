@@ -12,5 +12,5 @@ The FOBI is available in both OWL (Web Ontology Language) and OBO (Open Biomedic
 
 Please note that the ‘Food-Biomarker Ontology’ project is released with a [Contributor Code
 of
-Conduct](https://github.com/pcastellanoescuder/FoodBiomarkerOntology/master/blob/CODE_OF_CONDUCT.html).
+Conduct](https://github.com/pcastellanoescuder/FoodBiomarkerOntology/blob/master/CODE_OF_CONDUCT.md).
 By contributing to this project, you agree to abide by its terms.
