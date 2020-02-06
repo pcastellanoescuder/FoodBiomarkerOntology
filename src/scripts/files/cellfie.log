@@ -1,0 +1,1406 @@
+Date: 2020-02-06 15:28:04
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/INCHIKEY.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet1!E2:E+) Comment: ""
+# Class: @B*
+#     Annotations: InChIKey @E*
+
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B2.
+   Annotations: InChIKey "WPYMKLBDIGXBTP-UHFFFAOYSA-N"
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B3.
+   Annotations: InChIKey "UNZWRTIHFRATTA-UHFFFAOYSA-N"
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B4.
+   Annotations: InChIKey "AKVBVZKHKYRBGR-UHFFFAOYSA-N"
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B5.
+   Annotations: InChIKey "QHDLTZVVAZWIPB-UHFFFAOYSA-N"
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B6.
+   Annotations: InChIKey "KCEDAVRJNCRNGJ-UHFFFAOYSA-N"
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B7.
+   Annotations: InChIKey "OBLLRWZSZCYGCW-UHFFFAOYSA-N"
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B8.
+   Annotations: InChIKey "WLJVXDMOQOGPHL-UHFFFAOYSA-N"
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B9.
+   Annotations: InChIKey "WBYWAXJHAXSJNI-VOTSOKGWSA-N"
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B10.
+   Annotations: InChIKey "NGSWKAQJJWESNS-UTCJRWHESA-N"
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B11.
+   Annotations: InChIKey "SOKJXEKPKWKYKR-ARYKGQTKSA-N"
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B12.
+   Annotations: InChIKey "OYDCCWNLILCHDJ-UTCJRWHESA-N"
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B13.
+   Annotations: InChIKey "KSEBMYQBYZTDHS-HYXAFXHYSA-N"
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B14.
+   Annotations: InChIKey "TWSIWBHKRJLZCF-XGYWJOOESA-N"
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B15.
+   Annotations: InChIKey "PZPATWACAAOHTJ-HYXAFXHYSA-N"
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B16.
+   Annotations: InChIKey "PCMORTLOPMLEFB-ARJAWSKDSA-N"
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B17.
+   Annotations: InChIKey "XMIIGOLPHOKFCH-UHFFFAOYSA-N"
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B18.
+   Annotations: InChIKey "CJBDUOMQLFKVQC-UHFFFAOYSA-N"
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B19.
+   Annotations: InChIKey "VNFALAKTVPEPJX-UHFFFAOYSA-N"
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B20.
+   Annotations: InChIKey "GFRZSBZWGKDEGA-UHFFFAOYSA-N"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B21.
+   Annotations: InChIKey "QHXNJIMVPAFCPR-UHFFFAOYSA-N"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!B22.
+   Annotations: InChIKey "RLPWWOIWKYLCFU-IASGZQPQSA-N"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B23.
+   Annotations: InChIKey "GXGQOCNOANVHKV-UHFFFAOYSA-N"
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B24.
+   Annotations: InChIKey "QGXITCCVKOBDDI-UHFFFAOYSA-N"
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B25.
+   Annotations: InChIKey "KZOBTPYFLMPYPM-UKDLGEHVSA-N"
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B26.
+   Annotations: InChIKey "FDWDKTKDGDLDTP-QCBBCZTKSA-N"
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B27.
+   Annotations: InChIKey "BUONZQIZWIITTB-FSDQAXRCSA-N"
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B28.
+   Annotations: InChIKey "KZOBTPYFLMPYPM-NRZZOOGVSA-N"
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B29.
+   Annotations: InChIKey "FLSYXGAHKYHTCZ-LSDHHAIUSA-N"
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B30.
+   Annotations: InChIKey "RTMISWLJQDWIPT-DZGCQCFKSA-N"
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B31.
+   Annotations: InChIKey "MATGKVZWFZHCLI-LSDHHAIUSA-N"
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B32.
+   Annotations: InChIKey "GUJNNQFVFGFZPK-UHFFFAOYSA-N"
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B33.
+   Annotations: InChIKey "HUFQFNXBADQYPW-UHFFFAOYSA-N"
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B34.
+   Annotations: InChIKey "CHGHIPGTRZZHEK-UHFFFAOYSA-N"
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B35.
+   Annotations: InChIKey "PUETUDUXMCLALY-HOTGVXAUSA-N"
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B36.
+   Annotations: InChIKey "MONLZYFGSVIHQC-UHFFFAOYSA-N"
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B37.
+   Annotations: InChIKey "KEJQZUWQIORRTE-UHFFFAOYSA-N"
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B38.
+   Annotations: InChIKey "FGMVDFZVCZUDGI-UHFFFAOYSA-N"
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B39.
+   Annotations: InChIKey "UYIGCUYDCWYJAR-UHFFFAOYSA-N"
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B40.
+   Annotations: InChIKey "WMJINTSGOMLXDT-UHFFFAOYSA-N"
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B41.
+   Annotations: InChIKey "RVMYIRMLUMZKLQ-UHFFFAOYSA-N"
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B42.
+   Annotations: InChIKey "VWNRXGBNZAPMCJ-UHFFFAOYSA-N"
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B43.
+   Annotations: InChIKey "QNELQQQFSCPAJP-UHFFFAOYSA-N"
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B44.
+   Annotations: InChIKey "IHFCQBGVSIXPDS-UHFFFAOYSA-N"
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B45.
+   Annotations: InChIKey "CKOBBDMKLAJVHB-UHFFFAOYSA-N"
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B46.
+   Annotations: InChIKey "BGUMMAWETHOVOG-UHFFFAOYSA-N"
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B47.
+   Annotations: InChIKey "NVHDQFSKGFJRQV-UHFFFAOYSA-N"
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B48.
+   Annotations: InChIKey "CYLGJKHAMHUFLA-UHFFFAOYSA-N"
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B49.
+   Annotations: InChIKey "HUUUQHZJAPVLRH-UHFFFAOYSA-N"
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B50.
+   Annotations: InChIKey "ODEQQZORHQBZKE-UHFFFAOYSA-N"
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B51.
+   Annotations: InChIKey "ARWUARNRTRQSHW-UHFFFAOYSA-N"
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B52.
+   Annotations: InChIKey "ABKGSMJYGPRITK-UHFFFAOYSA-N"
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B53.
+   Annotations: InChIKey "CNEMQJLKVHMVEC-UHFFFAOYSA-N"
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B54.
+   Annotations: InChIKey "TXGJJYHARFIBHU-UHFFFAOYSA-N"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B55.
+   Annotations: InChIKey "OYHOCUAXXOWENX-UHFFFAOYSA-N"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B56.
+   Annotations: InChIKey "FGIQLOOXJCVVDO-BYNIDDHOSA-N"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B57.
+   Annotations: InChIKey "DJBPGIGCPUYIGS-UHFFFAOYSA-N"
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B58.
+   Annotations: InChIKey "XKCARXNTRUGKNV-CSHDOIFSSA-N"
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B59.
+   Annotations: InChIKey "LIVXQZBSLFQWSH-UHFFFAOYSA-N"
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B60.
+   Annotations: InChIKey "BKFNTANIRVOYGT-UHFFFAOYSA-N"
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B61.
+   Annotations: InChIKey "BKFNTANIRVOYGT-UHFFFAOYSA-N"
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B62.
+   Annotations: InChIKey "QGUMNWHANDITDB-FPYGCLRLSA-N"
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B63.
+   Annotations: InChIKey "JXFZHMCSCYADIX-XVNBXDOJSA-N"
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B64.
+   Annotations: InChIKey "IDUUXROOZBOOPH-QHHAFSJGSA-N"
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B65.
+   Annotations: InChIKey "FRNDILDQFSAXAR-ZPUQHVIOSA-N"
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B66.
+   Annotations: InChIKey "UXYPQEDKRALATQ-ZUVMSYQZSA-N"
+Class: Avenanthramide Q  # Generated from value "Avenanthramide Q" located at cell 'Sheet1'!B67.
+   Annotations: InChIKey "ICQWGSPTLPRZPP-ZPUQHVIOSA-N"
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B68.
+   Annotations: InChIKey "AAJHVVLGKCKBSH-UHFFFAOYSA-N"
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B69.
+   Annotations: InChIKey "FINVSZXHUNAWLI-UHFFFAOYSA-N"
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B70.
+   Annotations: InChIKey "CHTHALBTIRVDBM-UHFFFAOYSA-N"
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!B71.
+   Annotations: InChIKey "INAXVXBDKKUCGI-UHFFFAOYSA-N"
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!B72.
+   Annotations: InChIKey "ASOSVCXGWPDUGN-UHFFFAOYSA-N"
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!B73.
+   Annotations: InChIKey "NUXSIDPKKIEIMI-LURJTMIESA-N"
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B74.
+   Annotations: InChIKey "KLIDCXVFHGNTTM-UHFFFAOYSA-N"
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!B75.
+   Annotations: InChIKey "ZFBNNSOJNZBLLS-UHFFFAOYSA-N"
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!B76.
+   Annotations: InChIKey "FWMPKHMKIJDEMJ-UHFFFAOYSA-N"
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B77.
+   Annotations: InChIKey "RDJXPXHQENRCNG-UHFFFAOYSA-N"
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B78.
+   Annotations: InChIKey "DDHPPCVMQOXUFB-UHFFFAOYSA-N"
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B79.
+   Annotations: InChIKey "DWOBTNSFRDZSMA-UHFFFAOYSA-N"
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B80.
+   Annotations: InChIKey "DOTQQODPKREUTR-UHFFFAOYSA-N"
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B81.
+   Annotations: InChIKey "AOHCBEAZXHZMOR-ZDUSSCGKSA-N"
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B82.
+   Annotations: InChIKey "CDLVFVFTRQPQFU-UHFFFAOYSA-N"
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B83.
+   Annotations: InChIKey "IBRKLUSXDYATLG-LURJTMIESA-N"
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B84.
+   Annotations: InChIKey "MQMJQDWEMNNNLR-UHFFFAOYSA-N"
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B85.
+   Annotations: InChIKey "DFPNWHGWIXZYTR-UHFFFAOYSA-N"
+
+===========================================================================================================
+Date: 2020-02-06 15:29:20
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/KEGG.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet1!D2:D+) Comment: ""
+# Class: @B*
+#     Annotations: KEGG @D*
+
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B2.
+   Annotations: KEGG "C00539"
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B3.
+   Annotations: KEGG "C07086"
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B4.
+   Annotations: KEGG "C10438 "
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B5.
+   Annotations: KEGG "C06738"
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B6.
+   Annotations: KEGG "C05629"
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B7.
+   Annotations: KEGG "C01198 "
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B8.
+   Annotations: KEGG "C10682 "
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B9.
+   Annotations: KEGG "C18167 "
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B10.
+   Annotations: KEGG "C08472"
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B11.
+   Annotations: KEGG "C08887"
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B12.
+   Annotations: KEGG "C08888"
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B13.
+   Annotations: KEGG "C20450"
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B14.
+   Annotations: KEGG "C10787"
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B15.
+   Annotations: KEGG "C02161"
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B16.
+   Annotations: KEGG "C09213"
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B17.
+   Annotations: KEGG "C09642"
+
+===========================================================================================================
+Date: 2020-02-06 15:49:37
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/relations.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!B2:B+) Comment: ""
+# Class: @B*
+#     SubClassOf: BiomarkerOf some @C*
+
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B2.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B3.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B4.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B5.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B6.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B7.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B8.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B9.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B10.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B11.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B12.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B13.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B14.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B15.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B16.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B17.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B18.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B19.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B20.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B21.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B22.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B23.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B24.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B25.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B26.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B27.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B28.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B29.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B30.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B31.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B32.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B33.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B34.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B35.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B36.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B37.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B38.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B39.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B40.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B41.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B42.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B43.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B44.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B45.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B46.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B47.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B48.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B49.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B50.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B51.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B52.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B53.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B54.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B55.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B56.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B57.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B58.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B59.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B60.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B61.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B62.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B63.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B64.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B65.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B66.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B67.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B68.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B69.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B70.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B71.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B72.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B73.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B74.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B75.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B76.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B77.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B78.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B79.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B80.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B81.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B82.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B83.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B84.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B85.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B86.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B87.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B88.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B89.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B90.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B91.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B92.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B93.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B94.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B95.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B96.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B97.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B98.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B99.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B100.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B101.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B102.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B103.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B104.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B105.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B106.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B107.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B108.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B109.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B110.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B111.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B112.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B113.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B114.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B115.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B116.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B117.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B118.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B119.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B120.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B121.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B122.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B123.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B124.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B125.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B126.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B127.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B128.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B129.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B130.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B131.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B132.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B133.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B134.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B135.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B136.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B137.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B138.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B139.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B140.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B141.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B142.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B143.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B144.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B145.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B146.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B147.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B148.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B149.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B150.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B151.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B152.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B153.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B154.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B155.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B156.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B157.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B158.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B159.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B160.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B161.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B162.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B163.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B164.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B165.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B166.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B167.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B168.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B169.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B170.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B171.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B172.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B173.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B174.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B175.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B176.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B177.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B178.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B179.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B180.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B181.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B182.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B183.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B184.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B185.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B186.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B187.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B188.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B189.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B190.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B191.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B192.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!B193.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B194.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B195.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B196.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B197.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B198.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B199.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B200.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B201.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B202.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B203.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B204.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B205.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B206.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B207.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B208.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B209.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B210.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B211.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B212.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B213.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B214.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B215.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B216.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B217.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B218.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B219.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B220.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B221.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B222.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B223.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B224.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B225.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B226.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B227.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B228.
+   SubClassOf: (BiomarkerOf SOME berry (whole, raw))
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B229.
+   SubClassOf: (BiomarkerOf SOME apple (whole))
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B230.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B231.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B232.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B233.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B234.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B235.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B236.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B237.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B238.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B239.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B240.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B241.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B242.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B243.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B244.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B245.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B246.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B247.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B248.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B249.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B250.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B251.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B252.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B253.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B254.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B255.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B256.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B257.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B258.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B259.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B260.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B261.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B262.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B263.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B264.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B265.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B266.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B267.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B268.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B269.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B270.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B271.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B272.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B273.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B274.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B275.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B276.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B277.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B278.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B279.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B280.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B281.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B282.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B283.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B284.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B285.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B286.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B287.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B288.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B289.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B290.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B291.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B292.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B293.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B294.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B295.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B296.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B297.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B298.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B299.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B300.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B301.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B302.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B303.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B304.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B305.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B306.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B307.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B308.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B309.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B310.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B311.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B312.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B313.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B314.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B315.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B316.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B317.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B318.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B319.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B320.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B321.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B322.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B323.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B324.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B325.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B326.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B327.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B328.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B329.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B330.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B331.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B332.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B333.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B334.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B335.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B336.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B337.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B338.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B339.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B340.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B341.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B342.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B343.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B344.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B345.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B346.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B347.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B348.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B349.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B350.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B351.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B352.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B353.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B354.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B355.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B356.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B357.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B358.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B359.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B360.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B361.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B362.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B363.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B364.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B365.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B366.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B367.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B368.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B369.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B370.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B371.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B372.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B373.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B374.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B375.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B376.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B377.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B378.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B379.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B380.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B381.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B382.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B383.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B384.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B385.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B386.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B387.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B388.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B389.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B390.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B391.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B392.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B393.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B394.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B395.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B396.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B397.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B398.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B399.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B400.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B401.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B402.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B403.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B404.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B405.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B406.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B407.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B408.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B409.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B410.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B411.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B412.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B413.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B414.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B415.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B416.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B417.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B418.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B419.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B420.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B421.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B422.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B423.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B424.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B425.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B426.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B427.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B428.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B429.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B430.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B431.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B432.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B433.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B434.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B435.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B436.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B437.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B438.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B439.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B440.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B441.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B442.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B443.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B444.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B445.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B446.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B447.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B448.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B449.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B450.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B451.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B452.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B453.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B454.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B455.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B456.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B457.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B458.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B459.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B460.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B461.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B462.
+   SubClassOf: (BiomarkerOf SOME plant fruit food product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B463.
+   SubClassOf: (BiomarkerOf SOME vegetable food product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B464.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B465.
+   SubClassOf: (BiomarkerOf SOME tea based beverage product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B466.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B467.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B468.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B469.
+   SubClassOf: (BiomarkerOf SOME nut (whole or part))
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B470.
+   SubClassOf: (BiomarkerOf SOME olive oil)
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B471.
+   SubClassOf: (BiomarkerOf SOME red wine)
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B472.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B473.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B474.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B475.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B476.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B477.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B478.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B479.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B480.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B481.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B482.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B483.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenanthramide Q  # Generated from value "Avenanthramide Q" located at cell 'Sheet1'!B484.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B485.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B486.
+   SubClassOf: (BiomarkerOf SOME whole oats (raw))
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B487.
+   SubClassOf: (BiomarkerOf SOME coffee based beverage product)
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B488.
+   SubClassOf: (BiomarkerOf SOME cacao food product)
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B489.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B490.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B491.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B492.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B493.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B494.
+   SubClassOf: (BiomarkerOf SOME legume food product)
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B495.
+   SubClassOf: (BiomarkerOf SOME Whole grain cereal products)
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B496.
+   SubClassOf: (BiomarkerOf SOME banana (whole, ripe))
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B497.
+   SubClassOf: (BiomarkerOf SOME banana (whole, ripe))
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B498.
+   SubClassOf: (BiomarkerOf SOME banana (whole, ripe))
+
+===========================================================================================================
+Date: 2020-02-06 16:26:14
+Ontology source: /home/pol/Escritorio/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/FOBI.xlsx
+Transformation rules: /home/pol/Escritorio/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet1!C2:C+) Comment: ""
+# Class: @B*
+#     Annotations: FOBI @C*
+
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B2.
+   Annotations: FOBI "FOBI:050023"
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B3.
+   Annotations: FOBI "FOBI:050078"
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B4.
+   Annotations: FOBI "FOBI:050079"
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B5.
+   Annotations: FOBI "FOBI:050076"
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B6.
+   Annotations: FOBI "FOBI:050077"
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B7.
+   Annotations: FOBI "FOBI:050057"
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B8.
+   Annotations: FOBI "FOBI:050058"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B9.
+   Annotations: FOBI "FOBI:050054"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B10.
+   Annotations: FOBI "FOBI:050055"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B11.
+   Annotations: FOBI "FOBI:050056"
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B12.
+   Annotations: FOBI "FOBI:050003"
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B13.
+   Annotations: FOBI "FOBI:050059"
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B14.
+   Annotations: FOBI "FOBI:050060"
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B15.
+   Annotations: FOBI "FOBI:050004"
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B16.
+   Annotations: FOBI "FOBI:050005"
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!B17.
+   Annotations: FOBI "FOBI:050071"
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B18.
+   Annotations: FOBI "FOBI:050069"
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B19.
+   Annotations: FOBI "FOBI:050002"
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!B20.
+   Annotations: FOBI "FOBI:050006"
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B21.
+   Annotations: FOBI "FOBI:050017"
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B22.
+   Annotations: FOBI "FOBI:050018"
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B23.
+   Annotations: FOBI "FOBI:050019"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B24.
+   Annotations: FOBI "FOBI:050020"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!B25.
+   Annotations: FOBI "FOBI:050021"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B26.
+   Annotations: FOBI "FOBI:050022"
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!B27.
+   Annotations: FOBI "FOBI:050075"
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!B28.
+   Annotations: FOBI "FOBI:050074"
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B29.
+   Annotations: FOBI "FOBI:050081"
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B30.
+   Annotations: FOBI "FOBI:050067"
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B31.
+   Annotations: FOBI "FOBI:050068"
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B32.
+   Annotations: FOBI "FOBI:050061"
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B33.
+   Annotations: FOBI "FOBI:050062"
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B34.
+   Annotations: FOBI "FOBI:050063"
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B35.
+   Annotations: FOBI "FOBI:050064"
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B36.
+   Annotations: FOBI "FOBI:050065"
+Class: Avenanthramide Q  # Generated from value "Avenanthramide Q" located at cell 'Sheet1'!B37.
+   Annotations: FOBI "FOBI:050066"
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B38.
+   Annotations: FOBI "FOBI:050001"
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B39.
+   Annotations: FOBI "FOBI:050024"
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!B40.
+   Annotations: FOBI "FOBI:050028"
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B41.
+   Annotations: FOBI "FOBI:050026"
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B42.
+   Annotations: FOBI "FOBI:050025"
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!B43.
+   Annotations: FOBI "FOBI:050029"
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B44.
+   Annotations: FOBI "FOBI:050012"
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B45.
+   Annotations: FOBI "FOBI:050013"
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!B46.
+   Annotations: FOBI "FOBI:050014"
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B47.
+   Annotations: FOBI "FOBI:050009"
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!B48.
+   Annotations: FOBI "FOBI:050010"
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B49.
+   Annotations: FOBI "FOBI:050011"
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B50.
+   Annotations: FOBI "FOBI:050015"
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B51.
+   Annotations: FOBI "FOBI:050027"
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!B52.
+   Annotations: FOBI "FOBI:050070"
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!B53.
+   Annotations: FOBI "FOBI:050031"
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!B54.
+   Annotations: FOBI "FOBI:050032"
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!B55.
+   Annotations: FOBI "FOBI:050033"
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B56.
+   Annotations: FOBI "FOBI:050080"
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!B57.
+   Annotations: FOBI "FOBI:050041"
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!B58.
+   Annotations: FOBI "FOBI:050044"
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!B59.
+   Annotations: FOBI "FOBI:050039"
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!B60.
+   Annotations: FOBI "FOBI:050042"
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!B61.
+   Annotations: FOBI "FOBI:050040"
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B62.
+   Annotations: FOBI "FOBI:050043"
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B63.
+   Annotations: FOBI "FOBI:050046"
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B64.
+   Annotations: FOBI "FOBI:050047"
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!B65.
+   Annotations: FOBI "FOBI:050045"
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B66.
+   Annotations: FOBI "FOBI:050030"
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B67.
+   Annotations: FOBI "FOBI:050052"
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B68.
+   Annotations: FOBI "FOBI:050053"
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!B69.
+   Annotations: FOBI "FOBI:050072"
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B70.
+   Annotations: FOBI "FOBI:050007"
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B71.
+   Annotations: FOBI "FOBI:050016"
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B72.
+   Annotations: FOBI "FOBI:050048"
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B73.
+   Annotations: FOBI "FOBI:050049"
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B74.
+   Annotations: FOBI "FOBI:050082"
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B75.
+   Annotations: FOBI "FOBI:050084"
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B76.
+   Annotations: FOBI "FOBI:050083"
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B77.
+   Annotations: FOBI "FOBI:050034"
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B78.
+   Annotations: FOBI "FOBI:050036"
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B79.
+   Annotations: FOBI "FOBI:050038"
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B80.
+   Annotations: FOBI "FOBI:050035"
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!B81.
+   Annotations: FOBI "FOBI:050037"
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B82.
+   Annotations: FOBI "FOBI:050050"
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B83.
+   Annotations: FOBI "FOBI:050051"
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B84.
+   Annotations: FOBI "FOBI:050073"
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B85.
+   Annotations: FOBI "FOBI:050008"
+
+===========================================================================================================

@@ -8,6 +8,10 @@ The Food-Biomarker Ontology is an ontology composed of two interconnected sub-on
 
 The FOBI is available in both OWL (Web Ontology Language) and OBO (Open Biomedical Ontologies) formats.
 
+## Availability
+
+**FOBI** is part of [OBOFoundry Project](http://www.obofoundry.org/) and it's available on [http://purl.obolibrary.org/obo/fobi.owl](http://purl.obolibrary.org/obo/fobi.owl).  
+
 ## Code of Conduct
 
 Please note that the ‘Food-Biomarker Ontology’ project is released with a [Contributor Code

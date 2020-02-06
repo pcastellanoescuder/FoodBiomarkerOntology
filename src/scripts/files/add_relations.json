@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"B","endColumn":"B","startRow":"2","endRow":"+","comment":"","rule":"Class: @B*\n    SubClassOf: BiomarkerOf some @C*","active":true}]}
