@@ -1,7 +1,7 @@
 library(tidyverse)
 library(data.table)
 
-fobi <- readr::read_csv2("/home/pol/Escritorio/FoodBiomarkerOntology/fobi-export.csv")
+fobi <- readr::read_csv2("/home/pol/Escritorio/FoodBiomarkerOntology/src/csv/200226_fobi-export.csv")
 # fobi <- fobi[!(is.na(fobi$`http://purl.obolibrary.org/obo/FOBI_00422`)) ,]
 
 fobi <- fobi[!is.na(fobi$BiomarkerOf), ]
