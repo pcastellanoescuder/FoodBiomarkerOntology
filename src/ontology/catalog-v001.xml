@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1584384760678" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="fobi-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584384760678" name="duplicate:http://purl.obolibrary.org/obo/fobi.owl" uri="fobi.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584384760678" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584384760678" name="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl" uri="imports/foodon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584384760678" name="http://www.semanticweb.org/pol/food_biomarker_ontology/2020/2/fobi-merged.owl" uri="fobi-merged.owl"/>
+    </group>
+</catalog>

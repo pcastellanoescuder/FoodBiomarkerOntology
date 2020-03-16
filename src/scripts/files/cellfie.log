@@ -1404,3 +1404,550 @@ Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located
    Annotations: FOBI "FOBI:050008"
 
 ===========================================================================================================
+Date: 2020-03-16 18:33:03
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/new84chems.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!B2:B+) Comment: ""
+# Class: @B*
+#     SubClassOf: @D*
+
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B2.
+   SubClassOf: Phenylsulfates
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B3.
+   SubClassOf: Phenoxazines
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B4.
+   SubClassOf: Phenoxazines
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B5.
+   SubClassOf: Phenoxazines
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B6.
+   SubClassOf: Phenoxazines
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B7.
+   SubClassOf: Anilides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B8.
+   SubClassOf: Phenolic glycosides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B9.
+   SubClassOf: Phenylsulfates
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B10.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B11.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B12.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B13.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!B14.
+   SubClassOf: Furanones
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B15.
+   SubClassOf: Furoic acids
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B16.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B17.
+   SubClassOf: Phenylpropanoic acids
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B18.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B19.
+   SubClassOf: Phenylsulfates
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B20.
+   SubClassOf: Resorcinols
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B21.
+   SubClassOf: Sulfated fatty acids
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!B22.
+   SubClassOf: Methoxyphenols
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!B23.
+   SubClassOf: Methoxyphenols
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B24.
+   SubClassOf: Straight chain fatty acids
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B25.
+   SubClassOf: Steroidal saponins
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B26.
+   SubClassOf: Steroidal saponins
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B27.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B28.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B29.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B30.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B31.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B32.
+   SubClassOf: Benzoic acids
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B33.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B34.
+   SubClassOf: Flavonoid O-glucuronides
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B35.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B36.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B37.
+   SubClassOf: Phenolic glycosides
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B38.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B39.
+   SubClassOf: Cinnamic acids
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B40.
+   SubClassOf: Hydroxycinnamic acids
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B41.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!B42.
+   SubClassOf: Furanones
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B43.
+   SubClassOf: L-alpha-amino acids
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B44.
+   SubClassOf: Aryltetralin lignans
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B45.
+   SubClassOf: 7,9'-epoxylignans
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B46.
+   SubClassOf: 7,9'-epoxylignans
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B47.
+   SubClassOf: Dibenzylbutyrolactone lignans
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B48.
+   SubClassOf: Furanoid lignans
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B49.
+   SubClassOf: Furanoid lignans
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!B50.
+   SubClassOf: L-alpha-amino acids
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B51.
+   SubClassOf: Benzene and substituted derivatives
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B52.
+   SubClassOf: Phenylpropanoic acids
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B53.
+   SubClassOf: Lignan glycosides
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B54.
+   SubClassOf: Furanoid lignans
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B55.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B56.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B57.
+   SubClassOf: Tetrahydroisoquinolines
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B58.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B59.
+   SubClassOf: Lignan glycosides
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B60.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B61.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B62.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B63.
+   SubClassOf: Furanoid lignans
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B64.
+   SubClassOf: Methoxyphenols
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B65.
+   SubClassOf: Cinnamic acids
+
+===========================================================================================================
+Date: 2020-03-16 18:37:03
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/new_hmdb.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet1!E2:E+) Comment: ""
+# Class: @C*
+#     Annotations: HMDB @E*
+
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!C2.
+   Annotations: HMDB "HMDB0032233"
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!C3.
+   Annotations: HMDB "HMDB0004812"
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!C4.
+   Annotations: HMDB "HMDB0240369"
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!C5.
+   Annotations: HMDB "HMDB0030483"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!C6.
+   Annotations: HMDB "HMDB0240370"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!C7.
+   Annotations: HMDB "HMDB0240379"
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!C8.
+   Annotations: HMDB "HMDB0240380"
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!C9.
+   Annotations: HMDB "HMDB0033752"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!C10.
+   Annotations: HMDB "HMDB0240450"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!C11.
+   Annotations: HMDB "HMDB0240451"
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!C12.
+   Annotations: HMDB "HMDB0240452"
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!C13.
+   Annotations: HMDB "HMDB0041194"
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!C14.
+   Annotations: HMDB "HMDB0029680"
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!C15.
+   Annotations: HMDB "HMDB0033815"
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!C16.
+   Annotations: HMDB "HMDB0033802"
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!C17.
+   Annotations: HMDB "HMDB0038577"
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!C18.
+   Annotations: HMDB "HMDB0038575"
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!C19.
+   Annotations: HMDB "HMDB0038576"
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!C20.
+   Annotations: HMDB "HMDB0033193"
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!C21.
+   Annotations: HMDB "HMDB0001870"
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!C22.
+   Annotations: HMDB "HMDB0127728"
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!C23.
+   Annotations: HMDB "HMDB0240434"
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!C24.
+   Annotations: HMDB "HMDB0240437"
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!C25.
+   Annotations: HMDB "HMDB0127727"
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!C26.
+   Annotations: HMDB "HMDB0240436"
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!C27.
+   Annotations: HMDB "HMDB0030677"
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!C28.
+   Annotations: HMDB "HMDB0034069"
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!C29.
+   Annotations: HMDB "HMDB0240435"
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!C30.
+   Annotations: HMDB "HMDB0040594"
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!C31.
+   Annotations: HMDB "HMDB0061115"
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!C32.
+   Annotations: HMDB "HMDB0035698"
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!C33.
+   Annotations: HMDB "HMDB0240347"
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!C34.
+   Annotations: HMDB "HMDB0000209"
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!C35.
+   Annotations: HMDB "HMDB0000764"
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!C36.
+   Annotations: HMDB "HMDB0042012"
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!C37.
+   Annotations: HMDB "HMDB0013692"
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!C38.
+   Annotations: HMDB "HMDB0034158"
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!C39.
+   Annotations: HMDB "HMDB0000930"
+
+===========================================================================================================
+Date: 2020-03-16 18:38:13
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/new_kegg.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet1!F2:F+) Comment: ""
+# Class: @C*
+#     Annotations: KEGG @F*
+
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!C2.
+   Annotations: KEGG "C20450"
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!C3.
+   Annotations: KEGG "C02161"
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!C4.
+   Annotations: KEGG "C01198 "
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!C5.
+   Annotations: KEGG "C08887"
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!C6.
+   Annotations: KEGG "C08888"
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!C7.
+   Annotations: KEGG "C08472"
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!C8.
+   Annotations: KEGG "C00539"
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!C9.
+   Annotations: KEGG "C06738"
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!C10.
+   Annotations: KEGG "C09213"
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!C11.
+   Annotations: KEGG "C10682 "
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!C12.
+   Annotations: KEGG "C07086"
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!C13.
+   Annotations: KEGG "C05629"
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!C14.
+   Annotations: KEGG "C09642"
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!C15.
+   Annotations: KEGG "C18167 "
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!C16.
+   Annotations: KEGG "C10787"
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!C17.
+   Annotations: KEGG "C10438 "
+
+===========================================================================================================
+Date: 2020-03-16 19:30:42
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/new84chems.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!B2:B+) Comment: ""
+# Class: @B*
+#     SubClassOf: @D*
+
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B2.
+   SubClassOf: Phenylsulfates
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B3.
+   SubClassOf: Phenoxazines
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B4.
+   SubClassOf: Phenoxazines
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B5.
+   SubClassOf: Phenoxazines
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B6.
+   SubClassOf: Phenoxazines
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B7.
+   SubClassOf: Anilides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B8.
+   SubClassOf: Phenolic glycosides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B9.
+   SubClassOf: Phenylsulfates
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B10.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B11.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B12.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B13.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!B14.
+   SubClassOf: Furanones
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B15.
+   SubClassOf: Furoic acids
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B16.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B17.
+   SubClassOf: Phenylpropanoic acids
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B18.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B19.
+   SubClassOf: Phenylsulfates
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B20.
+   SubClassOf: Resorcinols
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B21.
+   SubClassOf: Sulfated fatty acids
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!B22.
+   SubClassOf: Methoxyphenols
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!B23.
+   SubClassOf: Methoxyphenols
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B24.
+   SubClassOf: Straight chain fatty acids
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B25.
+   SubClassOf: Steroidal saponins
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B26.
+   SubClassOf: Steroidal saponins
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B27.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B28.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B29.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B30.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B31.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B32.
+   SubClassOf: Benzoic acids
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B33.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B34.
+   SubClassOf: Flavonoid O-glucuronides
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B35.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B36.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B37.
+   SubClassOf: Phenolic glycosides
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B38.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B39.
+   SubClassOf: Cinnamic acids
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B40.
+   SubClassOf: Hydroxycinnamic acids
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B41.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!B42.
+   SubClassOf: Furanones
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B43.
+   SubClassOf: L-alpha-amino acids
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B44.
+   SubClassOf: Aryltetralin lignans
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B45.
+   SubClassOf: 7,9'-epoxylignans
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B46.
+   SubClassOf: 7,9'-epoxylignans
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B47.
+   SubClassOf: Dibenzylbutyrolactone lignans
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B48.
+   SubClassOf: Furanoid lignans
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B49.
+   SubClassOf: Furanoid lignans
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!B50.
+   SubClassOf: L-alpha-amino acids
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B51.
+   SubClassOf: Benzene and substituted derivatives
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B52.
+   SubClassOf: Phenylpropanoic acids
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B53.
+   SubClassOf: Lignan glycosides
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B54.
+   SubClassOf: Furanoid lignans
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B55.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B56.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B57.
+   SubClassOf: Tetrahydroisoquinolines
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B58.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B59.
+   SubClassOf: Lignan glycosides
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B60.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B61.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B62.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B63.
+   SubClassOf: Furanoid lignans
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B64.
+   SubClassOf: Methoxyphenols
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B65.
+   SubClassOf: Cinnamic acids
+
+===========================================================================================================
+Date: 2020-03-16 19:31:30
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/new84chems.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!D2:D+) Comment: ""
+# Class: @B*
+#     SubClassOf: @D*
+
+Class: 2-(3,5-dihydroxyphenyl)ethanol sulfate  # Generated from value "2-(3,5-dihydroxyphenyl)ethanol sulfate" located at cell 'Sheet1'!B2.
+   SubClassOf: Phenylsulfates
+Class: 2-acetylamino-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B3.
+   SubClassOf: Phenoxazines
+Class: 2-acetylamino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-acetylamino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B4.
+   SubClassOf: Phenoxazines
+Class: 2-amino-3H-phenoxazin-3-one  # Generated from value "2-amino-3H-phenoxazin-3-one" located at cell 'Sheet1'!B5.
+   SubClassOf: Phenoxazines
+Class: 2-amino-7-methoxy-3H-phenoxazin-3-one  # Generated from value "2-amino-7-methoxy-3H-phenoxazin-3-one" located at cell 'Sheet1'!B6.
+   SubClassOf: Phenoxazines
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide" located at cell 'Sheet1'!B7.
+   SubClassOf: Anilides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide glucuronide" located at cell 'Sheet1'!B8.
+   SubClassOf: Phenolic glycosides
+Class: 2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate  # Generated from value "2-hydroxy-N-(2-hydroxyphenyl)acetamide sulfate" located at cell 'Sheet1'!B9.
+   SubClassOf: Phenylsulfates
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!B10.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!B11.
+   SubClassOf: Benzoxazinones
+Class: 2,4-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,4-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B12.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,5-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!B13.
+   SubClassOf: Phenylsulfates
+Class: 2,5-dimethylfuran-3-one  # Generated from value "2,5-dimethylfuran-3-one" located at cell 'Sheet1'!B14.
+   SubClassOf: Furanones
+Class: 2,5-furandicarboxylic acid  # Generated from value "2,5-furandicarboxylic acid" located at cell 'Sheet1'!B15.
+   SubClassOf: Furoic acids
+Class: 2,6-dihydroxybenzoic acid glucuronide  # Generated from value "2,6-dihydroxybenzoic acid glucuronide" located at cell 'Sheet1'!B16.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid  # Generated from value "3-(2-hydroxyphenyl)propionic acid" located at cell 'Sheet1'!B17.
+   SubClassOf: Phenylpropanoic acids
+Class: 3-(2-hydroxyphenyl)propionic acid glucuronide  # Generated from value "3-(2-hydroxyphenyl)propionic acid glucuronide" located at cell 'Sheet1'!B18.
+   SubClassOf: Phenolic glycosides
+Class: 3-(2-hydroxyphenyl)propionic acid sulfate  # Generated from value "3-(2-hydroxyphenyl)propionic acid sulfate" located at cell 'Sheet1'!B19.
+   SubClassOf: Phenylsulfates
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid" located at cell 'Sheet1'!B20.
+   SubClassOf: Resorcinols
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid sulfate  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid sulfate" located at cell 'Sheet1'!B21.
+   SubClassOf: Sulfated fatty acids
+Class: 4-allylsyringol  # Generated from value "4-allylsyringol" located at cell 'Sheet1'!B22.
+   SubClassOf: Methoxyphenols
+Class: 4-methylsyringol  # Generated from value "4-methylsyringol" located at cell 'Sheet1'!B23.
+   SubClassOf: Methoxyphenols
+Class: aminovaleric acid betaine  # Generated from value "aminovaleric acid betaine" located at cell 'Sheet1'!B24.
+   SubClassOf: Straight chain fatty acids
+Class: Avenacoside A  # Generated from value "Avenacoside A" located at cell 'Sheet1'!B25.
+   SubClassOf: Steroidal saponins
+Class: Avenacoside B  # Generated from value "Avenacoside B" located at cell 'Sheet1'!B26.
+   SubClassOf: Steroidal saponins
+Class: Avenanthramide A  # Generated from value "Avenanthramide A" located at cell 'Sheet1'!B27.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide B  # Generated from value "Avenanthramide B" located at cell 'Sheet1'!B28.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide C  # Generated from value "Avenanthramide C" located at cell 'Sheet1'!B29.
+   SubClassOf: Avenanthramides
+Class: Avenanthramide O  # Generated from value "Avenanthramide O" located at cell 'Sheet1'!B30.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: Avenanthramide P  # Generated from value "Avenanthramide P" located at cell 'Sheet1'!B31.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: benzoic acid  # Generated from value "benzoic acid" located at cell 'Sheet1'!B32.
+   SubClassOf: Benzoic acids
+Class: catechin 3-glucuronide  # Generated from value "catechin 3-glucuronide" located at cell 'Sheet1'!B33.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: catechin 3'-glucuronide  # Generated from value "catechin 3'-glucuronide" located at cell 'Sheet1'!B34.
+   SubClassOf: Flavonoid O-glucuronides
+Class: catechin 7-glucuronide  # Generated from value "catechin 7-glucuronide" located at cell 'Sheet1'!B35.
+   SubClassOf: Flavonoid-7-O-glucuronides
+Class: cis ferulic acid  # Generated from value "cis ferulic acid" located at cell 'Sheet1'!B36.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis ferulic acid 4-glucuronide  # Generated from value "cis ferulic acid 4-glucuronide" located at cell 'Sheet1'!B37.
+   SubClassOf: Phenolic glycosides
+Class: cis p-coumaric acid  # Generated from value "cis p-coumaric acid" located at cell 'Sheet1'!B38.
+   SubClassOf: Hydroxycinnamic acids
+Class: cis p-coumaric acid sulfate  # Generated from value "cis p-coumaric acid sulfate" located at cell 'Sheet1'!B39.
+   SubClassOf: Cinnamic acids
+Class: cis sinapic acid  # Generated from value "cis sinapic acid" located at cell 'Sheet1'!B40.
+   SubClassOf: Hydroxycinnamic acids
+Class: epicatechin 3-glucuronide  # Generated from value "epicatechin 3-glucuronide" located at cell 'Sheet1'!B41.
+   SubClassOf: Flavonoid-3-O-glucuronides
+Class: furaneol  # Generated from value "furaneol" located at cell 'Sheet1'!B42.
+   SubClassOf: Furanones
+Class: hypaphorine  # Generated from value "hypaphorine" located at cell 'Sheet1'!B43.
+   SubClassOf: L-alpha-amino acids
+Class: isolariciresinol 9'-sulfate  # Generated from value "isolariciresinol 9'-sulfate" located at cell 'Sheet1'!B44.
+   SubClassOf: Aryltetralin lignans
+Class: lariciresinol 4-sulfate  # Generated from value "lariciresinol 4-sulfate" located at cell 'Sheet1'!B45.
+   SubClassOf: 7,9'-epoxylignans
+Class: lariciresinol 4'-sulfate  # Generated from value "lariciresinol 4'-sulfate" located at cell 'Sheet1'!B46.
+   SubClassOf: 7,9'-epoxylignans
+Class: matairesinol  # Generated from value "matairesinol" located at cell 'Sheet1'!B47.
+   SubClassOf: Dibenzylbutyrolactone lignans
+Class: medioresinol 4-sulfate  # Generated from value "medioresinol 4-sulfate" located at cell 'Sheet1'!B48.
+   SubClassOf: Furanoid lignans
+Class: medioresinol 4'-sulfate  # Generated from value "medioresinol 4'-sulfate" located at cell 'Sheet1'!B49.
+   SubClassOf: Furanoid lignans
+Class: N6-carboxymethyllysine  # Generated from value "N6-carboxymethyllysine" located at cell 'Sheet1'!B50.
+   SubClassOf: L-alpha-amino acids
+Class: phenylacetic acid  # Generated from value "phenylacetic acid" located at cell 'Sheet1'!B51.
+   SubClassOf: Benzene and substituted derivatives
+Class: phenylpropionic acid  # Generated from value "phenylpropionic acid" located at cell 'Sheet1'!B52.
+   SubClassOf: Phenylpropanoic acids
+Class: pinoresinol glucuronide  # Generated from value "pinoresinol glucuronide" located at cell 'Sheet1'!B53.
+   SubClassOf: Lignan glycosides
+Class: pinoresinol sulfate  # Generated from value "pinoresinol sulfate" located at cell 'Sheet1'!B54.
+   SubClassOf: Furanoid lignans
+Class: salsolinol  # Generated from value "salsolinol" located at cell 'Sheet1'!B55.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 6-sulfate  # Generated from value "salsolinol 6-sulfate" located at cell 'Sheet1'!B56.
+   SubClassOf: Tetrahydroisoquinolines
+Class: salsolinol 7-sulfate  # Generated from value "salsolinol 7-sulfate" located at cell 'Sheet1'!B57.
+   SubClassOf: Tetrahydroisoquinolines
+Class: secoisolariciresinol  # Generated from value "secoisolariciresinol" located at cell 'Sheet1'!B58.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 4-glucuronide  # Generated from value "secoisolariciresinol 4-glucuronide" located at cell 'Sheet1'!B59.
+   SubClassOf: Lignan glycosides
+Class: secoisolariciresinol 4-sulfate  # Generated from value "secoisolariciresinol 4-sulfate" located at cell 'Sheet1'!B60.
+   SubClassOf: Dibenzylbutanediol lignans
+Class: secoisolariciresinol 9-glucuronide  # Generated from value "secoisolariciresinol 9-glucuronide" located at cell 'Sheet1'!B61.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol glucuronide  # Generated from value "syringaresinol glucuronide" located at cell 'Sheet1'!B62.
+   SubClassOf: Lignan glycosides
+Class: syringaresinol sulfate  # Generated from value "syringaresinol sulfate" located at cell 'Sheet1'!B63.
+   SubClassOf: Furanoid lignans
+Class: syringol  # Generated from value "syringol" located at cell 'Sheet1'!B64.
+   SubClassOf: Methoxyphenols
+Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located at cell 'Sheet1'!B65.
+   SubClassOf: Cinnamic acids
+
+===========================================================================================================
