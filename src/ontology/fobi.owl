@@ -32344,7 +32344,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050003 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050003">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040120"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -32557,7 +32557,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050006 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040120"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -32847,7 +32847,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050010 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050010">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040170"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -33131,7 +33131,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050014 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050014">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040097"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -33580,7 +33580,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050021 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050021">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040170"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -33825,7 +33825,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050028 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050028">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040174"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -33873,7 +33873,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050029 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050029">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040174"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -33994,7 +33994,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050031 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050031">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34065,7 +34065,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050032 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050032">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34136,7 +34136,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050033 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050033">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34422,7 +34422,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050037 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050037">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040079"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34564,7 +34564,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050039 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050039">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34635,7 +34635,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050040 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050040">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34706,7 +34706,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050041 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050041">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34777,7 +34777,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050042 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050042">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050089"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34919,7 +34919,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050044 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050044">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050089"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -34990,7 +34990,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050045 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050045">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050091"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -35683,7 +35683,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050057 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050057">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040072"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -35700,7 +35700,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050058 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050058">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040072"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -35841,7 +35841,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050066 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050066">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_01501"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050093"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>

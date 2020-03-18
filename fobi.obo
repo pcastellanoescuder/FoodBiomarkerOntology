@@ -9280,7 +9280,7 @@ property_value: FOBI:043480 FOBI:050002 xsd:string
 [Term]
 id: FOBI_050003
 name: 2,3-dihydroxybenzoic acid 2-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040120 ! Phenylsulfates
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9331,7 +9331,7 @@ property_value: FOBI:043480 FOBI:050005 xsd:string
 [Term]
 id: FOBI_050006
 name: 2,6-dihydroxybenzoic acid sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040120 ! Phenylsulfates
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9405,7 +9405,7 @@ property_value: FOBI:043480 FOBI:050009 xsd:string
 [Term]
 id: FOBI_050010
 name: cis p-coumaric acid glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040170 ! Phenolic glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9473,7 +9473,7 @@ property_value: FOBI:043480 FOBI:050013 xsd:string
 [Term]
 id: FOBI_050014
 name: cis ferulic acid 4-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040097 ! Cinnamic acids
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9589,7 +9589,7 @@ property_value: FOBI:043480 FOBI:050020 xsd:string
 [Term]
 id: FOBI_050021
 name: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040170 ! Phenolic glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 property_value: FOBI:040233 "HMDB0240451" xsd:string
 property_value: FOBI:040237 "RLPWWOIWKYLCFU-IASGZQPQSA-N" xsd:string
@@ -9671,7 +9671,7 @@ property_value: FOBI:043480 FOBI:050027 xsd:string
 [Term]
 id: FOBI_050028
 name: catechin 3-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040174 ! Catechins
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
 relationship: FOBI:00422 FOODON:00001215 ! BiomarkerOf cacao food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
@@ -9685,7 +9685,7 @@ property_value: FOBI:043480 FOBI:050028 xsd:string
 [Term]
 id: FOBI_050029
 name: catechin 7-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040174 ! Catechins
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
 relationship: FOBI:00422 FOODON:00001215 ! BiomarkerOf cacao food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
@@ -9718,7 +9718,7 @@ property_value: FOBI:043480 FOBI:050030 xsd:string
 [Term]
 id: FOBI_050031
 name: hydroxymatairesinol 4'-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9735,7 +9735,7 @@ property_value: FOBI:043480 FOBI:050031 xsd:string
 [Term]
 id: FOBI_050032
 name: hydroxymatairesinol 4''-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9752,7 +9752,7 @@ property_value: FOBI:043480 FOBI:050032 xsd:string
 [Term]
 id: FOBI_050033
 name: hydroxymatairesinol 7-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9822,7 +9822,7 @@ property_value: FOBI:043480 FOBI:050036 xsd:string
 [Term]
 id: FOBI_050037
 name: secoisolariciresinol 9-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040079 ! Dibenzylbutanediol lignans
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9856,7 +9856,7 @@ property_value: FOBI:043480 FOBI:050038 xsd:string
 [Term]
 id: FOBI_050039
 name: isolariciresinol 9-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9873,7 +9873,7 @@ property_value: FOBI:043480 FOBI:050039 xsd:string
 [Term]
 id: FOBI_050040
 name: isolariciresinol 9'-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9890,7 +9890,7 @@ property_value: FOBI:043480 FOBI:050040 xsd:string
 [Term]
 id: FOBI_050041
 name: isolariciresinol 4'-glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050096 ! Lignan glycosides
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9907,7 +9907,7 @@ property_value: FOBI:043480 FOBI:050041 xsd:string
 [Term]
 id: FOBI_050042
 name: isolariciresinol 9-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050089 ! Aryltetralin lignans
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9941,7 +9941,7 @@ property_value: FOBI:043480 FOBI:050043 xsd:string
 [Term]
 id: FOBI_050044
 name: isolariciresinol 4'-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050089 ! Aryltetralin lignans
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -9958,7 +9958,7 @@ property_value: FOBI:043480 FOBI:050044 xsd:string
 [Term]
 id: FOBI_050045
 name: lariciresinol 9-sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050091 ! 7,9'-epoxylignans
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -10138,7 +10138,7 @@ property_value: FOBI:043480 FOBI:050056 xsd:string
 [Term]
 id: FOBI_050057
 name: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040072 ! Benzoxazinones
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 property_value: FOBI:040237 "XKCARXNTRUGKNV-CSHDOIFSSA-N" xsd:string
 property_value: FOBI:043480 FOBI:050057 xsd:string
@@ -10146,7 +10146,7 @@ property_value: FOBI:043480 FOBI:050057 xsd:string
 [Term]
 id: FOBI_050058
 name: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI:040072 ! Benzoxazinones
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 property_value: FOBI:040237 "LIVXQZBSLFQWSH-UHFFFAOYSA-N" xsd:string
 property_value: FOBI:043480 FOBI:050058 xsd:string
@@ -10215,7 +10215,7 @@ property_value: FOBI:043480 FOBI:050065 xsd:string
 [Term]
 id: FOBI_050066
 name: Avenanthramide Q
-is_a: FOBI:01501 ! Biomarkers
+is_a: FOBI_050093 ! Acylaminobenzoic acid and derivatives
 relationship: FOBI:00422 FOODON:03309855 ! BiomarkerOf whole oats (raw)
 property_value: FOBI:040237 "ICQWGSPTLPRZPP-ZPUQHVIOSA-N" xsd:string
 property_value: FOBI:043480 FOBI:050066 xsd:string

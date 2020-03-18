@@ -1951,3 +1951,112 @@ Class: trans-cinnamic acid  # Generated from value "trans-cinnamic acid" located
    SubClassOf: Cinnamic acids
 
 ===========================================================================================================
+Date: 2020-03-18 18:03:11
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/missclassified.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!C2:C+) Comment: ""
+# Class: @C*
+#     SubClassOf: @H*
+
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!C2.
+   SubClassOf: Phenylsulfates
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!C3.
+   SubClassOf: Phenylsulfates
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!C4.
+   SubClassOf: Benzoxazinones
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!C5.
+   SubClassOf: Benzoxazinones
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!C6.
+   SubClassOf: Phenolic glycosides
+Class: Avenanthramide Q  # Generated from value "Avenanthramide Q" located at cell 'Sheet1'!C7.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+Class: catechin 3-sulfate  # Generated from value "catechin 3-sulfate" located at cell 'Sheet1'!C8.
+   SubClassOf: Flavonoid-3-O-sulfates
+Class: catechin 7-sulfate  # Generated from value "catechin 7-sulfate" located at cell 'Sheet1'!C9.
+   SubClassOf: Flavonoid-7-O-sulfates
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!C10.
+   SubClassOf: Cinnamic acids
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!C11.
+   SubClassOf: Phenolic glycosides
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!C12.
+   SubClassOf: Lignan glycosides
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!C13.
+   SubClassOf: Lignan glycosides
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!C14.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!C15.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!C16.
+   SubClassOf: Aryltetralin lignans
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!C17.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!C18.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!C19.
+   SubClassOf: Aryltetralin lignans
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!C20.
+   SubClassOf: 7,9'-epoxylignans
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!C21.
+   SubClassOf: Dibenzylbutanediol lignans
+
+===========================================================================================================
+Date: 2020-03-18 18:19:04
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Downloads/missclassified.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!C2:C7) Comment: ""
+# Class: @C*
+#     SubClassOf: @H*
+
+Class: 2,3-dihydroxybenzoic acid 2-sulfate  # Generated from value "2,3-dihydroxybenzoic acid 2-sulfate" located at cell 'Sheet1'!C2.
+   SubClassOf: Phenylsulfates
+Class: 2,6-dihydroxybenzoic acid sulfate  # Generated from value "2,6-dihydroxybenzoic acid sulfate" located at cell 'Sheet1'!C3.
+   SubClassOf: Phenylsulfates
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one glucuronide" located at cell 'Sheet1'!C4.
+   SubClassOf: Benzoxazinones
+Class: 2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate  # Generated from value "2-hydroxy-7-methoxy-1,4-benzoxazin-3-one sulfate" located at cell 'Sheet1'!C5.
+   SubClassOf: Benzoxazinones
+Class: 3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide  # Generated from value "3-(3,5-dihydroxyphenyl)pentanoic acid glucuronide" located at cell 'Sheet1'!C6.
+   SubClassOf: Phenolic glycosides
+Class: Avenanthramide Q  # Generated from value "Avenanthramide Q" located at cell 'Sheet1'!C7.
+   SubClassOf: Acylaminobenzoic acid and derivatives
+
+===========================================================================================================
+Date: 2020-03-18 18:19:29
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Downloads/missclassified.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_relations.json
+
+# Cell range: (Sheet1!C10:C+) Comment: ""
+# Class: @C*
+#     SubClassOf: @H*
+
+Class: cis ferulic acid 4-sulfate  # Generated from value "cis ferulic acid 4-sulfate" located at cell 'Sheet1'!C10.
+   SubClassOf: Cinnamic acids
+Class: cis p-coumaric acid glucuronide  # Generated from value "cis p-coumaric acid glucuronide" located at cell 'Sheet1'!C11.
+   SubClassOf: Phenolic glycosides
+Class: hydroxymatairesinol 4''-glucuronide  # Generated from value "hydroxymatairesinol 4''-glucuronide" located at cell 'Sheet1'!C12.
+   SubClassOf: Lignan glycosides
+Class: hydroxymatairesinol 4'-glucuronide  # Generated from value "hydroxymatairesinol 4'-glucuronide" located at cell 'Sheet1'!C13.
+   SubClassOf: Lignan glycosides
+Class: hydroxymatairesinol 7-glucuronide  # Generated from value "hydroxymatairesinol 7-glucuronide" located at cell 'Sheet1'!C14.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 4'-glucuronide  # Generated from value "isolariciresinol 4'-glucuronide" located at cell 'Sheet1'!C15.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 4'-sulfate  # Generated from value "isolariciresinol 4'-sulfate" located at cell 'Sheet1'!C16.
+   SubClassOf: Aryltetralin lignans
+Class: isolariciresinol 9'-glucuronide  # Generated from value "isolariciresinol 9'-glucuronide" located at cell 'Sheet1'!C17.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 9-glucuronide  # Generated from value "isolariciresinol 9-glucuronide" located at cell 'Sheet1'!C18.
+   SubClassOf: Lignan glycosides
+Class: isolariciresinol 9-sulfate  # Generated from value "isolariciresinol 9-sulfate" located at cell 'Sheet1'!C19.
+   SubClassOf: Aryltetralin lignans
+Class: lariciresinol 9-sulfate  # Generated from value "lariciresinol 9-sulfate" located at cell 'Sheet1'!C20.
+   SubClassOf: 7,9'-epoxylignans
+Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresinol 9-sulfate" located at cell 'Sheet1'!C21.
+   SubClassOf: Dibenzylbutanediol lignans
+
+===========================================================================================================
