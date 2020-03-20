@@ -1,8 +1,7 @@
 library(tidyverse)
 library(data.table)
 
-fobi <- readr::read_csv2("/home/pol/Escritorio/FoodBiomarkerOntology/src/csv/200226_fobi-export.csv")
-# fobi <- fobi[!(is.na(fobi$`http://purl.obolibrary.org/obo/FOBI_00422`)) ,]
+fobi <- readr::read_csv2("200320_fobi-export.csv")
 
 fobi <- fobi[!is.na(fobi$BiomarkerOf), ]
 
@@ -15,4 +14,4 @@ dt_out$nrow <- NULL
 dt_out$metabolite <- gsub("'", '', dt_out$metabolite)
 dt_out$food <- gsub("'", "", dt_out$food, fixed = T)
 
-# write.csv(dt_out, "200226_fobi_relations", row.names = F)
+# write.csv(dt_out, "200320_fobi_relations.csv", row.names = F)
