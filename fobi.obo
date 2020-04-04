@@ -9348,7 +9348,7 @@ property_value: FOBI:043480 FOBI:050006 xsd:string
 [Term]
 id: FOBI_050007
 name: phenylacetic acid
-is_a: FOBI:040013 ! Benzene and substituted derivatives
+is_a: FOBI:040069 ! Phenylacetic acids
 relationship: FOBI:00422 FOBI:0145 ! BiomarkerOf Whole grain cereal products
 relationship: FOBI:00422 FOODON:00001057 ! BiomarkerOf plant fruit food product
 relationship: FOBI:00422 FOODON:00001138 ! BiomarkerOf tea based beverage product
@@ -10384,66 +10384,79 @@ property_value: FOBI:043480 FOBI:050084 xsd:string
 id: FOBI_050085
 name: Furans
 is_a: FOBI:040005 ! Organoheterocyclic compounds
+property_value: FOBI:043480 FOBI:050085 xsd:string
 
 [Term]
 id: FOBI_050086
 name: ﻿Furoic acid and derivatives
 is_a: FOBI_050085 ! Furans
+property_value: FOBI:043480 FOBI:050086 xsd:string
 
 [Term]
 id: FOBI_050087
 name: Furoic acids
 is_a: FOBI_050086 ! ﻿Furoic acid and derivatives
+property_value: FOBI:043480 FOBI:050087 xsd:string
 
 [Term]
 id: FOBI_050088
 name: Tetrahydroisoquinolines
 is_a: FOBI:040005 ! Organoheterocyclic compounds
+property_value: FOBI:043480 FOBI:050088 xsd:string
 
 [Term]
 id: FOBI_050089
 name: Aryltetralin lignans
 is_a: FOBI:040006 ! Lignans, neolignans and related compounds
+property_value: FOBI:043480 FOBI:050089 xsd:string
 
 [Term]
 id: FOBI_050090
 name: L-alpha-amino acids
 is_a: FOBI:040219 ! Alpha amino acids
+property_value: FOBI:043480 FOBI:050090 xsd:string
 
 [Term]
 id: FOBI_050091
 name: 7,9'-epoxylignans
 is_a: FOBI:040086 ! Tetrahydrofuran lignans
+property_value: FOBI:043480 FOBI:050091 xsd:string
 
 [Term]
 id: FOBI_050092
 name: Benzoic acids
 is_a: FOBI:040055 ! Benzoic acids and derivatives
+property_value: FOBI:043480 FOBI:050092 xsd:string
 
 [Term]
 id: FOBI_050093
 name: Acylaminobenzoic acid and derivatives
 is_a: FOBI:040055 ! Benzoic acids and derivatives
+property_value: FOBI:043480 FOBI:050093 xsd:string
 
 [Term]
 id: FOBI_050094
 name: Phenoxazines
 is_a: FOBI:040029 ! Benzoxazines
+property_value: FOBI:043480 FOBI:050094 xsd:string
 
 [Term]
 id: FOBI_050095
 name: Straight chain fatty acids
 is_a: FOBI:040085 ! Fatty acids and conjugates
+property_value: FOBI:043480 FOBI:050095 xsd:string
 
 [Term]
 id: FOBI_050096
 name: Lignan glycosides
 is_a: FOBI:040006 ! Lignans, neolignans and related compounds
+property_value: FOBI:043480 FOBI:050096 xsd:string
 
 [Term]
 id: FOBI_050097
 name: Avenanthramides
 is_a: FOBI:040149 ! Hydroxycinnamic acids
+property_value: FOBI:043480 FOBI:050097 xsd:string
 
 [Term]
 id: FOODON:00001006 ! meat food product

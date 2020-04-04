@@ -32628,7 +32628,7 @@
     <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI_050007 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050007">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040013"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040069"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/FOBI_00422"/>
@@ -36161,6 +36161,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050085">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040005"/>
+        <obo:FOBI_043480>FOBI:050085</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Furans</rdfs:label>
     </owl:Class>
     
@@ -36170,6 +36171,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050086">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050085"/>
+        <obo:FOBI_043480>FOBI:050086</obo:FOBI_043480>
         <rdfs:label xml:lang="en">﻿Furoic acid and derivatives</rdfs:label>
     </owl:Class>
     
@@ -36179,6 +36181,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050087">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050086"/>
+        <obo:FOBI_043480>FOBI:050087</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Furoic acids</rdfs:label>
     </owl:Class>
     
@@ -36188,6 +36191,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050088">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040005"/>
+        <obo:FOBI_043480>FOBI:050088</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Tetrahydroisoquinolines</rdfs:label>
     </owl:Class>
     
@@ -36197,6 +36201,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050089">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040006"/>
+        <obo:FOBI_043480>FOBI:050089</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Aryltetralin lignans</rdfs:label>
     </owl:Class>
     
@@ -36206,6 +36211,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050090">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040219"/>
+        <obo:FOBI_043480>FOBI:050090</obo:FOBI_043480>
         <rdfs:label xml:lang="en">L-alpha-amino acids</rdfs:label>
     </owl:Class>
     
@@ -36215,6 +36221,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050091">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040086"/>
+        <obo:FOBI_043480>FOBI:050091</obo:FOBI_043480>
         <rdfs:label xml:lang="en">7,9&apos;-epoxylignans</rdfs:label>
     </owl:Class>
     
@@ -36224,6 +36231,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050092">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040055"/>
+        <obo:FOBI_043480>FOBI:050092</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Benzoic acids</rdfs:label>
     </owl:Class>
     
@@ -36233,6 +36241,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050093">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040055"/>
+        <obo:FOBI_043480>FOBI:050093</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Acylaminobenzoic acid and derivatives</rdfs:label>
     </owl:Class>
     
@@ -36242,6 +36251,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050094">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040029"/>
+        <obo:FOBI_043480>FOBI:050094</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Phenoxazines</rdfs:label>
     </owl:Class>
     
@@ -36251,6 +36261,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050095">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040085"/>
+        <obo:FOBI_043480>FOBI:050095</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Straight chain fatty acids</rdfs:label>
     </owl:Class>
     
@@ -36260,6 +36271,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050096">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040006"/>
+        <obo:FOBI_043480>FOBI:050096</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Lignan glycosides</rdfs:label>
     </owl:Class>
     
@@ -36269,6 +36281,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050097">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040149"/>
+        <obo:FOBI_043480>FOBI:050097</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Avenanthramides</rdfs:label>
     </owl:Class>
 </rdf:RDF>
