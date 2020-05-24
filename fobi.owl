@@ -3395,6 +3395,7 @@
         <obo:FOBI_043480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FOBI:030590</obo:FOBI_043480>
         <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trans-resveratrol</obo:IAO_0000118>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEBI:27881</oboInOwl:id>
+        <rdfs:label>resveratrol</rdfs:label>
     </owl:Class>
     
 

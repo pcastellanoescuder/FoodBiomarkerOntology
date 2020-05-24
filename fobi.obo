@@ -1106,6 +1106,7 @@ property_value: IAO:0000118 "5-hydroxyindole-3-acetic acid" xsd:string
 
 [Term]
 id: CHEBI:27881
+name: resveratrol
 is_a: FOBI:040028 ! Stilbenes
 relationship: FOBI:00422 FOODON:03301123 ! BiomarkerOf grape (whole, raw)
 relationship: FOBI:00422 FOODON:03310272 ! BiomarkerOf red wine
