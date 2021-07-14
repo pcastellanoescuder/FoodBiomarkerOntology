@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="http://purl.obolibrary.org/obo/fobi.owl" uri="fobi.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl" uri="imports/foodon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="http://www.food_biomarker_ontology/FOBI" uri="src/ontology/old/fobi_old.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="http://www.semanticweb.org/pol/food_biomarker_ontology/2020/3/fobi-merged.owl" uri="fobi-merged.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="shadowed:http://purl.obolibrary.org/obo/fobi.owl" uri="src/ontology/fobi-edit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="shadowed:http://purl.obolibrary.org/obo/fobi.owl" uri="src/ontology/fobi.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="shadowed:http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="src/ontology/imports/chebi_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="shadowed:http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl" uri="src/ontology/imports/foodon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1588158880416" name="shadowed:http://www.semanticweb.org/pol/food_biomarker_ontology/2020/3/fobi-merged.owl" uri="src/ontology/fobi-merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="http://purl.obolibrary.org/obo/fobi.owl" uri="fobi.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl" uri="imports/foodon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="http://www.food_biomarker_ontology/FOBI" uri="src/ontology/old/fobi_old.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="http://www.semanticweb.org/pol/food_biomarker_ontology/2020/3/fobi-merged.owl" uri="fobi-merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="shadowed:http://purl.obolibrary.org/obo/fobi.owl" uri="src/ontology/fobi-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="shadowed:http://purl.obolibrary.org/obo/fobi.owl" uri="src/ontology/fobi.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="shadowed:http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl" uri="src/ontology/imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="shadowed:http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl" uri="src/ontology/imports/foodon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590346411567" name="shadowed:http://www.semanticweb.org/pol/food_biomarker_ontology/2020/3/fobi-merged.owl" uri="src/ontology/fobi-merged.owl"/>
     </group>
 </catalog>
