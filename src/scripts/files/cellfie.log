@@ -2060,3 +2060,281 @@ Class: secoisolariciresinol 9-sulfate  # Generated from value "secoisolariciresi
    SubClassOf: Dibenzylbutanediol lignans
 
 ===========================================================================================================
+Date: 2021-07-15 19:07:26
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/phenol_explorer_integration/data/fobi_new_classes.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet 1!A2:B+) Comment: ""
+# Class: @B*
+#     SubClassOf: @A*
+
+Class: 3-prenylated chalcones  # Generated from value "3-prenylated chalcones" located at cell 'Sheet 1'!B2.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 6-prenylated flavans  # Generated from value "6-prenylated flavans" located at cell 'Sheet 1'!B3.
+   SubClassOf: Flavans
+Class: 6-prenylated flavanones  # Generated from value "6-prenylated flavanones" located at cell 'Sheet 1'!B4.
+   SubClassOf: 6-prenylated flavans
+Class: Styrenes  # Generated from value "Styrenes" located at cell 'Sheet 1'!B5.
+   SubClassOf: Benzene and substituted derivatives
+Class: Flavonoid-7-O-glycosides  # Generated from value "Flavonoid-7-O-glycosides" located at cell 'Sheet 1'!B6.
+   SubClassOf: Flavonoid O-glycosides
+Class: Cinnamyl alcohols  # Generated from value "Cinnamyl alcohols" located at cell 'Sheet 1'!B7.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Hydroxycoumarins  # Generated from value "Hydroxycoumarins" located at cell 'Sheet 1'!B8.
+   SubClassOf: Coumarins and derivatives
+Class: 6,7-dihydroxycoumarins  # Generated from value "6,7-dihydroxycoumarins" located at cell 'Sheet 1'!B9.
+   SubClassOf: Hydroxycoumarins
+Class: 7-hydroxycoumarins  # Generated from value "7-hydroxycoumarins" located at cell 'Sheet 1'!B10.
+   SubClassOf: Hydroxycoumarins
+Class: Indanes  # Generated from value "Indanes" located at cell 'Sheet 1'!B11.
+   SubClassOf: Benzenoids
+Class: 8-O-methylated flavonoids  # Generated from value "8-O-methylated flavonoids" located at cell 'Sheet 1'!B12.
+   SubClassOf: O-methylated flavonoids
+Class: Aryltetralin lignans  # Generated from value "Aryltetralin lignans" located at cell 'Sheet 1'!B13.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 9,9p-dihydroxyaryltetralin lignans  # Generated from value "9,9p-dihydroxyaryltetralin lignans" located at cell 'Sheet 1'!B14.
+   SubClassOf: Aryltetralin lignans
+Class: 7,9'-epoxylignans  # Generated from value "7,9'-epoxylignans" located at cell 'Sheet 1'!B15.
+   SubClassOf: Tetrahydrofuran lignans
+Class: Benzopyrans  # Generated from value "Benzopyrans" located at cell 'Sheet 1'!B16.
+   SubClassOf: Organoheterocyclic compounds
+Class: 2-benzopyrans  # Generated from value "2-benzopyrans" located at cell 'Sheet 1'!B17.
+   SubClassOf: Benzopyrans
+Class: Hydroxyflavonoids  # Generated from value "Hydroxyflavonoids" located at cell 'Sheet 1'!B18.
+   SubClassOf: Flavonoids
+Class: 7-hydroxyflavonoids  # Generated from value "7-hydroxyflavonoids" located at cell 'Sheet 1'!B19.
+   SubClassOf: Hydroxyflavonoids
+Class: 7-O-methylated flavonoids  # Generated from value "7-O-methylated flavonoids" located at cell 'Sheet 1'!B20.
+   SubClassOf: O-methylated flavonoids
+Class: 5-methoxypsoralens  # Generated from value "5-methoxypsoralens" located at cell 'Sheet 1'!B21.
+   SubClassOf: Psoralens
+Class: Anisoles  # Generated from value "Anisoles" located at cell 'Sheet 1'!B22.
+   SubClassOf: Phenol ethers
+Class: Coumestans  # Generated from value "Coumestans" located at cell 'Sheet 1'!B23.
+   SubClassOf: Isoflavonoids
+Class: Benzodioxoles  # Generated from value "Benzodioxoles" located at cell 'Sheet 1'!B24.
+   SubClassOf: Organoheterocyclic compounds
+Class: 6-O-methylated flavonoids  # Generated from value "6-O-methylated flavonoids" located at cell 'Sheet 1'!B25.
+   SubClassOf: O-methylated flavonoids
+Class: Terpene lactones  # Generated from value "Terpene lactones" located at cell 'Sheet 1'!B26.
+   SubClassOf: Prenol lipids
+Class: Diterpene lactones  # Generated from value "Diterpene lactones" located at cell 'Sheet 1'!B27.
+   SubClassOf: Terpene lactones
+Class: Flavanonols  # Generated from value "Flavanonols" located at cell 'Sheet 1'!B28.
+   SubClassOf: Flavanones
+Class: Monoterpenoids  # Generated from value "Monoterpenoids" located at cell 'Sheet 1'!B29.
+   SubClassOf: Prenol lipids
+Class: Aromatic monoterpenoids  # Generated from value "Aromatic monoterpenoids" located at cell 'Sheet 1'!B30.
+   SubClassOf: Monoterpenoids
+Class: Lignan lactones  # Generated from value "Lignan lactones" located at cell 'Sheet 1'!B31.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 2'-Hydroxychalcones  # Generated from value "2'-Hydroxychalcones" located at cell 'Sheet 1'!B32.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 8-methoxypsoralens  # Generated from value "8-methoxypsoralens" located at cell 'Sheet 1'!B33.
+   SubClassOf: Psoralens
+Class: 3-prenylated chalcones  # Generated from value "3-prenylated chalcones" located at cell 'Sheet 1'!B2.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 6-prenylated flavans  # Generated from value "6-prenylated flavans" located at cell 'Sheet 1'!B3.
+   SubClassOf: Flavans
+Class: 6-prenylated flavanones  # Generated from value "6-prenylated flavanones" located at cell 'Sheet 1'!B4.
+   SubClassOf: 6-prenylated flavans
+Class: Styrenes  # Generated from value "Styrenes" located at cell 'Sheet 1'!B5.
+   SubClassOf: Benzene and substituted derivatives
+Class: Flavonoid-7-O-glycosides  # Generated from value "Flavonoid-7-O-glycosides" located at cell 'Sheet 1'!B6.
+   SubClassOf: Flavonoid O-glycosides
+Class: Cinnamyl alcohols  # Generated from value "Cinnamyl alcohols" located at cell 'Sheet 1'!B7.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Hydroxycoumarins  # Generated from value "Hydroxycoumarins" located at cell 'Sheet 1'!B8.
+   SubClassOf: Coumarins and derivatives
+Class: 6,7-dihydroxycoumarins  # Generated from value "6,7-dihydroxycoumarins" located at cell 'Sheet 1'!B9.
+   SubClassOf: Hydroxycoumarins
+Class: 7-hydroxycoumarins  # Generated from value "7-hydroxycoumarins" located at cell 'Sheet 1'!B10.
+   SubClassOf: Hydroxycoumarins
+Class: Indanes  # Generated from value "Indanes" located at cell 'Sheet 1'!B11.
+   SubClassOf: Benzenoids
+Class: 8-O-methylated flavonoids  # Generated from value "8-O-methylated flavonoids" located at cell 'Sheet 1'!B12.
+   SubClassOf: O-methylated flavonoids
+Class: Aryltetralin lignans  # Generated from value "Aryltetralin lignans" located at cell 'Sheet 1'!B13.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 9,9p-dihydroxyaryltetralin lignans  # Generated from value "9,9p-dihydroxyaryltetralin lignans" located at cell 'Sheet 1'!B14.
+   SubClassOf: Aryltetralin lignans
+Class: 7,9'-epoxylignans  # Generated from value "7,9'-epoxylignans" located at cell 'Sheet 1'!B15.
+   SubClassOf: Tetrahydrofuran lignans
+Class: Benzopyrans  # Generated from value "Benzopyrans" located at cell 'Sheet 1'!B16.
+   SubClassOf: Organoheterocyclic compounds
+Class: 2-benzopyrans  # Generated from value "2-benzopyrans" located at cell 'Sheet 1'!B17.
+   SubClassOf: Benzopyrans
+Class: Hydroxyflavonoids  # Generated from value "Hydroxyflavonoids" located at cell 'Sheet 1'!B18.
+   SubClassOf: Flavonoids
+Class: 7-hydroxyflavonoids  # Generated from value "7-hydroxyflavonoids" located at cell 'Sheet 1'!B19.
+   SubClassOf: Hydroxyflavonoids
+Class: 7-O-methylated flavonoids  # Generated from value "7-O-methylated flavonoids" located at cell 'Sheet 1'!B20.
+   SubClassOf: O-methylated flavonoids
+Class: 5-methoxypsoralens  # Generated from value "5-methoxypsoralens" located at cell 'Sheet 1'!B21.
+   SubClassOf: Psoralens
+Class: Anisoles  # Generated from value "Anisoles" located at cell 'Sheet 1'!B22.
+   SubClassOf: Phenol ethers
+Class: Coumestans  # Generated from value "Coumestans" located at cell 'Sheet 1'!B23.
+   SubClassOf: Isoflavonoids
+Class: Benzodioxoles  # Generated from value "Benzodioxoles" located at cell 'Sheet 1'!B24.
+   SubClassOf: Organoheterocyclic compounds
+Class: 6-O-methylated flavonoids  # Generated from value "6-O-methylated flavonoids" located at cell 'Sheet 1'!B25.
+   SubClassOf: O-methylated flavonoids
+Class: Terpene lactones  # Generated from value "Terpene lactones" located at cell 'Sheet 1'!B26.
+   SubClassOf: Prenol lipids
+Class: Diterpene lactones  # Generated from value "Diterpene lactones" located at cell 'Sheet 1'!B27.
+   SubClassOf: Terpene lactones
+Class: Flavanonols  # Generated from value "Flavanonols" located at cell 'Sheet 1'!B28.
+   SubClassOf: Flavanones
+Class: Monoterpenoids  # Generated from value "Monoterpenoids" located at cell 'Sheet 1'!B29.
+   SubClassOf: Prenol lipids
+Class: Aromatic monoterpenoids  # Generated from value "Aromatic monoterpenoids" located at cell 'Sheet 1'!B30.
+   SubClassOf: Monoterpenoids
+Class: Lignan lactones  # Generated from value "Lignan lactones" located at cell 'Sheet 1'!B31.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 2'-Hydroxychalcones  # Generated from value "2'-Hydroxychalcones" located at cell 'Sheet 1'!B32.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 8-methoxypsoralens  # Generated from value "8-methoxypsoralens" located at cell 'Sheet 1'!B33.
+   SubClassOf: Psoralens
+
+===========================================================================================================
+Date: 2021-07-15 19:09:48
+Ontology source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/ontology/fobi.owl
+Worksheet source: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/phenol_explorer_integration/data/fobi_new_classes.xlsx
+Transformation rules: /Users/pol/Dropbox/FoodBiomarkerOntology/src/scripts/files/add_annotations.json
+
+# Cell range: (Sheet 1!A2:B+) Comment: ""
+# Class: @B*
+#     SubClassOf: @A*
+
+Class: 3-prenylated chalcones  # Generated from value "3-prenylated chalcones" located at cell 'Sheet 1'!B2.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 6-prenylated flavans  # Generated from value "6-prenylated flavans" located at cell 'Sheet 1'!B3.
+   SubClassOf: Flavans
+Class: 6-prenylated flavanones  # Generated from value "6-prenylated flavanones" located at cell 'Sheet 1'!B4.
+   SubClassOf: 6-prenylated flavans
+Class: Styrenes  # Generated from value "Styrenes" located at cell 'Sheet 1'!B5.
+   SubClassOf: Benzene and substituted derivatives
+Class: Flavonoid-7-O-glycosides  # Generated from value "Flavonoid-7-O-glycosides" located at cell 'Sheet 1'!B6.
+   SubClassOf: Flavonoid O-glycosides
+Class: Cinnamyl alcohols  # Generated from value "Cinnamyl alcohols" located at cell 'Sheet 1'!B7.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Hydroxycoumarins  # Generated from value "Hydroxycoumarins" located at cell 'Sheet 1'!B8.
+   SubClassOf: Coumarins and derivatives
+Class: 6,7-dihydroxycoumarins  # Generated from value "6,7-dihydroxycoumarins" located at cell 'Sheet 1'!B9.
+   SubClassOf: Hydroxycoumarins
+Class: 7-hydroxycoumarins  # Generated from value "7-hydroxycoumarins" located at cell 'Sheet 1'!B10.
+   SubClassOf: Hydroxycoumarins
+Class: Indanes  # Generated from value "Indanes" located at cell 'Sheet 1'!B11.
+   SubClassOf: Benzenoids
+Class: 8-O-methylated flavonoids  # Generated from value "8-O-methylated flavonoids" located at cell 'Sheet 1'!B12.
+   SubClassOf: O-methylated flavonoids
+Class: Aryltetralin lignans  # Generated from value "Aryltetralin lignans" located at cell 'Sheet 1'!B13.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 9,9p-dihydroxyaryltetralin lignans  # Generated from value "9,9p-dihydroxyaryltetralin lignans" located at cell 'Sheet 1'!B14.
+   SubClassOf: Aryltetralin lignans
+Class: 7,9'-epoxylignans  # Generated from value "7,9'-epoxylignans" located at cell 'Sheet 1'!B15.
+   SubClassOf: Tetrahydrofuran lignans
+Class: Benzopyrans  # Generated from value "Benzopyrans" located at cell 'Sheet 1'!B16.
+   SubClassOf: Organoheterocyclic compounds
+Class: 2-benzopyrans  # Generated from value "2-benzopyrans" located at cell 'Sheet 1'!B17.
+   SubClassOf: Benzopyrans
+Class: Hydroxyflavonoids  # Generated from value "Hydroxyflavonoids" located at cell 'Sheet 1'!B18.
+   SubClassOf: Flavonoids
+Class: 7-hydroxyflavonoids  # Generated from value "7-hydroxyflavonoids" located at cell 'Sheet 1'!B19.
+   SubClassOf: Hydroxyflavonoids
+Class: 7-O-methylated flavonoids  # Generated from value "7-O-methylated flavonoids" located at cell 'Sheet 1'!B20.
+   SubClassOf: O-methylated flavonoids
+Class: 5-methoxypsoralens  # Generated from value "5-methoxypsoralens" located at cell 'Sheet 1'!B21.
+   SubClassOf: Psoralens
+Class: Anisoles  # Generated from value "Anisoles" located at cell 'Sheet 1'!B22.
+   SubClassOf: Phenol ethers
+Class: Coumestans  # Generated from value "Coumestans" located at cell 'Sheet 1'!B23.
+   SubClassOf: Isoflavonoids
+Class: Benzodioxoles  # Generated from value "Benzodioxoles" located at cell 'Sheet 1'!B24.
+   SubClassOf: Organoheterocyclic compounds
+Class: 6-O-methylated flavonoids  # Generated from value "6-O-methylated flavonoids" located at cell 'Sheet 1'!B25.
+   SubClassOf: O-methylated flavonoids
+Class: Terpene lactones  # Generated from value "Terpene lactones" located at cell 'Sheet 1'!B26.
+   SubClassOf: Prenol lipids
+Class: Diterpene lactones  # Generated from value "Diterpene lactones" located at cell 'Sheet 1'!B27.
+   SubClassOf: Terpene lactones
+Class: Flavanonols  # Generated from value "Flavanonols" located at cell 'Sheet 1'!B28.
+   SubClassOf: Flavanones
+Class: Monoterpenoids  # Generated from value "Monoterpenoids" located at cell 'Sheet 1'!B29.
+   SubClassOf: Prenol lipids
+Class: Aromatic monoterpenoids  # Generated from value "Aromatic monoterpenoids" located at cell 'Sheet 1'!B30.
+   SubClassOf: Monoterpenoids
+Class: Lignan lactones  # Generated from value "Lignan lactones" located at cell 'Sheet 1'!B31.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 2'-Hydroxychalcones  # Generated from value "2'-Hydroxychalcones" located at cell 'Sheet 1'!B32.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 8-methoxypsoralens  # Generated from value "8-methoxypsoralens" located at cell 'Sheet 1'!B33.
+   SubClassOf: Psoralens
+Class: 3-prenylated chalcones  # Generated from value "3-prenylated chalcones" located at cell 'Sheet 1'!B2.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 6-prenylated flavans  # Generated from value "6-prenylated flavans" located at cell 'Sheet 1'!B3.
+   SubClassOf: Flavans
+Class: 6-prenylated flavanones  # Generated from value "6-prenylated flavanones" located at cell 'Sheet 1'!B4.
+   SubClassOf: 6-prenylated flavans
+Class: Styrenes  # Generated from value "Styrenes" located at cell 'Sheet 1'!B5.
+   SubClassOf: Benzene and substituted derivatives
+Class: Flavonoid-7-O-glycosides  # Generated from value "Flavonoid-7-O-glycosides" located at cell 'Sheet 1'!B6.
+   SubClassOf: Flavonoid O-glycosides
+Class: Cinnamyl alcohols  # Generated from value "Cinnamyl alcohols" located at cell 'Sheet 1'!B7.
+   SubClassOf: Phenylpropanoids and polyketides
+Class: Hydroxycoumarins  # Generated from value "Hydroxycoumarins" located at cell 'Sheet 1'!B8.
+   SubClassOf: Coumarins and derivatives
+Class: 6,7-dihydroxycoumarins  # Generated from value "6,7-dihydroxycoumarins" located at cell 'Sheet 1'!B9.
+   SubClassOf: Hydroxycoumarins
+Class: 7-hydroxycoumarins  # Generated from value "7-hydroxycoumarins" located at cell 'Sheet 1'!B10.
+   SubClassOf: Hydroxycoumarins
+Class: Indanes  # Generated from value "Indanes" located at cell 'Sheet 1'!B11.
+   SubClassOf: Benzenoids
+Class: 8-O-methylated flavonoids  # Generated from value "8-O-methylated flavonoids" located at cell 'Sheet 1'!B12.
+   SubClassOf: O-methylated flavonoids
+Class: Aryltetralin lignans  # Generated from value "Aryltetralin lignans" located at cell 'Sheet 1'!B13.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 9,9p-dihydroxyaryltetralin lignans  # Generated from value "9,9p-dihydroxyaryltetralin lignans" located at cell 'Sheet 1'!B14.
+   SubClassOf: Aryltetralin lignans
+Class: 7,9'-epoxylignans  # Generated from value "7,9'-epoxylignans" located at cell 'Sheet 1'!B15.
+   SubClassOf: Tetrahydrofuran lignans
+Class: Benzopyrans  # Generated from value "Benzopyrans" located at cell 'Sheet 1'!B16.
+   SubClassOf: Organoheterocyclic compounds
+Class: 2-benzopyrans  # Generated from value "2-benzopyrans" located at cell 'Sheet 1'!B17.
+   SubClassOf: Benzopyrans
+Class: Hydroxyflavonoids  # Generated from value "Hydroxyflavonoids" located at cell 'Sheet 1'!B18.
+   SubClassOf: Flavonoids
+Class: 7-hydroxyflavonoids  # Generated from value "7-hydroxyflavonoids" located at cell 'Sheet 1'!B19.
+   SubClassOf: Hydroxyflavonoids
+Class: 7-O-methylated flavonoids  # Generated from value "7-O-methylated flavonoids" located at cell 'Sheet 1'!B20.
+   SubClassOf: O-methylated flavonoids
+Class: 5-methoxypsoralens  # Generated from value "5-methoxypsoralens" located at cell 'Sheet 1'!B21.
+   SubClassOf: Psoralens
+Class: Anisoles  # Generated from value "Anisoles" located at cell 'Sheet 1'!B22.
+   SubClassOf: Phenol ethers
+Class: Coumestans  # Generated from value "Coumestans" located at cell 'Sheet 1'!B23.
+   SubClassOf: Isoflavonoids
+Class: Benzodioxoles  # Generated from value "Benzodioxoles" located at cell 'Sheet 1'!B24.
+   SubClassOf: Organoheterocyclic compounds
+Class: 6-O-methylated flavonoids  # Generated from value "6-O-methylated flavonoids" located at cell 'Sheet 1'!B25.
+   SubClassOf: O-methylated flavonoids
+Class: Terpene lactones  # Generated from value "Terpene lactones" located at cell 'Sheet 1'!B26.
+   SubClassOf: Prenol lipids
+Class: Diterpene lactones  # Generated from value "Diterpene lactones" located at cell 'Sheet 1'!B27.
+   SubClassOf: Terpene lactones
+Class: Flavanonols  # Generated from value "Flavanonols" located at cell 'Sheet 1'!B28.
+   SubClassOf: Flavanones
+Class: Monoterpenoids  # Generated from value "Monoterpenoids" located at cell 'Sheet 1'!B29.
+   SubClassOf: Prenol lipids
+Class: Aromatic monoterpenoids  # Generated from value "Aromatic monoterpenoids" located at cell 'Sheet 1'!B30.
+   SubClassOf: Monoterpenoids
+Class: Lignan lactones  # Generated from value "Lignan lactones" located at cell 'Sheet 1'!B31.
+   SubClassOf: Lignans, neolignans and related compounds
+Class: 2'-Hydroxychalcones  # Generated from value "2'-Hydroxychalcones" located at cell 'Sheet 1'!B32.
+   SubClassOf: Chalcones and dihydrochalcones
+Class: 8-methoxypsoralens  # Generated from value "8-methoxypsoralens" located at cell 'Sheet 1'!B33.
+   SubClassOf: Psoralens
+
+===========================================================================================================

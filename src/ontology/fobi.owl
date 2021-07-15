@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://purl.obolibrary.org/obo/fobi.owl"
      xml:base="http://purl.obolibrary.org/obo/fobi.owl"
-     xmlns:fobi="http://purl.obolibrary.org/obo/fobi#"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:fobi="http://purl.obolibrary.org/obo/fobi#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:obo="http://purl.obolibrary.org/obo/">
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/fobi.owl">
         <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/fobi/fobi.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"/>
-        <terms:license rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://creativecommons.org/licenses/by/4.0/</terms:license>
-        <fobi:FOBI_050003 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FOBI (Food-Biomarker Ontology) is composed of two interconnected sub-ontologies. One is a ”Food Ontology” consisting of raw foods and multiple-ingredient foods while the second is a ”Biomarker Ontology” containing food intake biomarkers classified by their chemical classes. These two sub-ontologies are conceptually independent but interconnected by different properties. This allows data and information regarding foods and food biomarkers to be visualized in a bidirectional way, going from metabolomics to nutritional data or vice versa. Potential applications of this ontology include the annotation of foods and biomarkers using a well-defined and consistent nomenclature, the standardized reporting of metabolomics workflows (e.g. metabolite identification, experimental design), or the application of different enrichment analysis approaches to analyze nutrimetabolomic data.</fobi:FOBI_050003>
-        <fobi:FOBI_050001 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Damion Dooley</fobi:FOBI_050001>
         <fobi:FOBI_050000 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</fobi:FOBI_050000>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please cite FOBI project http://purl.obolibrary.org/obo/fobi where traditional citation is called for. However it is adequate that individual terms be attributed simply by use of the identifying PURL for the term, in projects that refer to them.</rdfs:comment>
+        <fobi:FOBI_050001 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Damion Dooley</fobi:FOBI_050001>
         <fobi:FOBI_050001 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raúl González Domínguez</fobi:FOBI_050001>
-        <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</oboInOwl:hasOBOFormatVersion>
         <fobi:FOBI_050002 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pol Castellano Escuder</fobi:FOBI_050002>
+        <fobi:FOBI_050003 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FOBI (Food-Biomarker Ontology) is composed of two interconnected sub-ontologies. One is a ”Food Ontology” consisting of raw foods and multiple-ingredient foods while the second is a ”Biomarker Ontology” containing food intake biomarkers classified by their chemical classes. These two sub-ontologies are conceptually independent but interconnected by different properties. This allows data and information regarding foods and food biomarkers to be visualized in a bidirectional way, going from metabolomics to nutritional data or vice versa. Potential applications of this ontology include the annotation of foods and biomarkers using a well-defined and consistent nomenclature, the standardized reporting of metabolomics workflows (e.g. metabolite identification, experimental design), or the application of different enrichment analysis approaches to analyze nutrimetabolomic data.</fobi:FOBI_050003>
+        <terms:license rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://creativecommons.org/licenses/by/4.0/</terms:license>
+        <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.5</oboInOwl:hasOBOFormatVersion>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please cite FOBI project http://purl.obolibrary.org/obo/fobi where traditional citation is called for. However it is adequate that individual terms be attributed simply by use of the identifying PURL for the term, in projects that refer to them.</rdfs:comment>
     </owl:Ontology>
     
 
@@ -36285,9 +36285,329 @@
         <obo:FOBI_043480>FOBI:050097</obo:FOBI_043480>
         <rdfs:label xml:lang="en">Avenanthramides</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050202 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050202">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040108"/>
+        <rdfs:label>3-prenylated chalcones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050203 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050203">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040061"/>
+        <rdfs:label>6-prenylated flavans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050204 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050204">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050203"/>
+        <rdfs:label>6-prenylated flavanones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050205 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050205">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040013"/>
+        <rdfs:label>Styrenes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050206 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050206">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040113"/>
+        <rdfs:label>Flavonoid-7-O-glycosides</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050207 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050207">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040000"/>
+        <rdfs:label>Cinnamyl alcohols</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050208 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050208">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040017"/>
+        <rdfs:label>Hydroxycoumarins</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050209">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050208"/>
+        <rdfs:label>6,7-dihydroxycoumarins</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050210 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050210">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050208"/>
+        <rdfs:label>7-hydroxycoumarins</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050211 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050211">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040001"/>
+        <rdfs:label>Indanes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050212 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050212">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040054"/>
+        <rdfs:label>8-O-methylated flavonoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050213 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050213">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050089"/>
+        <rdfs:label>9,9p-dihydroxyaryltetralin lignans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050214 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050214">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040005"/>
+        <rdfs:label>Benzopyrans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050215 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050215">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050214"/>
+        <rdfs:label>2-benzopyrans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050216 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050216">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040011"/>
+        <rdfs:label>Hydroxyflavonoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050217 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050217">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050216"/>
+        <rdfs:label>7-hydroxyflavonoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050218 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050218">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040054"/>
+        <rdfs:label>7-O-methylated flavonoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050219 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050219">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040184"/>
+        <rdfs:label>5-methoxypsoralens</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050220 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050220">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040043"/>
+        <rdfs:label>Anisoles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050221 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050221">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040012"/>
+        <rdfs:label>Coumestans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050222">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040005"/>
+        <rdfs:label>Benzodioxoles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050223 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050223">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040054"/>
+        <rdfs:label>6-O-methylated flavonoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050224">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040015"/>
+        <rdfs:label>Terpene lactones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050225 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050225">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050224"/>
+        <rdfs:label>Diterpene lactones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050226 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050226">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040137"/>
+        <rdfs:label>Flavanonols</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050227 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050227">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040015"/>
+        <rdfs:label>Monoterpenoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050228 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050228">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050227"/>
+        <rdfs:label>Aromatic monoterpenoids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050229 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050229">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040006"/>
+        <rdfs:label>Lignan lactones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050230">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040108"/>
+        <rdfs:label>2&apos;-Hydroxychalcones</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/fobi.owl#FOBI:050231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050231">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOBI_040184"/>
+        <rdfs:label>8-methoxypsoralens</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/FOBI_0001"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/FOBI_01501"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050089"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI_050091"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050202"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050203"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050204"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050205"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050206"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050207"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050208"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050209"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050210"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050211"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050212"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050213"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050214"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050215"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050216"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050217"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050218"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050219"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050220"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050221"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050222"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050223"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050224"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050225"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050226"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050227"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050228"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050229"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050230"/>
+            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/fobi.owl#FOBI:050231"/>
+        </owl:members>
+    </rdf:Description>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
 

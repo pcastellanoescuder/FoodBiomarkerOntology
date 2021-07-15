@@ -1,5 +1,6 @@
 
 library(tidyverse)
+library(classyfireR)
 
 composition <- readxl::read_xlsx("data/composition-data.xlsx") %>%
   rownames_to_column()
@@ -59,8 +60,6 @@ annotations <- left_join(annotations_1, annotations_2, by = "Chemical Name") %>%
 
 ####
 
-library(classyfireR)
-
 annotations_nona <- annotations %>%
   filter(!is.na(InChIKey))
 
@@ -68,12 +67,39 @@ df <- purrr::map(annotations_nona$InChIKey, get_classification)
 
 # save(df, file = "data/classyfireR.rda")
 
+####
 
+df_class <- purrr::map(df, classification) %>%
+  set_names(annotations_nona$InChIKey) %>%
+  enframe() %>%
+  unnest(cols = c(value)) %>%
+  filter(Classification != "Organic compounds")
 
+out_fobi <- unique(df_class$Classification[!df_class$Classification %in% metabolites_fobi$name])
 
+ls_class <- list()
 
+for (i in 1:nrow(df_class)) {
+  if(df_class$Classification[i] %in% out_fobi){
+    ls_class[[i]] <- data.frame(parent = df_class$Classification[i-1], child = df_class$Classification[i])
+  }
+}
 
+fobi_new_classes <- bind_rows(ls_class) %>%
+  filter(!duplicated(.))
 
+# openxlsx::write.xlsx(fobi_new_classes, "data/fobi_new_classes.xlsx")
+
+####
+
+annotations <- annotations %>%
+  rename(compound = 1) %>%
+  mutate(compound = tolower(compound))
+
+composition_fobi_anno <- composition_fobi %>%
+  left_join(annotations, by = "compound") %>%
+  mutate(ChEBI = ifelse(is.na(ChEBI), paste0("CHEBI:", `ChEBI ID`), ChEBI)) %>%
+  na_if("CHEBI:NA")
 
 
 
