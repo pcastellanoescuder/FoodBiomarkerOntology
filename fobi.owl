@@ -77356,6 +77356,11 @@
         <Literal>InChI=1S/C21H22O5/c1-13(2)4-10-16-18(24)12-19(26-3)20(21(16)25)17(23)11-7-14-5-8-15(22)9-6-14/h4-9,11-12,22,24-25H,10H2,1-3H3/b11-7+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050232</IRI>
+        <Literal>FOBI:050232</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050232</IRI>
         <Literal>10070768</Literal>
@@ -77396,6 +77401,11 @@
         <Literal>InChI=1S/C20H20O5/c1-11(2)3-8-14-15(22)9-18-19(20(14)24)16(23)10-17(25-18)12-4-6-13(21)7-5-12/h3-7,9,17,21-22,24H,8,10H2,1-2H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050233</IRI>
+        <Literal>FOBI:050233</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050233</IRI>
         <Literal>10070768</Literal>
@@ -77434,6 +77444,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050234</IRI>
         <Literal>InChI=1S/C20H20O5/c1-11(2)3-8-14-15(22)9-16(23)19-17(24)10-18(25-20(14)19)12-4-6-13(21)7-5-12/h3-7,9,18,21-23H,8,10H2,1-2H3/t18-/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050234</IRI>
+        <Literal>FOBI:050234</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -77481,6 +77496,11 @@
         <Literal>InChI=1S/C9H10O2/c1-3-7-4-5-8(10)9(6-7)11-2/h3-6,10H,1H2,2H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050235</IRI>
+        <Literal>FOBI:050235</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050235</IRI>
         <Literal>17109870</Literal>
@@ -77514,6 +77534,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050236</IRI>
         <Literal>InChI=1S/C9H12O2/c1-3-7-4-5-8(10)9(6-7)11-2/h4-6,10H,3H2,1-2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050236</IRI>
+        <Literal>FOBI:050236</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -77551,6 +77576,11 @@
         <Literal>InChI=1S/C7H8O2/c1-5-3-2-4-6(8)7(5)9/h2-4,8-9H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050237</IRI>
+        <Literal>FOBI:050237</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050237</IRI>
         <Literal>16881674</Literal>
@@ -77584,6 +77614,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050238</IRI>
         <Literal>InChI=1S/C8H10O2/c1-2-6-3-4-7(9)8(10)5-6/h3-5,9-10H,2H2,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050238</IRI>
+        <Literal>FOBI:050238</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -77626,6 +77661,11 @@
         <Literal>InChI=1S/C8H8O/c1-2-7-3-5-8(9)6-4-7/h2-6,9H,1H2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050239</IRI>
+        <Literal>FOBI:050239</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050239</IRI>
         <Literal>17109870</Literal>
@@ -77664,6 +77704,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050240</IRI>
         <Literal>InChI=1S/C15H14O7/c16-7-3-9(17)8-5-12(20)15(22-13(8)4-7)6-1-10(18)14(21)11(19)2-6/h1-4,12,15-21H,5H2/t12-,15-/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050240</IRI>
+        <Literal>FOBI:050240</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -77756,6 +77801,11 @@
         <Literal>InChI=1S/C15H12O5/c16-9-3-1-8(2-4-9)13-7-12(19)15-11(18)5-10(17)6-14(15)20-13/h1-6,13,16-18H,7H2/t13-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050241</IRI>
+        <Literal>FOBI:050241</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050241</IRI>
         <Literal>10812937</Literal>
@@ -77836,6 +77886,11 @@
         <Literal>InChI=1S/C27H32O14/c1-10-20(32)22(34)24(36)26(37-10)41-25-23(35)21(33)18(9-28)40-27(25)38-13-6-14(30)19-15(31)8-16(39-17(19)7-13)11-2-4-12(29)5-3-11/h2-7,10,16,18,20-30,32-36H,8-9H2,1H3/t10-,16-,18+,20-,21+,22+,23-,24+,25+,26-,27+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050242</IRI>
+        <Literal>FOBI:050242</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050242</IRI>
         <Literal>10905727; 8491829; 15315361</Literal>
@@ -77894,6 +77949,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050243</IRI>
         <Literal>InChI=1S/C15H10O8/c16-6-3-7(17)11-10(4-6)23-15(14(22)13(11)21)5-1-8(18)12(20)9(19)2-5/h1-4,16-20,22H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050243</IRI>
+        <Literal>FOBI:050243</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78056,6 +78116,11 @@
         <Literal>InChI=1S/C9H6O3/c10-7-5-9(11)12-8-4-2-1-3-6(7)8/h1-5,10H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050244</IRI>
+        <Literal>FOBI:050244</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050244</IRI>
         <Literal>16013828</Literal>
@@ -78094,6 +78159,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050245</IRI>
         <Literal>InChI=1S/C9H6O4/c10-6-3-5-1-2-9(12)13-8(5)4-7(6)11/h1-4,10-11H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050245</IRI>
+        <Literal>FOBI:050245</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78136,6 +78206,11 @@
         <Literal>InChI=1S/C15H16O9/c16-5-10-12(19)13(20)14(21)15(24-10)23-9-3-6-1-2-11(18)22-8(6)4-7(9)17/h1-4,10,12-17,19-21H,5H2/t10-,12-,13+,14-,15-/m1/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050246</IRI>
+        <Literal>FOBI:050246</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050246</IRI>
         <Literal>16013828</Literal>
@@ -78174,6 +78249,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050247</IRI>
         <Literal>InChI=1S/C10H8O4/c1-13-9-4-6-2-3-10(12)14-8(6)5-7(9)11/h2-5,11H,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050247</IRI>
+        <Literal>FOBI:050247</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78216,6 +78296,11 @@
         <Literal>InChI=1S/C9H6O3/c10-7-3-1-6-2-4-9(11)12-8(6)5-7/h1-5,10H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050248</IRI>
+        <Literal>FOBI:050248</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050248</IRI>
         <Literal>16013828</Literal>
@@ -78249,6 +78334,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050249</IRI>
         <Literal>InChI=1S/C8H10O2/c9-6-5-7-1-3-8(10)4-2-7/h1-4,9-10H,5-6H2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050249</IRI>
+        <Literal>FOBI:050249</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78321,6 +78411,11 @@
         <Literal>InChI=1S/C14H12O2/c15-13-8-12(9-14(16)10-13)7-6-11-4-2-1-3-5-11/h1-10,15-16H/b7-6+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050250</IRI>
+        <Literal>FOBI:050250</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050250</IRI>
         <Literal>16013828</Literal>
@@ -78361,6 +78456,11 @@
         <Literal>InChI=1S/C10H10O3/c1-13-10-7-8(3-2-6-11)4-5-9(10)12/h2-7,12H,1H3/b3-2+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050251</IRI>
+        <Literal>FOBI:050251</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050251</IRI>
         <Literal>ferulaldehyde</Literal>
@@ -78389,6 +78489,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050252</IRI>
         <Literal>InChI=1S/C9H10O4/c1-12-7-3-6(5-10)4-8(13-2)9(7)11/h3-5,11H,1-2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050252</IRI>
+        <Literal>FOBI:050252</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -78426,6 +78531,11 @@
         <Literal>InChI=1S/C16H12O7/c1-22-8-5-11(19)13-12(6-8)23-16(15(21)14(13)20)7-2-3-9(17)10(18)4-7/h2-6,17-19,21H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050253</IRI>
+        <Literal>FOBI:050253</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050253</IRI>
         <Literal>11312761</Literal>
@@ -78454,6 +78564,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050254</IRI>
         <Literal>InChI=1S/C28H22O6/c29-15-5-1-13(2-6-15)23-25-19(9-17(31)11-21(25)33)28-24(14-3-7-16(30)8-4-14)26-20(27(23)28)10-18(32)12-22(26)34/h1-12,23-24,27-34H/t23-,24-,27+,28+/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050254</IRI>
+        <Literal>FOBI:050254</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78496,6 +78611,11 @@
         <Literal>InChI=1S/C14H12O4/c15-11-5-10(6-12(16)8-11)2-1-9-3-4-13(17)14(18)7-9/h1-8,15-18H/b2-1+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050255</IRI>
+        <Literal>FOBI:050255</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050255</IRI>
         <Literal>15998130</Literal>
@@ -78536,6 +78656,11 @@
         <Literal>InChI=1S/C16H16O3/c1-18-15-9-13(10-16(11-15)19-2)4-3-12-5-7-14(17)8-6-12/h3-11,17H,1-2H3/b4-3+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050256</IRI>
+        <Literal>FOBI:050256</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050256</IRI>
         <Literal>pterostilbene</Literal>
@@ -78569,6 +78694,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050257</IRI>
         <Literal>InChI=1S/C15H12O6/c16-8-4-11(19)15-12(20)6-13(21-14(15)5-8)7-1-2-9(17)10(18)3-7/h1-5,13,16-19H,6H2/t13-/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050257</IRI>
+        <Literal>FOBI:050257</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78631,6 +78761,11 @@
         <Literal>InChI=1S/C20H20O7/c1-22-12-8-6-11(7-9-12)14-10-13(21)15-16(23-2)18(24-3)20(26-5)19(25-4)17(15)27-14/h6-10H,1-5H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050258</IRI>
+        <Literal>FOBI:050258</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050258</IRI>
         <Literal>11087509</Literal>
@@ -78691,6 +78826,11 @@
         <Literal>InChI=1S/C15H10O5/c16-9-6-10(17)12-11(7-9)20-15(14(19)13(12)18)8-4-2-1-3-5-8/h1-7,16-17,19H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050259</IRI>
+        <Literal>FOBI:050259</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050259</IRI>
         <Literal>10905727</Literal>
@@ -78741,6 +78881,11 @@
         <Literal>InChI=1S/C21H24O6/c1-24-18-7-5-13(11-20(18)26-3)8-15-12-27-21(23)16(15)9-14-4-6-17(22)19(10-14)25-2/h4-7,10-11,15-16,22H,8-9,12H2,1-3H3/t15-,16+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050260</IRI>
+        <Literal>FOBI:050260</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050260</IRI>
         <Literal>17261017</Literal>
@@ -78771,6 +78916,11 @@
         <Literal>InChI=1S/C20H24O6/c1-25-18-6-11(3-4-16(18)23)20-14-8-17(24)19(26-2)7-12(14)5-13(9-21)15(20)10-22/h3-4,6-8,13,15,20-24H,5,9-10H2,1-2H3/t13-,15-,20-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050261</IRI>
+        <Literal>FOBI:050261</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050261</IRI>
         <Literal>isolariciresinol</Literal>
@@ -78799,6 +78949,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050262</IRI>
         <Literal>InChI=1S/C20H24O6/c1-24-18-8-12(3-5-16(18)22)7-14-11-26-20(15(14)10-21)13-4-6-17(23)19(9-13)25-2/h3-6,8-9,14-15,20-23H,7,10-11H2,1-2H3/t14-,15-,20+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050262</IRI>
+        <Literal>FOBI:050262</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78886,6 +79041,11 @@
         <Literal>InChI=1S/C21H24O7/c1-25-17-7-5-13(9-19(17)27-3)8-15-12-28-20(23)21(15,24)11-14-4-6-16(22)18(10-14)26-2/h4-7,9-10,15,22,24H,8,11-12H2,1-3H3/t15-,21-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050263</IRI>
+        <Literal>FOBI:050263</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050263</IRI>
         <Literal>trachelogenin</Literal>
@@ -78909,6 +79069,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050264</IRI>
         <Literal>InChI=1S/C27H48O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-25-22-26(28)24-27(29)23-25/h22-24,28-29H,2-21H2,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050264</IRI>
+        <Literal>FOBI:050264</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -78986,6 +79151,11 @@
         <Literal>InChI=1S/C23H40O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-21-18-22(24)20-23(25)19-21/h18-20,24-25H,2-17H2,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050265</IRI>
+        <Literal>FOBI:050265</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050265</IRI>
         <Literal>14582960</Literal>
@@ -79054,6 +79224,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050266</IRI>
         <Literal>InChI=1S/C25H44O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-23-20-24(26)22-25(27)21-23/h20-22,26-27H,2-19H2,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050266</IRI>
+        <Literal>FOBI:050266</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79131,6 +79306,11 @@
         <Literal>InChI=1S/C31H56O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-29-26-30(32)28-31(33)27-29/h26-28,32-33H,2-25H2,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050267</IRI>
+        <Literal>FOBI:050267</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050267</IRI>
         <Literal>14582960</Literal>
@@ -79204,6 +79384,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050268</IRI>
         <Literal>InChI=1S/C29H52O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-27-24-28(30)26-29(31)25-27/h24-26,30-31H,2-23H2,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050268</IRI>
+        <Literal>FOBI:050268</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79291,6 +79476,11 @@
         <Literal>InChI=1S/C21H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-19-16-20(22)18-21(23)17-19/h16-18,22-23H,2-15H2,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050269</IRI>
+        <Literal>FOBI:050269</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050269</IRI>
         <Literal>25644340</Literal>
@@ -79324,6 +79514,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050270</IRI>
         <Literal>InChI=1S/C21H24O7/c1-24-16-6-11(4-5-15(16)22)20-13-9-28-21(14(13)10-27-20)12-7-17(25-2)19(23)18(8-12)26-3/h4-8,13-14,20-23H,9-10H2,1-3H3/t13-,14-,20+,21?/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050270</IRI>
+        <Literal>FOBI:050270</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79371,6 +79566,11 @@
         <Literal>InChI=1S/C10H10O3/c1-6-5-7-3-2-4-8(11)9(7)10(12)13-6/h2-4,6,11H,5H2,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050271</IRI>
+        <Literal>FOBI:050271</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050271</IRI>
         <Literal>mellein</Literal>
@@ -79404,6 +79604,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050272</IRI>
         <Literal>InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050272</IRI>
+        <Literal>FOBI:050272</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -79441,6 +79646,11 @@
         <Literal>InChI=1S/C15H10O7/c16-6-1-2-8(9(18)3-6)15-14(21)13(20)12-10(19)4-7(17)5-11(12)22-15/h1-5,16-19,21H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050273</IRI>
+        <Literal>FOBI:050273</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050273</IRI>
         <Literal>16076138</Literal>
@@ -79474,6 +79684,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050274</IRI>
         <Literal>InChI=1S/C20H18O6/c1-3-15-17(25-9-23-15)5-11(1)19-13-7-22-20(14(13)8-21-19)12-2-4-16-18(6-12)26-10-24-16/h1-6,13-14,19-20H,7-10H2/t13-,14-,19+,20+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050274</IRI>
+        <Literal>FOBI:050274</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79531,6 +79746,11 @@
         <Literal>InChI=1S/C15H10O6.ClH/c16-8-4-11(18)9-6-13(20)15(21-14(9)5-8)7-1-2-10(17)12(19)3-7;/h1-6H,(H4-,16,17,18,19,20);1H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050275</IRI>
+        <Literal>FOBI:050275</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050275</IRI>
         <Literal>14558771; 14690398; 14640564</Literal>
@@ -79576,6 +79796,11 @@
         <Literal>InChI=1S/C15H10O5.ClH/c16-9-3-1-8(2-4-9)15-13(19)7-11-12(18)5-10(17)6-14(11)20-15;/h1-7H,(H3-,16,17,18,19);1H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050276</IRI>
+        <Literal>FOBI:050276</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050276</IRI>
         <Literal>pelargonidin</Literal>
@@ -79609,6 +79834,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050277</IRI>
         <Literal>InChI=1S/C16H12O6.ClH/c1-21-15-4-8(2-3-11(15)18)16-13(20)7-10-12(19)5-9(17)6-14(10)22-16;/h2-7H,1H3,(H3-,17,18,19,20);1H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050277</IRI>
+        <Literal>FOBI:050277</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79649,6 +79879,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050278</IRI>
         <Literal>InChI=1S/C21H24O10/c22-9-16-18(27)19(28)20(29)21(31-16)30-15-8-12(24)7-14(26)17(15)13(25)6-3-10-1-4-11(23)5-2-10/h1-2,4-5,7-8,16,18-24,26-29H,3,6,9H2/t16-,18-,19+,20-,21-/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050278</IRI>
+        <Literal>FOBI:050278</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79721,6 +79956,11 @@
         <Literal>InChI=1S/C12H16O7/c13-5-8-9(15)10(16)11(17)12(19-8)18-7-3-1-6(14)2-4-7/h1-4,8-17H,5H2/t8-,9-,10+,11-,12-/m1/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050279</IRI>
+        <Literal>FOBI:050279</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050279</IRI>
         <Literal>11999391</Literal>
@@ -79754,6 +79994,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050280</IRI>
         <Literal>InChI=1S/C28H34O14/c1-11-21(31)23(33)25(35)27(39-11)38-10-19-22(32)24(34)26(36)28(42-19)40-14-7-15(29)20-16(30)9-17(41-18(20)8-14)12-3-5-13(37-2)6-4-12/h3-8,11,17,19,21-29,31-36H,9-10H2,1-2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050280</IRI>
+        <Literal>FOBI:050280</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79804,6 +80049,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050281</IRI>
         <Literal>InChI=1S/C28H34O15/c1-10-21(32)23(34)25(36)27(40-10)39-9-19-22(33)24(35)26(37)28(43-19)41-12-6-14(30)20-15(31)8-17(42-18(20)7-12)11-3-4-16(38-2)13(29)5-11/h3-7,10,17,19,21-30,32-37H,8-9H2,1-2H3/t10-,17-,19+,21-,22+,23+,24-,25+,26+,27+,28+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050281</IRI>
+        <Literal>FOBI:050281</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -79871,6 +80121,11 @@
         <Literal>InChI=1S/C27H32O14/c1-10-20(31)22(33)24(35)26(38-10)37-9-18-21(32)23(34)25(36)27(41-18)39-13-6-14(29)19-15(30)8-16(40-17(19)7-13)11-2-4-12(28)5-3-11/h2-7,10,16,18,20-29,31-36H,8-9H2,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050282</IRI>
+        <Literal>FOBI:050282</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050282</IRI>
         <Literal>10905727; 8491829; 12720386; 15315361</Literal>
@@ -79931,6 +80186,11 @@
         <Literal>InChI=1S/C21H22O8/c1-23-13-8-7-11(9-15(13)24-2)14-10-12(22)16-17(25-3)19(26-4)21(28-6)20(27-5)18(16)29-14/h7-10H,1-6H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050283</IRI>
+        <Literal>FOBI:050283</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050283</IRI>
         <Literal>11087509</Literal>
@@ -79986,6 +80246,11 @@
         <Literal>InChI=1S/C20H20O7/c1-22-13-7-6-11(8-15(13)23-2)14-9-12(21)18-16(27-14)10-17(24-3)19(25-4)20(18)26-5/h6-10H,1-5H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050284</IRI>
+        <Literal>FOBI:050284</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050284</IRI>
         <Literal>11087509</Literal>
@@ -80036,6 +80301,11 @@
         <Literal>InChI=1S/C16H12O6/c1-21-10-4-2-8(3-5-10)16-15(20)14(19)13-11(18)6-9(17)7-12(13)22-16/h2-7,17-18,20H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050285</IRI>
+        <Literal>FOBI:050285</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050285</IRI>
         <Literal>10727812</Literal>
@@ -80074,6 +80344,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050286</IRI>
         <Literal>InChI=1S/C27H32O15/c1-9-20(32)22(34)24(36)26(39-9)38-8-18-21(33)23(35)25(37)27(42-18)40-11-5-14(30)19-15(31)7-16(41-17(19)6-11)10-2-3-12(28)13(29)4-10/h2-6,9,16,18,20-30,32-37H,7-8H2,1H3/t9-,16+,18+,20-,21+,22+,23+,24+,25-,26-,27+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050286</IRI>
+        <Literal>FOBI:050286</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80116,6 +80391,11 @@
         <Literal>InChI=1S/C27H32O15/c1-9-20(33)22(35)24(37)26(38-9)42-25-23(36)21(34)18(8-28)41-27(25)39-11-5-14(31)19-15(32)7-16(40-17(19)6-11)10-2-3-12(29)13(30)4-10/h2-6,9,16,18,20-31,33-37H,7-8H2,1H3/t9-,16-,18+,20-,21+,22+,23-,24+,25+,26-,27+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050287</IRI>
+        <Literal>FOBI:050287</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050287</IRI>
         <Literal>10905727</Literal>
@@ -80156,6 +80436,11 @@
         <Literal>InChI=1S/C12H8O4/c1-14-12-7-2-3-11(13)16-10(7)6-9-8(12)4-5-15-9/h2-6H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050288</IRI>
+        <Literal>FOBI:050288</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050288</IRI>
         <Literal>10812937</Literal>
@@ -80184,6 +80469,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050289</IRI>
         <Literal>InChI=1S/C12H16O8/c13-4-8-9(16)10(17)11(18)12(20-8)19-7-2-5(14)1-6(15)3-7/h1-3,8-18H,4H2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050289</IRI>
+        <Literal>FOBI:050289</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80226,6 +80516,11 @@
         <Literal>InChI=1S/C27H30O14/c1-10-20(32)22(34)24(36)26(37-10)41-25-23(35)21(33)18(9-28)40-27(25)38-13-6-14(30)19-15(31)8-16(39-17(19)7-13)11-2-4-12(29)5-3-11/h2-8,10,18,20-30,32-36H,9H2,1H3/t10-,18+,20-,21+,22+,23-,24+,25+,26-,27+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050290</IRI>
+        <Literal>FOBI:050290</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050290</IRI>
         <Literal>rhoifolin</Literal>
@@ -80259,6 +80554,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050291</IRI>
         <Literal>InChI=1S/C28H32O15/c1-10-21(32)23(34)25(36)27(40-10)39-9-19-22(33)24(35)26(37)28(43-19)41-12-6-14(30)20-15(31)8-17(42-18(20)7-12)11-3-4-16(38-2)13(29)5-11/h3-8,10,19,21-30,32-37H,9H2,1-2H3/t10-,19+,21-,22+,23+,24-,25+,26+,27+,28+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050291</IRI>
+        <Literal>FOBI:050291</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80301,6 +80601,11 @@
         <Literal>InChI=1S/C19H18O6/c1-21-12-7-5-11(6-8-12)14-9-13(20)17-15(25-14)10-16(22-2)18(23-3)19(17)24-4/h5-10H,1-4H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050292</IRI>
+        <Literal>FOBI:050292</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050292</IRI>
         <Literal>tetramethylscutellarein</Literal>
@@ -80324,6 +80629,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050293</IRI>
         <Literal>InChI=1S/C22H24O9/c1-24-12-9-8-11(10-13(12)25-2)16-19(27-4)15(23)14-17(26-3)20(28-5)22(30-7)21(29-6)18(14)31-16/h8-10H,1-7H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050293</IRI>
+        <Literal>FOBI:050293</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80366,6 +80676,11 @@
         <Literal>InChI=1S/C15H10O4/c16-10-6-11(17)15-12(18)8-13(19-14(15)7-10)9-4-2-1-3-5-9/h1-8,16-17H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050294</IRI>
+        <Literal>FOBI:050294</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050294</IRI>
         <Literal>10905727</Literal>
@@ -80399,6 +80714,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050295</IRI>
         <Literal>InChI=1S/C48H28O30/c49-10-1-6-17(31(59)27(10)55)19-23-21-22-24(47(70)76-38(21)35(63)33(19)61)20(34(62)36(64)39(22)75-46(23)69)18-9(4-13(52)28(56)32(18)60)43(66)74-37-14(5-72-42(6)65)73-48(71)41-40(37)77-44(67)7-2-11(50)25(53)29(57)15(7)16-8(45(68)78-41)3-12(51)26(54)30(16)58/h1-4,14,37,40-41,48-64,71H,5H2/t14-,37-,40+,41-,48-/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050295</IRI>
+        <Literal>FOBI:050295</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80439,6 +80759,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050296</IRI>
         <Literal>InChI=1S/C10H12O/c1-3-4-9-5-7-10(11-2)8-6-9/h3-8H,1-2H3/b4-3+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050296</IRI>
+        <Literal>FOBI:050296</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80486,6 +80811,11 @@
         <Literal>InChI=1S/C29H36O15/c1-13-22(36)23(37)24(38)29(41-13)44-27-25(39)28(40-9-8-15-3-6-17(32)19(34)11-15)42-20(12-30)26(27)43-21(35)7-4-14-2-5-16(31)18(33)10-14/h2-7,10-11,13,20,22-34,36-39H,8-9,12H2,1H3/b7-4+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050297</IRI>
+        <Literal>FOBI:050297</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050297</IRI>
         <Literal>10552399</Literal>
@@ -80519,6 +80849,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050298</IRI>
         <Literal>InChI=1S/C21H20O9/c22-8-16-18(25)19(26)20(27)21(30-16)29-12-5-6-13-15(7-12)28-9-14(17(13)24)10-1-3-11(23)4-2-10/h1-7,9,16,18-23,25-27H,8H2/t16-,18-,19+,20-,21-/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050298</IRI>
+        <Literal>FOBI:050298</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80614,6 +80949,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050299</IRI>
         <Literal>InChI=1S/C21H30O11/c1-3-4-10-5-6-12(13(7-10)28-2)31-21-19(27)17(25)16(24)14(32-21)9-30-20-18(26)15(23)11(22)8-29-20/h3,5-7,11,14-27H,1,4,8-9H2,2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050299</IRI>
+        <Literal>FOBI:050299</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -80721,6 +81061,11 @@
         <Literal>InChI=1S/C16H12O5/c1-20-15-6-11-14(7-13(15)18)21-8-12(16(11)19)9-2-4-10(17)5-3-9/h2-8,17-18H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050300</IRI>
+        <Literal>FOBI:050300</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050300</IRI>
         <Literal>10552401; 10552547</Literal>
@@ -80826,6 +81171,11 @@
         <Literal>InChI=1S/C22H22O10/c1-29-15-6-12-14(30-9-13(18(12)25)10-2-4-11(24)5-3-10)7-16(15)31-22-21(28)20(27)19(26)17(8-23)32-22/h2-7,9,17,19-24,26-28H,8H2,1H3/t17-,19-,20+,21-,22-/m1/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050301</IRI>
+        <Literal>FOBI:050301</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050301</IRI>
         <Literal>10552401</Literal>
@@ -80921,6 +81271,11 @@
         <Literal>InChI=1S/C15H8O5/c16-7-1-3-9-11(5-7)19-14-10-4-2-8(17)6-12(10)20-15(18)13(9)14/h1-6,16-17H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050302</IRI>
+        <Literal>FOBI:050302</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050302</IRI>
         <Literal>16898863</Literal>
@@ -80966,6 +81321,11 @@
         <Literal>InChI=1S/C22H24O8/c1-12(23)30-22-11-29-20(13-4-6-16(24)18(8-13)26-2)15(22)10-28-21(22)14-5-7-17(25)19(9-14)27-3/h4-9,15,20-21,24-25H,10-11H2,1-3H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050303</IRI>
+        <Literal>FOBI:050303</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050303</IRI>
         <Literal>11087455; 25655098; 16608197; 16819902; 24945796</Literal>
@@ -81006,6 +81366,11 @@
         <Literal>InChI=1S/C25H32O12/c1-3-15-16(10-19(28)34-9-8-13-4-6-14(27)7-5-13)17(23(32)33-2)12-35-24(15)37-25-22(31)21(30)20(29)18(11-26)36-25/h3-7,12,16,18,20-22,24-27,29-31H,8-11H2,1-2H3/b15-3+/t16-,18+,20+,21-,22+,24-,25-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050304</IRI>
+        <Literal>FOBI:050304</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050304</IRI>
         <Literal>ligstroside</Literal>
@@ -81024,6 +81389,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050305</IRI>
         <Literal>InChI=1S/C24H30O13/c1-2-12-13(8-18(28)34-6-5-11-3-4-15(26)16(27)7-11)14(22(32)33)10-35-23(12)37-24-21(31)20(30)19(29)17(9-25)36-24/h2-4,7,10,13,17,19-21,23-27,29-31H,5-6,8-9H2,1H3,(H,32,33)/b12-2-</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050305</IRI>
+        <Literal>FOBI:050305</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81071,6 +81441,11 @@
         <Literal>InChI=1S/C16H23NO5/c1-17(2,3)8-9-22-15(18)7-6-12-10-13(20-4)16(19)14(11-12)21-5/h6-7,10-11H,8-9H2,1-5H3/p+1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050306</IRI>
+        <Literal>FOBI:050306</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050306</IRI>
         <Literal>sinapine</Literal>
@@ -81099,6 +81474,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050307</IRI>
         <Literal>InChI=1S/C20H18O7/c21-14-5-18-17(26-9-27-18)4-11(14)20-13-7-22-19(12(13)6-23-20)10-1-2-15-16(3-10)25-8-24-15/h1-5,12-13,19-21H,6-9H2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050307</IRI>
+        <Literal>FOBI:050307</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81146,6 +81526,11 @@
         <Literal>InChI=1S/C7H6O3/c8-5-1-2-6-7(3-5)10-4-9-6/h1-3,8H,4H2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050308</IRI>
+        <Literal>FOBI:050308</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050308</IRI>
         <Literal>sesamol</Literal>
@@ -81174,6 +81559,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050309</IRI>
         <Literal>InChI=1S/C20H18O7/c1-3-15-17(25-9-23-15)5-11(1)19-13-7-22-20(14(13)8-21-19)27-12-2-4-16-18(6-12)26-10-24-16/h1-6,13-14,19-20H,7-10H2/t13-,14-,19+,20+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050309</IRI>
+        <Literal>FOBI:050309</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81221,6 +81611,11 @@
         <Literal>InChI=1S/C20H18O7/c1-3-15-17(25-9-23-15)5-11(1)19-13-7-22-20(14(13)8-21-19)27-12-2-4-16-18(6-12)26-10-24-16/h1-6,13-14,19-20H,7-10H2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050310</IRI>
+        <Literal>FOBI:050310</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050310</IRI>
         <Literal>25829579</Literal>
@@ -81251,6 +81646,11 @@
         <Literal>InChI=1S/C20H18O6/c1-3-15-17(25-9-23-15)5-11(1)19-13-7-22-20(14(13)8-21-19)12-2-4-16-18(6-12)26-10-24-16/h1-6,13-14,19-20H,7-10H2/t13-,14-,19-,20+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050311</IRI>
+        <Literal>FOBI:050311</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050311</IRI>
         <Literal>episesamin</Literal>
@@ -81274,6 +81674,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050312</IRI>
         <Literal>InChI=1S/C17H14O6/c1-21-14-8-13-15(16(20)17(14)22-2)11(19)7-12(23-13)9-3-5-10(18)6-4-9/h3-8,18,20H,1-2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050312</IRI>
+        <Literal>FOBI:050312</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81321,6 +81726,11 @@
         <Literal>InChI=1S/C16H12O6/c1-21-16-11(19)7-13-14(15(16)20)10(18)6-12(22-13)8-2-4-9(17)5-3-8/h2-7,17,19-20H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050313</IRI>
+        <Literal>FOBI:050313</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050313</IRI>
         <Literal>10552853</Literal>
@@ -81356,6 +81766,11 @@
         <Literal>InChI=1S/C20H26O5/c1-9(2)10-8-11-12(15(23)13(10)21)20-7-5-6-19(3,4)17(20)16(14(11)22)25-18(20)24/h8-9,14,16-17,21-23H,5-7H2,1-4H3/t14-,16+,17-,20-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050314</IRI>
+        <Literal>FOBI:050314</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050314</IRI>
         <Literal>rosmanol</Literal>
@@ -81379,6 +81794,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050315</IRI>
         <Literal>InChI=1S/C18H16O7/c1-22-13-6-9(4-5-10(13)19)12-7-11(20)16-14(25-12)8-15(23-2)18(24-3)17(16)21/h4-8,19,21H,1-3H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050315</IRI>
+        <Literal>FOBI:050315</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81411,6 +81831,11 @@
         <Literal>InChI=1S/C18H16O7/c1-22-12-5-4-9(6-10(12)19)13-7-11(20)16-14(25-13)8-15(23-2)18(24-3)17(16)21/h4-8,19,21H,1-3H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050316</IRI>
+        <Literal>FOBI:050316</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050316</IRI>
         <Literal>10552853</Literal>
@@ -81439,6 +81864,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050317</IRI>
         <Literal>InChI=1S/C17H14O7/c1-22-13-5-8(3-4-9(13)18)12-6-10(19)15-14(24-12)7-11(20)17(23-2)16(15)21/h3-7,18,20-21H,1-2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050317</IRI>
+        <Literal>FOBI:050317</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81474,6 +81904,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050318</IRI>
         <Literal>InChI=1S/C15H12O7/c16-7-4-10(19)12-11(5-7)22-15(14(21)13(12)20)6-1-2-8(17)9(18)3-6/h1-5,14-19,21H/t14-,15+/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050318</IRI>
+        <Literal>FOBI:050318</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81516,6 +81951,11 @@
         <Literal>InChI=1S/C15H12O4/c16-10-6-11(17)15-12(18)8-13(19-14(15)7-10)9-4-2-1-3-5-9/h1-7,13,16-17H,8H2/t13-/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050319</IRI>
+        <Literal>FOBI:050319</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050319</IRI>
         <Literal>24812440</Literal>
@@ -81554,6 +81994,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050320</IRI>
         <Literal>InChI=1S/C16H14O5/c1-20-11-6-12(18)16-13(19)8-14(21-15(16)7-11)9-2-4-10(17)5-3-9/h2-7,14,17-18H,8H2,1H3/t14-/m0/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050320</IRI>
+        <Literal>FOBI:050320</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81596,6 +82041,11 @@
         <Literal>InChI=1S/C15H10O7/c16-7-2-1-6(3-8(7)17)11-4-9(18)13-12(22-11)5-10(19)14(20)15(13)21/h1-5,16-17,19-21H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050321</IRI>
+        <Literal>FOBI:050321</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050321</IRI>
         <Literal>24812440</Literal>
@@ -81634,6 +82084,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050322</IRI>
         <Literal>InChI=1S/C15H10O6/c16-8-3-1-7(2-4-8)11-5-9(17)13-12(21-11)6-10(18)14(19)15(13)20/h1-6,16,18-20H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050322</IRI>
+        <Literal>FOBI:050322</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81676,6 +82131,11 @@
         <Literal>InChI=1S/C10H12O/c1-3-4-9-5-7-10(11-2)8-6-9/h3,5-8H,1,4H2,2H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050323</IRI>
+        <Literal>FOBI:050323</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050323</IRI>
         <Literal>16190627</Literal>
@@ -81714,6 +82174,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050324</IRI>
         <Literal>InChI=1S/C10H12O2/c1-3-4-8-5-6-9(11)10(7-8)12-2/h3,5-7,11H,1,4H2,2H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050324</IRI>
+        <Literal>FOBI:050324</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81756,6 +82221,11 @@
         <Literal>InChI=1S/C20H26O4/c1-10(2)11-8-12-13-9-14-19(3,4)6-5-7-20(14,18(23)24-13)15(12)17(22)16(11)21/h8,10,13-14,21-22H,5-7,9H2,1-4H3/t13-,14-,20+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050325</IRI>
+        <Literal>FOBI:050325</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050325</IRI>
         <Literal>16190627</Literal>
@@ -81791,6 +82261,11 @@
         <Literal>InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4-7,11H,1-3H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050326</IRI>
+        <Literal>FOBI:050326</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050326</IRI>
         <Literal>16190627</Literal>
@@ -81819,6 +82294,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050327</IRI>
         <Literal>InChI=1S/C20H26O5/c1-9(2)10-8-11-12(15(23)13(10)21)20-7-5-6-19(3,4)17(20)16(14(11)22)25-18(20)24/h8-9,14,16-17,21-23H,5-7H2,1-4H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050327</IRI>
+        <Literal>FOBI:050327</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81861,6 +82341,11 @@
         <Literal>InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)6-10(9)11/h4-7,11H,1-3H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050328</IRI>
+        <Literal>FOBI:050328</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050328</IRI>
         <Literal>16190627</Literal>
@@ -81901,6 +82386,11 @@
         <Literal>InChI=1S/C15H10O5/c16-9-6-11(8-4-2-1-3-5-8)20-12-7-10(17)14(18)15(19)13(9)12/h1-7,17-19H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050329</IRI>
+        <Literal>FOBI:050329</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050329</IRI>
         <Literal>baicalein</Literal>
@@ -81934,6 +82424,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050330</IRI>
         <Literal>InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050330</IRI>
+        <Literal>FOBI:050330</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -81976,6 +82471,11 @@
         <Literal>InChI=1S/C21H20O6/c1-26-20-11-14(5-9-18(20)24)3-7-16(22)13-17(23)8-4-15-6-10-19(25)21(12-15)27-2/h3-12,24-25H,13H2,1-2H3/b7-3+,8-4+</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050331</IRI>
+        <Literal>FOBI:050331</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050331</IRI>
         <Literal>25324941</Literal>
@@ -81999,6 +82499,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050332</IRI>
         <Literal>InChI=1S/C20H22O7/c1-25-17-8-11(3-5-15(17)22)7-13-14(10-21)19(27-20(13)24)12-4-6-16(23)18(9-12)26-2/h3-6,8-9,13-14,19,21-23H,7,10H2,1-2H3/t13-,14+,19-/m1/s1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050332</IRI>
+        <Literal>FOBI:050332</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
@@ -82036,6 +82541,11 @@
         <Literal>InChI=1S/C27H30O14/c1-10-20(31)22(33)24(35)26(38-10)37-9-18-21(32)23(34)25(36)27(41-18)39-13-6-14(29)19-15(30)8-16(40-17(19)7-13)11-2-4-12(28)5-3-11/h2-8,10,18,20-29,31-36H,9H2,1H3/t10-,18+,20-,21+,22+,23-,24+,25+,26+,27+/m0/s1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050333</IRI>
+        <Literal>FOBI:050333</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="#FOBI:050339"/>
         <IRI>#FOBI:050333</IRI>
         <Literal>10552399</Literal>
@@ -82069,6 +82579,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050334</IRI>
         <Literal>InChI=1S/C15H12O5/c16-10-3-4-11(14(19)8-10)12(17)5-1-9-2-6-13(18)15(20)7-9/h1-8,16,18-20H/b5-1+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050334</IRI>
+        <Literal>FOBI:050334</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -82106,6 +82621,11 @@
         <Literal>InChI=1S/C16H12O5/c1-20-16-6-9(2-5-12(16)18)14-8-13(19)11-4-3-10(17)7-15(11)21-14/h2-8,17-18H,1H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050335</IRI>
+        <Literal>FOBI:050335</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050335</IRI>
         <Literal>geraldone</Literal>
@@ -82141,6 +82661,11 @@
         <Literal>InChI=1S/C13H10O5/c1-15-10-7-3-4-9(14)18-12(7)13(16-2)11-8(10)5-6-17-11/h3-6H,1-2H3</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050336</IRI>
+        <Literal>FOBI:050336</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050336</IRI>
         <Literal>isopimpinellin</Literal>
@@ -82171,6 +82696,11 @@
         <Literal>InChI=1S/C11H6O3/c12-11-2-1-7-5-8-3-4-13-9(8)6-10(7)14-11/h1-6H</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050337</IRI>
+        <Literal>FOBI:050337</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050337</IRI>
         <Literal>psoralen</Literal>
@@ -82199,6 +82729,11 @@
         <AnnotationProperty abbreviatedIRI="obo:FOBI_040238"/>
         <IRI>#FOBI:050338</IRI>
         <Literal>InChI=1S/C12H8O4/c1-14-12-10-8(4-5-15-10)6-7-2-3-9(13)16-11(7)12/h2-6H,1H3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050338</IRI>
+        <Literal>FOBI:050338</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
