@@ -1,1 +1,1 @@
-{"Collections":[{"sheetName":"Sheet1","startColumn":"C","endColumn":"C","startRow":"2","endRow":"+","comment":"","rule":"Class: @B*\n    Annotations: HMDB @C*","active":true}]}
+{"Collections":[{"sheetName":"Sheet 1","startColumn":"B","endColumn":"K","startRow":"2","endRow":"+","comment":"","rule":"Class: @B*\n    Annotations: ChemSpider @K*","active":true}]}

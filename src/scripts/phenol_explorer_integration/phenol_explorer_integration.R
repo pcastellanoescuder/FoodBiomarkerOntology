@@ -5,6 +5,9 @@ library(classyfireR)
 composition <- readxl::read_xlsx("data/composition-data.xlsx") %>%
   rownames_to_column()
 
+# number of compounds in Phenol-Explorer
+# length(unique(composition$compound))
+
 foods_fobitools <- fobitools::annotate_foods(foods = composition[, c(1,4)])
 
 annotated_foods <- foods_fobitools$annotated %>%
@@ -38,6 +41,7 @@ composition_fobi <- composition_fobi %>%
   left_join(metabolites_fobi, by = "compound") %>%
   filter(!duplicated(.))
 
+# paste result at "http://cts.fiehnlab.ucdavis.edu/batch"
 composition_fobi %>%
   filter(is.na(name)) %>%
   filter(!duplicated(compound)) %>%
@@ -63,9 +67,10 @@ annotations <- left_join(annotations_1, annotations_2, by = "Chemical Name") %>%
 annotations_nona <- annotations %>%
   filter(!is.na(InChIKey))
 
-df <- purrr::map(annotations_nona$InChIKey, get_classification)
+# df <- purrr::map(annotations_nona$InChIKey, get_classification)
 
 # save(df, file = "data/classyfireR.rda")
+load("data/classyfireR.rda")
 
 ####
 
@@ -92,7 +97,7 @@ fobi_new_classes <- bind_rows(ls_class) %>%
 
 ####
 
-annotations <- annotations %>%
+annotations <- annotations_nona %>%
   rename(compound = 1) %>%
   mutate(compound = tolower(compound))
 
@@ -101,6 +106,54 @@ composition_fobi_anno <- composition_fobi %>%
   mutate(ChEBI = ifelse(is.na(ChEBI), paste0("CHEBI:", `ChEBI ID`), ChEBI)) %>%
   na_if("CHEBI:NA")
 
+####
 
+metabolites_fobi_2 <- fobitools::parse_fobi(terms = "FOBI:01501", get = "des") %>%
+  select(name) %>%
+  mutate(compound = tolower(name))
 
+composition_fobi_anno <- composition_fobi_anno %>%
+  left_join(metabolites_fobi_2, by = "compound") %>%
+  filter(!duplicated(.)) %>%
+  dplyr::rename(original_name = name.y)
+
+#### relations to include (metabolites already present in FOBI)
+
+relations_fobi <- composition_fobi_anno %>%
+  filter(!is.na(original_name)) %>%
+  select(FOBI_NAME, publication_ids, pubmed_ids, `PubChem ID`, original_name) %>%
+  filter(!duplicated(.))
+
+# openxlsx::write.xlsx(relations_fobi, "data/relations_fobi.xlsx", overwrite = TRUE)
+
+#### relations to include (new FOBI metabolites)
+
+relations_fobi_new <- composition_fobi_anno %>%
+  filter(is.na(original_name)) %>%
+  filter(!is.na(InChIKey)) %>%
+  select(FOBI_NAME, compound, publication_ids, pubmed_ids, `PubChem ID`, ChEBI:ChemSpider) %>%
+  filter(!duplicated(.))
+
+# openxlsx::write.xlsx(relations_fobi_new, "data/relations_fobi_new.xlsx")
+
+# new metabolites to add
+relations_fobi_new %>%
+  pull(compound) %>%
+  unique() %>%
+  # length() %>%
+  cat(sep = "\n")
+
+#### classification new metabolites
+
+df_class2 <- df_class %>%
+  dplyr::rename(InChIKey = name) %>%
+  group_by(InChIKey) %>%
+  dplyr::slice(n()) %>%
+  filter(!duplicated(InChIKey))
+
+class_new_metabolites <- relations_fobi_new %>%
+  left_join(df_class2, by = "InChIKey") %>%
+  select(compound, Classification)
+
+# openxlsx::write.xlsx(class_new_metabolites, "data/class_new_metabolites.xlsx")
 
