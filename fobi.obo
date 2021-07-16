@@ -9308,151 +9308,181 @@ property_value: FOBI:043480 FOBI:040242 xsd:string
 id: FOBI:050202
 name: 3-prenylated chalcones
 is_a: FOBI:040108 ! Chalcones and dihydrochalcones
+property_value: FOBI:043480 FOBI:050202 xsd:string
 
 [Term]
 id: FOBI:050203
 name: 6-prenylated flavans
 is_a: FOBI:040061 ! Flavans
+property_value: FOBI:043480 FOBI:050203 xsd:string
 
 [Term]
 id: FOBI:050204
 name: 6-prenylated flavanones
 is_a: FOBI:050203 ! 6-prenylated flavans
+property_value: FOBI:043480 FOBI:050204 xsd:string
 
 [Term]
 id: FOBI:050205
 name: Styrenes
 is_a: FOBI:040013 ! Benzene and substituted derivatives
+property_value: FOBI:043480 FOBI:050205 xsd:string
 
 [Term]
 id: FOBI:050206
 name: Flavonoid-7-O-glycosides
 is_a: FOBI:040113 ! Flavonoid O-glycosides
+property_value: FOBI:043480 FOBI:050206 xsd:string
 
 [Term]
 id: FOBI:050207
 name: Cinnamyl alcohols
 is_a: FOBI:040000 ! Phenylpropanoids and polyketides
+property_value: FOBI:043480 FOBI:050207 xsd:string
 
 [Term]
 id: FOBI:050208
 name: Hydroxycoumarins
 is_a: FOBI:040017 ! Coumarins and derivatives
+property_value: FOBI:043480 FOBI:050208 xsd:string
 
 [Term]
 id: FOBI:050209
 name: 6,7-dihydroxycoumarins
 is_a: FOBI:050208 ! Hydroxycoumarins
+property_value: FOBI:043480 FOBI:050209 xsd:string
 
 [Term]
 id: FOBI:050210
 name: 7-hydroxycoumarins
 is_a: FOBI:050208 ! Hydroxycoumarins
+property_value: FOBI:043480 FOBI:050210 xsd:string
 
 [Term]
 id: FOBI:050211
 name: Indanes
 is_a: FOBI:040001 ! Benzenoids
+property_value: FOBI:043480 FOBI:050211 xsd:string
 
 [Term]
 id: FOBI:050212
 name: 8-O-methylated flavonoids
 is_a: FOBI:040054 ! O-methylated flavonoids
+property_value: FOBI:043480 FOBI:050212 xsd:string
 
 [Term]
 id: FOBI:050213
 name: 9,9p-dihydroxyaryltetralin lignans
 is_a: FOBI_050089 ! Aryltetralin lignans
+property_value: FOBI:043480 FOBI:050213 xsd:string
 
 [Term]
 id: FOBI:050214
 name: Benzopyrans
 is_a: FOBI:040005 ! Organoheterocyclic compounds
+property_value: FOBI:043480 FOBI:050214 xsd:string
 
 [Term]
 id: FOBI:050215
 name: 2-benzopyrans
 is_a: FOBI:050214 ! Benzopyrans
+property_value: FOBI:043480 FOBI:050215 xsd:string
 
 [Term]
 id: FOBI:050216
 name: Hydroxyflavonoids
 is_a: FOBI:040011 ! Flavonoids
+property_value: FOBI:043480 FOBI:050216 xsd:string
 
 [Term]
 id: FOBI:050217
 name: 7-hydroxyflavonoids
 is_a: FOBI:050216 ! Hydroxyflavonoids
+property_value: FOBI:043480 FOBI:050217 xsd:string
 
 [Term]
 id: FOBI:050218
 name: 7-O-methylated flavonoids
 is_a: FOBI:040054 ! O-methylated flavonoids
+property_value: FOBI:043480 FOBI:050218 xsd:string
 
 [Term]
 id: FOBI:050219
 name: 5-methoxypsoralens
 is_a: FOBI:040184 ! Psoralens
+property_value: FOBI:043480 FOBI:050219 xsd:string
 
 [Term]
 id: FOBI:050220
 name: Anisoles
 is_a: FOBI:040043 ! Phenol ethers
+property_value: FOBI:043480 FOBI:050220 xsd:string
 
 [Term]
 id: FOBI:050221
 name: Coumestans
 is_a: FOBI:040012 ! Isoflavonoids
+property_value: FOBI:043480 FOBI:050221 xsd:string
 
 [Term]
 id: FOBI:050222
 name: Benzodioxoles
 is_a: FOBI:040005 ! Organoheterocyclic compounds
+property_value: FOBI:043480 FOBI:050222 xsd:string
 
 [Term]
 id: FOBI:050223
 name: 6-O-methylated flavonoids
 is_a: FOBI:040054 ! O-methylated flavonoids
+property_value: FOBI:043480 FOBI:050223 xsd:string
 
 [Term]
 id: FOBI:050224
 name: Terpene lactones
 is_a: FOBI:040015 ! Prenol lipids
+property_value: FOBI:043480 FOBI:050224 xsd:string
 
 [Term]
 id: FOBI:050225
 name: Diterpene lactones
 is_a: FOBI:050224 ! Terpene lactones
+property_value: FOBI:043480 FOBI:050225 xsd:string
 
 [Term]
 id: FOBI:050226
 name: Flavanonols
 is_a: FOBI:040137 ! Flavanones
+property_value: FOBI:043480 FOBI:050226 xsd:string
 
 [Term]
 id: FOBI:050227
 name: Monoterpenoids
 is_a: FOBI:040015 ! Prenol lipids
+property_value: FOBI:043480 FOBI:050227 xsd:string
 
 [Term]
 id: FOBI:050228
 name: Aromatic monoterpenoids
 is_a: FOBI:050227 ! Monoterpenoids
+property_value: FOBI:043480 FOBI:050228 xsd:string
 
 [Term]
 id: FOBI:050229
 name: Lignan lactones
 is_a: FOBI:040006 ! Lignans, neolignans and related compounds
+property_value: FOBI:043480 FOBI:050229 xsd:string
 
 [Term]
 id: FOBI:050230
 name: 2'-Hydroxychalcones
 is_a: FOBI:040108 ! Chalcones and dihydrochalcones
+property_value: FOBI:043480 FOBI:050230 xsd:string
 
 [Term]
 id: FOBI:050231
 name: 8-methoxypsoralens
 is_a: FOBI:040184 ! Psoralens
+property_value: FOBI:043480 FOBI:050231 xsd:string
 
 [Term]
 id: FOBI:050232

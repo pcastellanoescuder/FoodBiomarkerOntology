@@ -77181,9 +77181,19 @@
         <Literal xml:lang="en">Avenanthramides</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050202</IRI>
+        <Literal>FOBI:050202</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050202</IRI>
         <Literal>3-prenylated chalcones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050203</IRI>
+        <Literal>FOBI:050203</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77191,9 +77201,19 @@
         <Literal>6-prenylated flavans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050204</IRI>
+        <Literal>FOBI:050204</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050204</IRI>
         <Literal>6-prenylated flavanones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050205</IRI>
+        <Literal>FOBI:050205</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77201,9 +77221,19 @@
         <Literal>Styrenes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050206</IRI>
+        <Literal>FOBI:050206</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050206</IRI>
         <Literal>Flavonoid-7-O-glycosides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050207</IRI>
+        <Literal>FOBI:050207</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77211,9 +77241,19 @@
         <Literal>Cinnamyl alcohols</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050208</IRI>
+        <Literal>FOBI:050208</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050208</IRI>
         <Literal>Hydroxycoumarins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050209</IRI>
+        <Literal>FOBI:050209</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77221,9 +77261,19 @@
         <Literal>6,7-dihydroxycoumarins</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050210</IRI>
+        <Literal>FOBI:050210</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050210</IRI>
         <Literal>7-hydroxycoumarins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050211</IRI>
+        <Literal>FOBI:050211</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77231,9 +77281,19 @@
         <Literal>Indanes</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050212</IRI>
+        <Literal>FOBI:050212</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050212</IRI>
         <Literal>8-O-methylated flavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050213</IRI>
+        <Literal>FOBI:050213</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77241,9 +77301,19 @@
         <Literal>9,9p-dihydroxyaryltetralin lignans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050214</IRI>
+        <Literal>FOBI:050214</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050214</IRI>
         <Literal>Benzopyrans</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050215</IRI>
+        <Literal>FOBI:050215</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77251,9 +77321,19 @@
         <Literal>2-benzopyrans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050216</IRI>
+        <Literal>FOBI:050216</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050216</IRI>
         <Literal>Hydroxyflavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050217</IRI>
+        <Literal>FOBI:050217</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77261,9 +77341,19 @@
         <Literal>7-hydroxyflavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050218</IRI>
+        <Literal>FOBI:050218</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050218</IRI>
         <Literal>7-O-methylated flavonoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050219</IRI>
+        <Literal>FOBI:050219</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77271,9 +77361,19 @@
         <Literal>5-methoxypsoralens</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050220</IRI>
+        <Literal>FOBI:050220</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050220</IRI>
         <Literal>Anisoles</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050221</IRI>
+        <Literal>FOBI:050221</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77281,9 +77381,19 @@
         <Literal>Coumestans</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050222</IRI>
+        <Literal>FOBI:050222</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050222</IRI>
         <Literal>Benzodioxoles</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050223</IRI>
+        <Literal>FOBI:050223</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77291,9 +77401,19 @@
         <Literal>6-O-methylated flavonoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050224</IRI>
+        <Literal>FOBI:050224</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050224</IRI>
         <Literal>Terpene lactones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050225</IRI>
+        <Literal>FOBI:050225</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77301,9 +77421,19 @@
         <Literal>Diterpene lactones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050226</IRI>
+        <Literal>FOBI:050226</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050226</IRI>
         <Literal>Flavanonols</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050227</IRI>
+        <Literal>FOBI:050227</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77311,9 +77441,19 @@
         <Literal>Monoterpenoids</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050228</IRI>
+        <Literal>FOBI:050228</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050228</IRI>
         <Literal>Aromatic monoterpenoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050229</IRI>
+        <Literal>FOBI:050229</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -77321,9 +77461,19 @@
         <Literal>Lignan lactones</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050230</IRI>
+        <Literal>FOBI:050230</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FOBI:050230</IRI>
         <Literal>2&apos;-Hydroxychalcones</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
+        <IRI>#FOBI:050231</IRI>
+        <Literal>FOBI:050231</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
