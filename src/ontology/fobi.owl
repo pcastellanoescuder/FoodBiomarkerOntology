@@ -47988,42 +47988,6 @@
     <FunctionalObjectProperty>
         <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
     </FunctionalObjectProperty>
-    <InverseFunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-    </InverseFunctionalObjectProperty>
-    <InverseFunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
-    </InverseFunctionalObjectProperty>
-    <InverseFunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00424"/>
-    </InverseFunctionalObjectProperty>
-    <InverseFunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
-    </InverseFunctionalObjectProperty>
-    <SymmetricObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-    </SymmetricObjectProperty>
-    <SymmetricObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
-    </SymmetricObjectProperty>
-    <SymmetricObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00424"/>
-    </SymmetricObjectProperty>
-    <SymmetricObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
-    </SymmetricObjectProperty>
-    <ReflexiveObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-    </ReflexiveObjectProperty>
-    <ReflexiveObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
-    </ReflexiveObjectProperty>
-    <ReflexiveObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00424"/>
-    </ReflexiveObjectProperty>
-    <ReflexiveObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
-    </ReflexiveObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
         <Class abbreviatedIRI="obo:FOBI_0001"/>

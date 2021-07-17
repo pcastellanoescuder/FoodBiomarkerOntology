@@ -16685,37 +16685,25 @@ property_value: FOBI:043480 FOBI:0169 xsd:string
 id: FOBI:00422
 name: BiomarkerOf
 range: FOBI:0001 ! Foods
-is_reflexive: true
-is_symmetric: true
 is_functional: true
-is_inverse_functional: true
 inverse_of: FOBI:00423 ! HasBiomarker
 
 [Typedef]
 id: FOBI:00423
 name: HasBiomarker
 domain: FOBI:0001 ! Foods
-is_reflexive: true
-is_symmetric: true
 is_functional: true
-is_inverse_functional: true
 
 [Typedef]
 id: FOBI:00424
 name: Contains
 domain: FOBI:0001 ! Foods
-is_reflexive: true
-is_symmetric: true
 is_functional: true
-is_inverse_functional: true
 inverse_of: FOBI:00425 ! IsIngredientOf
 
 [Typedef]
 id: FOBI:00425
 name: IsIngredientOf
 range: FOBI:0001 ! Foods
-is_reflexive: true
-is_symmetric: true
 is_functional: true
-is_inverse_functional: true
 
