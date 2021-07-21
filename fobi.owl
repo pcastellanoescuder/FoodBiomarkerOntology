@@ -5028,13 +5028,6 @@
         <Class abbreviatedIRI="obo:CHEBI_15864"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:CHEBI_15864"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002473"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
@@ -5887,13 +5880,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002297"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:CHEBI_16243"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -8957,13 +8943,6 @@
         <Class abbreviatedIRI="obo:CHEBI_18388"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:CHEBI_18388"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002473"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
@@ -10471,13 +10450,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002297"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:CHEBI_28499"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -13778,13 +13750,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002297"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:CHEBI_6052"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -25295,13 +25260,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002297"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="obo:FOBI_030518"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -38865,13 +38823,6 @@
         <Class IRI="#FOBI_050030"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#FOBI_050030"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002473"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
@@ -39911,13 +39862,6 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
             <Class abbreviatedIRI="obo:FOODON_00002297"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#FOBI_050034"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-            <Class abbreviatedIRI="obo:FOODON_00002340"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -47976,18 +47920,6 @@
         <ObjectProperty abbreviatedIRI="obo:FOBI_00424"/>
         <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
     </InverseObjectProperties>
-    <FunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00422"/>
-    </FunctionalObjectProperty>
-    <FunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
-    </FunctionalObjectProperty>
-    <FunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00424"/>
-    </FunctionalObjectProperty>
-    <FunctionalObjectProperty>
-        <ObjectProperty abbreviatedIRI="obo:FOBI_00425"/>
-    </FunctionalObjectProperty>
     <ObjectPropertyDomain>
         <ObjectProperty abbreviatedIRI="obo:FOBI_00423"/>
         <Class abbreviatedIRI="obo:FOBI_0001"/>

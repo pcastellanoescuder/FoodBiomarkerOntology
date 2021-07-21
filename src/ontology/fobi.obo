@@ -277,7 +277,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
 relationship: FOBI:00422 FOODON:00002933 ! BiomarkerOf hazelnut
@@ -501,7 +500,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002718 ! BiomarkerOf ginger root
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
@@ -1448,7 +1446,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
 relationship: FOBI:00422 FOODON:00002933 ! BiomarkerOf hazelnut
@@ -1987,7 +1984,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002718 ! BiomarkerOf ginger root
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
@@ -2985,7 +2981,6 @@ relationship: FOBI:00422 FOODON:00001261 ! BiomarkerOf vegetable food product
 relationship: FOBI:00422 FOODON:00001264 ! BiomarkerOf legume food product
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00003276 ! BiomarkerOf red velvet
 relationship: FOBI:00422 FOODON:00003277 ! BiomarkerOf red tea
@@ -6304,7 +6299,6 @@ relationship: FOBI:00422 FOODON:00001650 ! BiomarkerOf black pepper food product
 relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food product
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
 relationship: FOBI:00422 FOODON:00003012 ! BiomarkerOf yellow bell pepper (whole, raw)
@@ -13631,7 +13625,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002718 ! BiomarkerOf ginger root
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
@@ -13848,7 +13841,6 @@ relationship: FOBI:00422 FOODON:00001956 ! BiomarkerOf hot pepper vegetable food
 relationship: FOBI:00422 FOODON:00001998 ! BiomarkerOf lettuce vegetable food product
 relationship: FOBI:00422 FOODON:00002176 ! BiomarkerOf prune food product
 relationship: FOBI:00422 FOODON:00002297 ! BiomarkerOf sweet potato vegetable food product
-relationship: FOBI:00422 FOODON:00002340 ! BiomarkerOf water food product
 relationship: FOBI:00422 FOODON:00002473 ! BiomarkerOf apple (whole)
 relationship: FOBI:00422 FOODON:00002718 ! BiomarkerOf ginger root
 relationship: FOBI:00422 FOODON:00002753 ! BiomarkerOf bean (whole)
@@ -16685,25 +16677,21 @@ property_value: FOBI:043480 FOBI:0169 xsd:string
 id: FOBI:00422
 name: BiomarkerOf
 range: FOBI:0001 ! Foods
-is_functional: true
 inverse_of: FOBI:00423 ! HasBiomarker
 
 [Typedef]
 id: FOBI:00423
 name: HasBiomarker
 domain: FOBI:0001 ! Foods
-is_functional: true
 
 [Typedef]
 id: FOBI:00424
 name: Contains
 domain: FOBI:0001 ! Foods
-is_functional: true
 inverse_of: FOBI:00425 ! IsIngredientOf
 
 [Typedef]
 id: FOBI:00425
 name: IsIngredientOf
 range: FOBI:0001 ! Foods
-is_functional: true
 
