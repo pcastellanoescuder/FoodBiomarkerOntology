@@ -74982,6 +74982,11 @@
         <Literal>FOODON:03530027</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>obo:IAO_0000118</AbbreviatedIRI>
+        <Literal xml:lang="en">alternative term</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:FOBI_043480"/>
         <AbbreviatedIRI>obo:NCBITaxon_99568</AbbreviatedIRI>
         <Literal>FOBI:008139</Literal>
